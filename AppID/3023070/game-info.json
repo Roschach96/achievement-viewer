@@ -7,283 +7,330 @@
       "name": "I'm gonna show you something X-traordinary!",
       "description": "Obtained all achievements.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5b73cce9f5339319590ad5c5ad767e552bc29e1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/987121d5f7447aeb578334a9321dc4da9859a1fc.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/987121d5f7447aeb578334a9321dc4da9859a1fc.jpg",
+      "percent": "1.5"
     },
     "ACHIEVEMENT_01": {
       "name": "Champion of The X!",
       "description": "Conquered The X Championship.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/14dc5e0b35ef19d41ddeae251c5fbb0f189b2142.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/243127d80e518a1c9709803195130275d58e2714.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/243127d80e518a1c9709803195130275d58e2714.jpg",
+      "percent": "23.3"
     },
     "ACHIEVEMENT_02": {
       "name": "Cleared the 90th floor of The X!",
       "description": "Broke through floor 90 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9522b90d8480e77709aaa4900dbab8b8baf42031.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/e1c8f22b928289ffc92d58552d510035b718e179.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/e1c8f22b928289ffc92d58552d510035b718e179.jpg",
+      "percent": "24.5"
     },
     "ACHIEVEMENT_03": {
       "name": "Cleared the 80th floor of The X!",
       "description": "Broke through floor 80 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/86d62b09136fe00a472e953f5ac635b838c46b91.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5373b7663803f62f271409112e87fce133e26bd2.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5373b7663803f62f271409112e87fce133e26bd2.jpg",
+      "percent": "26.3"
     },
     "ACHIEVEMENT_04": {
       "name": "Cleared the 70th floor of The X!",
       "description": "Broke through floor 70 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/8fa1d077fe4702902fe3d350147169f993aea601.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bb6f4bed2080cf84144451799b410378f61b0245.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bb6f4bed2080cf84144451799b410378f61b0245.jpg",
+      "percent": "28.3"
     },
     "ACHIEVEMENT_05": {
       "name": "Cleared the 60th floor of The X!",
       "description": "Broke through floor 60 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a48bfe6c501200557d76efb279e80b19b823d36b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f6faae08cc07160546bda211b01f006ed937d49.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f6faae08cc07160546bda211b01f006ed937d49.jpg",
+      "percent": "30.1"
     },
     "ACHIEVEMENT_06": {
       "name": "Cleared the 50th floor of The X!",
       "description": "Broke through floor 50 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/686cb078452142af4bb868d0ec4c6e83eddf3c1c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
+      "percent": "34.1"
     },
     "ACHIEVEMENT_07": {
       "name": "Cleared the 40th floor of The X!",
       "description": "Broke through floor 40 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5d6b71dcae35b087de20f54ac7f24509faec83e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
+      "percent": "38.7"
     },
     "ACHIEVEMENT_08": {
       "name": "Cleared the 30th floor of The X!",
       "description": "Broke through floor 30 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/44b28cdd00557a9421057fd9d3293b56bc59a952.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg",
+      "percent": "48.6"
     },
     "ACHIEVEMENT_09": {
       "name": "Cleared the 20th floor of The X!",
       "description": "Broke through floor 20 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bdb229f12db0c60c27b52f39a1a790da6a8e585a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
+      "percent": "56.3"
     },
     "ACHIEVEMENT_10": {
       "name": "Cleared the 10th floor of The X!",
       "description": "Broke through floor 10 of The X.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/969aca6b54c1faea440b03e73a78a9c3abe7f7cd.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/57a7f767de0fb00c2e21dedbd57ee4bce40416d9.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/57a7f767de0fb00c2e21dedbd57ee4bce40416d9.jpg",
+      "percent": "72.6"
     },
     "ACHIEVEMENT_11": {
       "name": "Amateur Blader",
       "description": "Surpassed Blader Level 10.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/583365b06d43a5bdcf4706d2bcd5c973bb15e489.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
+      "percent": "75.8"
     },
     "ACHIEVEMENT_12": {
       "name": "Rumored Blader",
       "description": "Surpassed Blader Level 50.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c56d0d9d6afa68a5af7561e1180ab9f547c3e680.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg",
+      "percent": "25.3"
     },
     "ACHIEVEMENT_13": {
       "name": "Pro Blader",
       "description": "Surpassed Blader Level 100.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/85dfc887e920e81f13732d93ed3314fb26c58ecf.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/1e379c21d5b707d8e7335c3c1b4b7094d5a1abda.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/1e379c21d5b707d8e7335c3c1b4b7094d5a1abda.jpg",
+      "percent": "2.2"
     },
     "ACHIEVEMENT_14": {
       "name": "Bey Crafter",
       "description": "Total Bey part + values exceeded 300.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c7836d05d44e855fe63de5d279e5140890b08b9f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9e9d2e83ed6050b5c8d87f5640005ab102d1a487.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9e9d2e83ed6050b5c8d87f5640005ab102d1a487.jpg",
+      "percent": "18.4"
     },
     "ACHIEVEMENT_15": {
       "name": "Bey Collector",
       "description": "Acquired a total of 300 Bey parts.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9c1b758c98caddf156aae33b1e5bbdd59b023d5a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/77c3072e2a99e988e50c5fed9b6454345473db7a.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/77c3072e2a99e988e50c5fed9b6454345473db7a.jpg",
+      "percent": "21.7"
     },
     "ACHIEVEMENT_16": {
       "name": "Scan Master",
       "description": "Scanned Secret Parts 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d86e0710f0137c97cc95e1560028b1a69fe523ef.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/0dde79f8804839c50573662cee0a26b735e1dda9.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/0dde79f8804839c50573662cee0a26b735e1dda9.jpg",
+      "percent": "1.9"
     },
     "ACHIEVEMENT_17": {
       "name": "Attack Master",
       "description": "Performed 100 attacks in Auto Chase.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/46c76c6aca93f9b899b70ad1880d346fe3f6d311.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg",
+      "percent": "60.6"
     },
     "ACHIEVEMENT_18": {
       "name": "Counter Master",
       "description": "Performed 100 counters in Auto Chase.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f50080e1b1335d6b0d82850902ce8ee4a7862d9e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ac1a566761a8599dcbeb18a5ce159b74c17c6671.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ac1a566761a8599dcbeb18a5ce159b74c17c6671.jpg",
+      "percent": "57.7"
     },
     "ACHIEVEMENT_19": {
       "name": "Xtreme Dash Master",
       "description": "Performed 100 Xtreme Dashes in Auto Chase.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/8e8613dc1381768ca84df2939fca7919f8a607a1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg",
+      "percent": "59.9"
     },
     "ACHIEVEMENT_20": {
       "name": "XONE",
       "description": "Entered the Xone state 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/718e4b225100d21f49310a7c4275b4d41f819b27.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/614baf38d4f40d2906d0b1049d75352dd0f22022.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/614baf38d4f40d2906d0b1049d75352dd0f22022.jpg",
+      "percent": "43.9"
     },
     "ACHIEVEMENT_21": {
       "name": "Attack-type Master",
       "description": "Used an Attack-Type Bey 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4b3990bb81f6f5c8559a4d32614aa32fa1599494.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a6defebd107f3d75b8349e9f4e1bc20bdf6f3635.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a6defebd107f3d75b8349e9f4e1bc20bdf6f3635.jpg",
+      "percent": "31.3"
     },
     "ACHIEVEMENT_22": {
       "name": "Stamina-type Master",
       "description": "Used a Stamina-Type Bey 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d7117b9ff5fe881df2ba5ffdf657ff39fb80fa09.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2426a746c8cb71eb5cf13da6fa517791a365b25d.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2426a746c8cb71eb5cf13da6fa517791a365b25d.jpg",
+      "percent": "7.3"
     },
     "ACHIEVEMENT_23": {
       "name": "Defense-type Master",
       "description": "Used a Defense-Type Bey 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/eeeb9a845ded9d54b621eaff25e00fbc3b737d1f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5f3fc982889ac573faeb1790e0b1359b04d7a57a.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5f3fc982889ac573faeb1790e0b1359b04d7a57a.jpg",
+      "percent": "7.7"
     },
     "ACHIEVEMENT_24": {
       "name": "Balance-type Master",
       "description": "Used a Balance-Type Bey 100 times.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a09d2f92de4ba6cb281afba2a1d85a4d092bdb9a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6ee3f8739a50a364b321272e89a2ca7e5fa3f1aa.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6ee3f8739a50a364b321272e89a2ca7e5fa3f1aa.jpg",
+      "percent": "14.4"
     },
     "ACHIEVEMENT_25": {
       "name": "Xtreme",
       "description": "Performed 100 Xtreme Finishes.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d62d46287cfe90f0d1377dd440a09d23098d792d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d771ea367cd462092a1d95add9226483fa286db6.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d771ea367cd462092a1d95add9226483fa286db6.jpg",
+      "percent": "25.6"
     },
     "ACHIEVEMENT_26": {
       "name": "Bonding with Masato",
       "description": "Maxed out the bond level with Masato Akechi.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d3019495b9100660af5cc42d8cccf26f97d97fce.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fba591ac8602488cd62f86967d43cf9e3fc96fda.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fba591ac8602488cd62f86967d43cf9e3fc96fda.jpg",
+      "percent": "2.3"
     },
     "ACHIEVEMENT_27": {
       "name": "Bonding with Natsu",
       "description": "Maxed out the bond level with Natsu Shiranui.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/83dbef170ea545d7f75f70af2d726f7c312f48c4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b0f6f6c252641839134cb3123b0ab8eed405b9fa.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b0f6f6c252641839134cb3123b0ab8eed405b9fa.jpg",
+      "percent": "2.0"
     },
     "ACHIEVEMENT_28": {
       "name": "Bonding with Aoi",
       "description": "Maxed out the bond level with Aoi Harukaze.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a66db7905790e25fe612aa385612739e918642f5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/34d310f5afeb71de05ad58aadd24287616462789.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/34d310f5afeb71de05ad58aadd24287616462789.jpg",
+      "percent": "4.7"
     },
     "ACHIEVEMENT_29": {
       "name": "Proof of Bonding",
       "description": "Defeated Hayate Kurohane in Full Power Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4e014714bc737958bda2b0ed9fd3868b20d0d077.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0521b047c54e0045e2fb20b06bae2a0cdddd255.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0521b047c54e0045e2fb20b06bae2a0cdddd255.jpg",
+      "percent": "11.8"
     },
     "ACHIEVEMENT_30": {
       "name": "Xtreme Dash Shadow Blade Walking",
       "description": "Saw the X Skill \"Xtreme Dash Shadow Blade Walking\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7ec29d1c912be5aceecc3cb26acacf5be7e53ffe.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
+      "percent": "85.4"
     },
     "ACHIEVEMENT_31": {
       "name": "Xtreme Dash Double",
       "description": "Saw the X Skill \"Xtreme Dash Double\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/90a54071c19d3c38ae449c7cc911d778d7835140.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/da49ad05ebd6c7eb574362a44bd49db6241dd997.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/da49ad05ebd6c7eb574362a44bd49db6241dd997.jpg",
+      "percent": "7.1"
     },
     "ACHIEVEMENT_32": {
       "name": "Xtreme Dash Infinite",
       "description": "Saw the X Skill \"Xtreme Dash Infinite\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/495dd0b4a844ef27611cd0cc87f1d9c17ea59b3c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3bc615c0193d0ae6fc4c3d217b52f90518365edc.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3bc615c0193d0ae6fc4c3d217b52f90518365edc.jpg",
+      "percent": "4.0"
     },
     "ACHIEVEMENT_33": {
       "name": "Xtreme Dash Buster",
       "description": "Saw the X Skill \"Xtreme Dash Buster\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/946a459f7aeb04ed0fd3a5f4bc41c657bace56b0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/826cf1638a837153ff908bcf7e71180a9c171de4.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/826cf1638a837153ff908bcf7e71180a9c171de4.jpg",
+      "percent": "3.8"
     },
     "ACHIEVEMENT_34": {
       "name": "Chain Blast",
       "description": "Saw the X Skill \"Chain Blast\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bd56862d4f2c23556e50a99ae6068858f79a36c2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9a1b8619a2969780cae684cca5acc4ae422d6c35.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9a1b8619a2969780cae684cca5acc4ae422d6c35.jpg",
+      "percent": "3.2"
     },
     "ACHIEVEMENT_35": {
       "name": "Xtreme Dash Hammer Crush",
       "description": "Saw the X Skill \"Xtreme Dash Hammer Crush\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d04f4d2d27526154a5ab24ca4a46b19bc78c12d7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d2c271d6dc883ea0a9641b4fd5b8de7375647c9f.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d2c271d6dc883ea0a9641b4fd5b8de7375647c9f.jpg",
+      "percent": "2.4"
     },
     "ACHIEVEMENT_36": {
       "name": "Mirage Parry",
       "description": "Saw the X Skill \"Mirage Parry\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b1be095ba20edf207bf26144e1a508a76fd0e7b1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3b39a344528a63880efb74b824e72f0125a4671f.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3b39a344528a63880efb74b824e72f0125a4671f.jpg",
+      "percent": "8.7"
     },
     "ACHIEVEMENT_37": {
       "name": "Raining Lance",
       "description": "Saw the X Skill \"Raining Lance\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0ee526cc3efb4b77a7f965ff69065de9bd9a7b7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg",
+      "percent": "8.3"
     },
     "ACHIEVEMENT_38": {
       "name": "Xtreme Dash Mirror Reflection",
       "description": "Saw the X Skill \"Xtreme Dash Mirror Reflection\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f004857a719e3f5c8308024668c98a171fe6ef90.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/992736483b73446ed5afd7cd0815c8720480989b.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/992736483b73446ed5afd7cd0815c8720480989b.jpg",
+      "percent": "3.3"
     },
     "ACHIEVEMENT_39": {
       "name": "Xtreme Dash King of the Beasts",
       "description": "Saw the X Skill \"Xtreme Dash King of the Beasts\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5d7e7e895fd3aaad9acfe07c106e5121c687183c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2108f1dac3280a7d40a4d01e69c499ef03575f9a.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2108f1dac3280a7d40a4d01e69c499ef03575f9a.jpg",
+      "percent": "8.6"
     },
     "ACHIEVEMENT_40": {
       "name": "Xtreme Dash Burning Maneuver",
       "description": "Saw the X Skill \"Xtreme Dash Burning Maneuver\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b543bcd2814dc1c391c85511e506847946e89134.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/295a1b95fa601e5e226104714d90463088f3f770.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/295a1b95fa601e5e226104714d90463088f3f770.jpg",
+      "percent": "6.5"
     },
     "ACHIEVEMENT_41": {
       "name": "The Shadow that Cannot Be Touched",
       "description": "Saw the X Skill \"The Shadow that Cannot Be Touched\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a51d9fc65bce88da4e33189f25ea93f98027b00e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg",
+      "percent": "8.5"
     },
     "ACHIEVEMENT_42": {
       "name": "Xtreme Dash Dragonic Break",
       "description": "Saw the X Skill \"Xtreme Dash Dragonic Break\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7a17c83dd47b770535ef6e1413208c660fb8497d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg",
+      "percent": "6.8"
     },
     "ACHIEVEMENT_43": {
       "name": "Xtreme Dash Dragonic Break Infinite",
       "description": "Saw the X Skill \"Xtreme Dash Dragonic Break Infinite\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7a17c83dd47b770535ef6e1413208c660fb8497d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg",
+      "percent": "5.5"
     },
     "ACHIEVEMENT_44": {
       "name": "Xtreme Dash Strike Hunt",
       "description": "Saw the X Skill \"Xtreme Dash Strike Hunt\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/939d8c4c9ede7a184b7ec9677f526dee98a32502.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fd0dada3f92ead9e695700f59d22cd50be96655c.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fd0dada3f92ead9e695700f59d22cd50be96655c.jpg",
+      "percent": "7.3"
     },
     "ACHIEVEMENT_45": {
       "name": "Xtreme Dash Crescent Judgment",
       "description": "Saw the X Skill \"Xtreme Dash Crescent Judgment\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/27bb2ef2d539eeebce8f470fed235d1f300679f0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/cda67bc79e65dc9ce6d83226ea014072b32457f8.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/cda67bc79e65dc9ce6d83226ea014072b32457f8.jpg",
+      "percent": "5.4"
     },
     "ACHIEVEMENT_46": {
       "name": "Blue Fang",
       "description": "Saw the X Skill \"Blue Fang\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/64a039d8a2834fe60aa09e76b69423f9e403f6d2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ab43563948ec2a3876c9a834f815ead874231f6e.jpg"
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ab43563948ec2a3876c9a834f815ead874231f6e.jpg",
+      "percent": "28.5"
     }
   }
 }
