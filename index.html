@@ -186,7 +186,7 @@
 
         .progress-fill.low-percentage {
             justify-content: flex-start;
-            padding-left: 5px;
+            padding-left: 20px;
         }
 
         .stats {
@@ -346,22 +346,63 @@
         }
 
         .achievement-icon.rare-glow {
-            box-shadow: 0 0 10px 2px rgba(255, 215, 0, 0.6),
-                        0 0 20px 4px rgba(255, 215, 0, 0.4),
-                        0 0 30px 6px rgba(255, 215, 0, 0.2);
+            position: relative;
+            filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.8));
             animation: golden-pulse 2s ease-in-out infinite;
+        }
+
+        .achievement-icon.rare-glow::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 100%;
+            height: 100%;
+            transform: translate(-50%, -50%);
+            background: 
+                conic-gradient(
+                    from 0deg,
+                    transparent 0deg,
+                    rgba(255, 215, 0, 0.4) 10deg,
+                    transparent 20deg,
+                    transparent 40deg,
+                    rgba(255, 215, 0, 0.4) 50deg,
+                    transparent 60deg,
+                    transparent 80deg,
+                    rgba(255, 215, 0, 0.4) 90deg,
+                    transparent 100deg,
+                    transparent 120deg,
+                    rgba(255, 215, 0, 0.4) 130deg,
+                    transparent 140deg,
+                    transparent 160deg,
+                    rgba(255, 215, 0, 0.4) 170deg,
+                    transparent 180deg,
+                    transparent 200deg,
+                    rgba(255, 215, 0, 0.4) 210deg,
+                    transparent 220deg,
+                    transparent 240deg,
+                    rgba(255, 215, 0, 0.4) 250deg,
+                    transparent 260deg,
+                    transparent 280deg,
+                    rgba(255, 215, 0, 0.4) 290deg,
+                    transparent 300deg,
+                    transparent 320deg,
+                    rgba(255, 215, 0, 0.4) 330deg,
+                    transparent 340deg,
+                    transparent 360deg
+                );
+            filter: blur(8px);
+            opacity: 0.6;
+            z-index: -1;
+            pointer-events: none;
         }
 
         @keyframes golden-pulse {
             0%, 100% {
-                box-shadow: 0 0 10px 2px rgba(255, 215, 0, 0.6),
-                            0 0 20px 4px rgba(255, 215, 0, 0.4),
-                            0 0 30px 6px rgba(255, 215, 0, 0.2);
+                filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.8)) drop-shadow(0 0 16px rgba(255, 215, 0, 0.4));
             }
             50% {
-                box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
-                            0 0 25px 5px rgba(255, 215, 0, 0.6),
-                            0 0 35px 7px rgba(255, 215, 0, 0.3);
+                filter: drop-shadow(0 0 12px rgba(255, 215, 0, 1)) drop-shadow(0 0 24px rgba(255, 215, 0, 0.6));
             }
         }
 
