@@ -330,6 +330,27 @@
             margin-right: 15px;
             background: #3d5a6c;
             flex-shrink: 0;
+            position: relative;
+        }
+
+        .achievement-icon.rare-glow {
+            box-shadow: 0 0 10px 2px rgba(255, 215, 0, 0.6),
+                        0 0 20px 4px rgba(255, 215, 0, 0.4),
+                        0 0 30px 6px rgba(255, 215, 0, 0.2);
+            animation: golden-pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes golden-pulse {
+            0%, 100% {
+                box-shadow: 0 0 10px 2px rgba(255, 215, 0, 0.6),
+                            0 0 20px 4px rgba(255, 215, 0, 0.4),
+                            0 0 30px 6px rgba(255, 215, 0, 0.2);
+            }
+            50% {
+                box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
+                            0 0 25px 5px rgba(255, 215, 0, 0.6),
+                            0 0 35px 7px rgba(255, 215, 0, 0.3);
+            }
         }
 
         .achievement-info {
@@ -353,6 +374,16 @@
             font-size: 0.85em;
             color: #66c0f4;
             margin-top: 5px;
+        }
+
+        .achievement-rarity {
+            font-size: 0.85em;
+            margin-top: 5px;
+            font-weight: bold;
+        }
+
+        .rarity-rare {
+            color: #ffd700;
         }
 
         .summary {
@@ -562,7 +593,8 @@
                     icon: achInfo.icon || ach.icon || '',
                     icongray: achInfo.icongray || ach.icongray || ach.icon_gray || achInfo.icon || ach.icon || '',
                     unlocked: ach.earned || ach.unlocked || ach.achieved || false,
-                    unlocktime: ach.earned_time || ach.unlock_time || ach.unlocktime || 0
+                    unlocktime: ach.earned_time || ach.unlock_time || ach.unlocktime || 0,
+                    rarity: achInfo.percent || ach.percent || null
                 });
             }
 
@@ -718,20 +750,27 @@
                 <div class="achievements-list">
                     ${game.achievements
                         .sort((a, b) => b.unlocked - a.unlocked)
-                        .map(ach => `
+                        .map(ach => {
+                            const rarityNum = ach.rarity !== null ? parseFloat(ach.rarity) : null;
+                            const isRare = rarityNum !== null && !isNaN(rarityNum) && rarityNum < 10;
+                            return `
                         <div class="achievement ${ach.unlocked ? 'unlocked' : 'locked'}">
                             ${ach.icon || ach.icongray ? 
-                                `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon" onerror="this.style.display='none'">` : 
-                                '<div class="achievement-icon"></div>'}
+                                `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+                                `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
                             <div class="achievement-info">
                                 <div class="achievement-name">${ach.name}</div>
                                 <div class="achievement-desc">${ach.description}</div>
                                 ${ach.unlocked && ach.unlocktime ? 
                                     `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
                                     ''}
+                                ${isRare ? 
+                                    `<div class="achievement-rarity rarity-rare">${rarityNum.toFixed(1)}% of players have this</div>` : 
+                                    ''}
                             </div>
                         </div>
-                    `).join('')}
+                    `;
+                        }).join('')}
                 </div>
             `;
             
