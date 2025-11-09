@@ -5,302 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GBE Achievements Viewer</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #1b2838 0%, #2a475e 100%);
-            color: #c7d5e0;
-            min-height: 100vh;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-
-        h1 {
-            color: #66c0f4;
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 60px 20px;
-            color: #66c0f4;
-            font-size: 1.3em;
-        }
-
-        .loading-spinner {
-            display: inline-block;
-            width: 50px;
-            height: 50px;
-            border: 5px solid rgba(102, 192, 244, 0.3);
-            border-top-color: #66c0f4;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-bottom: 20px;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-
-        .error {
-            background: rgba(220, 53, 69, 0.2);
-            border: 1px solid #dc3545;
-            color: #ff6b7a;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px auto;
-            max-width: 800px;
-            text-align: center;
-        }
-
-        .info {
-            background: rgba(102, 192, 244, 0.1);
-            border: 1px solid #66c0f4;
-            color: #c7d5e0;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px auto 40px;
-            max-width: 800px;
-        }
-
-        .info h3 {
-            color: #66c0f4;
-            margin-bottom: 15px;
-        }
-
-        .info code {
-            background: rgba(0, 0, 0, 0.3);
-            padding: 2px 6px;
-            border-radius: 3px;
-            color: #66c0f4;
-        }
-
-        .games-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
-
-        .game-card {
-            background: rgba(0, 0, 0, 0.4);
-            border: 1px solid #3d5a6c;
-            border-radius: 8px;
-            padding: 25px;
-            transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
-        }
-
-        .game-card:hover {
-            transform: translateY(-5px);
-            border-color: #66c0f4;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-        }
-
-        .game-header {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .game-icon {
-            width: 64px;
-            height: 64px;
-            border-radius: 6px;
-            margin-right: 15px;
-            background: #3d5a6c;
-        }
-
-        .game-info {
-            flex: 1;
-        }
-
-        .game-title {
-            color: #fff;
-            font-size: 1.3em;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-
-        .game-appid {
-            color: #8f98a0;
-            font-size: 0.9em;
-        }
-
-        .progress-bar {
-            width: 100%;
-            height: 24px;
-            background: rgba(0, 0, 0, 0.5);
-            border-radius: 12px;
-            overflow: hidden;
-            margin: 20px 0;
-            position: relative;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #66c0f4, #56a0d4);
-            transition: width 0.5s ease;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 13px;
-            font-weight: bold;
-            color: #fff;
-            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-        }
-
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            margin: 20px 0;
-            padding: 15px 0;
-            border-top: 1px solid #3d5a6c;
-            border-bottom: 1px solid #3d5a6c;
-        }
-
-        .stat-item {
-            text-align: center;
-        }
-
-        .stat-value {
-            font-size: 1.8em;
-            font-weight: bold;
-            color: #66c0f4;
-        }
-
-        .stat-label {
-            font-size: 0.85em;
-            color: #8f98a0;
-            margin-top: 5px;
-        }
-
-        .toggle-achievements {
-            width: 100%;
-            background: rgba(102, 192, 244, 0.1);
-            color: #66c0f4;
-            border: 1px solid #66c0f4;
-            padding: 12px;
-            border-radius: 6px;
-            font-size: 14px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .toggle-achievements:hover {
-            background: rgba(102, 192, 244, 0.2);
-        }
-
-        .achievements-list {
-            margin-top: 15px;
-            max-height: 500px;
-            overflow-y: auto;
-            transition: max-height 0.3s ease;
-        }
-
-        .achievements-list.collapsed {
-            max-height: 0;
-            overflow: hidden;
-        }
-
-        .achievements-list::-webkit-scrollbar {
-            width: 8px;
-        }
-
-        .achievements-list::-webkit-scrollbar-track {
-            background: rgba(0, 0, 0, 0.3);
-            border-radius: 4px;
-        }
-
-        .achievements-list::-webkit-scrollbar-thumb {
-            background: #66c0f4;
-            border-radius: 4px;
-        }
-
-        .achievement {
-            display: flex;
-            align-items: center;
-            padding: 12px;
-            margin-bottom: 10px;
-            background: rgba(0, 0, 0, 0.3);
-            border-radius: 6px;
-            border-left: 4px solid transparent;
-            transition: all 0.2s;
-        }
-
-        .achievement:hover {
-            background: rgba(0, 0, 0, 0.5);
-        }
-
-        .achievement.unlocked {
-            border-left-color: #66c0f4;
-        }
-
-        .achievement.locked {
-            opacity: 0.5;
-        }
-
-        .achievement-icon {
-            width: 48px;
-            height: 48px;
-            border-radius: 6px;
-            margin-right: 15px;
-            background: #3d5a6c;
-            flex-shrink: 0;
-        }
-
-        .achievement-info {
-            flex: 1;
-        }
-
-        .achievement-name {
-            font-weight: bold;
-            color: #fff;
-            margin-bottom: 5px;
-            font-size: 1.05em;
-        }
-
-        .achievement-desc {
-            font-size: 0.9em;
-            color: #8f98a0;
-            line-height: 1.4;
-        }
-
-        .achievement-unlock-time {
-            font-size: 0.85em;
-            color: #66c0f4;
-            margin-top: 5px;
-        }
-
-        .summary {
-            background: rgba(0, 0, 0, 0.3);
-            padding: 25px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            text-align: center;
-        }
-
-        .summary-stats {
-            display: flex;
-            justify-content: center;
-            gap: 50px;
-            margin-top: 20px;
-        }
+        /* ... keep all your existing CSS ... */
     </style>
 </head>
 <body>
@@ -325,11 +30,10 @@
     </div>
 
     <script>
-        const appIdsToLoad = []; // Will be populated by scanning
+        const appIdsToLoad = [];
         const gamesData = new Map();
 
         async function init() {
-            // Try to load AppID list from a manifest file first
             try {
                 const manifestResponse = await fetch('AppID/manifest.json');
                 if (manifestResponse.ok) {
@@ -344,21 +48,10 @@
                 console.log('No manifest.json found, will need manual configuration');
             }
 
-            // If no manifest found, show info
             if (appIdsToLoad.length === 0) {
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('info').style.display = 'block';
-                document.getElementById('results').innerHTML = `
-                    <div class="error">
-                        <h3>⚠️ No AppIDs configured</h3>
-                        <p style="margin-top: 15px;">Create a file at <code>AppID/manifest.json</code> with your game AppIDs:</p>
-                        <pre style="text-align: left; background: rgba(0,0,0,0.3); padding: 15px; border-radius: 4px; margin-top: 15px; overflow-x: auto;">
-{
-  "appids": [730, 570, 440, 8930]
-}</pre>
-                        <p style="margin-top: 15px;">Then create achievement files at: <code>AppID/730/achievements.json</code>, etc.</p>
-                    </div>
-                `;
+                document.getElementById('results').innerHTML = `<div class="error">No AppIDs configured</div>`;
                 return;
             }
 
@@ -366,30 +59,17 @@
         }
 
         async function loadAllGames() {
-            document.getElementById('loading').style.display = 'block';
-            
-            let loadedCount = 0;
             const loadingDiv = document.getElementById('loading');
+            let loadedCount = 0;
 
             for (let appId of appIdsToLoad) {
                 try {
-                    loadingDiv.innerHTML = `
-                        <div class="loading-spinner"></div>
-                        <div>Loading game ${++loadedCount} of ${appIdsToLoad.length}...</div>
-                    `;
-
-                    // Load achievements.json
+                    loadingDiv.innerHTML = `<div class="loading-spinner"></div><div>Loading game ${++loadedCount} of ${appIdsToLoad.length}...</div>`;
                     const achievementsPath = `AppID/${appId}/achievements.json`;
                     const response = await fetch(achievementsPath);
-                    
-                    if (!response.ok) {
-                        console.warn(`No achievements found for AppID ${appId}`);
-                        continue;
-                    }
-
+                    if (!response.ok) continue;
                     const data = await response.json();
                     await processGameData(appId, data);
-
                 } catch (error) {
                     console.error(`Error loading AppID ${appId}:`, error);
                 }
@@ -400,28 +80,8 @@
         }
 
         async function processGameData(appId, achievementsData) {
-            // Fetch game info from Steam API
-            let gameName = `Game ${appId}`;
-            let gameIcon = '';
-
-            try {
-                const storeResponse = await fetch(`https://store.steampowered.com/api/appdetails?appids=${appId}`);
-                const storeData = await storeResponse.json();
-                
-                if (storeData[appId] && storeData[appId].success) {
-                    gameName = storeData[appId].data.name;
-                    gameIcon = storeData[appId].data.header_image;
-                }
-            } catch (error) {
-                console.log(`Could not fetch store data for ${appId}`);
-            }
-
-            // Process achievements
             const achievements = [];
-            
-            // Handle different JSON formats
             let achData = achievementsData.achievements || achievementsData;
-            
             for (let key in achData) {
                 const ach = achData[key];
                 achievements.push({
@@ -437,8 +97,7 @@
 
             gamesData.set(appId, {
                 appId,
-                name: gameName,
-                icon: gameIcon,
+                name: `Game ${appId}`,
                 achievements
             });
         }
@@ -446,13 +105,11 @@
         function displayGames() {
             const resultsDiv = document.getElementById('results');
             const summaryDiv = document.getElementById('summary');
-
             if (gamesData.size === 0) {
                 resultsDiv.innerHTML = '<div class="error">No games with achievements found.</div>';
                 return;
             }
 
-            // Calculate totals
             let totalGames = gamesData.size;
             let totalAchievements = 0;
             let totalUnlocked = 0;
@@ -464,40 +121,14 @@
 
             const overallPercentage = totalAchievements > 0 ? Math.round((totalUnlocked / totalAchievements) * 100) : 0;
 
-            // Display summary
             summaryDiv.style.display = 'block';
-            summaryDiv.innerHTML = `
-                <div class="summary">
-                    <h2 style="color: #66c0f4; margin-bottom: 20px;">Achievement Summary</h2>
-                    <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
-                        <div class="progress-fill" style="width: ${overallPercentage}%">${overallPercentage}%</div>
-                    </div>
-                    <div class="summary-stats">
-                        <div class="stat-item">
-                            <div class="stat-value">${totalGames}</div>
-                            <div class="stat-label">Games</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value">${totalUnlocked}/${totalAchievements}</div>
-                            <div class="stat-label">Achievements Unlocked</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value">${overallPercentage}%</div>
-                            <div class="stat-label">Completion</div>
-                        </div>
-                    </div>
-                </div>
-            `;
+            summaryDiv.innerHTML = `<div class="summary">...</div>`; // Keep your summary HTML
 
-            // Display games
             let html = '<div class="games-grid">';
 
-            // Sort games by completion percentage (highest first)
             const sortedGames = Array.from(gamesData.values()).sort((a, b) => {
-                const aPercent = a.achievements.length > 0 ? 
-                    a.achievements.filter(x => x.unlocked).length / a.achievements.length : 0;
-                const bPercent = b.achievements.length > 0 ? 
-                    b.achievements.filter(x => x.unlocked).length / b.achievements.length : 0;
+                const aPercent = a.achievements.length > 0 ? a.achievements.filter(x => x.unlocked).length / a.achievements.length : 0;
+                const bPercent = b.achievements.length > 0 ? b.achievements.filter(x => x.unlocked).length / b.achievements.length : 0;
                 return bPercent - aPercent;
             });
 
@@ -505,81 +136,14 @@
                 const unlocked = game.achievements.filter(a => a.unlocked).length;
                 const total = game.achievements.length;
                 const percentage = total > 0 ? Math.round((unlocked / total) * 100) : 0;
-
                 const cardId = `game-${game.appId}`;
 
                 html += `
-                    <div class="game-card">
-                        <div class="game-header">
-                            ${game.icon ? 
-                                `<img src="${game.icon}" alt="${game.name}" class="game-icon" onerror="this.style.display='none'">` : 
-                                '<div class="game-icon"></div>'}
-                            <div class="game-info">
-                                <div class="game-title">${game.name}</div>
-                                <div class="game-appid">AppID: ${game.appId}</div>
-                            </div>
-                        </div>
-                        
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
-                        </div>
-                        
-                        <div class="stats">
-                            <div class="stat-item">
-                                <div class="stat-value">${unlocked}/${total}</div>
-                                <div class="stat-label">Unlocked</div>
-                            </div>
-                            <div class="stat-item">
-                                <div class="stat-value">${total - unlocked}</div>
-                                <div class="stat-label">Remaining</div>
-                            </div>
-                        </div>
-                        
-                        <button class="toggle-achievements" onclick="toggleAchievements('${cardId}')">
-                            Show Achievements
-                        </button>
-                        
-                        <div id="${cardId}" class="achievements-list collapsed">
-                            ${game.achievements
-                                .sort((a, b) => b.unlocked - a.unlocked)
-                                .map(ach => `
-                                <div class="achievement ${ach.unlocked ? 'unlocked' : 'locked'}">
-                                    ${ach.icon || ach.icongray ? 
-                                        `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon" onerror="this.style.display='none'">` : 
-                                        '<div class="achievement-icon"></div>'}
-                                    <div class="achievement-info">
-                                        <div class="achievement-name">${ach.name}</div>
-                                        <div class="achievement-desc">${ach.description}</div>
-                                        ${ach.unlocked && ach.unlocktime ? 
-                                            `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
-                                            ''}
-                                    </div>
-                                </div>
-                            `).join('')}
-                        </div>
-                    </div>
-                `;
-            }
-
-            html += '</div>';
-            resultsDiv.innerHTML = html;
-        }
-
-        function toggleAchievements(cardId) {
-            const list = document.getElementById(cardId);
-            const button = event.target;
-            
-            if (list.classList.contains('collapsed')) {
-                list.classList.remove('collapsed');
-                button.textContent = 'Hide Achievements';
-            } else {
-                list.classList.add('collapsed');
-                button.textContent = 'Show Achievements';
-            }
-        }
-
-        // Start loading on page load
-        init();
-    </script>
-</body>
-</html>
+                <div class="game-card">
+                    <div class="game-header">
+                        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${game.appId}/header.jpg"
+                             alt="${game.name}" class="game-icon"
+                             onerror="this.style.display='none'">
+                        <div class="game-info">
+                            <div class="game-title">${game.name}</div>
+                            <div class="game-appid">AppID: ${game.appId}</div>
