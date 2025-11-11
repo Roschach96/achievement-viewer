@@ -836,10 +836,16 @@
                 const rarityNum = ach.rarity !== null && ach.rarity !== undefined ? parseFloat(ach.rarity) : null;
                 const isRare = rarityNum !== null && !isNaN(rarityNum) && rarityNum < 10;
                 
-                // For locked achievements, check if it's hidden
+                // Check if it's hidden
                 const isHidden = ach.hidden === true || ach.hidden === 1;
-                const showDescription = isUnlocked || !isHidden;
-                const description = showDescription ? (ach.description || 'No description') : 'Hidden achievement';
+                // Check if description is empty or missing
+                const hasDescription = ach.description && ach.description.trim() !== '';
+                
+                // Show "Hidden achievement" if:
+                // 1. It's locked and hidden, OR
+                // 2. It's unlocked but has no description (likely a hidden achievement without fetched description)
+                const showHiddenText = (!isUnlocked && isHidden) || (isUnlocked && !hasDescription);
+                const description = showHiddenText ? 'Hidden achievement' : (ach.description || 'No description');
                 
                 return `
                     <div class="achievement ${isUnlocked ? 'unlocked' : 'locked'}">
@@ -848,7 +854,7 @@
                             `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
                         <div class="achievement-info">
                             <div class="achievement-name">${ach.name}</div>
-                            <div class="achievement-desc ${!showDescription || isHidden ? 'hidden-desc' : ''}">${description}</div>
+                            <div class="achievement-desc ${showHiddenText ? 'hidden-desc' : ''}">${description}</div>
                             ${isUnlocked && ach.unlocktime ? 
                                 `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
                                 ''}
