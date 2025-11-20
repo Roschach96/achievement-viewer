@@ -113,7 +113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/60467a9819690db9fc0e98f78adba2a45266e6a5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
       "hidden": false,
-      "percent": "98.8"
+      "percent": "98.7"
     },
     "ACH_CompleteMission": {
       "name": "Welcome to the Deadzone",
@@ -153,7 +153,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1231abcfe315006e8d62525167726e36ed395659.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
-      "percent": "58.3"
+      "percent": "58.4"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -161,7 +161,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACH_CompleteMission_Hard": {
       "name": "Hardcore",
@@ -225,7 +225,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ac13cac1661594e7976bc86dd0deca83e6010d50.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
-      "percent": "55.6"
+      "percent": "55.7"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -265,7 +265,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/86be32a287128f94645c638e2f42c53c7636824e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad46833c16a71280f5866ea635db20dd7463ce46.jpg",
       "hidden": true,
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACH_FabricateAny": {
       "name": "Fabricate a Beer",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -409,7 +409,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
-      "percent": "35.5"
+      "percent": "35.6"
     }
   }
 }
