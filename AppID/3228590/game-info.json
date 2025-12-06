@@ -113,7 +113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/60467a9819690db9fc0e98f78adba2a45266e6a5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
       "hidden": false,
-      "percent": "98.7"
+      "percent": "98.8"
     },
     "ACH_CompleteMission": {
       "name": "Welcome to the Deadzone",
@@ -161,7 +161,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACH_CompleteMission_Hard": {
       "name": "Hardcore",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -409,7 +409,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
-      "percent": "36.0"
+      "percent": "36.1"
     }
   }
 }

@@ -1,0 +1,1231 @@
+{
+  "appid": "495420",
+  "name": "State of Decay 2: Juggernaut Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg?t=1741378867",
+  "achievements": {
+    "XBL_10": {
+      "name": "Puppies and Kittens",
+      "description": "Kill 100 Zombies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "64.7"
+    },
+    "XBL_11": {
+      "name": "Sayonara",
+      "description": "Have a Survivor within your Community die.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "37.0"
+    },
+    "XBL_12": {
+      "name": "Toothpaste Piñatas",
+      "description": "Search 10 Containers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "87.7"
+    },
+    "XBL_14": {
+      "name": "No Stone Unturned",
+      "description": "Search 100 Containers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "57.9"
+    },
+    "XBL_15": {
+      "name": "I Got You a Pony",
+      "description": "Deliver a Rucksack to your Storage Facility.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "78.7"
+    },
+    "XBL_16": {
+      "name": "I Got You a Pack Mule",
+      "description": "Deliver 50 Rucksacks to your Storage Facility.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "38.2"
+    },
+    "XBL_17": {
+      "name": "Construction Complete",
+      "description": "Build a Facility at your Base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "72.2"
+    },
+    "XBL_18": {
+      "name": "Paradise City",
+      "description": "Build 10 Facilities at your Base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "40.2"
+    },
+    "XBL_19": {
+      "name": "Heart of Darkness",
+      "description": "Destroy a Plague Heart.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "67.4"
+    },
+    "XBL_20": {
+      "name": "These Dreams",
+      "description": "Destroy 5 Plague Hearts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "47.1"
+    },
+    "XBL_21": {
+      "name": "Welcome to the Jungle",
+      "description": "Recruit a new Survivor to your Community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "56.4"
+    },
+    "XBL_22": {
+      "name": "Through a Glass Darkly",
+      "description": "Survey 5 Sites with your Binoculars.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "64.3"
+    },
+    "XBL_23": {
+      "name": "Silent Cartographer",
+      "description": "Survey 50 Sites with your Binoculars.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "41.6"
+    },
+    "XBL_24": {
+      "name": "Bring the Brouhaha",
+      "description": "Cause a commotion while searching a Container.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "85.3"
+    },
+    "XBL_25": {
+      "name": "No More Strangers",
+      "description": "Earn enough Standing to promote a Recruit to Citizen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "75.4"
+    },
+    "XBL_26": {
+      "name": "Gotta be Larger than Life",
+      "description": "Earn enough Standing to promote a Citizen to Hero.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "54.4"
+    },
+    "XBL_27": {
+      "name": "Breach and Clear",
+      "description": "Secure 5 Sites by exploring every room and killing every zombie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "75.1"
+    },
+    "XBL_28": {
+      "name": "Every Piece of Trash in Town",
+      "description": "Secure 25 Sites by exploring every room and killing every zombie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "57.6"
+    },
+    "XBL_29": {
+      "name": "Sorry for Party Rocking",
+      "description": "Destroy an Infestation.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "74.0"
+    },
+    "XBL_30": {
+      "name": "The Purge",
+      "description": "Destroy 10 Infestations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "37.4"
+    },
+    "XBL_31": {
+      "name": "Flash Mob",
+      "description": "Destroy a Horde.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "64.6"
+    },
+    "XBL_32": {
+      "name": "Crowd Control",
+      "description": "Destroy 25 Hordes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "46.7"
+    },
+    "XBL_33": {
+      "name": "Road Warrior",
+      "description": "Kill 50 Zombies with your car door.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "28.3"
+    },
+    "XBL_34": {
+      "name": "Blind Justice",
+      "description": "Kill a Feral.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "63.7"
+    },
+    "XBL_35": {
+      "name": "Barley and Spoiled Blueberries",
+      "description": "Kill a Bloater.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "62.2"
+    },
+    "XBL_36": {
+      "name": "Glutton for Punishment",
+      "description": "Kill a Juggernaut.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "48.9"
+    },
+    "XBL_38": {
+      "name": "Call Me Any Anytime",
+      "description": "Call in a Radio Command.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "71.0"
+    },
+    "XBL_39": {
+      "name": "Citizen Z",
+      "description": "Call in 25 Radio Commands.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "19.4"
+    },
+    "XBL_40": {
+      "name": "Men Without Hats",
+      "description": "Shoot the helmet off an Armored Zombie.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "39.0"
+    },
+    "XBL_41": {
+      "name": "I Ran So Far Away",
+      "description": "Choose a Specialization for the Cardio skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "64.7"
+    },
+    "XBL_42": {
+      "name": "Knowing is Half the Battle",
+      "description": "Choose a Specialization for the Wits skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "60.9"
+    },
+    "XBL_43": {
+      "name": "Wax On, Wax Off",
+      "description": "Choose a Specialization for the Fighting skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "52.3"
+    },
+    "XBL_44": {
+      "name": "Short Controlled Bursts",
+      "description": "Choose a Specialization for the Shooting skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "53.2"
+    },
+    "XBL_45": {
+      "name": "Mediocre!",
+      "description": "Elect a Warlord as the Leader of your Community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "25.8"
+    },
+    "XBL_46": {
+      "name": "Nice Moves There",
+      "description": "Elect a Sheriff as the Leader of your Community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "26.0"
+    },
+    "XBL_47": {
+      "name": "Doctor Terminus",
+      "description": "Elect a Trader as the Leader of your Community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "20.3"
+    },
+    "XBL_48": {
+      "name": "Can We Fix It? Yes We Can!",
+      "description": "Elect a Builder as the Leader of your Community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "XBL_50": {
+      "name": "Total Eclipse",
+      "description": "Destroy every Plague Heart in your Territory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "34.4"
+    },
+    "XBL_51": {
+      "name": "Holding Down the Couch",
+      "description": "Switch to a different Survivor when you become Fatigued.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "61.6"
+    },
+    "XBL_52": {
+      "name": "Be Still My Dog of War",
+      "description": "Complete a campaign with the Warlord's Legacy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "9.1"
+    },
+    "XBL_53": {
+      "name": "I Am the Law",
+      "description": "Complete a campaign with the Sheriff's Legacy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "XBL_54": {
+      "name": "Speedy Delivery",
+      "description": "Complete a campaign with the Trader's Legacy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "7.9"
+    },
+    "XBL_55": {
+      "name": "If You Build It, They Will Come",
+      "description": "Complete a campaign with the Builder's Legacy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "9.8"
+    },
+    "XBL_56": {
+      "name": "Dam Fine Territory",
+      "description": "Claim a base on the Cascade Hills map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "23.8"
+    },
+    "XBL_57": {
+      "name": "Ten Thousand Gallon Hat",
+      "description": "Claim a base on the Drucker County map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "23.8"
+    },
+    "XBL_58": {
+      "name": "Tilting at Windmills",
+      "description": "Claim a base on the Meagher Valley map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "XBL_59": {
+      "name": "The Next Generation",
+      "description": "Start a new Campaign with Survivors from a completed one.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "18.7"
+    },
+    "XBL_60": {
+      "name": "Sie sind das Essen und wir sind",
+      "description": "Shoot off a Flare (or volunteer to help someone who does).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "19.5"
+    },
+    "XBL_62": {
+      "name": "Walkers and Biters",
+      "description": "Kill 1,000 Zombies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "37.7"
+    },
+    "XBL_63": {
+      "name": "Others and Wights",
+      "description": "Kill 10,000 Zombies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "7.8"
+    },
+    "XBL_64": {
+      "name": "From the Top of My Lungs",
+      "description": "Kill 4 Screamers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "60.4"
+    },
+    "XBL_66": {
+      "name": "What We Do in the Shadows",
+      "description": "Destroy a Plague Heart at night.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "56.6"
+    },
+    "XBL_70": {
+      "name": "War Rig",
+      "description": "Use the Auto Shop to create an armor upgrade and apply it to a vehicle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "27.4"
+    },
+    "XBL_71": {
+      "name": "Rucks in Trucks",
+      "description": "Transfer an item from a vehicle's inventory directly into your base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "44.4"
+    },
+    "XBL_72": {
+      "name": "Who Run Bartertown?",
+      "description": "Build the Trade Depot facility at your base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "12.7"
+    },
+    "XBL_73": {
+      "name": "Mercy Hospital",
+      "description": "Build the Field Hospital facility at your base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "13.6"
+    },
+    "XBL_74": {
+      "name": "Citizens First and Solders Second",
+      "description": "Build the Armory facility at your base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "17.7"
+    },
+    "XBL_75": {
+      "name": "Enemy at the Gates",
+      "description": "Build the Sniper Tower facility at your base.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "14.9"
+    },
+    "XBL_76": {
+      "name": "Piggyback Ride",
+      "description": "Finish off a Juggernaut with a melee execution.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "43.7"
+    },
+    "XBL_77": {
+      "name": "Friendship is Magic",
+      "description": "Work with 5 Enclaves to make them your Allies.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "27.8"
+    },
+    "XBL_78": {
+      "name": "Black Friday",
+      "description": "Spend Influence to buy 10 items from Enclaves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "35.5"
+    },
+    "XBL_79": {
+      "name": "Can Buy Me Love",
+      "description": "Earn Influence by selling 10 items to Enclaves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "35.8"
+    },
+    "XBL_84": {
+      "name": "That was it? This is easy.",
+      "description": "Survive to the second wave in a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "29.8"
+    },
+    "XBL_85": {
+      "name": "Magnificent Seven",
+      "description": "Survive 7 total zombie waves in Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "19.0"
+    },
+    "XBL_86": {
+      "name": "The Pledge",
+      "description": "Earn a total of 500 Prestige playing Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "23.2"
+    },
+    "XBL_87": {
+      "name": "Day Broken",
+      "description": "Achieve victory in a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "12.7"
+    },
+    "XBL_88": {
+      "name": "Just a Nibble",
+      "description": "Open 0b1111 CLEO Drops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "13.4"
+    },
+    "XBL_89": {
+      "name": "Sleep All Day, Out All Night",
+      "description": "Survive 49 total zombie waves in Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "XBL_90": {
+      "name": "Guilty Spark",
+      "description": "Survive 343 total zombie waves in Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.0"
+    },
+    "XBL_91": {
+      "name": "That Byte Looks Infected",
+      "description": "Open 0b11111111 CLEO Drops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "XBL_92": {
+      "name": "The Turn",
+      "description": "Earn a total of 5000 Prestige playing Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.3"
+    },
+    "XBL_93": {
+      "name": "Time's Up",
+      "description": "Survive to the fourth wave in a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "26.2"
+    },
+    "XBL_94": {
+      "name": "The Infinite Sea",
+      "description": "Survive to the sixth wave in a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "15.2"
+    },
+    "XBL_95": {
+      "name": "Human Contact",
+      "description": "Play Daybreak with another human being.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "12.0"
+    },
+    "XBL_96": {
+      "name": "Never Forget the Medic",
+      "description": "Heal the technician 12 times in Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "XBL_97": {
+      "name": "We Don't Need No Education",
+      "description": "Repair a wall 12 times in Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "16.7"
+    },
+    "XBL_98": {
+      "name": "The Moral High Ground is Mine",
+      "description": "Reach the fourth wave in a session of Daybreak without any player using guns.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "XBL_99": {
+      "name": "Conservation of Splatter",
+      "description": "Reach the fifth wave in a session of Daybreak without any player using explosives.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "XBL_100": {
+      "name": "I Was All By Myself",
+      "description": "Reach the sixth wave in a session of Daybreak in single player.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "XBL_101": {
+      "name": "Be My Bodyguard",
+      "description": "Reach the third wave in a session of Daybreak without the technician taking damage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "22.2"
+    },
+    "XBL_102": {
+      "name": "Flawless Victory",
+      "description": "Achieve victory in a session of Daybreak without suffering any player deaths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "11.3"
+    },
+    "XBL_103": {
+      "name": "Forgot My Breaches",
+      "description": "Achieve victory in a session of Daybreak without any wall sections being leveled.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "XBL_104": {
+      "name": "Hoard Mode",
+      "description": "Achieve victory in a session of Daybreak after collecting 25 CLEO drops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "XBL_105": {
+      "name": "Get Used to Disappointment",
+      "description": "Allow the technician to die during a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "25.0"
+    },
+    "XBL_106": {
+      "name": "Green Talon",
+      "description": "Fail during the first wave in a session of Daybreak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "XBL_107": {
+      "name": "Insourcing",
+      "description": "Have all four Red Talon facilities in your home community at the same time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "XBL_108": {
+      "name": "Cargo Cult",
+      "description": "Build a CLEO Relay facility in your home community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "XBL_109": {
+      "name": "No Gut, No Glory",
+      "description": "Kill a blood plague juggernaut.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "31.4"
+    },
+    "XBL_110": {
+      "name": "My Own Private Army",
+      "description": "Recruit four Red Talon contractors to your home community.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "6.3"
+    },
+    "XBL_111": {
+      "name": "Shut Up",
+      "description": "Kill a screamer with a CLEO heavy sniper rifle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "XBL_112": {
+      "name": "Head to To So Player",
+      "description": "Allow 24 bags of dropped items to accumulate on the ground.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "15.5"
+    },
+    "XBL_117": {
+      "name": "Am I the Only One Zen Around Here?",
+      "description": "Kill 50 plague zombies with crossbows.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "11.4"
+    },
+    "XBL_118": {
+      "name": "Should Have Read the Warning Label",
+      "description": "Contract blood plague by using a plague consumable.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "XBL_119": {
+      "name": "New Lease on Life",
+      "description": "Use a training manual to retrain a specialization.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "XBL_124": {
+      "name": "Tried and Tested",
+      "description": "Complete the legacy arcs for all four leader types while in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "XBL_126": {
+      "name": "Welcome to the Dread Zone!",
+      "description": "Have a survivor within your community die while playing in a Dread Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "19.4"
+    },
+    "XBL_127": {
+      "name": "Enjoying Your Stay?",
+      "description": "Have three survivors within your community die in a Dread Zone or Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "10.9"
+    },
+    "XBL_128": {
+      "name": "Called for Backup",
+      "description": "Play in a Dread Zone or a Nightmare Zone with another human being.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "13.7"
+    },
+    "XBL_129": {
+      "name": "Do Not Go Gentle into That Good Night",
+      "description": "Enter a Dread Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "26.3"
+    },
+    "XBL_130": {
+      "name": "Rage Against the Dying of the Light",
+      "description": "Enter a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "12.1"
+    },
+    "XBL_131": {
+      "name": "True Grit",
+      "description": "Survive until Day 100 while in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "XBL_132": {
+      "name": "Over the Rainbow",
+      "description": "Complete a legacy arc while in a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "XBL_133": {
+      "name": "Peerless",
+      "description": "Kill all plague hearts in a single Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "XBL_134": {
+      "name": "The First Hurdle",
+      "description": "Destroy a plague heart in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "22.4"
+    },
+    "XBL_135": {
+      "name": "Fly Your Freak Flag",
+      "description": "Earn 1000 Influence from killing freaks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "36.5"
+    },
+    "XBL_136": {
+      "name": "Throw Your Love Around",
+      "description": "Reach maximum morale while in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "XBL_137": {
+      "name": "Close Call",
+      "description": "Destroy an XL Horde (a large horde with two Screamers and a Feral) while in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "12.6"
+    },
+    "XBL_139": {
+      "name": "Pound of Flesh",
+      "description": "Craft a case of bulk plague cure while in a Dread Zone or Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.1"
+    },
+    "XBL_140": {
+      "name": "Blood Farmer",
+      "description": "Extract 20 plague samples from plague juggernauts in a Dread Zone or a Nightmare Zone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "10.0"
+    },
+    "XBL_141": {
+      "name": "Is There No One Else",
+      "description": "Destroy 100 hordes in Dread Zones or Nightmare Zones.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.6"
+    },
+    "XBL_173": {
+      "name": "They Grow 'Em Big Around Here",
+      "description": "Kill 25 blood juggs in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "XBL_174": {
+      "name": "Hunting the Hunters",
+      "description": "Kill 25 blood ferals in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "XBL_175": {
+      "name": "Trumbull Valley Choir",
+      "description": "Kill 25 plague screamers in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "7.9"
+    },
+    "XBL_176": {
+      "name": "Tear Down That Wall",
+      "description": "Destroy a plague wall in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "9.6"
+    },
+    "XBL_177": {
+      "name": "Two Heartlands Beat As One",
+      "description": "Play Heartland in multiplayer as the host or client",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "13.4"
+    },
+    "XBL_178": {
+      "name": "Such Wonderful Toys",
+      "description": "Use the Weapons Depot to craft all four of the Network weapons in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "XBL_179": {
+      "name": "Max Would Be Proud",
+      "description": "Use the Vehicle Depot to craft and use all three vehicle upgrade kits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "XBL_180": {
+      "name": "Full House",
+      "description": "Recruit 8 different survivors in a single game of Heartland.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "XBL_181": {
+      "name": "The City-Raised Farmer",
+      "description": "Recruit Malik into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "22.6"
+    },
+    "XBL_182": {
+      "name": "The Crafty Scoundrel",
+      "description": "Recruit Brock into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "XBL_183": {
+      "name": "The Eager Inventor",
+      "description": "Recruit Keesha into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "10.1"
+    },
+    "XBL_184": {
+      "name": "The Lonely Survivor",
+      "description": "Recruit Chavez into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "XBL_185": {
+      "name": "The Grumpy Hunter",
+      "description": "Recruit Reba into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "XBL_186": {
+      "name": "The Shy Maker",
+      "description": "Recruit Diana into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "XBL_187": {
+      "name": "The Desperate Husband",
+      "description": "Recruit Vic into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "XBL_188": {
+      "name": "The Mournful Father",
+      "description": "Recruit Isaac into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "XBL_189": {
+      "name": "The Helpful Hacker",
+      "description": "Recruit IzzBee into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "7.7"
+    },
+    "XBL_190": {
+      "name": "The Last Soldier",
+      "description": "Recruit Captain Logan into your Heartland community",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.7"
+    },
+    "XBL_191": {
+      "name": "Heal Thyself",
+      "description": "Use plague cure on your own survivor 100 times in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "XBL_192": {
+      "name": "Playing Doctor",
+      "description": "Use plague cure on another survivor 100 times in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "XBL_193": {
+      "name": "CLEO Can You Hear Me?",
+      "description": "Complete 10 CLEO sieges using the CLEO relay in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "XBL_194": {
+      "name": "Undeadly Efficiency",
+      "description": "Kill 10 or more enemies with a single plague buster",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "XBL_195": {
+      "name": "Heartlandia",
+      "description": "Complete Heartland while playing alone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "XBL_196": {
+      "name": "How Red Was Our Valley",
+      "description": "Complete Heartland as the host or client in multiplayer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "XBL_197": {
+      "name": "Plot Armor",
+      "description": "Complete Heartland with both of your starting survivors alive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "XBL_198": {
+      "name": "Shots in the Dark",
+      "description": "Find all six different Echo Labs guns in Heartland during a single playthrough as the host",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "XBL_199": {
+      "name": "The Walls Came Tumbling Down",
+      "description": "Destroy 20 plague walls in Heartland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "XBL_200": {
+      "name": "The Forest for the Trees",
+      "description": "Claim a base on the Providence Ridge map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "49.3"
+    },
+    "XBL_201": {
+      "name": "The Game is Afoot",
+      "description": "Accept a bounty from the Bounty Broker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "45.8"
+    },
+    "XBL_202": {
+      "name": "Bounty Collector",
+      "description": "Complete 5 bounties for the Bounty Broker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "26.6"
+    },
+    "XBL_203": {
+      "name": "Collect 'Em All",
+      "description": "Complete 25 bounties for the Bounty Broker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "8.8"
+    },
+    "XBL_204": {
+      "name": "It Looks Good on You, Though",
+      "description": "Unlock an outfit by completing a bounty from the Bounty Broker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "21.6"
+    },
+    "XBL_205": {
+      "name": "Howdy Howdy Howdy",
+      "description": "Kill 3 zombies in 3 seconds with a revolver, while wearing any cowboy hat from the Closet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "XBL_206": {
+      "name": "88 Miles Per Hour",
+      "description": "Hit top speed while driving a Road Racer and wearing any puffy vest from the Closet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d9b2b3e6df32efa960bb90d904c3a9edec3b32fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "XBL_207": {
+      "name": "Retrieve Biomass",
+      "description": "Kill a plague heart with minimum difficulty set to Lethal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/4cd469bada3285ba2dd2a1730a979178d8051306.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/97d8ca9165936f6b2895105c9ac270cb579b6568.jpg",
+      "hidden": false,
+      "percent": "6.0"
+    },
+    "XBL_208": {
+      "name": "Bless Me Now With Your Fierce Tears",
+      "description": "Begin a session with minimum difficulty set to Lethal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/4cd469bada3285ba2dd2a1730a979178d8051306.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/97d8ca9165936f6b2895105c9ac270cb579b6568.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "XBL_209": {
+      "name": "Lilac and Spoiled Gooseberries",
+      "description": "Kill 25 blood plague bloaters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/4cd469bada3285ba2dd2a1730a979178d8051306.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/97d8ca9165936f6b2895105c9ac270cb579b6568.jpg",
+      "hidden": false,
+      "percent": "9.9"
+    },
+    "XBL_210": {
+      "name": "Barbershop Quartet",
+      "description": "Kill one each of the four blood plague freaks with minimum difficulty set to Lethal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/4cd469bada3285ba2dd2a1730a979178d8051306.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/97d8ca9165936f6b2895105c9ac270cb579b6568.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "XBL_211": {
+      "name": "Biggest Ball of Twine in Minnesota",
+      "description": "Claim a landmark outpost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/5163062eb7acedfcf797373307808b98514a5530.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/ef91bb70ebfd229e514afb6326a94ceb23675554.jpg",
+      "hidden": false,
+      "percent": "16.0"
+    },
+    "XBL_212": {
+      "name": "A Three Hour Tour",
+      "description": "Claim any 3 landmark outposts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/5163062eb7acedfcf797373307808b98514a5530.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/ef91bb70ebfd229e514afb6326a94ceb23675554.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "XBL_213": {
+      "name": "But It Can Be Better",
+      "description": "Fully upgrade a resource outpost.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/5163062eb7acedfcf797373307808b98514a5530.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/ef91bb70ebfd229e514afb6326a94ceb23675554.jpg",
+      "hidden": false,
+      "percent": "16.3"
+    },
+    "XBL_214": {
+      "name": "Lily, We're Home",
+      "description": "Claim a base in the Trumbull Valley map (outside of Heartland).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/e5b56f9aaedff15c3053eb6dda8d86a4f4f378e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/e082eed4bbe7b66a0a3a05e30c3a8d668ec29502.jpg",
+      "hidden": false,
+      "percent": "24.0"
+    },
+    "XBL_215": {
+      "name": "You're So Fine You Blow My Mind",
+      "description": "Complete Mickey Wilkerson's story in Trumbull Valley (outside of Heartland).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/e5b56f9aaedff15c3053eb6dda8d86a4f4f378e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/e082eed4bbe7b66a0a3a05e30c3a8d668ec29502.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    }
+  }
+}
