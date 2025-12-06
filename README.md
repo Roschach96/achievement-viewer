@@ -11,7 +11,7 @@ So far this is what I achieved.
 Click the "Fork" button at the top right of this page.
 
 ### 2. Delete game-data.json and the folders inside AppID
-(These contain the unlocked achievement data to show on the page. This has to be done to prevent the merge my achievements with your own)
+These contain the unlocked achievement data to show on the page. This has to be done to prevent the merge my achievements with your own
 
 ### 3. Enable GitHub Pages
 1. Go to your forked repository's **Settings**
