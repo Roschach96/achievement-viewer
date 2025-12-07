@@ -482,6 +482,17 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Pull latest changes first
+          git pull --rebase origin main || true
+          
+          # Add and commit changes
           git add AppID/*/game-info.json game-data.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update game data [skip ci]"
-          git push
+          
+          # Only commit if there are changes
+          if ! git diff --quiet HEAD; then
+            git commit -m "Update game data [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
