@@ -257,6 +257,10 @@ jobs:
                   'icon': '',
                   'achievements': {}
               }
+              
+              # Check if .db file exists
+              db_file_path = Path(f'AppID/{appid}/{appid}.db')
+              uses_db_file = db_file_path.exists()
 
               try:
                   # Fetch from Steam Store API
@@ -410,6 +414,7 @@ jobs:
 
               # Save individual game-info.json
               game_info_path = Path(f'AppID/{appid}/game-info.json')
+              game_info['uses_db'] = uses_db_file
               with open(game_info_path, 'w', encoding='utf-8') as f:
                   json.dump(game_info, f, indent=2, ensure_ascii=False)
 
