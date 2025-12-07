@@ -1580,6 +1580,330 @@
     }
   },
   {
+    "appid": "322500",
+    "info": {
+      "appid": "322500",
+      "name": "SUPERHOT",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg?t=1726509130",
+      "achievements": {
+        "ACH_KILL_KATANA_100": {
+          "name": "With a katana",
+          "description": "Kill 100 Red Dudes with a katana.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/b6ceb8e2b1fb91883b0d5aefb236e2c2a1e5e7d4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/0481c07f492bb92fdb2099c098bfc95acc8bd947.jpg",
+          "hidden": false,
+          "percent": "26.6"
+        },
+        "ACH_THROW_KATANA_2": {
+          "name": "Shishkebap",
+          "description": "Kill 2 Red Dudes with one katana throw.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/295481b0c442a71c300028439fd22f27f625c424.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/eff956b93fb1dace004b1c523129321b0029761a.jpg",
+          "hidden": false,
+          "percent": "25.3"
+        },
+        "ACH_KILL_PISTOL_100": {
+          "name": "Just",
+          "description": "Kill 100 Red Dudes with a pistol.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/0ba80baf818e2f10559604b94af17f50ca293841.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/0a79bf04e4bda403a4693e38f8816789651ef234.jpg",
+          "hidden": false,
+          "percent": "68.2"
+        },
+        "ACH_KILL_SHOTGUN_100": {
+          "name": "killing",
+          "description": "Kill 100 Red Dudes with a shotgun.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/300b922e3906df822c136a52586ca2028b9e8ee3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/20c439cead2fa05066cd77a4f4b4b9b4216c8a7b.jpg",
+          "hidden": false,
+          "percent": "35.3"
+        },
+        "ACH_KILL_RIFLE_100": {
+          "name": "red",
+          "description": "Kill 100 Red Dudes with a rifle.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/d4db5c51976e43722ee8bb787dc7dcbc2574203f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/c82f664474580ef44f41dc8247bc4279d80ea7d6.jpg",
+          "hidden": false,
+          "percent": "21.1"
+        },
+        "ACH_KILL_MELEE_100": {
+          "name": "dudes.",
+          "description": "Kill 100 Red Dudes in melee.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/4df3392e9489993469f6d1d2331f2ca30c60b5e7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/41adaaa51b2b8b22b86fc36c5d66ecaba35b222c.jpg",
+          "hidden": false,
+          "percent": "52.5"
+        },
+        "ACH_HEADSHOTS_100": {
+          "name": "Pointless but cool",
+          "description": "Score 100 headshots.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/07eab2d5479797f057f1287b91c3a9344de64cc8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/208b97ee6ccfb05fb720ec82ee6c03f8dd01a6a5.jpg",
+          "hidden": false,
+          "percent": "43.8"
+        },
+        "ACH_KILL_ENDLESS_1001": {
+          "name": "Can't get enough",
+          "description": "Kill over 1987 Red Dudes in endless mode.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/58a419ed621c435b2ff61d37ee5fc50f6cdaea2b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/23cdd6888c528c62e432d5e6bf0e96f4c9dbf1f8.jpg",
+          "hidden": false,
+          "percent": "3.4"
+        },
+        "ACH_SHOTGUN_SHOT_3": {
+          "name": "Conserve Ammo",
+          "description": "Kill 3 Red Dudes with a single shotgun shot.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8d182b7cfc4875a7bf7e9a3e02cb8c7216680070.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/57667daa6a31d90cfbfeaead83d12e4d04159df1.jpg",
+          "hidden": false,
+          "percent": "15.3"
+        },
+        "ACH_BULLET_SHOT": {
+          "name": "No they didn't",
+          "description": "Shoot down a bullet with a bullet.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/245a2be0beb20049e01b66a2399529d580bf7f6d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/3cc51ae66151172400077fbc54d734355b805d99.jpg",
+          "hidden": true,
+          "percent": "84.7"
+        },
+        "ACH_BULLET_CUT": {
+          "name": "So it is possible!",
+          "description": "Cut a bullet with a katana.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/a8343efc6f16b9c61feb020c17c1ac2e6af52438.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/e9dd3af95771b896cc907db3099d8ea13e23d823.jpg",
+          "hidden": true,
+          "percent": "26.9"
+        },
+        "ACH_RIFLE_SHOOT_3": {
+          "name": "Ratatatata!",
+          "description": "Kill 3 Red Dudes with one rifle burst.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/346104c01f059ceb5544dec21f6cd4e023d275ef.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8f091aa4419d4e8e9b5cb2fc4f8436c0225396aa.jpg",
+          "hidden": false,
+          "percent": "31.8"
+        },
+        "ACH_JUMP_KILL": {
+          "name": "It's a me, Mario!",
+          "description": "Kill an enemy by jumping on him.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/a2fb6f236a20aaa4f94a7412a568e5c13a43a51f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/daaae26beb7201a53b84e1f1656925f3c54792ad.jpg",
+          "hidden": true,
+          "percent": "50.4"
+        },
+        "ACH_GET_BACK": {
+          "name": "We told you to leave",
+          "description": "Get back to the system after being expelled.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/910fdd46a8534584739c5ceeeea038963e77d9be.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/e4c0413d578149ab10dd43922f81f460c843fedd.jpg",
+          "hidden": true,
+          "percent": "61.4"
+        },
+        "ACH_HALL_OF_FAME": {
+          "name": "We can see you",
+          "description": "Complete SERV level.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/3c95e91a0f3b7403819d4139bae410992e358720.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/ef25834fde5c5e6dbace51eda8decefd1935edda.jpg",
+          "hidden": true,
+          "percent": "72.1"
+        },
+        "ACH_ALL_ENDLLESS": {
+          "name": "Full package",
+          "description": "Unlock all endless levels.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/b71b24addd79da413a88211c4fa8b9cdc87552ee.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/1c6a9d673474c9ea00a956acdd52c8bbbe8f8585.jpg",
+          "hidden": false,
+          "percent": "2.6"
+        },
+        "ACH_GAME_COMPLETED": {
+          "name": "One of us",
+          "description": "Complete the game.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/6d98f08b119fce331fa432322ba49b3e7f4b211f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/6a460ca52de538e02e80e88c5587fec0479c525e.jpg",
+          "hidden": true,
+          "percent": "48.9"
+        },
+        "ACH_REPLAY_UPLOADED": {
+          "name": "Spread the system",
+          "description": "Upload a replay on superhot.video.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/3266a024db2add07f09bfbccfa332b34e95e47e6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/48c21c93c62425413ea32ddc51c43f5c108f656d.jpg",
+          "hidden": false,
+          "percent": "15.3"
+        },
+        "ACH_HACKING_READ": {
+          "name": "Deep web",
+          "description": "Become a part of the community.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/7c45bc91445056d328f7c063c2d8bcdf3ba9121a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/6051d8de4a211a0e0fa5ba5bed045c25cd48b65e.jpg",
+          "hidden": true,
+          "percent": "3.5"
+        },
+        "ACH_SECRETS_FOUND": {
+          "name": "Charted",
+          "description": "Find all secrets.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/c9eb6a51dc419db7121f7dda5f4cf5a7877b4283.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/984b79d74d5ff8aa6c10dba6577a29f46612bb2b.jpg",
+          "hidden": true,
+          "percent": "3.0"
+        },
+        "ACH_SUBWAY": {
+          "name": "Access denied",
+          "description": "Complete SUBWAY level.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8bedec4236f5700b6af75646646d538091fe4ccd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/450fe85b0772e4a2fa92af50ef4142823d41975c.jpg",
+          "hidden": true,
+          "percent": "87.3"
+        },
+        "ACH_APPS": {
+          "name": "Bored",
+          "description": "Launch every app in the system.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/f196d288918d7a3b4ff97d0436491d9c8fd51c66.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/2f4f20c8b73d1fbaeaa0b2b52fbabb27b64f22fd.jpg",
+          "hidden": true,
+          "percent": "10.2"
+        },
+        "ACH_HERCULES": {
+          "name": "Hercules",
+          "description": "Beat all Challenges.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/94f5093ba0ec801c9dac92758ba2d7718c36562a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/a9594454b0a9344a1adb093f21a118aff0fe4f24.jpg",
+          "hidden": false,
+          "percent": "2.2"
+        },
+        "ACH_RED_STANDARD": {
+          "name": "Stand REDy",
+          "description": "Get RED ending in every level of SPEEDRUN challenge.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/8958b18f9be073190da70491c9286a1b20ed2816.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/5bd23048530022e27de994cc22ddb8be7567b539.jpg",
+          "hidden": false,
+          "percent": "4.3"
+        },
+        "ACH_RED_RT": {
+          "name": "Get REDy",
+          "description": "Get RED ending in every level of SPEEDRUNrt challenge.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/f44a35d2273a7904678c3f6d94f430ccebccf21f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/4966b67b43eeadfec8d173c4963a5e05d7f587eb.jpg",
+          "hidden": false,
+          "percent": "2.8"
+        },
+        "ACH_HALLOWEEN": {
+          "name": "Pumpkin spiced SUPERHOT",
+          "description": "Launch pumpkin spiced challenge between 24.10 & 7.11",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/c28bdc7e8b778ec4a1aeafb6383fd71af8931dd6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/16571329bfdbfb9d51d04070cfc4f6cee12d9e9e.jpg",
+          "hidden": false,
+          "percent": "3.6"
+        }
+      }
+    },
+    "achievements": {
+      "ACH_KILL_KATANA_100": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_THROW_KATANA_2": {
+        "earned": true,
+        "earned_time": 1736879864
+      },
+      "ACH_KILL_PISTOL_100": {
+        "earned": true,
+        "earned_time": 1736542376
+      },
+      "ACH_KILL_SHOTGUN_100": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_KILL_RIFLE_100": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_KILL_MELEE_100": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_HEADSHOTS_100": {
+        "earned": true,
+        "earned_time": 1736880395
+      },
+      "ACH_KILL_ENDLESS_1001": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_SHOTGUN_SHOT_3": {
+        "earned": true,
+        "earned_time": 1736880464
+      },
+      "ACH_BULLET_SHOT": {
+        "earned": true,
+        "earned_time": 1736537946
+      },
+      "ACH_BULLET_CUT": {
+        "earned": true,
+        "earned_time": 1736879801
+      },
+      "ACH_RIFLE_SHOOT_3": {
+        "earned": true,
+        "earned_time": 1736539968
+      },
+      "ACH_JUMP_KILL": {
+        "earned": true,
+        "earned_time": 1736880769
+      },
+      "ACH_GET_BACK": {
+        "earned": true,
+        "earned_time": 1736540946
+      },
+      "ACH_HALL_OF_FAME": {
+        "earned": true,
+        "earned_time": 1736539660
+      },
+      "ACH_ALL_ENDLLESS": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_GAME_COMPLETED": {
+        "earned": true,
+        "earned_time": 1736543755
+      },
+      "ACH_REPLAY_UPLOADED": {
+        "earned": true,
+        "earned_time": 1736880685
+      },
+      "ACH_HACKING_READ": {
+        "earned": true,
+        "earned_time": 1736882152
+      },
+      "ACH_SECRETS_FOUND": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_SUBWAY": {
+        "earned": true,
+        "earned_time": 1736538280
+      },
+      "ACH_APPS": {
+        "earned": true,
+        "earned_time": 1736539752
+      },
+      "ACH_HERCULES": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_RED_STANDARD": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_RED_RT": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ACH_HALLOWEEN": {
+        "earned": false,
+        "earned_time": 0
+      }
+    }
+  },
+  {
     "appid": "1086940",
     "info": {
       "appid": "1086940",
@@ -11489,6 +11813,1218 @@
     }
   },
   {
+    "appid": "1446780",
+    "info": {
+      "appid": "1446780",
+      "name": "MONSTER HUNTER RISE",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1734977993",
+      "achievements": {
+        "GC_Award_N_04": {
+          "name": "Apex Shortsword",
+          "description": "Granted for banishing an Apex in the Rampage. Its blade is riddled with battle scars.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c36c01f2859cca82536d83f328143f5c205c7139.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a4f7c9c55c6c4627ad8999a21755919bbdca0ce8.jpg",
+          "hidden": false,
+          "percent": "58.1"
+        },
+        "GC_Award_N_05": {
+          "name": "Tempestuous Triumph Scroll",
+          "description": "A hanging scroll from Master Hojo, depicting your victory over Wind Serpent Ibushi.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/f011c91fdc3c772cc1d3f1e313b538a7d4ed14b3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6e34c3ac742c766f035b7ed4d9ecf2691841b4b0.jpg",
+          "hidden": false,
+          "percent": "49.8"
+        },
+        "GC_Award_N_22": {
+          "name": "Beat-up Construction Kit",
+          "description": "Awarded for unlocking lots of camps. Each of its nicks and grooves tells a story.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bcee69f441e1ba5203c71a641925a4b3c2107775.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/15ed1c63c6b37a7d2e92f9821fcc471939d03c37.jpg",
+          "hidden": false,
+          "percent": "19.1"
+        },
+        "GC_Award_N_01": {
+          "name": "Badge of Excellence",
+          "description": "The mark of a peerless hunter, conferred only to those who have earned a lot of awards.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/2ce51903cd7509eccd1d93db15e23f3c355e8ccf.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/01abc7889a6f8a6d952f6c03d8b2a1233e892556.jpg",
+          "hidden": false,
+          "percent": "1.0"
+        },
+        "GC_Award_N_02": {
+          "name": "Kamura Amulet",
+          "description": "A trinket given to new hunters who have proved themselves capable.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/01c4593add4173fdfdfcf8e50b6e99438c7895e8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/961a1210bdcade769e4539b478b1127675be706b.jpg",
+          "hidden": false,
+          "percent": "88.0"
+        },
+        "GC_Award_N_03": {
+          "name": "Ancestral Blade",
+          "description": "A prize for vanquishing Magnamalo. This blade has led Kamura for generations.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6b34be035f7e6fc366e8235d1264fb9e5d1d1ba7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/01455a2b7f8dc5efd5494ed4d0316763b5f7fd53.jpg",
+          "hidden": false,
+          "percent": "48.5"
+        },
+        "GC_Award_N_06": {
+          "name": "Calamity Conqueror Scroll",
+          "description": "Received upon defeating Ibushi and Narwa. Depicts the two serpents leading the Rampage.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/3a0bc706497e1fc333620b4d4127faaf5c820956.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b896418bc5f307b1b032013a74558aea49e82aaf.jpg",
+          "hidden": false,
+          "percent": "47.0"
+        },
+        "GC_Award_N_07": {
+          "name": "Fan of Fading Crimson",
+          "description": "A decorative fan awarded to those who vanquished the crimson-glowing threat to the village.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6af2e7191897f3b0ae5fd801169c868ea24c65ae.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e7234061325c16173ddfef24d10b803fcb5f1c35.jpg",
+          "hidden": false,
+          "percent": "31.4"
+        },
+        "GC_Award_N_08": {
+          "name": "Fan of Ascendancy",
+          "description": "The mark of a hunter who has attempted some of the toughest quests around—and won.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a04be34a9d2039056707f11b447d6f23f70d2624.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ab4a9f0a27f22324612e7bd3b2387d29a76e8d35.jpg",
+          "hidden": false,
+          "percent": "8.4"
+        },
+        "GC_Award_N_09": {
+          "name": "Fan of True Ascendancy",
+          "description": "Mark of a hunter who has bested Infernal Springs' most arduous challenges.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/618cd9cb41a045d130e39773608f782895df0705.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4fca2cb2e59d4247cbd14b55de58b677d3e492a8.jpg",
+          "hidden": false,
+          "percent": "5.1"
+        },
+        "GC_Award_N_10": {
+          "name": "Aspiring Hunter Certificate",
+          "description": "A souvenir from the Guild for completing many low rank quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/976d8b285c228369d28ff49535d1b310d630cdc6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/43fc2d4be5beb819ba0e9d05d51474ec0828939c.jpg",
+          "hidden": false,
+          "percent": "8.4"
+        },
+        "GC_Award_N_11": {
+          "name": "Adept Hunter Certificate",
+          "description": "A souvenir from the Guild for completing many high rank quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c31999420469412e36a8972d82b3d61d7968a54e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/214324b3b474b9debea113e65c942f2463dcdff1.jpg",
+          "hidden": false,
+          "percent": "3.7"
+        },
+        "GC_Award_N_12": {
+          "name": "Rampage Nemesis Certificate",
+          "description": "A souvenir from the Guild for completing many Rampage quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fc85009f4ba5ff9b9f6e81ec63f04942a2512bb7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9054a0e8ad482f83bbe157692c734e9ca756affd.jpg",
+          "hidden": false,
+          "percent": "1.5"
+        },
+        "GC_Award_N_13": {
+          "name": "Arena Fighter Certificate",
+          "description": "A souvenir from the Guild for completing many Arena quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/843e1aa8dee6f1377fba8cae9b5ac75c50e61200.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a9a00e5d5b0323284e91f59a91748935d5ce6eff.jpg",
+          "hidden": false,
+          "percent": "2.7"
+        },
+        "GC_Award_N_14": {
+          "name": "Spiritwood Necklace",
+          "description": "Awarded for completing 50 quests in the Shrine Ruins. Made from Spiritwood branches.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/2c7283692778bee7a248c281a9dc164a4a9fb574.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/37a2be7334d8dc06b86d5840771f91ebc89bbee5.jpg",
+          "hidden": false,
+          "percent": "29.2"
+        },
+        "GC_Award_N_15": {
+          "name": "Frozen Lampsquid Earring",
+          "description": "Awarded for completing 50 quests in the Frost Islands. A relic encased in primeval ice.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/55804b31f23ba50b6628f5275a282f0beefefd84.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b5ee2af8434b5ad037ff0732e75fd46a98a83478.jpg",
+          "hidden": false,
+          "percent": "21.0"
+        },
+        "GC_Award_N_16": {
+          "name": "Prismatic Chalice",
+          "description": "Awarded for completing 50 quests in the Flooded Forest. Was found buried under rubble.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4293cb2344e8ccc6bef4857b4770e8507699f106.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a1d60d0c15359f18eae6557ea335e5d6aa52ff51.jpg",
+          "hidden": false,
+          "percent": "14.9"
+        },
+        "GC_Award_N_17": {
+          "name": "Silver Cactus Ring",
+          "description": "Awarded for completing 50 quests in the Sandy Plains. A peculiar silver cactus ring.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/33737246fe5a2f3053d3c54b0e721c056ab4f73f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b6d97bcdb95bb55231bdd20d3de81f3db01c6ee2.jpg",
+          "hidden": false,
+          "percent": "15.4"
+        },
+        "GC_Award_N_18": {
+          "name": "Heliotrope Bracelet",
+          "description": "Awarded for completing 50 quests in the Lava Caverns. Glitters a red-blue mélange.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e01d0712b7edc6e403259826e5840740073980c4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4be5888128b105b1e6e88b2cfd943a16a0971e38.jpg",
+          "hidden": false,
+          "percent": "13.1"
+        },
+        "GC_Award_N_19": {
+          "name": "Wreath of Honor",
+          "description": "A wreath received from the villagers as thanks for taking on their many requests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/de1171264ddb477fa3eb8302c1b3d5d8072d64f1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a3b461dd3c2a66b8a7b90c648b11bf0cbfa73e7c.jpg",
+          "hidden": false,
+          "percent": "30.4"
+        },
+        "GC_Award_N_20": {
+          "name": "Kamura Pinwheel",
+          "description": "Awarded for performing 1000 Wiredashes. Spins smoothly in the wind.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e932a063396b09a62d08e9f6dda3a0b43d9f9cef.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/47f04d3d1a791dfa2234f96976d0a5b51a30ffa5.jpg",
+          "hidden": false,
+          "percent": "40.6"
+        },
+        "GC_Award_N_21": {
+          "name": "Shabby Canyne Saddle",
+          "description": "Awarded for riding Canynes many times. Worn in odd places from use on countless voyages.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/3d5c590a299d9de6b57a4f1e3836b66fc26935f2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/68ec3099fea9944749a472e01c8ee1628443d263.jpg",
+          "hidden": false,
+          "percent": "18.5"
+        },
+        "GC_Award_N_23": {
+          "name": "Great Wirebug Plate",
+          "description": "Awarded for discovering many Great Wirebug launch points. Sports a nice relevant design.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/62364d633924e6cd3acf561284e6bc52bb44d86d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9d79f97b86e376911f8d5436af7e4eb03412900e.jpg",
+          "hidden": false,
+          "percent": "2.8"
+        },
+        "GC_Award_N_24": {
+          "name": "Hunting Helpers Plate",
+          "description": "Awarded for gathering 500 Hunting Helpers. Features a beautiful depiction of them.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/74e6123073af676f4eb33a3e44c268ce65dcd1bd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b51cabc16eb03a8387cfd4f88f64534c84c7edc9.jpg",
+          "hidden": false,
+          "percent": "9.5"
+        },
+        "GC_Award_N_25": {
+          "name": "Golden Spiribug Plate",
+          "description": "Awarded for gathering 1000 Golden and Gilded Spiribugs. Shines much like they do.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4438c45e33a48888161f76d3b3615fd85f377f12.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6ec5810fed7a2043a2ba635524aff53b85ac5535.jpg",
+          "hidden": false,
+          "percent": "3.3"
+        },
+        "GC_Award_N_26": {
+          "name": "Antique Bookmark",
+          "description": "Awarded for finding many Old Messages. Adorned with a tasteful pattern.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a8f55e86a9b7ad1fd7fa4ae7b543141444910dd9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/276d0e2c208167ade6fbcce8ee8ea32d4e45df5d.jpg",
+          "hidden": false,
+          "percent": "3.1"
+        },
+        "GC_Award_N_27": {
+          "name": "Deft-hand Rod",
+          "description": "Awarded for catching many fish. Feels familiar in your hands. One cast, one catch!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a359bcf000a3122089e344a66612bef0b7c9b0b1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fae973d6885214d9814742dffa66d18b69d868b2.jpg",
+          "hidden": false,
+          "percent": "1.8"
+        },
+        "GC_Award_N_28": {
+          "name": "Well-done Grillmeister",
+          "description": "Awarded for cooking a welldone steak 30 times. Good job, and well done!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fade54d9440434f91b94466975184973fea475b7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/d774f8b60ad2dde7a0e6a4c58bb093c170a6e25e.jpg",
+          "hidden": false,
+          "percent": "2.5"
+        },
+        "GC_Award_N_29": {
+          "name": "Copper Ecologist's Award",
+          "description": "Awarded for photographing many Hunting Helpers. Proof you've expanded your hunter horizons.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/698c49f7f630c34e65af7f32ed20f05a8889b898.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c6ec89294b5e3dfd34114c589c5ebd579567cfea.jpg",
+          "hidden": false,
+          "percent": "2.2"
+        },
+        "GC_Award_N_30": {
+          "name": "Silver Ecologist's Award",
+          "description": "Awarded by one enthusiastic researcher for photographing many Rare Creature.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fe0772d5975aff2024cd9c0d59998b4c822563c1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4bc2d3114e9bb2eab29056adb0761308449e69ca.jpg",
+          "hidden": false,
+          "percent": "2.5"
+        },
+        "GC_Award_N_31": {
+          "name": "Gold Ecologist's Award",
+          "description": "Awarded for photographing many Endemic Lifeforms. Now you're a Guild-recognized researcher!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/8d71f7e2f1fce3a00b95331eb2bf1a89a323999f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/540ae050d018a45cc5e6ffed15da64b130f94eec.jpg",
+          "hidden": false,
+          "percent": "1.9"
+        },
+        "GC_Award_N_32": {
+          "name": "Extravagant Cashbox",
+          "description": "Awarded for earning 1,000,000 zenny. Heavy with impressively intricate goldwork.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/8b4dcd36433002cc0ab4bb43214c93335a372ca7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/72e9053eb931d24e7ecaf1847637bef375d7695d.jpg",
+          "hidden": false,
+          "percent": "45.7"
+        },
+        "GC_Award_N_33": {
+          "name": "Well-worn Cashbox",
+          "description": "Awarded for accumulating 100,000 Kamura Points. Gleams with polish despite great use.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/abf00fe245ef361af820f0f2365f36546df16ee7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9a403ff7b9aef414eb945b21de5f8d6feef67874.jpg",
+          "hidden": false,
+          "percent": "40.5"
+        },
+        "GC_Award_N_34": {
+          "name": "Thank-mew Letter",
+          "description": "Awarded for hiring 50 Buddies. We a-purr-eciate your fur-iendly patronage!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/310edaaf8de012593573d03f5d1c4e682b6cdfb6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0771c0e0a14ba7dceb2c907c8e13be690fbdbc98.jpg",
+          "hidden": false,
+          "percent": "5.3"
+        },
+        "GC_Award_N_35": {
+          "name": "Good Luck Charm",
+          "description": "Proof of having sent the Meowcenaries out on a quest 100 times.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/520da0c9f9bd1ed79f9c9af5db575a67571a1420.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0210e07985a1bdbe1f6d9612488e393b379de9e3.jpg",
+          "hidden": false,
+          "percent": "26.2"
+        },
+        "GC_Award_N_36": {
+          "name": "From Palicoes, with Love",
+          "description": "Awarded for raising various support-type Palicoes to their maximum levels.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b4ccf842c47f00e8e17178246ca494ec449a1d4e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e1fcd08394ef4887527eb16abfe4c14373202a5d.jpg",
+          "hidden": false,
+          "percent": "9.2"
+        },
+        "GC_Award_N_37": {
+          "name": "Palamute Gear Tune-up Kit",
+          "description": "Awarded for collecting a lot of Palamute Gear. Daily maintenance is what will make it last!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/05c31d6c7e21a327b1127c69aaaf5714ad93aa6f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/7824749e4d75aae0e5323182c519aea74c7ede2e.jpg",
+          "hidden": false,
+          "percent": "20.1"
+        },
+        "GC_Award_N_38": {
+          "name": "Luxury Armor Stand",
+          "description": "Awarded for forging many valuable weapons and armor. Made from premium materials.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6a89b4b7e3aac304456f704207f7ca837346d1a0.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ab679b4416ddd0a31c6720b0ae11d1d831bf041b.jpg",
+          "hidden": false,
+          "percent": "41.5"
+        },
+        "GC_Award_N_39": {
+          "name": "Colorful Armor Stand",
+          "description": "Awarded for forging many a layered armor. Its variegated hues are simply captivating.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/eeafd9075dce480a95e7c93fd98fcf74514fe7d2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/2646d29cd02f39d077dac28ca3b827c323293d58.jpg",
+          "hidden": false,
+          "percent": "36.4"
+        },
+        "GC_Award_N_40": {
+          "name": "Petalace Arrangement Vase",
+          "description": "Awarded for obtaining many Petalaces. It fills rooms with a delightful floral aroma.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/da25cee523b504520da197dfc66dbd4e8c0a8cbe.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/18ce5da1eef6a2f2484d89d0f1fbdaf60911c926.jpg",
+          "hidden": false,
+          "percent": "24.2"
+        },
+        "GC_Award_N_41": {
+          "name": "Master's Black Belt",
+          "description": "Awarded for obtaining many Switch Skills, a feat of both mental and bodily discipline.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4cfdbb385bfc1f45347aca87d6002213f9f8709a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/3a5b0a08204f662f10f9281da1a2461091b55012.jpg",
+          "hidden": false,
+          "percent": "2.2"
+        },
+        "GC_Award_N_42": {
+          "name": "Chef's Trusty Tools",
+          "description": "Awarded for helping Yomogi. You can almost hear the Tea Dealers' chanting when looking at it.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/7ceba2cd4c3bd8e83d2b61c33f73750160093754.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/aee9cfc9123fb7b8f747377ae53e8bc6a0458b0c.jpg",
+          "hidden": false,
+          "percent": "10.4"
+        },
+        "GC_Award_N_43": {
+          "name": "Sturdy Padlock",
+          "description": "Awarded for collecting many decorations and hanging scrolls. Remember to lock up!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bc5eee76b76b67925b0ad0f567b0c489ba8241e2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cdf1f75b7f41b9c09f0b7873b0b3d7dc0aef859d.jpg",
+          "hidden": false,
+          "percent": "5.5"
+        },
+        "GC_Award_N_44": {
+          "name": "Cohoots' Dresser",
+          "description": "Awarded to connoisseurs of Cohoot outfits. Perfect for storing your avian apparel.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/07d1446b9152a363da5a10a723f716898d7cedd3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/801a624c6405577afe69e7065e2785b23b3260c8.jpg",
+          "hidden": false,
+          "percent": "28.2"
+        },
+        "GC_Award_N_45": {
+          "name": "Runner's Sandals",
+          "description": "Awarded for talking to many of Kamura's citizens. Feels like walking on a carpet of cloud.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cd9e5c577a6e23fd76d63cff00515ae704a2317a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cdfc6c7f141b2b99049eedbed36cdae371a18c96.jpg",
+          "hidden": false,
+          "percent": "3.3"
+        },
+        "GC_Award_N_46": {
+          "name": "Dreadnought Destroyer Plaque",
+          "description": "Awarded for hunting 1,000 large monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1d3f00d8ad0ce2e6ad17d8982b8f2bba08fbb818.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/8d213bfc4c5135cac6b041654a6b02af698e2076.jpg",
+          "hidden": false,
+          "percent": "4.9"
+        },
+        "GC_Award_N_47": {
+          "name": "Five-in-One Plaque",
+          "description": "Awarded for hunting 5 monsters in 1 Expedition Tour.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e530b105ad9658bb4fd54f63638538c103efc240.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9adbc051a9f7f4d97b3352b21eb9b83624cfed9f.jpg",
+          "hidden": false,
+          "percent": "5.3"
+        },
+        "GC_Award_N_48": {
+          "name": "Seasoned Jockey Plaque",
+          "description": "Awarded for riding many different monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/f953e22f25037033c74858ae269b26a6c94132ac.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/276d58a0fca800c6beaf5ac1e33fae5dbceb40b5.jpg",
+          "hidden": false,
+          "percent": "41.4"
+        },
+        "GC_Award_N_49": {
+          "name": "Mini Crown Plaque",
+          "description": "Awarded for registering many miniature crownsized monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cb91a78d777a11dea444d828584c9eb1e321bd94.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c454929e88244ac5104ea30bce764a1e67c4b2f2.jpg",
+          "hidden": false,
+          "percent": "1.2"
+        },
+        "GC_Award_N_50": {
+          "name": "Gold Crown Plaque",
+          "description": "Awarded for registering many gold crown-sized monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/eb9d05fffa13905cbb077c03947b6d94d9f73f04.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6506fc29087f2d678f0498fea457e0ecf9c4afb0.jpg",
+          "hidden": false,
+          "percent": "1.2"
+        },
+        "GC_Award_N_MR_01": {
+          "name": "Royal Request for Cooperation",
+          "description": "An official request for Kamura's hunter. Awarded for collaboration with Elgado Outpost.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c861207ff8f9eebc5114106d7a0ad90cd393ccee.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/d047a7c84f8e1706f4a9e1695916154774025446.jpg",
+          "hidden": false,
+          "percent": "40.0"
+        },
+        "GC_Award_N_MR_02": {
+          "name": "Long-Distance Binoculars",
+          "description": "Binoculars giving a clear view of far-off targets. Awarded to staunch investigators.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4f27e9f9206f1a22fc0edd126731ee57701ac0a0.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4b157170d992930feb2e8971a9e919ab5e006324.jpg",
+          "hidden": false,
+          "percent": "38.0"
+        },
+        "GC_Award_N_MR_03": {
+          "name": "Survey Cape",
+          "description": "Protects the wearer from the harshest environments. Awarded for hunting the Garangolm.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/27ffbd879c30d29cf2241e48cf928a290d01f7ec.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/f523e05febc6472d2fa41ad198d46e44d9aa1684.jpg",
+          "hidden": false,
+          "percent": "36.5"
+        },
+        "GC_Award_N_MR_04": {
+          "name": "Azure Feather Fountain Pen",
+          "description": "A fountain pen with a blue feather gifted by Fiorayne. Awarded for hunting the Lunagaron.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fea198fd5fbccfbc8811597a81b314df22b84ac9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/7f813b3c7e9051231a32a1fd3d80425ddf5e791b.jpg",
+          "hidden": false,
+          "percent": "34.5"
+        },
+        "GC_Award_N_MR_05": {
+          "name": "Majestic Desk Banner",
+          "description": "A desk flag proving the owner's distinguished service. Awarded for slaying Malzeno.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/05a33e36941cc3ac3f4cc5859f311d94d2c14028.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ce78289a95163e4812ed3ca1ae241d9aefc20a65.jpg",
+          "hidden": false,
+          "percent": "32.6"
+        },
+        "GC_Award_N_MR_06": {
+          "name": "Royal Declaration of Gratitude",
+          "description": "An official thank-you letter. For hunters who contributed greatly to the Kingdom's peace.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/42806b4f500164bb24dd498c24a704bc9836d427.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c21ec97c4bbf032c92907e1a7ba373d78cfe607b.jpg",
+          "hidden": false,
+          "percent": "31.1"
+        },
+        "GC_Award_N_MR_07": {
+          "name": "Record of Utmost Valor - Master",
+          "description": "A souvenir from the Guild for completing many Master Rank quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/5cd3bf6006bdd1147abd4fb9c34d0d14f03fdb0e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/dcbde92b8abc341899692589ba9f5e3435776350.jpg",
+          "hidden": false,
+          "percent": "3.0"
+        },
+        "GC_Award_N_MR_08": {
+          "name": "Snowy Cohoot Mini-Pouch",
+          "description": "Awarded for befriending a fledgling Snowy Cohoot from Elgado. Looks tiny, but has a big appetite.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/afc84aaad4c3e83a28168d88f4a8292b6413492f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bd638d79e1dd720bc81f3cbb3c471528edba7b82.jpg",
+          "hidden": false,
+          "percent": "4.6"
+        },
+        "GC_Award_N_MR_09": {
+          "name": "Record of Utmost Valor - Arena",
+          "description": "A souvenir from the Guild for completing even more Arena quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e8e57e227ad94da35d48b9aa477c4ebb4f1d57ee.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/140a817e6f170e3f0589d605ad1def0e5dc6a528.jpg",
+          "hidden": false,
+          "percent": "1.7"
+        },
+        "GC_Award_N_MR_10": {
+          "name": "Painting - Foreign Threads",
+          "description": "Awarded for completing many Follower Quests to mark deep village-Outpost ties.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/49c0ecb460df5d1c2c37fbd0c7187f0a1bd78e23.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c85383bded71b7b29db14d29d26b4421f55f0f41.jpg",
+          "hidden": false,
+          "percent": "6.0"
+        },
+        "GC_Award_N_MR_11": {
+          "name": "Painting - Seicho's Place",
+          "description": "Proof of having completed many Support Surveys. Soar away into a clear blue sky.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cb9e4896eeafe8aeb0e5e41abfd3a5885961168d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b76d5fb985c5d9d903afd1f4e3fa4457a72fbf24.jpg",
+          "hidden": false,
+          "percent": "2.8"
+        },
+        "GC_Award_N_MR_12": {
+          "name": "Cups of Friendship",
+          "description": "Awarded for deepening bonds with many Followers. Sharing this cup fosters friendship.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/5331b6e399f9e14bb8c62bba59b367a9bf8758bb.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/52a9e11dc095a3ed207e2512c1392ad1b8523f2c.jpg",
+          "hidden": false,
+          "percent": "7.0"
+        },
+        "GC_Award_N_MR_13": {
+          "name": "Painting - Crimson Nightmare",
+          "description": "A depiction of the dreadful Qurio. Awarded for completing numerous Anomaly Quests.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a5a81af468c624c4994041bf3924b3de4b5ae8e1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0fab33d85f7f29d8ac3f1dfe32e507ad5bd6acbe.jpg",
+          "hidden": false,
+          "percent": "4.4"
+        },
+        "GC_Award_N_MR_18": {
+          "name": "Sea-Blue Amulet",
+          "description": "Awarded for completing 50 quests in the Jungle. A talisman to protect you on your travels.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6eb187d16158dbee1c7df6b63a54333c949d7d13.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/7a79fcf89569d3c46639ca555f4f08139afec63c.jpg",
+          "hidden": false,
+          "percent": "8.2"
+        },
+        "GC_Award_N_MR_17": {
+          "name": "Copal Brooch",
+          "description": "Awarded for completing 50 quests in the Citadel. A charm praying for your good health.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/83f9fa26abadafe3a12d24c9992f66b26b13a960.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/773abf5f25fadc002f675fafad204f8756fb1366.jpg",
+          "hidden": false,
+          "percent": "11.5"
+        },
+        "GC_Award_N_MR_19": {
+          "name": "Beloved Bouquet",
+          "description": "Awarded for fulfilling various requests in Kamura and/or Elgado.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/30842f74655c51dd1cb4a9bef37d32f1c5c97417.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0ff3a260cbd30053a59dd7b3e675deaad1825552.jpg",
+          "hidden": false,
+          "percent": "2.5"
+        },
+        "GC_Award_N_MR_20": {
+          "name": "Familiar Construction Kit",
+          "description": "An easy-to-deploy camping kit. Awarded for unlocking a lot of camps in the Jungle and Citadel.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/4d33b0fe899a6dbf3b430d23341f1736398807ec.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1a7882a0badf15a17b27d4d1751de232d3116ceb.jpg",
+          "hidden": false,
+          "percent": "14.0"
+        },
+        "GC_Award_N_MR_21": {
+          "name": "Great Wirebug Medal",
+          "description": "Awarded for discovering a lot of Great Wirebug launch points in the Jungle and the Citadel.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/54b85d055fc984a0b63beb76ee5b03cfeb4eaa13.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/20875ffac3eef66016b7c2fdf2b3cecb4ea8b594.jpg",
+          "hidden": false,
+          "percent": "2.5"
+        },
+        "GC_Award_N_MR_22": {
+          "name": "Immaculate Bookmark",
+          "description": "Awarded for discovering a lot of Old Messages in the Jungle and Citadel. An unspoiled antique.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/db063cf89349a2473d55b1998fc0ab7dfc7760bd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/7e208795711080c8d07eabd03a156f91a5edc9cc.jpg",
+          "hidden": false,
+          "percent": "2.2"
+        },
+        "GC_Award_N_MR_23": {
+          "name": "Natural Picture Frame",
+          "description": "A smart frame awarded for photographing many creatures in the Citadel and Jungle.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/a536d4aea8bb09cc7efd2a3f684de161c2889a93.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0bc7d0ebf820f005f9619e3bd46daa9e552bf4a3.jpg",
+          "hidden": false,
+          "percent": "1.5"
+        },
+        "GC_Award_N_MR_24": {
+          "name": "Transcender's Red Sash",
+          "description": "Its refinement exceeds human capability. Awarded for obtaining even more Switch Skills.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b53cabaead6097da329709cb9ab7a064dd798b83.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/5bcf31324899c5430022fdbe224aacb50795f50f.jpg",
+          "hidden": false,
+          "percent": "2.0"
+        },
+        "GC_Award_N_MR_25": {
+          "name": "Great Helmet",
+          "description": "A pretty great winged helmet. Awarded for forging even more valuable weapons and armor.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/8611b25eb83a04f7b71c57d0018b4a11b7564faf.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9ba96b81ec0aca21244018712b2b672a23f27699.jpg",
+          "hidden": false,
+          "percent": "25.6"
+        },
+        "GC_Award_N_MR_26": {
+          "name": "Gorgeous Helm",
+          "description": "A helm with golden hollows and blue wings. Awarded for forging even more valuable layered armor.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/23dd9c12625d4e9737ad062584d168fb77f9de73.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/da44ea2ec55f338eabb3d98e1d8d38f15d45a39f.jpg",
+          "hidden": false,
+          "percent": "14.3"
+        },
+        "GC_Award_N_MR_29": {
+          "name": "Solid Padlock",
+          "description": "Awarded for collecting even more trinkets and wall hangings. Won't budge, no matter what.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/64ee967a2a7a31025381a73d24878f9624e5f9c2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/20add670539ca23db3d4c231882bdba102b4755c.jpg",
+          "hidden": false,
+          "percent": "4.9"
+        },
+        "GC_Award_N_MR_30": {
+          "name": "Maestro's Trusty Tools",
+          "description": "Super popular in the Tea Shop! Awarded for helping make new dango, even in far-off Elgado.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/be8bf908a0c9899a3882522829f0b63139f9b160.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1b35fe19a93bde633c4942b086113a3279d49105.jpg",
+          "hidden": false,
+          "percent": "6.9"
+        },
+        "GC_Award_N_MR_31": {
+          "name": "Secret Honey Jar",
+          "description": "Awarded to dango connoisseurs for using many Hopping Skewers. Add honey to sweeten things up!",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/8da9f53d0f3785ef50572231242f9a2dbb315dd3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/22195c232ca888cb62767be388bbf2b42d4f66cc.jpg",
+          "hidden": false,
+          "percent": "24.1"
+        },
+        "GC_Award_N_MR_32": {
+          "name": "Napping Felyne & Canyne",
+          "description": "Toys of a cuddling Felyne and Canyne. Awarded to avid instructors at the Buddy Dojo.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0e0153c041f79ff50a1418c853b78bc694851d68.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/29caa77b596a1966f3db0916a29262048b3e2fb8.jpg",
+          "hidden": false,
+          "percent": "7.7"
+        },
+        "GC_Award_N_MR_33": {
+          "name": "Sojourn Necklace",
+          "description": "A necklace that ended up with your Buddy. Awarded for trading with Letters of Introduction.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/c676310519447a511beae653e95063bb1e23197a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/94919592f672043e6879681784ff1c3b37e9d1c7.jpg",
+          "hidden": false,
+          "percent": "23.1"
+        },
+        "GC_Award_N_MR_34": {
+          "name": "Buddy Whistle",
+          "description": "A simple flute with far-reaching tones. Awarded to those who have found a lot of Recon destinations.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/92b663dd51e0e1a95c2890da0ba327e332f3bcb2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/dd1f6d42b6b9b71ead3867e629aa9e6bf9aadb1a.jpg",
+          "hidden": false,
+          "percent": "3.0"
+        },
+        "GC_Award_N_MR_35": {
+          "name": "Flaky Canyne Pie",
+          "description": "A tasty treat for hard-working Canynes. Awarded for teaching your Canyne lots of techniques.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/d767398bda8c48cf87279c956fa11c9c3c6f1166.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cfdcb6a8e771170b9af87c7be2468f0c109c13a0.jpg",
+          "hidden": false,
+          "percent": "20.8"
+        },
+        "GC_Award_N_MR_36": {
+          "name": "Polychrome Acorn",
+          "description": "A cute and colorful painted acorn. Awarded for having lots of Buddies with outstanding Skill Memory.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/201f7b735ef1e4e1961ab92e3cef88222c30aad4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/151874c6fbd43d01a1a02b2a81779289ba41005c.jpg",
+          "hidden": false,
+          "percent": "2.3"
+        },
+        "GC_Award_N_MR_37": {
+          "name": "Windbreaker Scarf",
+          "description": "Ignore wind as you whip through the world. Awarded for performing many Switch Skill Swaps.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ffcbf9b3dfa184df2255ca1e501f41ba5f037dd9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/937dc1403a3ad9108e55d7bc5b2ef8e7816c2241.jpg",
+          "hidden": false,
+          "percent": "24.0"
+        },
+        "GC_Award_N_MR_38": {
+          "name": "Jewelgrass Planter",
+          "description": "Awarded to those who rode various monsters with the power of Morphed Wirebugs.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/d12903d152fbcb9406099248e0490ed10c64194d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/3b2f6ef3fa3890bfd0301e1adf9d59c349c7be7a.jpg",
+          "hidden": false,
+          "percent": "33.3"
+        },
+        "GC_Award_N_MR_39": {
+          "name": "Unbreakable Bag",
+          "description": "Wow! A whole bag awarded for obtaining samples of items from all over the place.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bd5a19ed4248434210b2ef8f03388aa0a915fd5f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/0edc4ee0e98cb2003877f63916d295f26958f82a.jpg",
+          "hidden": false,
+          "percent": "2.2"
+        },
+        "GC_Award_N_MR_40": {
+          "name": "Comfortable Sandals",
+          "description": "Sandals for exploring. Awarded for talking with lots of people in the Outpost.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bc88b404f82b0d85d03c77be28bbb9451a7759c2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/cbb992047d9315aacbd64f708579ae8130fecdf5.jpg",
+          "hidden": false,
+          "percent": "1.9"
+        },
+        "GC_Award_N_MR_41": {
+          "name": "Hunter's Bronze Shield",
+          "description": "Awarded for hunting 100 large master rank monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/51ff886f1f521f776b3133288f13aa7ceff3f6ee.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/2f748f8039cd20b87170e4896594584614e8dfe6.jpg",
+          "hidden": false,
+          "percent": "26.3"
+        },
+        "GC_Award_N_MR_42": {
+          "name": "Hunter's Silver Shield",
+          "description": "Awarded for hunting 500 large master rank monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/651ae29f3cc7b5c594ebf4d0c4a9c21ea071f1ec.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/3648a3865de8c2b6a876660dad3467dfa3b50961.jpg",
+          "hidden": false,
+          "percent": "6.6"
+        },
+        "GC_Award_N_MR_43": {
+          "name": "Hunter's Gold Shield",
+          "description": "Awarded for hunting 1000 large master rank monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b32d311bcfe2e40af789c1806716b512fb1ac7f7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/069646c1abccdf75355892c563def4b029e4b424.jpg",
+          "hidden": false,
+          "percent": "2.3"
+        },
+        "GC_Award_N_MR_44": {
+          "name": "Miniature Crown Shield",
+          "description": "Awarded for registering almost all miniature crown-sized monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/faed62a302086db6e8c66336c4d80a3160fdfc2a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/138789920c438ec1bab51d11b46c8588fd9e0ecb.jpg",
+          "hidden": false,
+          "percent": "1.0"
+        },
+        "GC_Award_N_MR_45": {
+          "name": "Gold Crown Shield",
+          "description": "Awarded for registering almost all gold crown-sized monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/d0b92faedb82fc558890c1020131c1c73262b1ee.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/bfe00bb9b2107b9dbf216554aefab096cfd31606.jpg",
+          "hidden": false,
+          "percent": "1.0"
+        },
+        "GC_Award_N_MR_46": {
+          "name": "Anomaly Hunt Silver Trophy",
+          "description": "Awarded for slaying your first afflicted monster.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1b7b04d0535d7bbca1841bbc0acba74c4c01ce0c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/b3f4e53b1526690fbb194b2cc3316b6351dec194.jpg",
+          "hidden": false,
+          "percent": "29.6"
+        },
+        "GC_Award_N_MR_47": {
+          "name": "Anomaly Hunt Gold Trophy",
+          "description": "Awarded for slaying 100 afflicted monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/2cf0d44a81c431cff3d5e045e001d8d9a6b9d5d1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1b4ff6019fb45be94d09c20cad41e568e94ad5f5.jpg",
+          "hidden": false,
+          "percent": "9.6"
+        },
+        "GC_Award_N_MR_14": {
+          "name": "Anomaly Research Report",
+          "description": "An extremely detailed report, the result of impressive hard work researching the Anomaly.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ee72a12c12c42a7e548542986c18d8cd0f93120f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/e4b2ac067bc074a2ba4a86d4b6e173d4f52a8fb8.jpg",
+          "hidden": false,
+          "percent": "20.7"
+        },
+        "GC_Award_N_MR_15": {
+          "name": "Vermilion Amber Essence",
+          "description": "Awarded only to those who have completed tasks designated by the Research Lab to be the most difficult.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ea6da8c2e1c47c084a775db026b480bd920695ae.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/fb207cc55b6915b8c87d94beb1ffadcb1e722f77.jpg",
+          "hidden": false,
+          "percent": "13.7"
+        },
+        "GC_Award_N_MR_16": {
+          "name": "Bahari's Hand-Wound Birdie",
+          "description": "Bahari's handmade toy that walks when wound up. Proves you frequent the Anomaly Lab.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/26496d8203a5f58878194a9a1b8757cfad4df140.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/75bf6a5bef254f2af9471bb3c2c4e443d69de49c.jpg",
+          "hidden": false,
+          "percent": "4.5"
+        },
+        "GC_Award_N_MR_27": {
+          "name": "Smithy's Custom-made Gloves",
+          "description": "Awarded for Augmenting many weapons via Qurious Crafting. Specially developed to handle dangerous afflicted materials.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/f46a7b70528d6549bdc859ee74e7a01804ea807c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/ebc5bcaebca7a0fd8e718f8b5c3bff4023d42d20.jpg",
+          "hidden": false,
+          "percent": "13.3"
+        },
+        "GC_Award_N_MR_28": {
+          "name": "Smithy's Tools of the Trade",
+          "description": "Awarded for Augmenting a lot of armor via Qurious Crafting. These tools can work even the most brittle of materials.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/37b9e8d51fc6907a8c8f71a99dcdbe97bcac05d0.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/1f4f9b5ebedebf77d9491c59ee98f390139173cd.jpg",
+          "hidden": false,
+          "percent": "17.5"
+        },
+        "GC_Award_N_MR_48": {
+          "name": "Surmounter’s Slaying Shield",
+          "description": "Awarded for slaying your first Risen monster.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/6ff515025d36b84e5fd87675538174faa8be994b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/9df3957ec16637084375951d6d408578a151d190.jpg",
+          "hidden": false,
+          "percent": "16.4"
+        },
+        "GC_Award_N_MR_49": {
+          "name": "Shining Surmounter’s Shield",
+          "description": "Awarded for slaying 15 Risen monsters.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/12c28189df096e6d1d4a913936d77431635a0d5a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/596ffdcccca0a9a1a3502e6a887c2bbb62a70864.jpg",
+          "hidden": false,
+          "percent": "7.0"
+        },
+        "GC_Award_N_MR_50": {
+          "name": "Hero's Accolade",
+          "description": "The mark of a great hero, who has acquired a large number of awards.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/eb2047a217963771752460eb5250dbc9d6367431.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446780/40a4a0e2aadeaa32ed5b833502072b3f0784d05c.jpg",
+          "hidden": false,
+          "percent": "0.8"
+        }
+      }
+    },
+    "achievements": {
+      "GC_Award_N_04": {
+        "earned": true,
+        "earned_time": 1672358650
+      },
+      "GC_Award_N_05": {
+        "earned": true,
+        "earned_time": 1672780206
+      },
+      "GC_Award_N_22": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_01": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_02": {
+        "earned": true,
+        "earned_time": 1672163488
+      },
+      "GC_Award_N_03": {
+        "earned": true,
+        "earned_time": 1672490279
+      },
+      "GC_Award_N_06": {
+        "earned": true,
+        "earned_time": 1673111730
+      },
+      "GC_Award_N_07": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_08": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_09": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_10": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_11": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_12": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_13": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_14": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_15": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_16": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_17": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_18": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_19": {
+        "earned": true,
+        "earned_time": 1672682799
+      },
+      "GC_Award_N_20": {
+        "earned": true,
+        "earned_time": 1673473272
+      },
+      "GC_Award_N_21": {
+        "earned": true,
+        "earned_time": 1672952823
+      },
+      "GC_Award_N_23": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_24": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_25": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_26": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_27": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_28": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_29": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_30": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_31": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_32": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_33": {
+        "earned": true,
+        "earned_time": 1673126513
+      },
+      "GC_Award_N_34": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_35": {
+        "earned": true,
+        "earned_time": 1673471242
+      },
+      "GC_Award_N_36": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_37": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_38": {
+        "earned": true,
+        "earned_time": 1673126513
+      },
+      "GC_Award_N_39": {
+        "earned": true,
+        "earned_time": 1673199915
+      },
+      "GC_Award_N_40": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_41": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_42": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_43": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_44": {
+        "earned": true,
+        "earned_time": 1672490590
+      },
+      "GC_Award_N_45": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_46": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_47": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_48": {
+        "earned": true,
+        "earned_time": 1672698246
+      },
+      "GC_Award_N_49": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_50": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_01": {
+        "earned": true,
+        "earned_time": 1673115811
+      },
+      "GC_Award_N_MR_02": {
+        "earned": true,
+        "earned_time": 1673199915
+      },
+      "GC_Award_N_MR_03": {
+        "earned": true,
+        "earned_time": 1673301109
+      },
+      "GC_Award_N_MR_04": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_05": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_06": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_07": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_08": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_09": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_10": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_11": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_12": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_13": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_18": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_17": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_19": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_20": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_21": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_22": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_23": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_24": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_25": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_26": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_29": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_30": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_31": {
+        "earned": true,
+        "earned_time": 1673209824
+      },
+      "GC_Award_N_MR_32": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_33": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_34": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_35": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_36": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_37": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_38": {
+        "earned": true,
+        "earned_time": 1673191761
+      },
+      "GC_Award_N_MR_39": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_40": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_41": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_42": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_43": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_44": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_45": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_46": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_47": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_14": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_15": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_16": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_27": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_28": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_48": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_49": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "GC_Award_N_MR_50": {
+        "earned": false,
+        "earned_time": 0
+      }
+    }
+  },
+  {
     "appid": "579840",
     "info": {
       "appid": "579840",
@@ -12557,6 +14093,378 @@
       "ACH_WILLIAM_NO_DAMAGE": {
         "earned": false,
         "earned_time": 0
+      }
+    }
+  },
+  {
+    "appid": "710920",
+    "info": {
+      "appid": "710920",
+      "name": "Darksiders Genesis",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710920/header.jpg?t=1754079110",
+      "achievements": {
+        "Mammon": {
+          "name": "Mammon",
+          "description": "Defeat Mammon Lord of Hell.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/18bce388422bb2ca1eea034b615c051d910482a8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/c4cd0e31b0c84054dc5c8f21cb63a097297912fc.jpg",
+          "hidden": false,
+          "percent": "29.1"
+        },
+        "Belial": {
+          "name": "Belial",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/a8c1c8597ab8689f738dad82e97338da06e60062.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/d9deaa0bab3935270061c1742793645224b5209c.jpg",
+          "hidden": true,
+          "percent": "23.6"
+        },
+        "Astarte": {
+          "name": "Astarte",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/e4f6d6c364991ab82ebfb1aab45c3202748615bb.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/0017f5373641df14965e975f43ab73eff9f40209.jpg",
+          "hidden": true,
+          "percent": "23.0"
+        },
+        "Dagon": {
+          "name": "Dagon",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/d03c0b189a54c17e6e0e75159a891802afd8620f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/a77627f0bb8263a133f8f82bede3e0ff29f73c18.jpg",
+          "hidden": true,
+          "percent": "20.9"
+        },
+        "Moloch": {
+          "name": "Moloch",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/adb48d0b150913956d065c999524bff5e6b2953d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/fc76815b46948330bdee64501fb707b9ec087f4e.jpg",
+          "hidden": true,
+          "percent": "18.9"
+        },
+        "AreYouNotEntertained": {
+          "name": "Are You Not Entertained?",
+          "description": "Achieve a score of 70000 or higher in the arena.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/60f39f678c688631ec356074311956374535abe2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/5681eadf9103d590338cc6014444d7fca95c0305.jpg",
+          "hidden": false,
+          "percent": "5.9"
+        },
+        "FullofHell": {
+          "name": "Full of Hell",
+          "description": "Complete all 17 levels on Hard difficulty.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/b15f7ed730736d11fae9661e71da80eaafb0aca3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/b6dd7106bbea25303ec450b5d75fbd8e531d07e3.jpg",
+          "hidden": false,
+          "percent": "4.1"
+        },
+        "ThePromisedEnd": {
+          "name": "The Promised End",
+          "description": "Complete all 17 levels on Apocalyptic difficulty.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/48488f50ee23936644dd953ed82d87ffdd52b74d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/5f25e146a0aed4c710e72b7eb2b35a072ef969b3.jpg",
+          "hidden": false,
+          "percent": "2.9"
+        },
+        "MasterofStrife": {
+          "name": "Master of Strife",
+          "description": "Learn all 3 of Strife's Wrath abilities.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/90ef1e6cf1b144163587a0b6b5c85581aa00d650.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/580aa2bdd279ddbd2b7a0601b21cd8892f11025e.jpg",
+          "hidden": false,
+          "percent": "18.7"
+        },
+        "MasterofWar": {
+          "name": "Master of War",
+          "description": "Learn all 3 of War's Wrath abilities.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/729e6f888b1e54bf88ca0ec1816531fb4d4630f5.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/d0b09755e443afae91f264370986446d930301af.jpg",
+          "hidden": false,
+          "percent": "19.2"
+        },
+        "ABulletforAllSeasons": {
+          "name": "A Bullet for All Seasons",
+          "description": "Find all 5 of Strife's elemental ammo types.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/0fd4517d22f9eb773f43a4df41e10a2eaaba2979.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/5d08cfe0a6b74b08510eae490f3b48134076cf7f.jpg",
+          "hidden": false,
+          "percent": "15.6"
+        },
+        "WalkingArmory": {
+          "name": "Walking Armory",
+          "description": "Find all 5 of War's elemental enhancements.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/4b4a833ecb828013356b03d5172618c8b069a4d0.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/9893ef4e200eb00eda85bb9fa905dbc41244e582.jpg",
+          "hidden": false,
+          "percent": "15.0"
+        },
+        "Collector": {
+          "name": "Collector",
+          "description": "Collect every type of creature core.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/42803e5296616640b3cf07b77ccf7cc5ce8116ef.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/c7b5995b846fce885ce7df36dc3892792c463ebb.jpg",
+          "hidden": false,
+          "percent": "4.4"
+        },
+        "MintI": {
+          "name": "Mint I",
+          "description": "Collect 50 Boatman Coins.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/b61a4ac540b6612a756de402f392042335980255.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/f1b2ddcd2b4115cffa82aec00ad994bd625f986c.jpg",
+          "hidden": false,
+          "percent": "40.6"
+        },
+        "MintII": {
+          "name": "Mint II",
+          "description": "Collect 200 Boatman Coins.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/c1020864ee44363bfd2eb10133f3dcc33eea09cd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/e6d86e930aff23a197fcc172ecae74a69dda69a3.jpg",
+          "hidden": false,
+          "percent": "20.8"
+        },
+        "MintIII": {
+          "name": "Mint III",
+          "description": "Collect 350 Boatman Coins.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/7e6bfca8ebe622a044b4c40de97a93b85997218f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/f270eac5fa6fd9ffa624273afd4b5689f5875fb5.jpg",
+          "hidden": false,
+          "percent": "12.1"
+        },
+        "SoulCache": {
+          "name": "Soul Cache",
+          "description": "Destroy all 4 Soul Caches in The Slag Pit.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/13cf6337b5c6f983e18a0920b03c63c561f3d660.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/080341fe549373ee363ece911f942ae79e17fcc4.jpg",
+          "hidden": false,
+          "percent": "28.3"
+        },
+        "HellsForge": {
+          "name": "Hell's Forge",
+          "description": "Gather all the ingots in the Inferno Vault and take them to Hell's Forge.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/caf75f67b0b5ca98fd5e745d9c595c283966d4af.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/26e21a138c1eec19d69b5a8c3f61264fdada6a9e.jpg",
+          "hidden": false,
+          "percent": "12.0"
+        },
+        "ClosetheRift": {
+          "name": "Close the Rift",
+          "description": "Close the rift leaking void creatures in Icebind Cavern.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/22f546d51b931a60546b168a1e50df4237f25848.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/8414ebc762e07bcb1f266610b76227948b87d508.jpg",
+          "hidden": false,
+          "percent": "24.1"
+        },
+        "RespectforAnimals": {
+          "name": "Respect For Animals",
+          "description": "Defeat less than 5 hounds before killing the Houndmaster in The Horde.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/a958eb5e3a748cf973e4fe65f71ab44184649790.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/de5ed38d0c4d03e52f447cc05594cead189315f9.jpg",
+          "hidden": false,
+          "percent": "4.6"
+        },
+        "TheDeadCourt": {
+          "name": "The Dead Court",
+          "description": "Defeat the Dread Lord's subjects in Decay.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/c5216f55e09ecc084ed97bcab47bcdfa7b5ad5f1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/a88b02b7462ec402f568d77e1af292628852a057.jpg",
+          "hidden": false,
+          "percent": "20.3"
+        },
+        "WhydItHavetoBeSnakes": {
+          "name": "Why'd It Have to Be Snakes?",
+          "description": "Defeat every snake in Decay.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/79961ac478a2a1d1f24916ed7564987b624549a6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/9639a867b98b722b09ef7cab5c48c750cd2db9db.jpg",
+          "hidden": false,
+          "percent": "11.3"
+        },
+        "GoodDeeds": {
+          "name": "Good Deeds",
+          "description": "Save the uncorrupted angels in Bastion's Fall",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/efd43edd76c2379a35680d65cc185cb37d3c1efe.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/656e58d4338955280fe3affd0542cae738769798.jpg",
+          "hidden": false,
+          "percent": "14.5"
+        },
+        "Infested": {
+          "name": "Infested",
+          "description": "Defeat the grub queen in The Maelstrom.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/899cdca8b9aae3e9720256374e678d7a025f6262.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/84f646203d2674283bd5bfe076737a70b6926574.jpg",
+          "hidden": false,
+          "percent": "17.4"
+        },
+        "ReadytoBlow": {
+          "name": "Ready to Blow",
+          "description": "Destroy all 12 of Moloch's supply caches in War Machine.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/8a3465e90e3c8af0f09171b9f4496e587c4f5b83.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/65d32095b400efaa4f50259f334ec2f98d07e508.jpg",
+          "hidden": false,
+          "percent": "11.5"
+        },
+        "DemolitionDerby": {
+          "name": "Demolition Derby",
+          "description": "Destroy 10 structures in War Machine.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/1ef5166f2a7341c1e86926430f5ecca0f1f96e2c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/30c4b267fb6fa950b4f8e7940e7719c1e36d857a.jpg",
+          "hidden": false,
+          "percent": "19.3"
+        },
+        "Blademaster": {
+          "name": "Blademaster",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/187f7ee9f6d12596e1ebae937832cf59e6d5728e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/a9789618209eaf5777ef6c07222cb7b54c7f8092.jpg",
+          "hidden": true,
+          "percent": "3.0"
+        },
+        "TheGardenofForkingPaths": {
+          "name": "Garden of Forking Paths",
+          "description": "Collect every Boatman Coin in the Boatman's Labyrinth.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/0179cd752715a15231d193c18d1543c8aeac1e7a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/22da4a20b01270e714e4591ad126c44b4d79f451.jpg",
+          "hidden": false,
+          "percent": "3.7"
+        },
+        "Gatekeeper": {
+          "name": "Gatekeeper",
+          "description": "Unlock every Trickster Door.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/0c2afe73311a76926962e41f7a4084832060108e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/d332bdb6d85ef5824defec408a9836cac54a32db.jpg",
+          "hidden": false,
+          "percent": "9.9"
+        },
+        "WickedKillington": {
+          "name": "Wicked Killington",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/48ecb5d416e19854efd3b5db57086eaf11c39200.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/710920/4c3774fde7f0bf0f1701023a325bf4621b71943a.jpg",
+          "hidden": true,
+          "percent": "9.2"
+        }
+      }
+    },
+    "achievements": {
+      "Mammon": {
+        "earned": true,
+        "earned_time": 1735401824
+      },
+      "Belial": {
+        "earned": true,
+        "earned_time": 1735561102
+      },
+      "Astarte": {
+        "earned": true,
+        "earned_time": 1735562506
+      },
+      "Dagon": {
+        "earned": true,
+        "earned_time": 1735581542
+      },
+      "Moloch": {
+        "earned": true,
+        "earned_time": 1735599181
+      },
+      "AreYouNotEntertained": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "FullofHell": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ThePromisedEnd": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "MasterofStrife": {
+        "earned": true,
+        "earned_time": 1735152727
+      },
+      "MasterofWar": {
+        "earned": true,
+        "earned_time": 1735558668
+      },
+      "ABulletforAllSeasons": {
+        "earned": true,
+        "earned_time": 1735569260
+      },
+      "WalkingArmory": {
+        "earned": true,
+        "earned_time": 1735567296
+      },
+      "Collector": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "MintI": {
+        "earned": true,
+        "earned_time": 1735060805
+      },
+      "MintII": {
+        "earned": true,
+        "earned_time": 1735554699
+      },
+      "MintIII": {
+        "earned": true,
+        "earned_time": 1735587375
+      },
+      "SoulCache": {
+        "earned": true,
+        "earned_time": 1735060068
+      },
+      "HellsForge": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "ClosetheRift": {
+        "earned": true,
+        "earned_time": 1735143915
+      },
+      "RespectforAnimals": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "TheDeadCourt": {
+        "earned": true,
+        "earned_time": 1735407392
+      },
+      "WhydItHavetoBeSnakes": {
+        "earned": true,
+        "earned_time": 1735412008
+      },
+      "GoodDeeds": {
+        "earned": true,
+        "earned_time": 1735563539
+      },
+      "Infested": {
+        "earned": true,
+        "earned_time": 1735569833
+      },
+      "ReadytoBlow": {
+        "earned": true,
+        "earned_time": 1735596897
+      },
+      "DemolitionDerby": {
+        "earned": true,
+        "earned_time": 1735595711
+      },
+      "Blademaster": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "TheGardenofForkingPaths": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Gatekeeper": {
+        "earned": true,
+        "earned_time": 1735601715
+      },
+      "WickedKillington": {
+        "earned": true,
+        "earned_time": 1735602219
       }
     }
   },
