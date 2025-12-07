@@ -18,38 +18,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 2  # Need 2 commits to detect changes
-
-      - name: Check for deleted files only
-        id: check_changes
-        run: |
-          # Get all changed files with their status
-          CHANGED_FILES=$(git diff --name-status HEAD~1 HEAD)
-          
-          # Check if there are any added (A) or modified (M) achievement files
-          ADDED_OR_MODIFIED=$(echo "$CHANGED_FILES" | grep -E "^[AM]" | grep -E "AppID/.*/achievements\.json|AppID/.*\.db" || true)
-          
-          if [ -z "$ADDED_OR_MODIFIED" ]; then
-            echo "Only deletions or non-achievement changes detected, skipping workflow"
-            echo "skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "Added or modified achievement files detected, continuing"
-            echo "skip=false" >> $GITHUB_OUTPUT
-          fi
+          fetch-depth: 2
 
       - name: Set up Python
-        if: steps.check_changes.outputs.skip != 'true'
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        if: steps.check_changes.outputs.skip != 'true'
         run: |
           pip install requests beautifulsoup4 lxml
 
       - name: Fetch game data
-        if: steps.check_changes.outputs.skip != 'true'
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
@@ -261,7 +241,7 @@ jobs:
               # Check if .db file exists
               db_file_path = Path(f'AppID/{appid}/{appid}.db')
               uses_db_file = db_file_path.exists()
-              
+
               try:
                   # Fetch from Steam Store API
                   store_url = f'https://store.steampowered.com/api/appdetails?appids={appid}'
@@ -483,7 +463,6 @@ jobs:
           EOF
 
       - name: Commit changes
-        if: steps.check_changes.outputs.skip != 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
