@@ -129,7 +129,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/28503ae1c8490f2d7cf114247862bb94a96f9dc4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/16d5d298b58e58025f5ac36429799cb1560ec4cb.jpg",
       "hidden": false,
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "Achievement_GOSCC_20": {
       "name": "Closure",
@@ -173,7 +173,7 @@
     },
     "Achievement_GOSCC_25": {
       "name": "Two Sides of the Same Coin",
-      "description": "",
+      "description": "Unite the two sides of the Mayor.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/28503ae1c8490f2d7cf114247862bb94a96f9dc4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/c3dc3b01e02f655352ce2774960f070010624e83.jpg",
       "hidden": true,
@@ -181,11 +181,11 @@
     },
     "Achievement_GOSCC_26": {
       "name": "Grown-ups Do the Talking",
-      "description": "",
+      "description": "Find all of the clues to spark Neeshka's memory.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/5bfbfe8b8455b7d5b2e78e48c4a5f4b3e087e110.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/5f23e855428159c44ed5510ba09990bfba105f90.jpg",
       "hidden": true,
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "Achievement_GOSCC_27": {
       "name": "One Way Ticket To Sixtopia",
@@ -193,11 +193,11 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/d61d65c5aba00432bbc6409ee40c231fca84fdef.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/8ee3fc32d84489b6c1f73a3dfc65e4402747c787.jpg",
       "hidden": false,
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "Achievement_GOSCC_28": {
       "name": "A Dicey Situation",
-      "description": "",
+      "description": "Reunite with Dicey.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/21b64d31f4d3f8498cd03748b8df8a9bc7465dc4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/de384b4417184adce5d140b1f7f6e3c0e0ef4ffe.jpg",
       "hidden": true,
@@ -213,7 +213,7 @@
     },
     "Achievement_GOSCC_30": {
       "name": "Back on Track",
-      "description": "",
+      "description": "Get a pep talk from Death.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/103179c8757e695784ffc596fd08b3a73efeb0cc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/e91ce37be319ce090366e5f229b723b175f2b25c.jpg",
       "hidden": true,
@@ -229,11 +229,11 @@
     },
     "Achievement_GOSCC_32": {
       "name": "Served",
-      "description": "",
+      "description": "Defeat Royam in Rhyme Battle.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/4056435d38b97bcea2051a2cebcd6c645aec25eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/15d7f37778fc7a134cb74181c83393879297136f.jpg",
       "hidden": true,
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "Achievement_GOSCC_33": {
       "name": "Not Over Until the Nanny Sings",
@@ -245,7 +245,7 @@
     },
     "Achievement_GOSCC_34": {
       "name": "A Grim Fairy Tale",
-      "description": "",
+      "description": "Defeat the Bag Brothers.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/4056435d38b97bcea2051a2cebcd6c645aec25eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/d248cb1cafa7af6b8ba797067aeb67a054dcd274.jpg",
       "hidden": true,
@@ -253,7 +253,7 @@
     },
     "Achievement_GOSCC_35": {
       "name": "Ding Dong",
-      "description": "",
+      "description": "Defeat the Nanny.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/4056435d38b97bcea2051a2cebcd6c645aec25eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/fefeee8672ff1415b487ee7ce2ef8976afc8d961.jpg",
       "hidden": true,
@@ -261,7 +261,7 @@
     },
     "Achievement_GOSCC_36": {
       "name": "Through Thick and Thin",
-      "description": "",
+      "description": "Save your sister.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/19de15006ebec943ed1088b65b672438569c5ecb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/284584584f6753cff43137c667cd34db956ccde5.jpg",
       "hidden": true,
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/18e7ae3f497c3b0fd2b235612c3161c8981fa7b0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/1e6cc62363dfc646098fc05b25c79e54df48c985.jpg",
       "hidden": false,
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "Achievement_GOSCC_40": {
       "name": "Sharpshooter",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/ef2bc1c7ff109f5f5aad6c5a1fe1b813a03ba5aa.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/42a1adc87d7d2a591a708ac4f964b5486555bbf4.jpg",
       "hidden": false,
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "Achievement_GOSCC_42": {
       "name": "Tinkerer",
