@@ -5,7 +5,7 @@
   "achievements": {
     "Kill_Sin_Envy": {
       "name": "Green with Envy",
-      "description": "",
+      "description": "Defeat Envy",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/4e7288e2a640cabf093f5c688f050dc7bb34e1ab.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/fd8cdf85099c45a2c47d33ffb6b5358d7fdac86b.jpg",
       "hidden": true,
@@ -13,7 +13,7 @@
     },
     "Kill_Sin_Sloth": {
       "name": "Throne Potato",
-      "description": "",
+      "description": "Defeat Sloth",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/4a88a6e45116c6c5caa9b2c27fdf0aad842741c5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/74fc40af1fa3a71285ecdf5d4fbe6aac86f4f408.jpg",
       "hidden": true,
@@ -21,7 +21,7 @@
     },
     "Kill_Sin_Avarice": {
       "name": "All That Glitters",
-      "description": "",
+      "description": "Defeat Avarice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/ae13db8bb585685f2d20f1f08a84dac29fe3209c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/b48687b08ee0755c6db9e3a139e8013fb7395398.jpg",
       "hidden": true,
@@ -29,7 +29,7 @@
     },
     "Kill_Sin_Lust": {
       "name": "Delusions of Grandeur",
-      "description": "",
+      "description": "Defeat Lust",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/9f9fbbf87007a501e8b8c34e49b7df85be4e4273.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/7936966f0721cbd3abbffc570ec6009b147d1453.jpg",
       "hidden": true,
@@ -37,7 +37,7 @@
     },
     "Kill_Sin_Gluttony": {
       "name": "Eat Your Heart Out",
-      "description": "",
+      "description": "Defeat Gluttony",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/b86f41701fad85dbb1d236b8d1c4fd5a885f3138.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/455d847f09b951d37299fecd85e726c00c43c203.jpg",
       "hidden": true,
@@ -69,7 +69,7 @@
     },
     "Collect_Hollow_Flame": {
       "name": "Fight Fire with Fire",
-      "description": "",
+      "description": "Collect the Flame Hollow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/8d161c31f1c96ad676cc9adda8d8a24005dff28a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/a7034d8d201df631ae729bcec80745c335461d4e.jpg",
       "hidden": true,
@@ -77,7 +77,7 @@
     },
     "Collect_Hollow_Force": {
       "name": "I Wanna Rock",
-      "description": "",
+      "description": "Collect the Force Hollow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/1265bd547215465dc920c7223509964191cdea68.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/44a3f2f9e90a7de7c8818b2f7c28a96b93689915.jpg",
       "hidden": true,
@@ -85,7 +85,7 @@
     },
     "Collect_Hollow_Stasis": {
       "name": "Freeze Frame",
-      "description": "",
+      "description": "Collect the Stasis Hollow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/19d93038ab17bc18a176970fc9b007b04dd9ebce.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/a43274641bb82f217f20fe2f8c38a9f38eaf1ea1.jpg",
       "hidden": true,
@@ -93,7 +93,7 @@
     },
     "Collect_Hollow_Storm": {
       "name": "Perfect Storm",
-      "description": "",
+      "description": "Collect the Storm Hollow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/e932ba19c3930cd10410fe76224bb37a9d8a0339.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/5a6ae4b72d9d920484b04b797193fc3e2773672e.jpg",
       "hidden": true,
@@ -101,7 +101,7 @@
     },
     "Craft_Enhancement_First": {
       "name": "Enhance!",
-      "description": "",
+      "description": "Upgrade an Enhancement",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/cb83c93eb5c303a38a2b37d426301bd0f06d5331.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/600983a91faad9761dac5e43eb9e2a3c8a593d14.jpg",
       "hidden": true,
@@ -109,7 +109,7 @@
     },
     "Craft_Enhancement_Balanced_1": {
       "name": "Can you restore the Balance?",
-      "description": "",
+      "description": "Upgrade an Enhancement to Balanced",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/d998063dc144a1f427895d8391d471ec5cc51f6c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/51d530b8badd6b8eea76cfd8930ab41f4152000e.jpg",
       "hidden": true,
@@ -125,7 +125,7 @@
     },
     "Save_Humans_1": {
       "name": "Helping Hand",
-      "description": "",
+      "description": "Save a Human",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/70f22df017534ed3807e01af25f5760bd6a502a7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/a8ea97164b7545f53f7f59788baf03444279bfe6.jpg",
       "hidden": true,
@@ -133,7 +133,7 @@
     },
     "Save_Humans_5": {
       "name": "Five's a Crowd",
-      "description": "",
+      "description": "Save 5 Humans",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/6044df55bc9f6f596c23f5bcf8a15e5baaeceb73.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/40927bdf47753601bc77831d6b2d3d1b09ad171a.jpg",
       "hidden": true,
@@ -141,7 +141,7 @@
     },
     "Save_Humans_10": {
       "name": "Crowd Source",
-      "description": "",
+      "description": "Save 10 Humans",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/ecd29256f4b0b757dcff21366bb72cb2ac39b291.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/ba0ae6934ea1ec1911ec356a10694799b9ffb543.jpg",
       "hidden": true,
@@ -181,7 +181,7 @@
     },
     "Kill_Enemies_666": {
       "name": "Devil's in the Details",
-      "description": "",
+      "description": "Kill 666 Enemies",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/5cf0cca82347f1ae4e18e3eb7fe26c9ecca4c254.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/43c5e21a6279c2a02060684a4e7bc5d1e597f559.jpg",
       "hidden": true,
@@ -189,7 +189,7 @@
     },
     "Collect_PickUp_500": {
       "name": "Cleanup Crew",
-      "description": "",
+      "description": "Pickup 500 Item Drops",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/b32a3c662e956dd1d29c9df90db0df325539e612.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/02a6c79a485b848da4d8d37e897061008aac6dcd.jpg",
       "hidden": true,
@@ -197,7 +197,7 @@
     },
     "Kill_Enemies_HavocForm_666": {
       "name": "Beast Mode",
-      "description": "",
+      "description": "Defeat 666 Enemies While In Havoc Form",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/b45436548b980c7ec060ac41dcf6718cd0e65b42.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/d43e2b25690cfbd6378f46b8f99359e830204555.jpg",
       "hidden": true,
@@ -245,7 +245,7 @@
     },
     "Collect_Artifact_EpicShard": {
       "name": "One Of the Chosen",
-      "description": "",
+      "description": "Collect an Essence of a Chosen",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/5e3d59a4466644ff886d18851ba8bfd106b7bd48.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/04f148b33fca631fd543369180d2d2778e09bb33.jpg",
       "hidden": true,
@@ -261,7 +261,7 @@
     },
     "Spend_AttributePoint_25": {
       "name": "25 to Life",
-      "description": "",
+      "description": "Spend 25 Attribute Points",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/e046be7570b15a599921441fc062fc19a823e9e6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/9aad9e2841bac5a9b2a668460027dcf8f4f19578.jpg",
       "hidden": true,
@@ -269,7 +269,7 @@
     },
     "Spend_AttributePoint_50": {
       "name": "Big Spender",
-      "description": "",
+      "description": "Spend 50 Attribute Points",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/694a9bf614c275a1ca6c3e75c68457c7ad962acc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/57e0bf274fd82800d74e8690dc96a2f0373a1d1a.jpg",
       "hidden": true,
@@ -277,7 +277,7 @@
     },
     "Collect_HealthStone_CapacityUpgrade_1": {
       "name": "Increased Capacity",
-      "description": "",
+      "description": "Upgrade Nephilim's Respite Capacity",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/bd5d5ffbab41d4c7d3e52a36c2826a89e19bdc14.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/e03901bdc2df940a45082f3bcaae03fc15912e57.jpg",
       "hidden": true,
@@ -293,7 +293,7 @@
     },
     "Collect_HealthStone_HealUpgrade_1": {
       "name": "Increased Vigor",
-      "description": "",
+      "description": "Upgrade Nephilim's Respite Healing Amount",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/4b12ed01f881f3d500e9e4a93832fe75a6a8ffe1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/572ca97580e80227ddb0aa264c5bc643ede3f8fc.jpg",
       "hidden": true,
@@ -301,7 +301,7 @@
     },
     "Collect_HealthStone_HealUpgrade_4": {
       "name": "Maximum Vigor",
-      "description": "",
+      "description": "Upgrade Nephilim's Respite Healing Amount 4 Times",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/1c3bb1331835b951e20a83fee9a033259565f9e1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/d2a9106680128bd859750866096c7d0e9baa700f.jpg",
       "hidden": true,
@@ -317,7 +317,7 @@
     },
     "Collect_AdamantineSmall_30": {
       "name": "Unshakable Fortitude",
-      "description": "",
+      "description": "Collect 30 Slivers of Adamantine",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/48ea176f6369edd2c7264acbebff284121ea3c5d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/687b9673821a8998b4d68d8f8efa58f9df69f6b8.jpg",
       "hidden": true,
@@ -325,7 +325,7 @@
     },
     "Collect_AdamantineMedium_30": {
       "name": "Unyielding Strength",
-      "description": "",
+      "description": "Collect 30 Fragments of Adamantine",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/96d01c0837f3460c2d813c45f4373e2919e3182f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/30d8fd0250d88fd2495ece15c452ca98206d026d.jpg",
       "hidden": true,
@@ -349,7 +349,7 @@
     },
     "Collect_Weapon_Crossblade": {
       "name": "Salvation",
-      "description": "",
+      "description": "Collect Salvation",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/ca0606aab26f6256145c1c5df580c40cf98cf777.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/d2f43a2eb8966224cb4ad1141b844b24fb70b9f8.jpg",
       "hidden": true,
@@ -357,15 +357,15 @@
     },
     "Collect_Lurchers_100000": {
       "name": "Soul Harvester",
-      "description": "",
+      "description": "Collect 100,000 Souls",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/45bc74f67d519b1d23e6235543d74f095930a1a8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/dc0d5961c2f3537963fffd8e92faa2d71f3a2046.jpg",
       "hidden": true,
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "Collect_Lurchers_1000000": {
       "name": "Soul Reaper",
-      "description": "",
+      "description": "Collect 1,000,000 Souls",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/64434f2426607ce3cd20556f50e244c3b0fc4f7b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/e937c4b063d38908de1e625b3f3be666d4b328f9.jpg",
       "hidden": true,
@@ -373,7 +373,7 @@
     },
     "Save_Usiel_No_Kill": {
       "name": "For Whom the Bell Tolls",
-      "description": "",
+      "description": "Kill Lust Without Defeating Usiel",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/0993a076b95303403b5a89de2b2d1f8070e98c25.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/77f2a050b0563e77fa989317716487080b4b865d.jpg",
       "hidden": true,
@@ -381,7 +381,7 @@
     },
     "Kill_Demon_Kraken": {
       "name": "Love Tap",
-      "description": "",
+      "description": "Defeat the Kraken",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/44b71ab31b06bf69de567afdcba71db0c61db295.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/96917eaeb2c5ad4d25ca0cd5ded1d0b567072bc7.jpg",
       "hidden": true,

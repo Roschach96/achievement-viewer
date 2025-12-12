@@ -5,7 +5,7 @@
   "achievements": {
     "ach_story_1": {
       "name": "Awoken to a Nightmare",
-      "description": "",
+      "description": "Awake to the new, dark era of Enoch's history.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/3f9ed21ce6467888bc4b72d948096c0e14f53b86.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/e5ad13eb4966367c74e86d3c3f9573cefeebad9d.jpg",
       "hidden": true,
@@ -13,7 +13,7 @@
     },
     "ach_story_2": {
       "name": "In Rode A Hero",
-      "description": "",
+      "description": "Kill Gauss at the Solar Tower.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c1b355f18a97447a9429b932618ba63681bc3661.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/1d18879af94b4f4c61391c8648052d9b7802cc63.jpg",
       "hidden": true,
@@ -21,7 +21,7 @@
     },
     "ach_story_3": {
       "name": "Wavelengths and Wishes",
-      "description": "",
+      "description": "Uncover the direction of the signal's source.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/dc582fdbd590b1f82d775a6206b00da9259ceb66.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0e9ee18865ea5404198e0f9487ba261ab3c0768c.jpg",
       "hidden": true,
@@ -29,7 +29,7 @@
     },
     "ach_story_4": {
       "name": "One Way Ride",
-      "description": "",
+      "description": "Prepare your truck to enter the Forest.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/757c325c6d2bbe36f141a36312bdf4f2f7882f86.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/4305fe5064792619cccade09d891ab789c1d9694.jpg",
       "hidden": true,
@@ -37,7 +37,7 @@
     },
     "ach_story_5": {
       "name": "Malpractice",
-      "description": "",
+      "description": "Put an end to Scurlock.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/52a3606bf49edef8ea2652790a7b9e49a6c7452d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/307a5118d0b138d090426d2de24831f9507f3283.jpg",
       "hidden": true,
@@ -45,7 +45,7 @@
     },
     "ach_story_6": {
       "name": "Breaking the Seal",
-      "description": "",
+      "description": "Open the Gate leading out of the Forest.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/3a05ba25acb8f857e0ea27bdc394fa72779086b1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/e99a9ba6fa52e20fd8348428b0e9b30f728c9d9f.jpg",
       "hidden": true,
@@ -53,7 +53,7 @@
     },
     "ach_story_7": {
       "name": "Fatherhood Ain't Easy, Boss",
-      "description": "",
+      "description": "Defeat Yagak in Utargak.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/b334c22087c1564b7a585cadf712dc20d8ac4aab.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/b7810664e94e5ccca8d955842e21cea3d5c26fb6.jpg",
       "hidden": true,
@@ -61,7 +61,7 @@
     },
     "ach_story_8": {
       "name": "Descent to Fury",
-      "description": "",
+      "description": "Unravel the Ferals' origins.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/3e957704ba570dde304460eb4ec2c0ed30a1ee06.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0092b3f0e694005fd25123c05062226644e88990.jpg",
       "hidden": true,
@@ -69,7 +69,7 @@
     },
     "ach_story_end": {
       "name": "One Last Chance",
-      "description": "",
+      "description": "Bring down the Drop Pods.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/47bf528ccb5e595a4a87cf020c86af87447c1cde.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/f88d8745d4fdea729fe391203dc13ff103e4fe7c.jpg",
       "hidden": true,
@@ -169,7 +169,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/701cf6997ea9e3b5db01b4e16c6be3d78d9bc53a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/2e66a528810b39bd77dc323a8a4af4016e31b8b8.jpg",
       "hidden": false,
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "ach_miniboss_status_kill": {
       "name": "Clash of the Altered",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/e6d630785e3cc79fa05d6c0f33cbf3af3ae933f2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/64f03219febad9f16ca4950e7cb5619b06e4b56d.jpg",
       "hidden": false,
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "ach_crafting_improve": {
       "name": "True Potential",

@@ -413,7 +413,7 @@
     },
     "ACH_Threesome": {
       "name": "Threesome",
-      "description": "",
+      "description": "Kill 3 enemies within 3 seconds with the Impregnader",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/ff64406c63db6bffdd4a15c6f68220dc0bc3fadf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/3d3a4f94ad58a59a78f097de3f853b7861aefea6.jpg",
       "hidden": true,
@@ -429,7 +429,7 @@
     },
     "ACH_MoonBuggyKills": {
       "name": "Bloody Red Rover",
-      "description": "",
+      "description": "Kill 30 enemies with the moon rover",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/e88194600c4b5b57b1d9e268b98178dfebf9493d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/d521aa282f1b8bce5196ee989dbfdeff56d7b029.jpg",
       "hidden": true,
@@ -445,7 +445,7 @@
     },
     "ACH_DefeatDrProton": {
       "name": "Heart to Heart",
-      "description": "",
+      "description": "Finish Doctor Proton",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/b9c3ee7de177da78e674aa39894c474a56629740.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/57900/c7972d04cdde2f2ff28b03df4e1a15aa15da7d72.jpg",
       "hidden": true,

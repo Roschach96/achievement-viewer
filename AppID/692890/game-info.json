@@ -5,11 +5,11 @@
   "achievements": {
     "ACT1_COMPLETED": {
       "name": "Haven 8",
-      "description": "",
+      "description": "Complete Chapter 1.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6df3a0c65274c19a90b6401c6bbe65b304be8eb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bad2747db3f94270fbd5302fbc9eec7cad3ba79f.jpg",
       "hidden": true,
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "ACT2_COMPLETED": {
       "name": "Taking it Back!",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e831bfdbdfa70959e074bdb253c8d274070ae025.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -665,7 +665,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1e847ed7b7670805c51c05e24d7d369f785f85f7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1e3e5d448bc179e0333d8c181bc97b44d23430fb.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ENDLESS_MUTATOR": {
       "name": "Evolution",

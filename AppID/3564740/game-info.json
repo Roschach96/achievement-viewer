@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1763157550",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1765434865",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "1002039": {
       "name": "Mighty Wolf Rider",
@@ -33,7 +33,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0d22dfe33b7189223198a68728048866e4137ca3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
       "hidden": false,
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "1406003": {
       "name": "Speedrun in Granary",
@@ -49,7 +49,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -65,7 +65,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "1401015": {
       "name": "Broken Spear Victory",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "0.0"
+      "percent": "0.2"
     },
     "1002062": {
       "name": "Broken halberds buried in the sand",
@@ -89,7 +89,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/907236d55d310469b58e1251e28945d8a54edd36.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
       "hidden": false,
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "1203005": {
       "name": "Qinghe · Seeker of Melodies",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2a0341fd800a20c92358be45fdc3f248ee583772.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
       "hidden": false,
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "1203003": {
       "name": "Quick on the Uptake - Qinghe",
@@ -113,7 +113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b80a5dc0afd02df5ce3756474b75a2470aa78e7a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "1202003": {
       "name": "Horizon Seeker",
@@ -121,7 +121,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/224187d5ff5c54143a2933ab9a54f37fc4523713.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "1402003": {
       "name": "Peak of All Arts",
@@ -129,7 +129,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
       "hidden": false,
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -145,15 +145,15 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.9"
     },
     "1201020": {
       "name": "Life Goes to Dogs",
-      "description": "",
+      "description": "Transform into a rural dog once.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": true,
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "1205006": {
       "name": "The Old Timer Got It",
@@ -169,7 +169,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/29c650e47eb9b45c1a0ace3905e093bba4754926.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
       "hidden": false,
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "301011": {
       "name": "Power of Four",
@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "301010": {
       "name": "Perfect Harmony",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "301007": {
       "name": "First Resonance",
@@ -209,7 +209,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
       "hidden": false,
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "401004": {
       "name": "The Grand Strategist",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
       "hidden": false,
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "1201018": {
       "name": "The Final Destiny - Qinghe",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "101022": {
       "name": "The First Finding",
@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7b1e54d51882d8d0a78e8e7009b3992609a61714.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/a91d3a291e8910cfa658b590e62194cd326b1fab.jpg",
       "hidden": false,
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "1401009": {
       "name": "Voice of the Valiant",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
-      "percent": "6.9"
+      "percent": "7.1"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -265,7 +265,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "1406001": {
       "name": "A Promise Fulfilled",

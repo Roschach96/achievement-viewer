@@ -457,7 +457,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/63b213325b29d8913e622435c59d09ef8342e277.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1be8bc4fca7b406fccce3c80975f11d04a2f961.jpg",
       "hidden": false,
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "TF_PYRO_SIMULBURN_SCOUTS": {
       "name": "Weenie Roast",
@@ -609,7 +609,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6eb1f622c395c1c9698617d3002531ea84d8aabe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8c9aae232ceee40f44685ad6e012cb40ea999565.jpg",
       "hidden": false,
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_PYRO_DAMAGE_GRIND": {
       "name": "Pyromancer",
@@ -1233,7 +1233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d38109372694f318460a9af3bd10e15e2c8e96a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9d0c04bbea075c47ba430852b18c09a124442f23.jpg",
       "hidden": false,
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "TF_SCOUT_STUN_INTO_TRAIN": {
       "name": "Foul Territory",
@@ -1417,7 +1417,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a30655059628d35fbb7fc65278333cfabe3c0865.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c1b7dd76132857fa069345bd181d754297db9b58.jpg",
       "hidden": false,
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "TF_SNIPER_DESTROY_SENTRYGUNS": {
       "name": "De-sentry-lized",
@@ -1585,7 +1585,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3a9a14a3555dbe5491f6cdfcb6b75a3a9a6a2fa1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f33723654ee488cfe61817b77d470ab1403da35.jpg",
       "hidden": false,
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "TF_SNIPER_BOW_KILL_MEDIC_PAIR": {
       "name": "Beaux and Arrows",
@@ -1729,7 +1729,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/674b2858833f38c3d6b4b10d2e781446c34b3cea.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e988dacc553a3ec3224a5ace6e770558b436d1b.jpg",
       "hidden": false,
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -1769,7 +1769,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/99d09c299941fcc646cff4a64225ba784f2aed4a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b1679514c39e006dc23d2f0b4e8e99a187f45b23.jpg",
       "hidden": false,
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "TF_SPY_FAST_CAP": {
       "name": "On Her Majesty's Secret Surface",
@@ -1937,7 +1937,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/428963ffc2076c14f95d9ed435e4615a7d694067.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8768533edd0bbb2e6d7318f7ea5d30b531c86094.jpg",
       "hidden": false,
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "TF_SPY_ACHIEVE_PROGRESS1": {
       "name": "Spy Milestone 1",
@@ -2217,7 +2217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5d4d589a03d8b664ebb271bd5a79e93277d6942c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/45764ee839aa2ef8f66965a5cf5d3ff33b42d231.jpg",
       "hidden": false,
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_SOLDIER_KILL_DEMOMAN_GRIND": {
       "name": "Out, Damned Scot!",
@@ -3057,7 +3057,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b7277ea1b2b2a69e00eed27fdb568fad1c3b5840.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg",
       "hidden": false,
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY": {
       "name": "Cap Trap",
@@ -3233,7 +3233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f6ae9367323ca6e94addfe1f8e921ecc6802799.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a8128ecf7c3bade9aa2b01ab10a4a80d6ff5a659.jpg",
       "hidden": false,
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_MAPS_DOOMSDAY_PUSH_INTO_EXHAUST": {
       "name": "Lift-offed",
@@ -3449,7 +3449,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades_bw.jpg",
       "hidden": false,
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TF_MVM_MAX_PLAYER_RESISTANCES": {
       "name": "Maximum Performance",
@@ -3473,7 +3473,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_medics_charged.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_medics_charged_bw.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "TF_MVM_KILL_ROBOT_GRIND": {
       "name": "Silicon Slaughter",
@@ -3521,7 +3521,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_heavy_rage_push_deploying_robot.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_heavy_rage_push_deploying_robot_bw.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "TF_MVM_MEDIC_SHARE_BOTTLES": {
       "name": "Vial Sharing",
@@ -3985,7 +3985,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_airstrike_group_kill.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_airstrike_group_kill_bw.jpg",
       "hidden": false,
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "TF_SNIPER_PARACHUTE_GRIND": {
       "name": "Flight Cancelled",
@@ -4105,7 +4105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7672f0b9bf80c08d1440d187895bc2ca46fcd26f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3e804e0963edcf5760ecd6696c5b75c975f4f137.jpg",
       "hidden": false,
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "TF_MAPS_POWERHOUSE_WIN_ROUNDS": {
       "name": "The Power and the Glory",

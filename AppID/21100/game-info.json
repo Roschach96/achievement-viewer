@@ -33,7 +33,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/d439d3d1b0452fe120e40b0ff9ff10dedc18ca9d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/efd13c56800d28649eccb851c3b9f1377a43c0af.jpg",
       "hidden": true,
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "Complete_Needle": {
       "name": "Through the Haystack",
@@ -149,7 +149,7 @@
     },
     "High_Score_Prison": {
       "name": "Up The River",
-      "description": "",
+      "description": "Attain a total of 95,000 score on Interval 01",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/bf3102e30a64e34add27a7b44c1abc3ddf85ae09.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/a766186257f5da1865bc9f2f3ee3866d97afc911.jpg",
       "hidden": true,
@@ -157,7 +157,7 @@
     },
     "High_Score_Slums": {
       "name": "Magna Slum Laude",
-      "description": "",
+      "description": "Attain a total of 85,000 score on Interval 02",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/529110b2c0d30390868b697847f722e4a5a214d1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/39a397d9bc4524207ccbe02b5e827e0e4047a1e7.jpg",
       "hidden": true,
@@ -173,7 +173,7 @@
     },
     "High_Score_Village": {
       "name": "House Arrest",
-      "description": "",
+      "description": "Attain a total of 105,000 score on Interval 04",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/d000716daf5b92000a4b3ec4da58de9580d3de1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/59b2bbd8961ca6e1d6bed069741aad323c52535e.jpg",
       "hidden": true,
@@ -181,7 +181,7 @@
     },
     "High_Score_Needle": {
       "name": "Point Taken",
-      "description": "",
+      "description": "Attain a total of 110,000 score on Interval 05",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/161f09f229921ec0efe5222aa9f7f88ae2b0fea3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/5399430f16575a4669f9471c583e67c1cc0c7492.jpg",
       "hidden": true,
@@ -197,7 +197,7 @@
     },
     "High_Score_Port_Authority": {
       "name": "Point Authority",
-      "description": "",
+      "description": "Attain a total of 110,000 score on Port Authority",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/a2054a159eab5cb69f49e87ca5e614f63985d9d6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/21100/4924f6d9781f299d116ffe2fcda442508b8a56ae.jpg",
       "hidden": true,
