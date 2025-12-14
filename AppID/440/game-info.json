@@ -41,7 +41,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_turretkills.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_turretkills_bw.jpg",
       "hidden": false,
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "TF_KILL_NEMESIS": {
       "name": "Nemesis",
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_dustbowl_noenemycaps.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_dustbowl_noenemycaps_bw.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "TF_WIN_GRAVELPIT_NOENEMYCAPS": {
       "name": "Impossible Defense",
@@ -337,7 +337,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_large.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_large_bw.jpg",
       "hidden": false,
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "TF_MEDIC_HEAL_HUGE": {
       "name": "Specialist",
@@ -521,7 +521,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9fbe6e36a9e2d61bce8746dd45a1ce19144a6c0b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg",
       "hidden": false,
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "TF_PYRO_KILL_AXE_SMALL": {
       "name": "Lumberjack",
@@ -633,7 +633,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bb590c7ca44dfc7eb6a31abb39fae07c47502ac7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4f244b30a76e9de5287a82cc3829c7930baa38c7.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "TF_PYRO_DOMINATE_LEAVESVR": {
       "name": "BarbeQueQ",
@@ -689,7 +689,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a3125ded53b477caa08d2e9af9947fd6598a5e98.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2408a0f972953a591a1134751cbd9ad9283da723.jpg",
       "hidden": false,
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "TF_PYRO_REFLECT_CROCKET_KILL": {
       "name": "Hotshot",
@@ -705,7 +705,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0097b7d3dd570aa173d107d36e2647adeadc9e24.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4eb6e08e5856f1b641be529b723d15df72f5a20d.jpg",
       "hidden": false,
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "TF_PYRO_IGNITE_FLAREGUN": {
       "name": "Attention Getter",
@@ -729,7 +729,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/768627663a53790b51f39b4defd1447870071e1e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec6f89035a26a2799163c9f99c6198633790591e.jpg",
       "hidden": false,
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "TF_PYRO_ACHIEVE_PROGRESS1": {
       "name": "Pyro Milestone 1",
@@ -785,7 +785,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0657e8cd2acac9f8001bf6f721f7f9b23cc7dc1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "TF_HEAVY_DEFEND_MEDIC": {
       "name": "Party Loyalty",
@@ -865,7 +865,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/08bdcc1259b2694edb9088b70c5051290f14fc66.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/56b36e1a6f5a090ad42a11b65cf4a20462aee5dc.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "TF_HEAVY_ASSIST_HEAVY_GRIND": {
       "name": "Soviet Union",
@@ -1113,7 +1113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fb5ee9aae73df19aeae7c54e9d26c5ac9fc8c2d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0a08f0d9bb4fb707992f04e9e2352bc2ded5c2e7.jpg",
       "hidden": false,
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL": {
       "name": "Gun Down",
@@ -1185,7 +1185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d435d3ed6d7becd525b17753a882d794ec76fb7e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/86494ca645f0d4c167f8dd847dde911e6a3a822d.jpg",
       "hidden": false,
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "TF_SCOUT_DOUBLEJUMP_KILL": {
       "name": "Pop Fly",
@@ -1817,7 +1817,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1970480af62f981483a141a2d364f15dcb440367.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d29db94cf35692259316afe7be89113335c09194.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "TF_SPY_BACKSTAB_QUICK_KILLS": {
       "name": "You Only Shiv Thrice",
@@ -1921,7 +1921,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/17627b40ab8c01695f99cbe1a48fa9a88480c0c5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd79ab78ad877534a53c2a1fd3a7cbdf2c4a6347.jpg",
       "hidden": false,
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS2": {
       "name": "Sniper Milestone 2",
@@ -1977,7 +1977,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fa58243f01ca24a6b869e6f840ecf6a1f4052ae0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -2321,7 +2321,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f038cbb9a810a437855bb62904bbca1625339121.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c50ec034b57bfdde469f945ca431f95ab8965f9b.jpg",
       "hidden": false,
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "TF_DEMOMAN_DECAPITATE_CLOAKED_SPY": {
       "name": "Shorn Connery",
@@ -3009,7 +3009,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/83a3b4440c6fe59063784e90b3b909fb3d3346c1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4afc3614c5c5834791d1a3b5bd88fd8a7340e894.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_HIGHEST": {
       "name": "Blockbuster",
@@ -3289,7 +3289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9c684b7f03d2a4626e82c937b0eeda2af439e60d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4727b536b170117a30420f948bb659838fcc4a7.jpg",
       "hidden": false,
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "TF_PYRO_IGNITE_WITH_RAINBOW": {
       "name": "Full Spectrum Warrior",

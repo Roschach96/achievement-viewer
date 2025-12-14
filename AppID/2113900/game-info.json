@@ -9,7 +9,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "PLATINUM_MEDAL": {
       "name": "Platinum Medal",
@@ -33,7 +33,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "TUTORIAL_KANSEI": {
       "name": "Nani?",
@@ -49,7 +49,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "JUMP_START_CAR": {
       "name": "Rolling Start",
@@ -57,7 +57,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "DEAD_CAR_BATTERY": {
       "name": "Dead Car",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "WHERE_ARE_YOU_GOING": {
       "name": "Where are you going?",
@@ -145,7 +145,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "FIRST_TOFU_DELIVERY": {
       "name": "First Delivery",
@@ -161,7 +161,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/822dfabb22a4fb0358b2ff33cdb61e927edaa843.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/d94ca62ff284d87de6bdfe922ac871936acdcc32.jpg",
       "hidden": false,
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "WELCOME": {
       "name": "Welcome to Touge Shakai",
@@ -169,7 +169,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/3efaa8c12e0d3fe80c0fe5e571e523a5fbe6f330.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/5818af4ef0d01e6ff6685b3b10d81afd589dd8d7.jpg",
       "hidden": true,
-      "percent": "71.3"
+      "percent": "71.4"
     }
   },
   "uses_db": false

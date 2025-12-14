@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/70a5dc96d70061e192256c03fe67ba4cee88b8fe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/2e689359eabdf85d1bd1ee56cb10a684349d3b32.jpg",
       "hidden": true,
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "ACShadows_Ach_4": {
       "name": "Fall of the Shinbakufu",
@@ -89,7 +89,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/a98b7b52f77229ec099cf141ce8f9a882645c025.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/4f0bee44f359fb2b76340ff6616de87eba0858a5.jpg",
       "hidden": true,
-      "percent": "75.2"
+      "percent": "75.1"
     },
     "ACShadows_Ach_12": {
       "name": "The Sharpshooter",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/8918273a9b271b9bd88a4dbc5bd205577f5a28f1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/94b51794e71fe05fb5a38406ed797d0d2cec3d2d.jpg",
       "hidden": true,
-      "percent": "35.3"
+      "percent": "35.4"
     },
     "ACShadows_Ach_13": {
       "name": "Build Your League",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/05a5d2f019263504ed7b46e2f1b6f2b793532bd4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/63536eb160c607083a7a27f8613479a2b35c2cc2.jpg",
       "hidden": false,
-      "percent": "94.7"
+      "percent": "94.8"
     },
     "ACShadows_Ach_33": {
       "name": "Master Samurai",
@@ -369,7 +369,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/aa117fd2a4378d5ab19412318ff1137295cff499.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/13f370cf299392eb524e6b622aeda6f04a586554.jpg",
       "hidden": false,
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACShadows_Ach_47": {
       "name": "Chase the Morning",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/a0fb072c716804c174972db98b1229060f7bbb3b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/3dfcccb1debb1440bbee9a5b68f0ad7b3789a262.jpg",
       "hidden": false,
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "ACShadows_Ach_49": {
       "name": "Everybody Benefits!",
@@ -441,7 +441,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/3a2564bb9241827738be91e86734928b45a38ab8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/199c7f28f395633368bed07fa03d925730b9f3a5.jpg",
       "hidden": true,
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "ACShadows_Ach_56": {
       "name": "Enjoy the Ride",
@@ -497,7 +497,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/662b5faddd0bca7bc106d8775ec909a2d9c6149c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/16ca36300c97f1fec370f74dd3784e8ce62f1465.jpg",
       "hidden": false,
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "ACShadows_Ach_63": {
       "name": "The Stick of Truth",
@@ -569,7 +569,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/2462fd6c9a3e68c8515cb5c8799d21ec8282f766.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/81bcc5ffb9190c97a3805f2e4c88b4c1261e128c.jpg",
       "hidden": false,
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACShadows_Ach_72": {
       "name": "All Clear",
@@ -577,7 +577,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/0c7406fc0ebad79c042cd50dd8df50b6a622e4dc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/dbd7b6a1fb3091c7ed256252899ffdf6bdfd7f5c.jpg",
       "hidden": false,
-      "percent": "1.3"
+      "percent": "1.4"
     }
   },
   "uses_db": false
