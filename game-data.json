@@ -4492,12 +4492,14 @@
           "percent": "7.0"
         }
       },
-      "uses_db": true
+      "uses_db": true,
+      "platform": "Epic",
+      "blacklist": []
     },
     "achievements": {
       "ACH_1": {
         "earned": true,
-        "earned_time": 1570220962
+        "earned_time": 1702582140
       },
       "ACH_2": {
         "earned": false,
@@ -4505,7 +4507,7 @@
       },
       "ACH_3": {
         "earned": true,
-        "earned_time": 1570218778
+        "earned_time": 1702582140
       },
       "ACH_4": {
         "earned": false,
@@ -4513,7 +4515,7 @@
       },
       "ACH_5": {
         "earned": true,
-        "earned_time": 1570468282
+        "earned_time": 1702582140
       },
       "ACH_6": {
         "earned": false,
@@ -4521,11 +4523,11 @@
       },
       "ACH_7": {
         "earned": true,
-        "earned_time": 1570229830
+        "earned_time": 1702582140
       },
       "ACH_8": {
         "earned": true,
-        "earned_time": 1570224545
+        "earned_time": 1702582140
       },
       "ACH_9": {
         "earned": false,
@@ -66748,6 +66750,285 @@
         "earned_time": 0
       },
       "ID_ACHIEV_59": {
+        "earned": false,
+        "earned_time": 0
+      }
+    }
+  },
+  {
+    "appid": "1248080",
+    "info": {
+      "appid": "1248080",
+      "name": "CYGNI: All Guns Blazing",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248080/header.jpg?t=1734548060",
+      "achievements": {
+        "air_superiority": {
+          "name": "Air Superiority",
+          "description": "Achieve 50 air supremacy badges on all stages",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/e24277a701a6636799f81430862b127048a8f741.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/fe320a5c80339cbe5767ad46c233a9098b730e23.jpg",
+          "hidden": false,
+          "percent": "19.3"
+        },
+        "Classic": {
+          "name": "CLASSIC",
+          "description": "Play Arcade Mode",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/adda8405fb726a8022f217e12abe90a76f02ee38.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/61157d12122321a4afb1534bfd5663923147e57c.jpg",
+          "hidden": false,
+          "percent": "8.1"
+        },
+        "Deadly_duo": {
+          "name": "DEADLY DUO",
+          "description": "Complete the game in Co-op",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/05331620a491f778ad0b92ed422d3134268c7b7f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/2dd188b6f4990c741ec540e2d08d8de604cd9778.jpg",
+          "hidden": false,
+          "percent": "1.1"
+        },
+        "looped": {
+          "name": "LOOPED IT",
+          "description": "Complete one Loop in Arcade Mode",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/bdb44652ec4c4f4c96448c12467c2125f953b480.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/cbd9432af3cf101ef33271f87aeb2c7324c683c7.jpg",
+          "hidden": false,
+          "percent": "0.7"
+        },
+        "Upgrade_ship": {
+          "name": "MECHANIC",
+          "description": "Upgrade your ship",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/06c21c56895704645fb102d4191a326bc3f720ca.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/e363a81e2439f8a0f8c850933146ca5eab98c4c4.jpg",
+          "hidden": false,
+          "percent": "26.4"
+        },
+        "Tutorial_complete": {
+          "name": "NEW RECRUIT",
+          "description": "Complete Tutorial",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/5334eb0b782925275abb8e2b2ea43328b824a683.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/c081e587dcc05b49ebd453e2a2d517d603e1bc2f.jpg",
+          "hidden": false,
+          "percent": "53.9"
+        },
+        "No_mercy": {
+          "name": "NO MERCY",
+          "description": "Destroy 5,000 enemy units (air and ground)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/7883bc0ba4c42de36adbd8700eb813b7f5fe41e1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/e762f0212d81f193a5be4f7ddbce1e3dd6a9132f.jpg",
+          "hidden": false,
+          "percent": "36.5"
+        },
+        "Pattern_design": {
+          "name": "PATTERN DESIGN",
+          "description": "Design a gun pattern",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/2c846e318c292ed25b10523fb3a45bcb83a334fd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/7f8471757a5736a3540a28be31e87a59729d03ff.jpg",
+          "hidden": false,
+          "percent": "3.8"
+        },
+        "eye_in_the_sky": {
+          "name": "EYE IN THE SKY",
+          "description": "Destroy 1,000 enemy ground units",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/6f83aedf31d3afd37f107fda1a2c962016d44df7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/c5cad39c88956e3b9c085f31819ba51d31bff346.jpg",
+          "hidden": false,
+          "percent": "31.0"
+        },
+        "titan_hunter": {
+          "name": "TITAN HUNTER",
+          "description": "Kill all bosses on Hard",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/4cc95fdddb2d8231d41c5c81262f93c387b17998.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/7df1ab474bee78074d74511730781140ff917882.jpg",
+          "hidden": false,
+          "percent": "0.9"
+        },
+        "Wingman": {
+          "name": "WINGMAN",
+          "description": "Complete a Stage in Co-op",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/7ed5d02d28f708729a3b7f7c637d6bb0c97aac2c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/deb32d1eec6a6c40c9e2bd6ef0d9c9320c13715c.jpg",
+          "hidden": false,
+          "percent": "3.4"
+        },
+        "Level_1": {
+          "name": "BATTLE OVER THE WHITE SANDS",
+          "description": "Complete Stage 01",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/4f04b5936c5acb5c60c0d636f9c47636e4218d0c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/c10115160b77ba56d0b686777a3802b4005b81cf.jpg",
+          "hidden": false,
+          "percent": "36.9"
+        },
+        "Level_2": {
+          "name": "CANYON GRAVEYARD",
+          "description": "Complete Stage 02",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/9e18589cb419ef533e5dc0417f6e2a08ae885acd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/397afc5c37e5068d49b091fc2d85268ba581c80a.jpg",
+          "hidden": false,
+          "percent": "28.0"
+        },
+        "Level_3": {
+          "name": "THE DEAD SHALLOWS",
+          "description": "Complete Stage 03",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/927232bf26454190e20da83afba2332506bc8f7b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/40fad4736ac6b15ddc9ab20132abb548cde099cf.jpg",
+          "hidden": false,
+          "percent": "23.8"
+        },
+        "Level_4": {
+          "name": "STORMY SEAS",
+          "description": "Complete Stage 04",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/f8a0e5564b61965df9afe1e3ee8108d65da58a13.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/ce42279ccef5267ab105c23826f1833100769daf.jpg",
+          "hidden": false,
+          "percent": "19.3"
+        },
+        "Level_5": {
+          "name": "OVER THE CLOUDS",
+          "description": "Complete Stage 05",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/5047bfd4f43fb65943f5136a9c8fcb76832a7afb.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/c61caa49c065368fd6ed7bd638515f1494937232.jpg",
+          "hidden": false,
+          "percent": "17.2"
+        },
+        "Level_6": {
+          "name": "STRATOSPHERE",
+          "description": "Complete Stage 06",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/a7b39c5f919ff508a131aaab33fc1151d32a305b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/ed27b84ce8ee0454c27bcecda9b17fef04bbea47.jpg",
+          "hidden": false,
+          "percent": "15.7"
+        },
+        "Level_7": {
+          "name": "PERDITION",
+          "description": "Complete Stage 07",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/83dc84a650ce3879fa40a60129a5503ac90f38c4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/61759ac4a0fa3d1c2e78d9301c20885097dabbc5.jpg",
+          "hidden": false,
+          "percent": "13.6"
+        },
+        "Game_easy": {
+          "name": "TRAINING WHEELS",
+          "description": "Complete the game on Easy",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/e1a84de75c3df97948568a32167b8434bfff335c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/f46688528c865d3fe73ab0653d708a8fd810ca17.jpg",
+          "hidden": false,
+          "percent": "11.4"
+        },
+        "Game_normal": {
+          "name": "ALL GUNS BLAZING",
+          "description": "Complete the game on Medium",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/4785cdd37521f61b647ad172b86c15f92711807a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/b3138cace0b9e3a03bfcd829fed89bbf7ae722dd.jpg",
+          "hidden": false,
+          "percent": "2.5"
+        },
+        "Game_hard": {
+          "name": "ACE",
+          "description": "Complete the game on Hard",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/066d3f9d9891a5d5b12ccc3ba4861ebe7ce52843.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/af4a408d270143edbe57d6d5a55b73cb7a3425f9.jpg",
+          "hidden": false,
+          "percent": "1.1"
+        },
+        "red_kite": {
+          "name": "THE RED KITE",
+          "description": "Collect all Badges - Air Superiority, Titan Hunter, Eye in the Sky, No Mercy and Wingman",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/bd2a73234591ecb993e091982f3982406c5ede1d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1248080/ec9fa69e6f780a95e02096592f6c82f5b9ea7ded.jpg",
+          "hidden": false,
+          "percent": "0.6"
+        }
+      },
+      "uses_db": false,
+      "platform": "Epic",
+      "blacklist": []
+    },
+    "achievements": {
+      "air_superiority": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Classic": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Deadly_duo": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "eye_in_the_sky": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Game_easy": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Game_hard": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Game_normal": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_1": {
+        "earned": true,
+        "earned_time": 1751748960
+      },
+      "Level_2": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_3": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_4": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_5": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_6": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Level_7": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "looped": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "No_mercy": {
+        "earned": true,
+        "earned_time": 1751747400
+      },
+      "Pattern_design": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "red_kite": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "titan_hunter": {
+        "earned": false,
+        "earned_time": 0
+      },
+      "Tutorial_complete": {
+        "earned": true,
+        "earned_time": 1751749500
+      },
+      "Upgrade_ship": {
+        "earned": true,
+        "earned_time": 1751750040
+      },
+      "Wingman": {
         "earned": false,
         "earned_time": 0
       }
