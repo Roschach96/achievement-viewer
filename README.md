@@ -31,7 +31,7 @@ Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 ### 6. Upload your achievement file
 1. Create folder structure: `AppID/[game-app-id]/`
 2. Example: `AppID/730/` for Counter-Strike 2
-3. Upload your supported achievement files (see [**7. Supported Formats**](https://github.com/Roschach96/achievement-viewer?tab=readme-ov-file#7-supported-formats-only-one-is-needed-per-game))
+3. Upload your supported achievement files
 4. Commit and push to your repository
 5. Your site will update automatically!
 
