@@ -17,6 +17,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+          ref: main
+
+      - name: Copy Python scripts
+        run: |
+          mkdir -p /tmp/scripts
+          cp fetch_game_data.py update_top_owners.py /tmp/scripts/
+
+      - name: Checkout user branch
+        uses: actions/checkout@v3
         with:
           fetch-depth: 2
           ref: user
@@ -32,13 +45,13 @@ jobs:
 
       - name: Update TOP_OWNER_IDS (scheduled only)
         if: github.event_name == 'schedule'
-        run: python update_top_owners.py
+        run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-        run: python fetch_game_data.py
+        run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
         run: |
