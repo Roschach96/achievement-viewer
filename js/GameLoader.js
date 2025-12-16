@@ -1,5 +1,7 @@
 import { getGitHubUserInfo } from './utils.js';
 
+let userInfo = getGitHubUserInfo();
+let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
 export const gamesData = new Map();
 
 // Loading games from GitHub API
@@ -16,12 +18,12 @@ export async function loadGamesFromAppIds(appIds) {
 
             // Try achievements.json first
             let achievementsPath = `AppID/${appId}/achievements.json`;
-            let achResponse = await fetch(achievementsPath);
+      let achResponse = await fetch(baseUrl + achievementsPath);
             
             // Fallback to .db file
             if (!achResponse.ok) {
                 achievementsPath = `AppID/${appId}/${appId}.db`;
-                achResponse = await fetch(achievementsPath);
+        achResponse = await fetch(baseUrl + achievementsPath);
             }
             
             if (!achResponse.ok) continue;
@@ -46,7 +48,7 @@ export async function loadGamesFromAppIds(appIds) {
             let gameInfo = null;
             try {
                 const infoPath = `AppID/${appId}/game-info.json`;
-                const infoResponse = await fetch(infoPath);
+        const infoResponse = await fetch(baseUrl + infoPath);
                 if (infoResponse.ok) {
                     gameInfo = await infoResponse.json();
                 }
@@ -150,52 +152,51 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
 
 // Initialization
 export async function init() {
-    document.getElementById('loading').style.display = 'block';
-    
-  const userInfo = getGitHubUserInfo();
-    window.githubUsername = userInfo.username;
-    window.githubAvatarUrl = userInfo.avatarUrl;
-    
-    try {
-        const currentUrl = window.location.href;
-        const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
-        
-        if (repoMatch) {
-            const repoName = repoMatch[1];
-            const username = currentUrl.split('.github.io')[0].split('//')[1];
-            
-            const apiUrl = `https://api.github.com/repos/${username}/${repoName}/contents/AppID`;
-            const response = await fetch(apiUrl);
-            
-            if (response.ok) {
-                const contents = await response.json();
-                const appIds = contents
-                    .filter(item => item.type === 'dir')
-                    .map(item => item.name)
-                    .filter(name => /^\d+$/.test(name));
-                
-                if (appIds.length > 0) {
-                    await loadGamesFromAppIds(appIds);
-                    return;
-                }
-            }
+  document.getElementById('loading').style.display = 'block';
+
+  if (!userInfo) {
+    userInfo = getGitHubUserInfo();
+    baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
+  }
+  window.githubUsername = userInfo.username;
+  window.githubAvatarUrl = userInfo.avatarUrl;
+
+  try {
+    const currentUrl = window.location.href;
+    const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
+
+    if (repoMatch) {
+      const apiUrl = `https://api.github.com/repos/${userInfo.username}/${userInfo.repo}/contents/AppID`;
+      const response = await fetch(apiUrl);
+
+      if (response.ok) {
+        const contents = await response.json();
+        const appIds = contents
+          .filter((item) => item.type === 'dir')
+          .map((item) => item.name)
+          .filter((name) => /^\d+$/.test(name));
+
+        if (appIds.length > 0) {
+          await loadGamesFromAppIds(appIds);
+          return;
         }
-        
-        // Fallback to game-data.json
-        const dataResponse = await fetch('game-data.json');
-        if (dataResponse.ok) {
-            const gameData = await dataResponse.json();
-            await loadGamesFromData(gameData);
-            return;
-        }
-        
-        throw new Error('Could not scan AppID folders');
-        
-    } catch (error) {
-        console.error('Error scanning folders:', error);
-        document.getElementById('loading').style.display = 'none';
-        document.getElementById('info').style.display = 'block';
-        document.getElementById('results').innerHTML = `
+      }
+    }
+
+    // Fallback to game-data.json
+    const dataResponse = await fetch(baseUrl + 'game-data.json');
+    if (dataResponse.ok) {
+      const gameData = await dataResponse.json();
+      await loadGamesFromData(gameData);
+      return;
+    }
+
+    throw new Error('Could not scan AppID folders');
+  } catch (error) {
+    console.error('Error scanning folders:', error);
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('info').style.display = 'block';
+    document.getElementById('results').innerHTML = `
             <div class="error">
                 <h3>⚠️ Could not auto-scan folders</h3>
                 <p style="margin-top: 15px;">Make sure you have:</p>
@@ -206,5 +207,5 @@ export async function init() {
                 </ol>
             </div>
         `;
-    }
+  }
 }
