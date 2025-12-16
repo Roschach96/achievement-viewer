@@ -127,9 +127,21 @@ async function addUserToGrid(person) {
     ${person.perfectGames} / ${person.totalGames} perfect games
   `;
 
-  card.addEventListener('click', () => {
+  card.addEventListener('mousedown', (e) => {
     const url = `https://${person.login}.github.io/${person.repo || 'achievement-viewer'}/`;
-    window.open(url, '_blank');
+    
+    // Left click (button 0) or middle click (button 1)
+    if (e.button === 0) {
+      window.open(url, '_blank');
+    } else if (e.button === 1) {
+      e.preventDefault(); // Prevent default middle-click behavior
+      window.open(url, '_blank');
+    }
+  });
+  
+  // Prevent context menu on right-click for cleaner UX
+  card.addEventListener('contextmenu', (e) => {
+    e.preventDefault();
   });
 }
 
