@@ -58,11 +58,34 @@ async function loadGameData(person) {
   let perfect = 0;
 
   for (const g of data) {
-    const achs = Object.values(g.achievements);
-    const earnedCount = achs.filter((a) => a.earned).length;
+    // Get blacklist from info if available
+    const blacklist = g.info?.blacklist || [];
+    
+    // Get all achievement keys
+    const allAchKeys = Object.keys(g.achievements);
+    
+    // Filter out blacklisted achievements
+    const validAchKeys = allAchKeys.filter(key => !blacklist.includes(key));
+    
+    // Count earned achievements (excluding blacklisted)
+    let earnedCount = 0;
+    for (const key of validAchKeys) {
+      const ach = g.achievements[key];
+      // Handle both boolean and numeric earned values
+      if (ach.earned === true || ach.earned === 1) {
+        earnedCount++;
+      }
+    }
+    
+    const totalCount = validAchKeys.length;
+    
     earnedAchievements += earnedCount;
-    totalAchievements += achs.length;
-    if (achs.length && earnedCount === achs.length) perfect++;
+    totalAchievements += totalCount;
+    
+    // Check if it's a perfect game
+    if (totalCount > 0 && earnedCount === totalCount) {
+      perfect++;
+    }
   }
 
   person.gameData = data;
