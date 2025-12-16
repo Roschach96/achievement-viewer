@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/hub.css" />
   </head>
   <body>
+    <button id="back-button">← Back</button>
     <h1>Underground Achievement HUB</h1>
 
     <div id="controls">
@@ -22,5 +23,13 @@
     <div id="grid"></div>
 
     <script type="module" src="js/HubRenderer.js"></script>
+    <script>
+      const backBtn = document.getElementById('back-button');
+      if (backBtn) {
+        backBtn.addEventListener('click', () => {
+          window.location.href = 'index.html';
+        });
+      }
+    </script>
   </body>
 </html>
