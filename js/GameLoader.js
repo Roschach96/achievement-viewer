@@ -152,7 +152,7 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
 export async function init() {
     document.getElementById('loading').style.display = 'block';
     
-    const userInfo = await getGitHubUserInfo();
+  const userInfo = getGitHubUserInfo();
     window.githubUsername = userInfo.username;
     window.githubAvatarUrl = userInfo.avatarUrl;
     

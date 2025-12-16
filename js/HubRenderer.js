@@ -1,3 +1,6 @@
+const CACHE_KEY = 'forks-cache-v1';
+const CACHE_TTL = 60 * 60 * 1000; // 1 hour
+
 const fetchJSON = (url) => fetch(url).then((r) => (r.ok ? r.json() : null));
 
 function detectRepo() {
@@ -17,11 +20,16 @@ async function resolveRootRepo(owner, repo) {
   return { owner, repo };
 }
 
-async function fetchAllForks(owner, repo, processed = new Set()) {
-  const key = `${owner}/${repo}`;
-  if (processed.has(key)) return [];
-  processed.add(key);
-
+async function fetchAllForks(owner, repo) {
+  const cached = localStorage.getItem(CACHE_KEY);
+  if (cached) {
+    try {
+      const { time, data } = JSON.parse(cached);
+      if (Date.now() - time < CACHE_TTL && data) return data;
+    } catch (e) {
+      // ignore parse errors
+    }
+  }
   let forks = [];
   let page = 1;
   while (true) {
@@ -30,6 +38,7 @@ async function fetchAllForks(owner, repo, processed = new Set()) {
     forks.push(...data);
     page++;
   }
+  localStorage.setItem(CACHE_KEY, JSON.stringify({ time: Date.now(), data: forks }));
   return forks;
 }
 
@@ -157,7 +166,7 @@ async function addUserToGrid(person) {
   // Main repo user
   const mainUser = {
     login: root.owner,
-    avatar: (await fetchJSON(`https://api.github.com/users/${root.owner}`)).avatar_url,
+    avatar: `https://github.com/${root.owner}.png`,
     original: true,
     repo: root.repo,
   };
@@ -168,7 +177,7 @@ async function addUserToGrid(person) {
   for (const f of forks) {
     addUserToGrid({
       login: f.owner.login,
-      avatar: f.owner.avatar_url,
+      avatar: `https://github.com/${f.owner.login}.png`,
       original: false,
       repo: f.name,
     });
@@ -179,7 +188,7 @@ async function addUserToGrid(person) {
     mainUser,
     ...forks.map((f) => ({
       login: f.owner.login,
-      avatar: f.owner.avatar_url,
+      avatar: `https://github.com/${f.owner.login}.png`,
       original: false,
       repo: f.name,
     })),
