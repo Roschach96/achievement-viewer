@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-main:
-    uses: ${{ github.repository }}/.github/workflows/fetch-steam-game-data.yml@main
+    uses: ./.github/workflows/fetch-game-data.yml
