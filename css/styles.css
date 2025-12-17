@@ -571,8 +571,8 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
-    gap: 20px;
+    justify-content: center;
+    gap: 30px;
     margin-bottom: 20px;
 }
 
@@ -596,7 +596,7 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
         text-align: center;
     }
     
-    .gamer-card-container {
+.gamer-card-container {
         margin-top: 10px;
     }
 }
