@@ -1,4 +1,4 @@
-# Steam Achievement Viewer
+# Achievement Viewer
 
 ## 🚀 Setup Instructions
 
@@ -32,7 +32,7 @@ Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 ### 5. Upload your achievement files
 
 1. Create a branch named 'user'. This branch will store all your achievement files.
-2. Create folder structure: `AppID/[game-app-id]/`
+2. Create folder structure: `AppID/[Steam AppID]/`
 3. Example: `AppID/730/` for Counter-Strike 2
 4. Upload your supported achievement files
 5. Commit and push to the branch
@@ -86,9 +86,6 @@ Visit your GitHub Pages URL and you should see your achievement viewer!
 
 ## 📁 Folder Structure
 
-The only important thing here is the AppID folder, inside that the game's AppID folder, inside that "Your achievement data".
-All other files are **optional** and/or auto-generated.
-
 ```
 your-repo/ (main branch)
 ├── index.html                         # Main viewer page
@@ -104,6 +101,9 @@ your-repo/ (main branch)
 └── .github/
     └── workflows/
         └── fetch-game-data.yml        # Automation workflow
+
+The only important thing in the user branch below is the AppID folder, inside that the game's Steam AppID folder, inside that "Your achievement data".
+All other files are optional or auto-generated.
 
 your-repo/ (user branch)
 ├── AppID/                             # Achievement data folder
@@ -148,7 +148,7 @@ These are detected automatically from your repository URL!
 
 ### Manual Update
 
-1. Edit/replace files in `AppID/[game-id]/achievements.json`
+1. Edit/replace files in `AppID/[Steam AppID]/achievements.json`
 2. Commit and push changes
 3. Site updates automatically within minutes
 
@@ -165,7 +165,7 @@ The workflow runs daily at midnight UTC, or manually:
 ### Required (Minimum Setup):
 
 ✅ `index.html` (this file)
-✅ `AppID/[game-id]/achievements.json` files with your achievement data
+✅ `AppID/[Steam AppID]/achievements.json` files with your achievement data
 ✅ GitHub Pages enabled
 
 ### Optional (Enhanced Features):
@@ -173,7 +173,7 @@ The workflow runs daily at midnight UTC, or manually:
 ⭐ `STEAM_API_KEY` secret → Enables automatic game info fetching
 ⭐ GitHub Actions workflow → Auto-updates game data daily
 ⭐ `game-info.json` files → Auto-generated, contains game names/icons/rarity
-⭐ `game-data.json` → Auto-generated, combined data file
+⭐ `game-data.json` → Auto-generated, combines all achievements data from [Steam AppID] folders
 
 **You can use this viewer with JUST the achievements.json files!** The workflow is optional for enhanced features.
 
