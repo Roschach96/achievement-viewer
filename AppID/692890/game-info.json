@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/50de24534b4d5335252c9a53d7200696ad649813.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -41,7 +41,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/852f0aede05a5ce110ef3a3d779aec9c8a506161.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b6aa3f2bfc0fea482f4975cf5ca56e16bd167ece.jpg",
       "hidden": false,
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "BILLY_EXPLOSION": {
       "name": "Oopsie...",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/2b0ed9d5bc1d0806dd2a0ed38d62b7e4bb897159.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "BROBOT_JOIN": {
       "name": "Meet my Brobot",
@@ -153,7 +153,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6fd00b4d60454fc12d30927874ad488619fff0e6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/74595bd6c0919e7656b408d7534475a00415fdff.jpg",
       "hidden": false,
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "CRYSTAL_UNLOCK_SILVER": {
       "name": "Crystal Claimer (Silver)",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/fc2a7e0e1b4ee4e24f296f6383b32d51b81a6fbd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8a8877d824864015e14d1368c34d1ddc70e63d6f.jpg",
       "hidden": false,
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "FINISH_GAME_BUDDYBOT": {
       "name": "Best Buddy Forever",
@@ -609,7 +609,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/29cae9ca05fb4cf387b2a8c82dfe0603ce54b03d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -633,7 +633,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3713578dd48ce78623eb75c45413fbb9e0295237.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9db57be44242eac14e3fb76103e625b097299463.jpg",
       "hidden": true,
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "LOOT_SWORD": {
       "name": "Captain Mc Slice",
@@ -641,7 +641,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e5d06012af5c40da6717afe6952cb25f00196bf7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9fe9e1858b5cc34d6e223b763b7174708d12a24a.jpg",
       "hidden": true,
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ALFRED_REBOOT": {
       "name": "Butlers Never Die",
@@ -689,7 +689,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/fe6c3b1122a257a8e768bd24efef76b9fc15ac40.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/409950a971c212595f876f02f54bf8431c5cc0fd.jpg",
       "hidden": false,
-      "percent": "4.6"
+      "percent": "4.7"
     }
   },
   "uses_db": false,
