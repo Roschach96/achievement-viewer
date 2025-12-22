@@ -253,7 +253,7 @@ export function renderGameDetail() {
 function renderDetailView(game, unlocked, total, percentage, sortMode, unlockedAchievements, lockedAchievements) {
     return `
         <button class="back-button" onclick="window.hideGameDetail()">
-            ← Back to Games
+            ← Back to All Games
         </button>
         
         <div class="detail-header">
