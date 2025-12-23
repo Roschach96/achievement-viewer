@@ -16,14 +16,38 @@ top_owners_file = Path("top_owners.json")
 
 # Default hardcoded list (32 IDs)
 DEFAULT_OWNERS = [
-    76561198028121353, 76561198017975643, 76561197979911851, 76561198355953202,
-    76561197993544755, 76561198001237877, 76561198355625888, 76561198217186687,
-    76561198152618007, 76561198237402290, 76561198213148949, 76561197973009892,
-    76561198037867621, 76561197969050296, 76561198019712127, 76561198094227663,
-    76561197965319961, 76561197976597747, 76561197963550511, 76561198044596404,
-    76561198134044398, 76561198367471798, 76561199492215670, 76561197962473290,
-    76561198842603734, 76561198119667710, 76561197969810632, 76561197995070100,
-    76561198017902347, 76561197996432822, 76561198082995144, 76561198027214426
+    76561198028121353,
+    76561198017975643,
+    76561197979911851,
+    76561198355953202,
+    76561197993544755,
+    76561198001237877,
+    76561198355625888,
+    76561198217186687,
+    76561198152618007,
+    76561198237402290,
+    76561198213148949,
+    76561197973009892,
+    76561198037867621,
+    76561197969050296,
+    76561198019712127,
+    76561198094227663,
+    76561197965319961,
+    76561197976597747,
+    76561197963550511,
+    76561198044596404,
+    76561198134044398,
+    76561198367471798,
+    76561199492215670,
+    76561197962473290,
+    76561198842603734,
+    76561198119667710,
+    76561197969810632,
+    76561197995070100,
+    76561198017902347,
+    76561197996432822,
+    76561198082995144,
+    76561198027214426,
 ]
 
 if top_owners_file.exists():
@@ -39,17 +63,21 @@ else:
     # File doesn't exist: Use default list AND create the file
     print("top_owners.json not found. Using hardcoded list and creating file...")
     TOP_OWNER_IDS = DEFAULT_OWNERS
-    
+
     try:
         with open(top_owners_file, "w", encoding="utf-8") as f:
             json.dump(
-                {"steam_ids": TOP_OWNER_IDS, "updated": "Created from hardcoded backup"},
+                {
+                    "steam_ids": TOP_OWNER_IDS,
+                    "updated": "Created from hardcoded backup",
+                },
                 f,
-                indent=2
+                indent=2,
             )
         print("✓ Created top_owners.json for future runs")
     except Exception as e:
         print(f"Warning: Could not create top_owners.json: {e}")
+
 
 def get_changed_appids():
     """Get list of AppIDs that were modified in the last push"""
@@ -375,11 +403,20 @@ for appid in appids:
 
                     # Memory logic: if current desc is empty but was found before, restore it
                     if not game_info["achievements"][api_name]["description"]:
-                        old_desc = existing_info.get("achievements", {}).get(api_name, {}).get("description", "")
+                        old_desc = (
+                            existing_info.get("achievements", {})
+                            .get(api_name, {})
+                            .get("description", "")
+                        )
                         if old_desc:
-                            game_info["achievements"][api_name]["description"] = old_desc
+                            game_info["achievements"][api_name][
+                                "description"
+                            ] = old_desc
 
-                    if is_hidden and not game_info["achievements"][api_name]["description"]:
+                    if (
+                        is_hidden
+                        and not game_info["achievements"][api_name]["description"]
+                    ):
                         hidden_achievements.append(api_name)
 
                 print(f"  ✓ Merged {len(achievements)} achievements")
@@ -410,9 +447,7 @@ for appid in appids:
                                             "description"
                                         ] = data["description"]
                                         descriptions_found += 1
-                                        print(
-                                            f"    ✓ Found: '{data['name']}'"
-                                        )
+                                        print(f"    ✓ Found: '{data['name']}'")
 
                             missing = sum(
                                 1
@@ -481,7 +516,8 @@ for appid in appids:
     # --- Missing hidden achievements file logic (BEFORE SAVE) ---
     missing_file_path = Path(f"AppID/{appid}/missing hidden achievements")
     still_missing_api_names = [
-        api_name for api_name, data in game_info["achievements"].items()
+        api_name
+        for api_name, data in game_info["achievements"].items()
         if data.get("hidden") and not data.get("description")
     ]
 
@@ -489,11 +525,15 @@ for appid in appids:
         with open(missing_file_path, "w", encoding="utf-8") as f:
             for api_name in still_missing_api_names:
                 f.write(f"{api_name}\n")
-        print(f"  ⚠ Created/Updated 'missing hidden achievements' file ({len(still_missing_api_names)} items)")
+        print(
+            f"  ⚠ Created/Updated 'missing hidden achievements' file ({len(still_missing_api_names)} items)"
+        )
     else:
         if missing_file_path.exists():
             missing_file_path.unlink()
-            print("  ✓ All hidden descriptions found, removed 'missing hidden achievements' file")
+            print(
+                "  ✓ All hidden descriptions found, removed 'missing hidden achievements' file"
+            )
 
     # Save individual game-info.json
     game_info_path = Path(f"AppID/{appid}/game-info.json")
