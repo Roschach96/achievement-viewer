@@ -272,54 +272,55 @@ def fetch_community_achievements(appid):
     return achievements
 
 
-def fetch_schema_achievements(appid, existing_info, achievements_from_xml):
+def fetch_achievements(appid, existing_info, achievements_from_xml):
     hidden_achievements = []
     achievement_names_map = {}
     achievements_info = {}
 
-    if not STEAM_API_KEY:
-        return achievements_info, hidden_achievements, achievement_names_map
-
     try:
-        response = requests.get(
-            f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
-            timeout=10,
-        )
-        if response.ok:
-            achievements = (
-                response.json()
-                .get("game", {})
-                .get("availableGameStats", {})
-                .get("achievements", [])
+        if not STEAM_API_KEY:
+            achievements = asyncio.run(fetch_steamhunters_achievements(appid))
+        else:
+            response = requests.get(
+                f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
+                timeout=10,
             )
-            for ach in achievements:
-                api_name = ach["name"]
-                is_hidden = ach.get("hidden", 0) == 1
-                display_name = ach.get("displayName", ach["name"])
-                achievement_names_map[display_name.lower()] = api_name
+            if response.ok:
+                achievements = (
+                    response.json()
+                    .get("game", {})
+                    .get("availableGameStats", {})
+                    .get("achievements", [])
+                )
 
-                if api_name in achievements_from_xml:
-                    achievements_info[api_name] = achievements_from_xml[api_name].copy()
-                    achievements_info[api_name]["hidden"] = is_hidden
-                else:
-                    achievements_info[api_name] = {
-                        "name": display_name,
-                        "description": ach.get("description", ""),
-                        "icon": ach.get("icon", ""),
-                        "icongray": ach.get("icongray", ""),
-                        "hidden": is_hidden,
-                    }
+        for ach in achievements:
+            api_name = ach["name"]
+            is_hidden = ach.get("hidden", 0) == 1
+            display_name = ach.get("displayName", ach["name"])
+            achievement_names_map[display_name.lower()] = api_name
 
-                if not achievements_info[api_name]["description"]:
-                    old_desc = (
-                        existing_info.get("achievements", {})
-                        .get(api_name, {})
-                        .get("description", "")
-                    )
-                    if old_desc:
-                        achievements_info[api_name]["description"] = old_desc
-                if is_hidden and not achievements_info[api_name]["description"]:
-                    hidden_achievements.append(api_name)
+            if api_name in achievements_from_xml:
+                achievements_info[api_name] = achievements_from_xml[api_name].copy()
+                achievements_info[api_name]["hidden"] = is_hidden
+            else:
+                achievements_info[api_name] = {
+                    "name": display_name,
+                    "description": ach.get("description", ""),
+                    "icon": ach.get("icon", ""),
+                    "icongray": ach.get("icongray", ""),
+                    "hidden": is_hidden,
+                }
+
+            if not achievements_info[api_name]["description"]:
+                old_desc = (
+                    existing_info.get("achievements", {})
+                    .get(api_name, {})
+                    .get("description", "")
+                )
+                if old_desc:
+                    achievements_info[api_name]["description"] = old_desc
+            if is_hidden and not achievements_info[api_name]["description"]:
+                hidden_achievements.append(api_name)
     except Exception as e:
         print(f"Error fetching schema achievements for {appid}: {e}")
 
@@ -391,11 +392,11 @@ for appid in appids:
     time.sleep(1.5)
 
     # Steam API schema achievements
-    schema_achievements, hidden_achievements, achievement_names_map = (
-        fetch_schema_achievements(appid, existing_info, achievements_from_xml)
+    achievements, hidden_achievements, achievement_names_map = fetch_achievements(
+        appid, existing_info, achievements_from_xml
     )
-    game_info["achievements"].update(schema_achievements)
-    print(f"  ✓ Merged {len(schema_achievements)} achievements")
+    game_info["achievements"].update(achievements)
+    print(f"  ✓ Merged {len(achievements)} achievements")
 
     # Scrape hidden achievements
     if hidden_achievements:
