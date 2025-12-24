@@ -280,6 +280,13 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     try:
         if not STEAM_API_KEY:
             achievements = asyncio.run(fetch_steamhunters_achievements(appid))
+            for ach in achievements:
+                ach["icon"] = (
+                    f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
+                )
+                ach["icongray"] = (
+                    f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+                )
         else:
             response = requests.get(
                 f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
