@@ -25,7 +25,7 @@ jobs:
       - name: Checkout user branch
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2
+          fetch-depth: 4
           ref: user
 
       - name: Set up Python
