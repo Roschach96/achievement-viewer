@@ -552,8 +552,12 @@ for folder in appid_dir.iterdir():
     if folder.is_dir() and folder.name.isdigit():
         current_appid = folder.name
         achievements_data, _ = load_achievements_file(folder)
+        
+        # Skip games without achievement files
         if achievements_data is None:
+            print(f"  ⚠ Skipping {current_appid} - no achievements file found")
             continue
+            
         if current_appid in existing_game_data:
             all_game_data.append(existing_game_data[current_appid])
         else:
@@ -570,6 +574,16 @@ for folder in appid_dir.iterdir():
                     "achievements": achievements_data,
                 }
             )
+
+# Check for removed games
+removed_games = []
+for appid in existing_game_data.keys():
+    folder = appid_dir / appid
+    if not folder.exists() or load_achievements_file(folder)[0] is None:
+        removed_games.append(appid)
+
+if removed_games:
+    print(f"\n⚠ Removed {len(removed_games)} game(s) with deleted achievement files: {', '.join(removed_games)}")
 
 save_json_file(game_data_path, all_game_data)
 print(f"\n✓ Updated {len(appids)} game(s), total games in data: {len(all_game_data)}")
