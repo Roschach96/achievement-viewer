@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a0864e337fe427586613b09e8799109deccdbcf4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e8f543149d1ccfe831740ad989260d15e57a4de0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/d1f3d14cf7b0b0cf8a7bb4a71a43f5c950fd982c.jpg",
       "hidden": false,
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "BANISHMENT": {
       "name": "Banishment",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/460d5ab4af6dc0ff8c053c42649fa856949f01b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9937e1fabc4f0ea2feebafd0b6f20c025b52aeec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/None.jpg",
       "hidden": true,
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "MAP": {
       "name": "Cartographer",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7e671e6e88cbe98b9dce57281980fea84a70de9b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": false,
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "CHARMED": {
       "name": "Charmed",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d15e62c48ba57d23e72b8f24fb775a44223cb8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8342f6c2630943b056978593315dfb8676e5bbd9.jpg",
       "hidden": false,
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "COMPLETION": {
       "name": "Completion",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/dad457a73d6612846c24053b76d41a2415ace552.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1e6a0d37618ba408e9c6ee4e77585ba1b69ee2c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4dce442376a62900d7064dbb04f66125678d0a99.jpg",
       "hidden": false,
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "GREY_PRINCE": {
       "name": "Dark Romance",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8c26d557c3582c7784f338523316f56068e4426d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e9699d861ee64eb0b3bfd57f2571896be5db12b4.jpg",
       "hidden": true,
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "ENDING_C": {
       "name": "Dream No More",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8236b05d402215e4cd497af18248d19210d8fbea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/70ff5ba41548568aad51c3bd0d4a53d5c17399ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": false,
-      "percent": "39.8"
+      "percent": "39.9"
     },
     "TRAITOR_LORD": {
       "name": "Execution",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e7205c4c78fefef7894a6731d1a188e992011ec8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
       "hidden": false,
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ef1f6b825646067c63f5703d1c7ba38b52d94259.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e92b8a9b1382393740a658d9ece0bcad21d0bb03.jpg",
       "hidden": false,
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "PANTHEON3": {
       "name": "Focus",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/29d538fcf448baafe7bb427d7788b416f0e2e00f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
       "hidden": false,
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "GRIMM": {
       "name": "Grand Performance",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/982f6bd69415e06696e2fc414bc595700663ab37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
       "hidden": true,
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "GRUBFRIEND": {
       "name": "Grubfriend",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7d3e6f275570f47e11c53342e989bc70152789cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": false,
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "NAILSMITH_SPARE": {
       "name": "Happy Couple",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7505670c8e4283da41ce575341bc35f72ff2639b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/c98d546145ff3a8b0eed20ca5426b94d714127bd.jpg",
       "hidden": false,
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "STAG_STATION_ALL": {
       "name": "Hope",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/96d2673f15230fb83dd61384eb05458f1e0475bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ea0958727cca3be88c8e200f7c3008fa01775ccd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "METAMORPHOSIS": {
       "name": "Metamorphosis",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a26f0ff5d81835545c86d358c49a1a15bf74a299.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f922c5de7ecfb30d3f7287e5fc472d669ec67fb8.jpg",
       "hidden": true,
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "NEGLECT": {
       "name": "Neglect",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a39ee369bc9d5dc54d419ad7cae6c1dd346fc632.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
       "hidden": true,
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "MR_MUSHROOM": {
       "name": "Passing of the Age",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/c1d1c0d98374a06efa17e183ef3121ac6c8cc156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1eb53b3fb180df87b48b07a5898aeb8b872b49d4.jpg",
       "hidden": true,
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "HORNET_2": {
       "name": "Proof of Resolve",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/55742641984670952a75a1b80f3380bc85a8fcce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ce3e486770249d317f47c8277de5e7047d175cb0.jpg",
       "hidden": true,
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "PROTECTED": {
       "name": "Protected",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/2461c5d7f6595602443a0bf0da24f48795873671.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
       "hidden": false,
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "COMPLETIONGG": {
       "name": "Pure Completion",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/bc17dc680e57f3a108d964f171388109b3dd02e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/23f190fe7fdc961652855d6134a096b2703bf479.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "BROKEN_VESSEL": {
       "name": "Release",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/fe4da7f785348feab3845233c0050d660b23c9d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
       "hidden": false,
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "MANTIS_LORDS": {
       "name": "Respect",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1a695a0e9bf011f800f3a52e4a04a02776011765.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1720e3ef2802441c9f6f3d4b3ae62ba05109ec1c.jpg",
       "hidden": false,
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "NIGHTMARE_GRIMM": {
       "name": "Ritual",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e8a35f548dcdeb1753fdc880a2df6de8fe245c8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/00938958cda9497220f141c415a7ca7bdcdd27e7.jpg",
       "hidden": true,
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "ENDING_B": {
       "name": "Sealed Siblings",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5599c786f2c5a411951563f33abed35f08ad76e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
       "hidden": false,
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "PANTHEON4": {
       "name": "Soul & Shade",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4913c263116ee38deb0a17c724e04cda290210e0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/83ad82ce253a66e89e6ee51eb37db2fd0f781e10.jpg",
       "hidden": false,
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f35cd67af303aa5d609cd1183e9eb29295b302b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -449,7 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/341793aae218e6b14c571ee2daf55b87cf11a784.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/80ba52f035a3418b241c62c1eae7c924ec5705e8.jpg",
       "hidden": false,
-      "percent": "63.1"
+      "percent": "63.2"
     },
     "ENDING_A": {
       "name": "The Hollow Knight",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/39db59cf079011e52d49a621de9c540652f9d2d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": true,
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "HUNTER_2": {
       "name": "True Hunter",
@@ -481,7 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/11d67c16467ae72066c2a3d33388325c65e9f7f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
       "hidden": false,
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "WATCHER": {
       "name": "Watcher",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4e6e4ddce73c59559901d5bc7c86481d36a45988.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "QUIRREL_EPILOGUE": {
       "name": "Witness",

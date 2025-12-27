@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/96a0dc536bd975e3da4cd1ef9a1a8dfbb1e01e7d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "Upgrade_Boss_Weapon_B": {
       "name": "Almost There",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/59d0e404961a12bca198810b21c5a531101497ca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "Craft_Weapon_Mod_B": {
       "name": "Crafty",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/04e0d5f208a1fae06d5189328830682f6dd1b480.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "46.5"
+      "percent": "46.4"
     },
     "Obtain_Archetype_Dual": {
       "name": "Duality",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/dd3bb04891a7760dd0e7b65017573c4ee377bfce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "Meet_Meidra": {
       "name": "Equal Measures",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f7b02e9a90cff3a2a919655e2148b6550720ea54.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "72.7"
+      "percent": "72.6"
     },
     "Meet_Flautist": {
       "name": "Familiar Face",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d5bb8b61fb9b426fd2a4048f6bca517452870e33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "Defeat_Tal_Ratha": {
       "name": "Madman's Paradise",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/37d499ad0150178d9fb523a2faf4b89af0144a74.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "55.7"
+      "percent": "55.6"
     },
     "DLC2_Obtain_Archetype": {
       "name": "Master of Elements",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0c739537c6fab128fa81611aa8a5c85a9d5789b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "DLC1_Obtain_Archetype": {
       "name": "Master of the Dark Arts",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/aa0e61c9df9355389c072d028b7744086a10f625.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "DLC1_Discover_True_Ending": {
       "name": "Succession",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/25745324ecbddbe9bc3ed979f83fa1bcbae83147.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.6"
+      "percent": "43.5"
     },
     "Defeat_Mantis": {
       "name": "The Killing Jar",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a93d360d5938529e6696ed881b20c930bafc1883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "96.1"
+      "percent": "96.2"
     },
     "DLC3_Obtain_Redeemer": {
       "name": "The Master Builder",
@@ -481,7 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/875a3cd205db05e167e00c5869a4617b9bfb261f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "Defeat_Faelin_Faerin": {
       "name": "Traitor",

@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/701e6a0e4e6cdc8c1b246963bf81d51b05f08974.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3a9cc6e18cfd7ebf7d4d94d7d1091d27329bcfb4.jpg",
       "hidden": false,
-      "percent": "57.5"
+      "percent": "57.4"
     },
     "BG3_Quest04": {
       "name": "All's Well That Ends Well",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/47daa8cf213809978d0f2ba9b514942c864ce452.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/042a397825694c4147bf6fc9bd580890b71573e7.jpg",
       "hidden": false,
-      "percent": "66.4"
+      "percent": "66.3"
     },
     "BG3_Quest43": {
       "name": "Bookworm",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b668429392fd2600ae86857e11eef003b78c411f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44a9e19248d43300515c3575f0c5bd0a9813ee97.jpg",
       "hidden": false,
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "BG3_Quest41": {
       "name": "Bottoms Up",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0cb31fd9ec036550a374aa702a37464a98da3bfa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0950821dd57b97eb5ce309530dd61f0e3f2e3a6d.jpg",
       "hidden": false,
-      "percent": "89.8"
+      "percent": "89.7"
     },
     "BG3_Quest31": {
       "name": "Devil's in the Details ",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/ae3adaf3d6f530e91b33975acdd30e7f7031437a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/c5549e2df862671ed14db87d3650f9f91907438e.jpg",
       "hidden": false,
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "BG3_Quest45": {
       "name": "Fetch Quest",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/86a026938f983aa2e170f106e5b7d9eee3b7b3e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0128504fc4ae9e6c812338ce0569c0c3330f61cb.jpg",
       "hidden": false,
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "BG3_Quest38": {
       "name": "First Blood",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/7648f980938af51c9f1378ec1171673fc8d8d0b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/2cb77366c957e8fa3c5eff4fdd7c59ddc5d3c3e4.jpg",
       "hidden": true,
-      "percent": "24.7"
+      "percent": "24.6"
     },
     "BG3_Quest17": {
       "name": "Homebrewer",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/884c0f57453132979551b5053fd3f03bb8176038.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/730ac43eb4f804a75356884351ad5dbe1f22fca0.jpg",
       "hidden": true,
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "BG3_Quest27": {
       "name": "Kill Two Birds With One Gnome",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f700d8870a67e86b69c9fa66e02b805735e18e36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/d367f18a90c4ebd5f5ba852042be6a01adab68ab.jpg",
       "hidden": true,
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "BG3_Quest36": {
       "name": "No Free Lunches",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/c77588e8a25741098ac71ae64f4b08d84e357310.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b2c45774e06a96ac4c091aa6525d1f3b389c499c.jpg",
       "hidden": false,
-      "percent": "63.6"
+      "percent": "63.5"
     },
     "BG3_Quest34": {
       "name": "Non-Invasive Procedure",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f9353502a5d66c5160f1474c50c86c521e0481fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/94cf2cb0837eec87af76d5e6a0833f6f6746145a.jpg",
       "hidden": true,
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "BG3_Quest44": {
       "name": "Punch Drunk",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f202f039116ecee22d8aaacee24370a55f1983dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b1dd3bd0aefbcab6e7c7de016bbed582ca6ec91f.jpg",
       "hidden": true,
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "BG3_Quest09": {
       "name": "Roleplayer",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6b55d2fb4ef8fbf7fe7605b561b95a762ea74ded.jpg",
       "hidden": false,
-      "percent": "58.0"
+      "percent": "57.9"
     },
     "BG3_Quest19": {
       "name": "Rude, Crude, and Full of Attitude",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fc95da156e92c9d6f0955236d77bbe07e36f06e9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/80d10c6bd718fa0222d5c149ca25511dca67798d.jpg",
       "hidden": false,
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "BG3_Quest07": {
       "name": "Sins of the Father",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "BG3_Quest03": {
       "name": "The City Awaits",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3c6d05ff648b66925238963a658ee307e31ff870.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/092cc30e865fbb0158afe43fb343d6362e9292fa.jpg",
       "hidden": true,
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "BG3_Quest47": {
       "name": "The Lich-Queen's Wrath",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fa32d7bc3e9a30744f2a9b66c2fed4d9246b68a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/68b09cd38809a0ac26bf7f9eac5e35e7fbd92e92.jpg",
       "hidden": true,
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "BG3_Quest18": {
       "name": "You Have Two Hands for a Reason",

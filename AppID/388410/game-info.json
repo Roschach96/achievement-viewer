@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/cc4281b72e5a560759df60ff13dd78f04e146368.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/6dcc02a0230af3072600eff925cfda1d17a9f7b5.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "BRAVO_OLD_CHAP": {
       "name": "Bravo Old Chap",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/02e3fb592252fabfe8ea9c0510c01f1c73f8e974.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/4fa1bbe668ebbb820ffdc974557d6eb808f5a779.jpg",
       "hidden": true,
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "RESPEC_YOURSELF": {
       "name": "Respec Yourself",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/e65d05f8b28382ea9286ead97bdbc7d72c0a8c16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/f1391e0affbebfa63fdc6ee9f8dc244894e5e2f7.jpg",
       "hidden": true,
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "THE_ROOT_OF_CORRUPTION": {
       "name": "The Root Of Corruption",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/0c8dad20c1f1b4394f7eb86945fb8006761964a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/7b760b6edb7ce5d39c1354bbb2f8d3ee38dacbe8.jpg",
       "hidden": true,
-      "percent": "33.0"
+      "percent": "32.9"
     }
   },
   "platform": null,
