@@ -4815,8 +4815,8 @@
     },
     "achievements": {
       "TFD_ACHIEVEMENT_1": {
-        "earned": true,
-        "earned_time": 1766525773
+        "earned": false,
+        "earned_time": 0
       },
       "TFD_ACHIEVEMENT_2": {
         "earned": true,
