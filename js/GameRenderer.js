@@ -274,11 +274,12 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
 
-    const compareButton = `
+    // Show compare button if not own profile
+    const compareButton = !isOwnProfile() ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
         </button>
-    `;
+    ` : '';
 
     return `
         <button class="back-button" onclick="window.hideGameDetail()">
