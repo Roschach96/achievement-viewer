@@ -1,5 +1,13 @@
 import { gamesData } from './GameLoader.js';
 import { calculatePercentage, formatUnlockDate } from './utils.js';
+import { 
+    isOwnProfile, 
+    loadOwnGameData, 
+    compareAchievements, 
+    renderComparisonView,
+    setupComparisonFilters,
+    selectComparisonUser
+} from './GameCompare.js';
 
 // Displaying games
 export function displayGames() {
@@ -193,7 +201,7 @@ export function showGameDetail(appId, updateUrl = true) {
     const game = gamesData.get(appId);
     if (!game) return;
 
-    // Csak akkor frissítjük az URL-t, ha nem a handleDeepLink vagy popstate hívta meg
+    // Only update URL if not called from handleDeepLink or popstate
     if (updateUrl) {
         const newUrl = new URL(window.location.href);
         newUrl.searchParams.set('game', appId);
@@ -210,15 +218,40 @@ export function showGameDetail(appId, updateUrl = true) {
         unlocked: unlocked,
         total: total,
         percentage: percentage,
-        sortMode: 'default'
+        sortMode: 'default',
+        compareMode: false,
+        comparisonData: null
     };
 
     renderGameDetail();
 }
 
 export function renderGameDetail() {
-    const { appId, game, unlocked, total, percentage, sortMode } = window.currentGameData;
+    const { appId, game, unlocked, total, percentage, sortMode, compareMode } = window.currentGameData;
 
+    document.getElementById('games-grid').classList.add('hidden');
+    document.getElementById('summary-box').classList.add('hidden');
+    document.getElementById('grid-sort-controls').classList.add('hidden');
+
+    const detailView = document.getElementById('detail-view');
+    
+    if (compareMode) {
+        detailView.innerHTML = renderDetailViewWithComparison(game, unlocked, total, percentage);
+    } else {
+        detailView.innerHTML = renderDetailViewNormal(game, unlocked, total, percentage, sortMode);
+    }
+    
+    detailView.classList.add('active');
+    window.scrollTo(0, 0);
+    
+    // Setup comparison filters if in compare mode
+    if (compareMode) {
+        setupComparisonFilters();
+    }
+}
+
+// Normal view with compare button
+function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
     let unlockedAchievements = game.achievements.filter(a => a.unlocked);
     let lockedAchievements = game.achievements.filter(a => !a.unlocked);
 
@@ -240,17 +273,13 @@ export function renderGameDetail() {
         unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
 
-    document.getElementById('games-grid').classList.add('hidden');
-    document.getElementById('summary-box').classList.add('hidden');
-    document.getElementById('grid-sort-controls').classList.add('hidden');
+    // Show compare button if not own profile
+    const compareButton = !isOwnProfile() ? `
+        <button class="compare-button" onclick="window.enableCompareMode()">
+            🔄 Compare Achievements
+        </button>
+    ` : '';
 
-    const detailView = document.getElementById('detail-view');
-    detailView.innerHTML = renderDetailView(game, unlocked, total, percentage, sortMode, unlockedAchievements, lockedAchievements);
-    detailView.classList.add('active');
-    window.scrollTo(0, 0);
-}
-
-function renderDetailView(game, unlocked, total, percentage, sortMode, unlockedAchievements, lockedAchievements) {
     return `
         <button class="back-button" onclick="window.hideGameDetail()">
             ← Back to All Games
@@ -278,6 +307,8 @@ function renderDetailView(game, unlocked, total, percentage, sortMode, unlockedA
                         <div class="stat-label">Remaining</div>
                     </div>
                 </div>
+                
+                ${compareButton}
             </div>
         </div>
         
@@ -307,6 +338,39 @@ function renderDetailView(game, unlocked, total, percentage, sortMode, unlockedA
                 ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
             ` : ''}
         </div>
+    `;
+}
+
+// Comparison view
+function renderDetailViewWithComparison(game, unlocked, total, percentage) {
+    const { comparisonData } = window.currentGameData;
+    const theirUsername = window.location.href.split('.github.io')[0].split('//')[1];
+    
+    return `
+        <button class="back-button" onclick="window.hideGameDetail()">
+            ← Back to All Games
+        </button>
+        
+        <div class="detail-header">
+            ${game.icon ? 
+                `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
+                '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
+            <div class="detail-game-info">
+                <div class="detail-game-title">${game.name}</div>
+                <div class="detail-game-appid">AppID: ${game.appId}</div>
+                
+                <div class="compare-mode-toggle">
+                    <button class="toggle-btn" onclick="window.disableCompareMode()">
+                        📋 Normal View
+                    </button>
+                    <button class="toggle-btn active">
+                        🔄 Comparison
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        ${comparisonData ? renderComparisonView(game, comparisonData, theirUsername) : '<div class="loading">Loading comparison data...</div>'}
     `;
 }
 
@@ -353,7 +417,6 @@ function renderAchievement(ach, isUnlocked) {
 }
 
 export function hideGameDetail() {
-
     const newUrl = new URL(window.location.href);
     newUrl.searchParams.delete('game');
     window.history.pushState({}, '', newUrl);
@@ -382,3 +445,34 @@ export function handleDeepLink() {
         showGameDetail(appId, false);
     }
 }
+
+// Enable comparison mode
+window.enableCompareMode = async function() {
+    const { appId, game } = window.currentGameData;
+    
+    // Show user selection modal
+    const selected = await selectComparisonUser();
+    
+    if (!selected) {
+        // User cancelled
+        return;
+    }
+    
+    // Show loading state
+    window.currentGameData.compareMode = true;
+    renderGameDetail();
+    
+    // Load own data
+    const ownData = await loadOwnGameData(appId);
+    const comparisonData = compareAchievements(game, ownData);
+    
+    window.currentGameData.comparisonData = comparisonData;
+    renderGameDetail();
+};
+
+// Disable comparison mode
+window.disableCompareMode = function() {
+    window.currentGameData.compareMode = false;
+    window.currentGameData.comparisonData = null;
+    renderGameDetail();
+};

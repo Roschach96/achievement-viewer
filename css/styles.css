@@ -684,3 +684,481 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
     gap: 50px;
     margin-top: 20px;
 }
+
+/* ===== COMPARISON MODE STYLES ===== */
+
+.compare-button {
+    background: rgba(102, 192, 244, 0.1);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+    margin-top: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.compare-button:hover {
+    background: rgba(102, 192, 244, 0.2);
+    transform: translateY(-2px);
+}
+
+.compare-button:active {
+    background: rgba(102, 192, 244, 0.3);
+    transform: translateY(0);
+}
+
+.compare-mode-toggle {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.toggle-btn {
+    flex: 1;
+    background: rgba(102, 192, 244, 0.1);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.toggle-btn:hover {
+    background: rgba(102, 192, 244, 0.2);
+}
+
+.toggle-btn.active {
+    background: rgba(102, 192, 244, 0.3);
+    border-color: #56a0d4;
+}
+
+.comparison-unavailable {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid #3d5a6c;
+    border-radius: 8px;
+    padding: 60px 40px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.comparison-unavailable-icon {
+    font-size: 4em;
+    margin-bottom: 20px;
+    opacity: 0.6;
+}
+
+.comparison-unavailable h3 {
+    color: #66c0f4;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.comparison-unavailable p {
+    color: #c7d5e0;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.comparison-header {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid #3d5a6c;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.comparison-users {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.comparison-user {
+    text-align: center;
+}
+
+.comparison-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid #66c0f4;
+    margin-bottom: 10px;
+}
+
+.comparison-username {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.comparison-count {
+    font-size: 1.1em;
+    color: #66c0f4;
+    font-weight: bold;
+}
+
+.comparison-vs {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #66c0f4;
+    padding: 0 20px;
+}
+
+.comparison-stats {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #3d5a6c;
+}
+
+.comparison-stat {
+    text-align: center;
+}
+
+.comparison-filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.comparison-filter-btn {
+    background: rgba(102, 192, 244, 0.1);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.comparison-filter-btn:hover {
+    background: rgba(102, 192, 244, 0.2);
+}
+
+.comparison-filter-btn.active {
+    background: rgba(102, 192, 244, 0.3);
+    border-color: #56a0d4;
+}
+
+.comparison-achievements {
+    margin-top: 20px;
+}
+
+.comparison-achievement {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    margin-bottom: 10px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    border-left: 4px solid transparent;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.comparison-achievement:hover {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.comparison-both {
+    border-left-color: #66c0f4;
+}
+
+.comparison-you-only {
+    border-left-color: #90EE90;
+}
+
+.comparison-they-only {
+    border-left-color: #FFB84D;
+}
+
+.comparison-both-locked {
+    border-left-color: #8f98a0;
+    opacity: 0.6;
+}
+
+.comparison-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.badge-both {
+    background: rgba(102, 192, 244, 0.2);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+}
+
+.badge-you {
+    background: rgba(144, 238, 144, 0.2);
+    color: #90EE90;
+    border: 1px solid #90EE90;
+}
+
+.badge-them {
+    background: rgba(255, 184, 77, 0.2);
+    color: #FFB84D;
+    border: 1px solid #FFB84D;
+}
+
+.badge-locked {
+    background: rgba(143, 152, 160, 0.2);
+    color: #8f98a0;
+    border: 1px solid #8f98a0;
+}
+
+.comparison-unlock-times {
+    display: flex;
+    gap: 15px;
+    margin-top: 5px;
+    font-size: 0.85em;
+}
+
+.unlock-time-you {
+    color: #90EE90;
+}
+
+.unlock-time-them {
+    color: #FFB84D;
+}
+
+/* Comparison Modal */
+.comparison-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    animation: fadeIn 0.2s;
+}
+
+.comparison-modal {
+    background: linear-gradient(135deg, #1b2838 0%, #2a475e 100%);
+    border: 1px solid #66c0f4;
+    border-radius: 12px;
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.comparison-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 25px;
+    border-bottom: 1px solid #3d5a6c;
+}
+
+.comparison-modal-header h3 {
+    color: #66c0f4;
+    font-size: 1.3em;
+    margin: 0;
+}
+
+.comparison-modal-close {
+    background: transparent;
+    border: none;
+    color: #8f98a0;
+    font-size: 2em;
+    cursor: pointer;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.2s;
+}
+
+.comparison-modal-close:hover {
+    color: #66c0f4;
+}
+
+.comparison-modal-body {
+    padding: 20px 25px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.comparison-loading {
+    text-align: center;
+    padding: 40px 20px;
+    color: #66c0f4;
+}
+
+.comparison-error {
+    text-align: center;
+    padding: 40px 20px;
+    color: #c7d5e0;
+}
+
+.comparison-user-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.comparison-user-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid #3d5a6c;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.comparison-user-item:hover {
+    background: rgba(0, 0, 0, 0.5);
+    border-color: #66c0f4;
+    transform: translateX(5px);
+}
+
+.comparison-user-item.selected {
+    border-color: #66c0f4;
+    background: rgba(102, 192, 244, 0.1);
+}
+
+.comparison-user-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #66c0f4;
+}
+
+.comparison-user-info {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.comparison-user-name {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.comparison-user-badge {
+    background: rgba(102, 192, 244, 0.2);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.comparison-modal-footer {
+    padding: 15px 25px;
+    border-top: 1px solid #3d5a6c;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.comparison-modal-button {
+    background: rgba(102, 192, 244, 0.1);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.comparison-modal-button:hover {
+    background: rgba(102, 192, 244, 0.2);
+}
+
+.comparison-modal-button.cancel {
+    background: rgba(143, 152, 160, 0.1);
+    color: #8f98a0;
+    border-color: #8f98a0;
+}
+
+.comparison-modal-button.cancel:hover {
+    background: rgba(143, 152, 160, 0.2);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .comparison-users {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .comparison-vs {
+        padding: 10px 0;
+    }
+    
+    .comparison-stats {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .comparison-filters {
+        flex-direction: column;
+    }
+    
+    .comparison-badge {
+        position: static;
+        margin-top: 10px;
+        display: inline-block;
+    }
+    
+    .comparison-achievement {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-right: 12px;
+    }
+    
+    .achievement-icon {
+        margin-bottom: 10px;
+    }
+    
+    .comparison-modal {
+        width: 95%;
+        max-height: 90vh;
+    }
+    
+    .comparison-modal-header {
+        padding: 15px 20px;
+    }
+    
+    .comparison-modal-body {
+        padding: 15px 20px;
+    }
+}
