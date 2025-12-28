@@ -940,6 +940,8 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 
 .unlock-time-them {
     color: #FFB84D;
+    margin-left: auto;
+    text-align: right;
 }
 
 /* Comparison Modal */
