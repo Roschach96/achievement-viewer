@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/5f213192b6591890f352bcc34862078dea5a1ae2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/c2ed4aac8b688041196bf645a9caf1a57b3d4c5f.jpg",
       "hidden": true,
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "ACHIEVEMENT010": {
       "name": "At the End of the Struggle",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/eaa0b9dee8b871df296b01ab0a1493dbacaab9ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/27922cbf4a817a85d108ddc819abca1f780ef783.jpg",
       "hidden": false,
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACHIEVEMENT037": {
       "name": "Behold the Power of My Lightning",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/179992706ae276af1c43dd6d3aef88ff8c431cb4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/31cfb9cab19fe7d81ec186eef0d4392142c96481.jpg",
       "hidden": true,
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACHIEVEMENT017": {
       "name": "Day 1 Bounty Hunter",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/2b9d2261d1d031743d3f3186c722f50001a1d29d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/cae04d0b83ca4418efacf9bd01887c24c8bab2a6.jpg",
       "hidden": false,
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "ACHIEVEMENT013": {
       "name": "Extinct Species",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/01342cb176eed902f7c9db7131189347e79cf9a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/71bbdfa9fae8448ae3ab91b5113fe65e715438ea.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "ACHIEVEMENT029": {
       "name": "Extraordinary Defensive Instinct",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/fc7340a13b61ebb0f67c12f7fc35b6c4175a6efc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
-      "percent": "61.0"
+      "percent": "61.1"
     },
     "ACHIEVEMENT009": {
       "name": "Gaze of the Strong",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/523d1d58aa5facd98fbf39f04a48113aa4aec028.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/16bf0f4b364f2972642f86794a667f37c719226b.jpg",
       "hidden": true,
-      "percent": "81.2"
+      "percent": "81.3"
     },
     "ACHIEVEMENT011": {
       "name": "Gym Regular",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/34aa2bb1cd0d4856d78835973d977dbec06b9c98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/e7569ba7a02c53c3fc9585bbfe17c2acff4930ee.jpg",
       "hidden": false,
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACHIEVEMENT024": {
       "name": "Manipulator of Time",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/ffb822787b9082f499008ea679b58f2c92ca4f0c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/d3f26ab74c130d9780395c71011b193a2bb52d0e.jpg",
       "hidden": false,
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "ACHIEVEMENT004": {
       "name": "Messiah Will Not Come",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/2f8404b24d0557bdd62411746bc53d2cfdcef12b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/d8a750eb652f50445b534adb76e30154ff0b9857.jpg",
       "hidden": true,
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "ACHIEVEMENT034": {
       "name": "Not Missing an Opportunity",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/9abcb1ec5da7e8b6a2b675d017581827ec72453f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/52bab7e2f2d17aea0b2c5fd8dcf7eaaaa41ec8a3.jpg",
       "hidden": false,
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "ACHIEVEMENT030": {
       "name": "Shine When Polished",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/87f8a75c86e0d8df902227d9ab7a5452b17181d5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/4dc42eee13c13f390bb64b9f18fd06b427e6f888.jpg",
       "hidden": true,
-      "percent": "71.1"
+      "percent": "71.2"
     },
     "ACHIEVEMENT018": {
       "name": "This Year's Fashion Trend",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/877c1272df9f2f1d566304cf4ee1fd195d28c803.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/bdfc43f3254e38a8dcc65d41c9e605dfcd06dc46.jpg",
       "hidden": false,
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "ACHIEVEMENT015": {
       "name": "To the World Outside",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/f21f56f545e9b8935f2633b452bf52f8c60fe383.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/2c6378adbe5e6cad74239bbc7d0da4ffa679053f.jpg",
       "hidden": true,
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACHIEVEMENT038": {
       "name": "Triple Cross",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/e4fac4ab2092c38ac56872979a77e9bfd94bfa3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0a7e7003456dcf21a83b0e2f031d4f1fa6ca934a.jpg",
       "hidden": false,
-      "percent": "57.7"
+      "percent": "57.8"
     }
   },
   "platform": null,

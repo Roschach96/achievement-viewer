@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/91996fac12c7b15e4336d62bb6db7f0a45bacbb7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
-      "percent": "4.8"
+      "percent": "5.9"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7e22ee6aac5a0a28ce219e06f2b2e36eaa921614.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
-      "percent": "1.2"
+      "percent": "1.7"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/5a21622d652d363c798de09e42034ce44e7d1d58.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9c5c821fefd95ef84d997c8792feca503e7ee928.jpg",
       "hidden": true,
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "ACH_CompleteMission_Nightmare": {
       "name": "Bad Dreams",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/19059b894148359e05072342af15c81d7a02650b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/978345de72614124311d149b1c429c72d7467711.jpg",
       "hidden": false,
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "ACH_KillAndroidsWithBarrel100": {
       "name": "Barrel of Laughs",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/47666288c0b9cc40d3ead01e0f14ddf53105b9f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e43c9152d669649563297fc74d60471fca21dce9.jpg",
       "hidden": true,
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "ACH_CompleteStory3": {
       "name": "Brain Drain",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
-      "percent": "31.8"
+      "percent": "32.1"
     },
     "ACH_CompleteStory1": {
       "name": "Brain in a Jar",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/d42033987ccb0a63fe6018bc0e62e5eefb7f05d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3965bc6d50c1c5163a90deead6941d3bd57b7dfd.jpg",
       "hidden": false,
-      "percent": "0.3"
+      "percent": "0.5"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/700908c2d2554a3343923f8c457e8ae20f1547b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/0d57e8bf75ab5aa161171cf512c979e3dc0a0dc7.jpg",
       "hidden": true,
-      "percent": "0.3"
+      "percent": "0.5"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "percent": "19.4"
     },
     "ACH_CompleteMission_Expert": {
       "name": "Express Elevator to Hell",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/0767eb0e7867e84715780fcd3d822269a59871fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
-      "percent": "29.1"
+      "percent": "28.9"
     },
     "ACH_KillAndroids1000": {
       "name": "Exterminate!",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/187ef98db9eeff5c3fed7349ad33cdbeb2127a15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4.jpg",
       "hidden": false,
-      "percent": "67.8"
+      "percent": "67.7"
     },
     "ACH_FabricateAny": {
       "name": "Fabricate a Beer",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ad666328f4e8fb66ec0c7667c43056063d1aabae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
       "hidden": false,
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
-      "percent": "33.2"
+      "percent": "33.5"
     },
     "ACH_ReadZone4Logs": {
       "name": "Forbidden Texts",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/85532616c610165a605e93794a7bebe869f4e19e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/1466ad014bebea5662c2ee499204e5166d8f7427.jpg",
       "hidden": false,
-      "percent": "0.7"
+      "percent": "1.0"
     },
     "ACH_TechUpgrades1": {
       "name": "Gaining Power",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/2876e1b6d048f4e45183f7e33fcfaae855d0d76c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/080b9e888647a12f4ca816f358381bf7e88844a3.jpg",
       "hidden": false,
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "ACH_Sanctify1": {
       "name": "Gunpowder Piety",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7b2ea25809e94659365077b5443bbf33c3cd47d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "percent": "8.5"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/5a379e5354ecede049bef230bbe79ec4097d5647.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
-      "percent": "57.4"
+      "percent": "57.2"
     },
     "ACH_CompleteMission_All_Hard": {
       "name": "Hardcore to the Max",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a88a344d9542b95f12ccb411731052972141aa24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
       "hidden": false,
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "ACH_CompleteMission_Undamaged": {
       "name": "Invincible",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/86be32a287128f94645c638e2f42c53c7636824e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ad46833c16a71280f5866ea635db20dd7463ce46.jpg",
       "hidden": true,
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_ActivateSynergy": {
       "name": "Item Alchemist",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
-      "percent": "35.9"
+      "percent": "36.1"
     },
     "ACH_CompleteMission_Coop": {
       "name": "Jarheads",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
-      "percent": "37.1"
+      "percent": "37.6"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9d627abb8545c0ab16a6debaba7156c4b550f9ea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/95d292d49c95b7e0cb08cc375e3898e038317ff8.jpg",
       "hidden": true,
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242626c3503f965417b96ad585a1c2b1354b0664.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
-      "percent": "74.7"
+      "percent": "75.3"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/374511011a1ae116bb7247e3776aa17e4c227dbd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
       "hidden": false,
-      "percent": "59.7"
+      "percent": "59.5"
     },
     "ACH_TechUpgrades3": {
       "name": "Plot Armor",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/22e1fa4cc7158380070fd0b066103c738415a8e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
       "hidden": false,
-      "percent": "53.0"
+      "percent": "52.8"
     },
     "ACH_CollectScrap50000": {
       "name": "Scrap Pile",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
       "hidden": false,
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "ACH_CollectScrap500": {
       "name": "Scrappy",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/886d1c77f46d46b8367a4a702db28dc8801855c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
       "hidden": false,
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b94e8f3ce34e69ea35eaabb84a58379aeab42a48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/6c797a28f26edc3a3c0ad003ea378d41e2a0c7b7.jpg",
       "hidden": false,
-      "percent": "81.5"
+      "percent": "81.4"
     },
     "ACH_KillAndroids500": {
       "name": "Terminate This",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/33790fd6f93bcd72b289fa885bd34faac9df00d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3d6fef7c011e6e7c7fd78dd483dbe41ce9a3e1f6.jpg",
       "hidden": false,
-      "percent": "78.1"
+      "percent": "78.0"
     },
     "ACH_SuperUpgrades2": {
       "name": "This Ain’t Standard Issue",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
-      "percent": "56.3"
+      "percent": "56.5"
     },
     "ACH_CompleteZone1": {
       "name": "This Bug Hunt Got Complicated",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/460c996b2731daf2bb4718188edfed6c01f2f44f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
-      "percent": "49.8"
+      "percent": "49.1"
     },
     "ACH_ReadAllDataLogs": {
       "name": "Too Long, Didn't Read",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/eda9cca873a9f9b479f65cea84bf3985025846dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3a846709696add4505209b6a8f74bf22ceeb1d88.jpg",
       "hidden": false,
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH_CompleteMission": {
       "name": "Welcome to the Deadzone",
@@ -449,7 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bd08fdcd07553435eaca35cbd5e8fff21ae5f115.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
-      "percent": "85.5"
+      "percent": "85.4"
     },
     "ACH_KillAndroids1": {
       "name": "What Are These?",

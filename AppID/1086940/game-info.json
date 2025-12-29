@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9566097d88eea8346c15e9287b6747738966b71b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f457149dde2aae87e15e32bcbf06e5b25b20184b.jpg",
       "hidden": true,
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "BG3_Quest05": {
       "name": "Absolute Power Corrupts",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/ecd435323119579216ebcffebae690ae2e5c13eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/c4307d65a1d8c9776f71e73494248b546e4135d8.jpg",
       "hidden": true,
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "BG3_Quest10": {
       "name": "Bedrolls and Breakfast",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/47daa8cf213809978d0f2ba9b514942c864ce452.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/042a397825694c4147bf6fc9bd580890b71573e7.jpg",
       "hidden": false,
-      "percent": "66.3"
+      "percent": "66.2"
     },
     "BG3_Quest43": {
       "name": "Bookworm",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/a9ee13ee9d602b4f3b3957546e3df09117050eae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6036bb70d5b47b414c6412bdb4f893ccfa5238a4.jpg",
       "hidden": false,
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "BG3_Quest28": {
       "name": "Busker",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/bbceefbcd994db5b4f7367e3fcb46fe0facd4ffb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/26156176d423eafd2e71feebda09c85a842d84d5.jpg",
       "hidden": false,
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "BG3_Quest12": {
       "name": "Dig for Victory",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/c182dd661aaf764f1eb3c008c9c9d8720540c19e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/59291415e026f667b59aabca48692c6c94846021.jpg",
       "hidden": false,
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "BG3_Quest11": {
       "name": "Expand Your Mind",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/bd574766f04f7d47c4bc0639344ef0561e0cc310.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/8cf23079ac8380b485509a0b9be4a8192739b7c1.jpg",
       "hidden": true,
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "BG3_Quest30": {
       "name": "Fists of Fury",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/1b5f21f0b5669fe05af00532d548e203a8cddd92.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/5d6a1f80a5e816ee90bab4d96656219e30903fb5.jpg",
       "hidden": false,
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "BG3_Quest54": {
       "name": "Foehammer",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/969cc50dcb65bc3993966fba3b732227db209472.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
       "hidden": false,
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "BG3_Quest32": {
       "name": "Pest Control",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "BG3_Quest03": {
       "name": "The City Awaits",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
       "hidden": true,
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "BG3_Quest48": {
       "name": "To Bloom in Darkest Night",

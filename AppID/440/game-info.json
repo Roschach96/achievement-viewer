@@ -737,7 +737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_assist_medic.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_assist_medic_bw.jpg",
       "hidden": false,
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "TF_PYRO_DEFEND_POINTS": {
       "name": "Controlled Burn",
@@ -793,7 +793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7b026968cf4bc5f41b13555dba6d380843346c0d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0b397d465f83cf17c6f67ace66a504e82a946cfb.jpg",
       "hidden": false,
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TF_SOLDIER_SHOOT_MULT_CRITS": {
       "name": "Crockets Are Such B.S.",
@@ -977,7 +977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_scout_mark_for_death.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_scout_mark_for_death_bw.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "TF_ENGINEER_DISPENSER_HEAL_GROUP": {
       "name": "Doc Holiday",
@@ -1169,7 +1169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f36813c5713d225db2268e350c7547d380813eee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8e4bb3fed8bd6c096764e8db7813909baf684327.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "TF_SOLDIER_KILL_ENGY": {
       "name": "Engineer to Eternity",
@@ -1193,7 +1193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2c189ae2f6736351bb62fc5693769e11eb798afe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6bcf1a1c0832ffe817a921569d5a47f8bbfb26b1.jpg",
       "hidden": false,
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "TF_HEAVY_STAND_NEAR_DISPENSER": {
       "name": "Factory Worker",
@@ -1441,7 +1441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/cef04b6c267f40e65c5b54f66fdd9212923983b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0da5df8417fb2b12eb7379c87fd4bfd462565162.jpg",
       "hidden": false,
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "TF_ENGINEER_SENTRY_AVENGES_YOU": {
       "name": "Frontier Justice",
@@ -1833,7 +1833,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1d6cd72858123248cb2740ea9c69c45a57f545c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/318fc6217afafaabb74481236f15ce98cc1bae07.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "TF_PYRO_REFLECT_PROJECTILES": {
       "name": "Hot Potato",
@@ -1841,7 +1841,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2976550599e437c2a4d8a91567b4deb6184ef6b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8d9c7d2f598a62de7775c95338ee5570d79268c8.jpg",
       "hidden": false,
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "TF_PYRO_REFLECT_CROCKET_KILL": {
       "name": "Hotshot",
@@ -1873,7 +1873,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_kill_healed_spy.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_kill_healed_spy_bw.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_PYRO_BURN_SPIES_AS_YOU": {
       "name": "I Fry",
@@ -2425,7 +2425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ecdfd87aac7570b1ba5efa13d87fa1ca7b76e106.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/9791ac4d14cf8ed5a763c1c00755ab20d79854d4.jpg",
       "hidden": false,
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_SPY_FAST_CAP": {
       "name": "On Her Majesty's Secret Surface",
@@ -2473,7 +2473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0f95a59fd5f49fca6f2c8d760551b4367f0e962c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f4c3f7e13eb0aa8d82ea132b273b9d5e0d1741b6.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "TF_MVM_MAPS_ROTTENBURG_TANK": {
       "name": "Palace-Aid",
@@ -2553,7 +2553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c9850ef40b3b41ae6447cd67bb40438d9565c3f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6dce0b2156ebd8a4aa4ff6efc539d68065218752.jpg",
       "hidden": false,
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "TF_DEMOMAN_KILL3_WITH_DETONATION": {
       "name": "Pipebagger",
@@ -2585,7 +2585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5ae59c44ed394c431a1c76447fa43d7e697335e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/66950fd64b54db5c9ff762b2b0377f00e30322df.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "TF_MEDIC_SWITCH_TO_MEDIC": {
       "name": "Play Doctor",
@@ -2641,7 +2641,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/625dbccd829b3fc4ec2660932904026d21924ed3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f74bd017eb4b799be71456251c9ff42fe47d6570.jpg",
       "hidden": false,
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "TF_MEDIC_CHARGE_BLOCKER": {
       "name": "Preventive Medicine",
@@ -2833,7 +2833,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_engineer_escape_sentry_buster.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_engineer_escape_sentry_buster_bw.jpg",
       "hidden": false,
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "TF_MVM_MEDIC_REVIVE_TEAMMATES": {
       "name": "Reanimator 2",
@@ -2921,7 +2921,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/da1efa8041c86add9915acab9e0cb9e1b1d65595.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/149c3c54e21101d311b85062ec5acee59aee589a.jpg",
       "hidden": false,
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "TF_MVM_ROCKET_SPECIALIST_KILL_GRIND": {
       "name": "Robot Flush",
@@ -3265,7 +3265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/348bd80951d2a5a5823d405d064ca9ecdecf02fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d9f04f91c667b46c1d2d6cd56afa90acd17b0178.jpg",
       "hidden": false,
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TF_MVM_SPY_SAP_ROBOTS": {
       "name": "Sly Voltage",
@@ -3793,7 +3793,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a371f34effce6025d9b904618a895246b0fe90e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/956c92f32263fcec910a64964b99023b3b8e58d3.jpg",
       "hidden": false,
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "TF_DEMOMAN_DECAPITATE_NEMESIS": {
       "name": "There Can Be Only One",
@@ -3977,7 +3977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_parachute_kill_group.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_parachute_kill_group_bw.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "TF_MVM_MAPS_MANNHATTAN_BOMB_BOT_GRIND": {
       "name": "Urban Strike",

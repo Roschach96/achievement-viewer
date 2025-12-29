@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/ac038fd53f0f2c5e4f168ce7acb628f059aff141.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/61ba3b7f17c5b8981fae7c5c93dd427ad84cac42.jpg",
       "hidden": false,
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "Crucible_Wave_100": {
       "name": "\"Apocalyptic!\"",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/ae13db8bb585685f2d20f1f08a84dac29fe3209c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/b48687b08ee0755c6db9e3a139e8013fb7395398.jpg",
       "hidden": true,
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "Craft_Enhancement_Balanced_5": {
       "name": "Balance in all things",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/694a9bf614c275a1ca6c3e75c68457c7ad962acc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/57e0bf274fd82800d74e8690dc96a2f0373a1d1a.jpg",
       "hidden": true,
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "Craft_Enhancement_Balanced_1": {
       "name": "Can you restore the Balance?",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/d998063dc144a1f427895d8391d471ec5cc51f6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/51d530b8badd6b8eea76cfd8930ab41f4152000e.jpg",
       "hidden": true,
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "Collect_PickUp_500": {
       "name": "Cleanup Crew",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/9f9fbbf87007a501e8b8c34e49b7df85be4e4273.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/7936966f0721cbd3abbffc570ec6009b147d1453.jpg",
       "hidden": true,
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "Collect_Artifact_Demon_50": {
       "name": "Demon Keeper",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/5cf0cca82347f1ae4e18e3eb7fe26c9ecca4c254.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/43c5e21a6279c2a02060684a4e7bc5d1e597f559.jpg",
       "hidden": true,
-      "percent": "46.8"
+      "percent": "46.9"
     },
     "Kill_Sin_Gluttony": {
       "name": "Eat Your Heart Out",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/b86f41701fad85dbb1d236b8d1c4fd5a885f3138.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/455d847f09b951d37299fecd85e726c00c43c203.jpg",
       "hidden": true,
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "Kill_Sin_Pride": {
       "name": "Egomaniac",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e44d65493fa7d6cf5951a4cc49ec4023c0a1e91f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/7fcf9533f6fbf7cb291b8eb252142316e2e416c1.jpg",
       "hidden": true,
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "Craft_Enhancement_First": {
       "name": "Enhance!",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/cb83c93eb5c303a38a2b37d426301bd0f06d5331.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/600983a91faad9761dac5e43eb9e2a3c8a593d14.jpg",
       "hidden": true,
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "Kill_Sin_BigBad": {
       "name": "Everybody Wants to Rule the World",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/6044df55bc9f6f596c23f5bcf8a15e5baaeceb73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/40927bdf47753601bc77831d6b2d3d1b09ad171a.jpg",
       "hidden": true,
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "Save_Usiel_No_Kill": {
       "name": "For Whom the Bell Tolls",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/0993a076b95303403b5a89de2b2d1f8070e98c25.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/77f2a050b0563e77fa989317716487080b4b865d.jpg",
       "hidden": true,
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "Collect_Hollow_Stasis": {
       "name": "Freeze Frame",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/19d93038ab17bc18a176970fc9b007b04dd9ebce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/a43274641bb82f217f20fe2f8c38a9f38eaf1ea1.jpg",
       "hidden": true,
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "Kill_Sin_Envy": {
       "name": "Green with Envy",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/9e7ec0650b5ef094a4388de3c82556ef61de128f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/017865340249c41425be92f3168a07ef799c1c3e.jpg",
       "hidden": true,
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "Collect_Hollow_Force": {
       "name": "I Wanna Rock",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/1265bd547215465dc920c7223509964191cdea68.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/44a3f2f9e90a7de7c8818b2f7c28a96b93689915.jpg",
       "hidden": true,
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "Collect_HealthStone_CapacityUpgrade_1": {
       "name": "Increased Capacity",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/2f0b80b69dafcb84a271d904c096f0d1c379789c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/77264a9f55aa603cdfa4a01348086c415a389251.jpg",
       "hidden": false,
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "Level_Up_100": {
       "name": "Keep it 100!",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/f4999f17351c4bcaddc23080440c6af43011b385.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/d3f527afd3aafa5fdbb5f6ab3b80c9f73e3b10ed.jpg",
       "hidden": false,
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "Keeper_Kill_Flame": {
       "name": "Keeper of the Bonfire",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/61069f9af272e65cab014f364eaf491e801f4404.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/d9aa9224673e904097f9ea602f1ba9f5a6a5938d.jpg",
       "hidden": false,
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "Keeper_Kill_Stasis": {
       "name": "Keeper of the Tempo",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/1afebec8552edcd6dc5799bccca97e587f744b05.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/7393a0d405d6543b81965c105d8023436b8692a7.jpg",
       "hidden": false,
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "Kill_Demon_Kraken": {
       "name": "Love Tap",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/44b71ab31b06bf69de567afdcba71db0c61db295.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/96917eaeb2c5ad4d25ca0cd5ded1d0b567072bc7.jpg",
       "hidden": true,
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "Upgrade_Armor_First": {
       "name": "Made of Sterner Stuff",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/5184b22a31d33348d276cf2190d21bf41ec826d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/4021ec46425e8cba893bc7fd86118b6df9abdbff.jpg",
       "hidden": false,
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "Collect_Artifact_EpicShard": {
       "name": "One Of the Chosen",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/746b5d06e835d875b42916f04dbdcea12c0438e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/343bf48c3f6644d3fa7172138cf3add1611cbacc.jpg",
       "hidden": false,
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "Collect_Hollow_Storm": {
       "name": "Perfect Storm",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e932ba19c3930cd10410fe76224bb37a9d8a0339.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/5a6ae4b72d9d920484b04b797193fc3e2773672e.jpg",
       "hidden": true,
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "Game_CompleteNGPlus": {
       "name": "Proceed on your way to Armageddon",
@@ -449,7 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/ca0606aab26f6256145c1c5df580c40cf98cf777.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/d2f43a2eb8966224cb4ad1141b844b24fb70b9f8.jpg",
       "hidden": true,
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "Kill_Sin_Wrath": {
       "name": "Seeing Red",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/45bc74f67d519b1d23e6235543d74f095930a1a8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/dc0d5961c2f3537963fffd8e92faa2d71f3a2046.jpg",
       "hidden": true,
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "Collect_Lurchers_1000000": {
       "name": "Soul Reaper",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/64434f2426607ce3cd20556f50e244c3b0fc4f7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/e937c4b063d38908de1e625b3f3be666d4b328f9.jpg",
       "hidden": true,
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "Upgrade_Weapon_Max": {
       "name": "Take it to the Limit",
@@ -481,7 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/117347dee244446c840b273e1a4270921da44af3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/7641f98f6fff1a101e9af412f3a0183d176a7213.jpg",
       "hidden": false,
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Kill_Sin_Sloth": {
       "name": "Throne Potato",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/4a88a6e45116c6c5caa9b2c27fdf0aad842741c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/74fc40af1fa3a71285ecdf5d4fbe6aac86f4f408.jpg",
       "hidden": true,
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "Collect_AdamantineLarge_30": {
       "name": "Unbreakable Will",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/cbfd4a738a96275cc99eb9752b6165d0ead617a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/b571929cd0c3716897b02fcf226ecc1c9b019da9.jpg",
       "hidden": true,
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "Collect_AdamantineSmall_30": {
       "name": "Unshakable Fortitude",
@@ -505,7 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/48ea176f6369edd2c7264acbebff284121ea3c5d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/687b9673821a8998b4d68d8f8efa58f9df69f6b8.jpg",
       "hidden": true,
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "Collect_AdamantineMedium_30": {
       "name": "Unyielding Strength",
@@ -513,7 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/96d01c0837f3460c2d813c45f4373e2919e3182f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606280/30d8fd0250d88fd2495ece15c452ca98206d026d.jpg",
       "hidden": true,
-      "percent": "33.7"
+      "percent": "33.8"
     }
   },
   "platform": null,
