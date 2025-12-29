@@ -106,10 +106,13 @@ async function addUserToGrid(person) {
   `;
 
   card.addEventListener('mousedown', (e) => {
+    // Check if clicking on own profile (hub owner)
+    const isOwnProfile = person.login.toLowerCase() === hubOwner.toLowerCase();
+    
     let url = `https://${person.login}.github.io/${person.repo || 'achievement-viewer'}/`;
     
-    // ✅ PASSPORT LOGIC: Append the Hub Owner as the 'vs' parameter
-    if (hubOwner) {
+    // Only append passport if NOT clicking on own profile
+    if (!isOwnProfile && hubOwner) {
       url += `?vs=${hubOwner}`;
     }
 
@@ -173,10 +176,13 @@ function renderFiltered() {
     `;
     
     card.addEventListener('mousedown', (e) => {
+      // Check if clicking on own profile (hub owner)
+      const isOwnProfile = user.login.toLowerCase() === hubOwner.toLowerCase();
+      
       let url = `https://${user.login}.github.io/${user.repo || 'achievement-viewer'}/`;
       
-      // ✅ PASSPORT LOGIC: Append the Hub Owner as the 'vs' parameter
-      if (hubOwner) {
+      // Only append passport if NOT clicking on own profile
+      if (!isOwnProfile && hubOwner) {
         url += `?vs=${hubOwner}`;
       }
 
