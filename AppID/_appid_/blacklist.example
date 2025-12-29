@@ -2,4 +2,4 @@ Collect_AdamantineLarge_30
 Collect_HealthStone_HealUpgrade_4
 Craft_Enhancement_Balanced_5
 
-! The file can only contain Steam API achievement names (as written above, 1 API name in 1 line) and nothing more. You can check the API names for achievements at https://steamdb.info/app/{SteamAppID}/stats/ !
+! The "blacklist" file can only contain Steam API achievement names (as written above, 1 API name in 1 line) and nothing more. You can check the API names for achievements at https://steamdb.info/app/{SteamAppID}/stats/ !
