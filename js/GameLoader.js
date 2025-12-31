@@ -15,7 +15,46 @@ async function loadGameDataWithCache() {
         const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
         const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
         
-        // Fetch game-data.json (always check for updates)
+        let data = null;
+        let needsFullFetch = true;
+
+        // 1. SMART CHECK: Fetch only the first 200 bytes to check the timestamp
+        // This avoids downloading the full 5MB+ file if nothing changed.
+        try {
+            const partialResponse = await fetch(baseUrl + 'game-data.json', {
+                headers: { 'Range': 'bytes=0-200' }, // Request only the beginning
+                cache: 'no-cache'
+            });
+
+            // Status 206 means the server respected the Partial Content request
+            if (partialResponse.status === 206) {
+                const text = await partialResponse.text();
+                // Regex to find "last_updated": 1234567890 at the start of the file
+                const match = text.match(/"last_updated":\s*(\d+)/);
+
+                if (match && match[1]) {
+                    const serverTimestamp = match[1];
+                    
+                    if (cachedTimestamp && cachedGames && serverTimestamp === cachedTimestamp) {
+                        console.log('✓ Smart check: Timestamp unchanged, using cache.');
+                        return JSON.parse(cachedGames);
+                    }
+                    console.log(`✓ Smart check: Update detected (Old: ${cachedTimestamp}, New: ${serverTimestamp})`);
+                }
+            } 
+            // If status is 200, the server ignored Range and sent the whole file (rare but possible)
+            else if (partialResponse.status === 200) {
+                console.log('ℹ Server ignored Range request, processing full response...');
+                data = await partialResponse.json();
+                needsFullFetch = false;
+            }
+        } catch (e) {
+            console.warn('Smart check failed (Range request error), falling back to full fetch', e);
+        }
+
+        // 2. Full Fetch (only if smart check found an update or failed)
+        if (needsFullFetch) {
+            console.log('Fetching full game data...');
         const dataResponse = await fetch(baseUrl + 'game-data.json', {
             cache: 'no-cache'
         });
@@ -23,8 +62,8 @@ async function loadGameDataWithCache() {
         if (!dataResponse.ok) {
             throw new Error('Failed to fetch game-data.json');
         }
-        
-        const data = await dataResponse.json();
+            data = await dataResponse.json();
+        }
         
         // Handle both old format (array) and new format (object with timestamp)
         let games, lastUpdated, isNewFormat;
@@ -49,18 +88,20 @@ async function loadGameDataWithCache() {
             throw new Error('Invalid game-data.json format');
         }
         
-        // Check if timestamp changed
-        if (isNewFormat && lastUpdated && cachedTimestamp && 
-            lastUpdated.toString() === cachedTimestamp && cachedGames) {
-            console.log('✓ Using cached game data - no changes detected');
-            return JSON.parse(cachedGames);
-        }
-        
-        // Timestamp changed, no cache, or old format - use fresh data
+        // Update Cache (Safely)
         if (isNewFormat && lastUpdated) {
-            console.log('✓ Game data changed, updating cache');
+            // Only update if it's different or we just fetched it fresh
+            try {
             localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
             localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
+                console.log('✓ Cache updated successfully');
+            } catch (e) {
+                if (e.name === 'QuotaExceededError' || e.name === 'NS_ERROR_DOM_QUOTA_REACHED') {
+                    console.warn('⚠ LocalStorage quota exceeded. Caching disabled for this session.');
+                } else {
+                    console.error('⚠ Error saving to cache:', e);
+                }
+            }
         } else {
             console.log('⚠ Old format detected - caching disabled');
         }
