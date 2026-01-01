@@ -400,6 +400,34 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         achievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
     } else if (sortMode === 'date-oldest') {
         achievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
+    } else if (sortMode === 'group-base-first') {
+        // Sort by Group: Base Game First
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return -1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return 1;
+
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+
+            return a.name.localeCompare(b.name);
+        });
+    } else if (sortMode === 'group-dlc-first') {
+        // Sort by Group: DLCs First
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return 1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return -1;
+
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+
+            return a.name.localeCompare(b.name);
+        });
     }
 
     // Split achievements into Unlocked and Locked
@@ -478,6 +506,14 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
                 <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
                     🕐↑
                 </button>
+                
+                <button class="sort-button ${sortMode === 'group-base-first' ? 'active' : ''}" onclick="window.setSortMode('group-base-first')" data-tooltip="Base Game First">
+                    📥↓
+                </button>
+                <button class="sort-button ${sortMode === 'group-dlc-first' ? 'active' : ''}" onclick="window.setSortMode('group-dlc-first')" data-tooltip="DLCs First">
+                    📥↑
+                </button>
+
                 ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
             </div>
 
