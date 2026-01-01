@@ -383,23 +383,35 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
     // Clone achievements to avoid modifying the original array during sort
     let achievements = [...game.achievements];
 
-    // Apply sorting first
+    // --- SORTING LOGIC ---
     if (sortMode === 'rarity-asc') {
-        achievements.sort((a, b) => {
-            const rarityA = a.rarity !== null ? parseFloat(a.rarity) : 999;
-            const rarityB = b.rarity !== null ? parseFloat(b.rarity) : 999;
-            return rarityA - rarityB;
-        });
+        achievements.sort((a, b) => (parseFloat(a.rarity) || 999) - (parseFloat(b.rarity) || 999));
     } else if (sortMode === 'rarity-desc') {
-        achievements.sort((a, b) => {
-            const rarityA = a.rarity !== null ? parseFloat(a.rarity) : -1;
-            const rarityB = b.rarity !== null ? parseFloat(b.rarity) : -1;
-            return rarityB - rarityA;
-        });
+        achievements.sort((a, b) => (parseFloat(b.rarity) || -1) - (parseFloat(a.rarity) || -1));
     } else if (sortMode === 'date-newest') {
         achievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
     } else if (sortMode === 'date-oldest') {
         achievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
+    } else if (sortMode === 'group-base-first') {
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return -1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return 1;
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+            return a.name.localeCompare(b.name);
+        });
+    } else if (sortMode === 'group-dlc-first') {
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return 1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return -1;
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+            return a.name.localeCompare(b.name);
+        });
     }
 
     // Split achievements into Unlocked and Locked
@@ -420,6 +432,53 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
             <h3 class="achievements-section-title locked-title">Locked Achievements (${lockedAchievements.length})</h3>
             ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
         `;
+    }
+
+    // --- BUTTON STATE LOGIC ---
+    
+    // Rarity Button State
+    let rarityBtnLabel = '🏆';
+    let rarityNextMode = 'rarity-desc';
+    let rarityActive = false;
+    
+    if (sortMode === 'rarity-desc') {
+        rarityBtnLabel = '🏆↓';
+        rarityNextMode = 'rarity-asc';
+        rarityActive = true;
+    } else if (sortMode === 'rarity-asc') {
+        rarityBtnLabel = '🏆↑';
+        rarityNextMode = 'rarity-desc';
+        rarityActive = true;
+    }
+
+    // Date Button State
+    let dateBtnLabel = '🕐';
+    let dateNextMode = 'date-newest';
+    let dateActive = false;
+
+    if (sortMode === 'date-newest') {
+        dateBtnLabel = '🕐↓';
+        dateNextMode = 'date-oldest';
+        dateActive = true;
+    } else if (sortMode === 'date-oldest') {
+        dateBtnLabel = '🕐↑';
+        dateNextMode = 'date-newest';
+        dateActive = true;
+    }
+
+    // Group Button State
+    let groupBtnLabel = '📥';
+    let groupNextMode = 'group-base-first';
+    let groupActive = false;
+
+    if (sortMode === 'group-base-first') {
+        groupBtnLabel = '📥↓';
+        groupNextMode = 'group-dlc-first';
+        groupActive = true;
+    } else if (sortMode === 'group-dlc-first') {
+        groupBtnLabel = '📥↑';
+        groupNextMode = 'group-base-first';
+        groupActive = true;
     }
 
     // Check for "Passport" (Visitor) from URL
@@ -466,18 +525,24 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         
         <div class="achievements-list">
             <div class="sort-controls">
-                <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
-                    🏆↑
+                <button class="sort-button ${rarityActive ? 'active' : ''}" 
+                        onclick="window.setSortMode('${rarityNextMode}')" 
+                        data-tooltip="Sort by Rarity">
+                    ${rarityBtnLabel}
                 </button>
-                <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="window.setSortMode('rarity-desc')" data-tooltip="Most Common First">
-                    🏆↓
+
+                <button class="sort-button ${dateActive ? 'active' : ''}" 
+                        onclick="window.setSortMode('${dateNextMode}')" 
+                        data-tooltip="Sort by Date">
+                    ${dateBtnLabel}
                 </button>
-                <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="window.setSortMode('date-newest')" data-tooltip="Newest First">
-                    🕐↓
+                
+                <button class="sort-button ${groupActive ? 'active' : ''}" 
+                        onclick="window.setSortMode('${groupNextMode}')" 
+                        data-tooltip="Sort by Group/DLC">
+                    ${groupBtnLabel}
                 </button>
-                <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
-                    🕐↑
-                </button>
+
                 ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
             </div>
 
