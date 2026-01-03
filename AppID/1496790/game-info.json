@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e9a32f3be6b12116c1b2c51ea4dc6e91e4285a91.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "CRIME_FIGHTER_1": {
       "name": "Expert Crime Fighter",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/49411a8f4352e68999ea790123cd0a66b54ddcf8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "SECRET_CACHE": {
       "name": "Gotham City Confidential",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/ce24028164e8f3ce3d855ff991a106642d6e9f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "DEFEAT_OC_2": {
       "name": "Shock Til They Drop",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d14831161b02285223fbaa0ea63bcc09ec0460ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "SECRET_IDENTITY": {
       "name": "Solid Alibi",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1db248c76e042f4ea5d726bd0198371b70c64750.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     }
   },
   "platform": null,

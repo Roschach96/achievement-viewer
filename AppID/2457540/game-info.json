@@ -2,7 +2,386 @@
   "appid": "2457540",
   "name": "Cardfight!! Vanguard Dear Days 2",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457540/header.jpg?t=1759312328",
-  "achievements": {},
+  "achievements": {
+    "ACHIEVEMENT_35": {
+      "name": "+100,000,000！",
+      "description": "Revealed over trigger for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/2526768d1171141904956e75f0102022dc0bb82a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "83.9"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Attack of the Bonds",
+      "description": "Attacked to the opponent's Vanguard with card link.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/f5e0c9ec483b7a45ff64d1447d9ab4e409dd933b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Card Alchemist",
+      "description": "Crafted a card for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/a0d281e0a6fb7f8843ada7907b243b1d24c6186e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.0"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Card Collector",
+      "description": "Collected all the cards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/a1aa61ab5d9eb9ab55cc4f12cd01d6c395b4f623.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Card Decomposer",
+      "description": "Decomposed a card for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/415dfc30bcb3bae747e6ccd4aef6ec830a50fadf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.1"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Card Shop Customer",
+      "description": "Bought at the shop for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/08475feb2bedcb4144376e66784598cc551ff862.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.6"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Deep Red Dragon Emperor",
+      "description": "Won 20 times using Dragon Empire deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/950ca4d84dd99e75d8813370db91d2f614607528.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "Dimensional Resistor",
+      "description": "Won 10 times using Brandt Gate deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/242405dc8b2d63db95ec33b6454d12ed5bcc9a49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.3"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "Dragonic Fighter",
+      "description": "Won 10 times using Dragon Empire deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/0580589f1938e4fed2723d81078a748b2d3e53ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Dressing Anew",
+      "description": "Performed overDress for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/93ad3b3bc8ac3178fe2f3410b7cd6182a483ce1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Emerald Defender",
+      "description": "Won 10 times using Stoicheia deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/7f015d4af075b5873fbcd9d98f97137906958ce3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Expected Newbie",
+      "description": "Fought 50 times in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/7944421aa10f24bad58acc0ed8ab71a002a9d55b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Fight Freak",
+      "description": "Fought against all CPUs in CPU fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/e6491ed55f1b634792f64057d734f82cf4dc874c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Fighter of the Darkness",
+      "description": "Won 10 times using Dark States deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/b6dae54f77d945f5e302fb644431489344829b39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Gatekeeper of Alien Planet",
+      "description": "Won 20 times using Brandt Gate deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/a3d12871aa867e61211667827352937d1ebbe179.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.4"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "King of the Nations",
+      "description": "Won 100 times using Standard deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/cb620ef3114932a7660ae08b770148100c731d01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "Leaving of the Little Dragon",
+      "description": "Accomplished the scenario of Yu-yu Kondo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/09b8197b9b8d02e90ec72b159fb7794d6d98a193.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Lucky Fighter",
+      "description": "Revealed 3 triggers in a fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/8f8fb6f160edc5ff064c69a98fad4cd9656ed6d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "80.6"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "Mother's Back",
+      "description": "Accomplished the scenario of Yuki Ichidoji.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/e5676fa06ff0480b68a5b103a378e87639791551.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.3"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "My First Vanguard",
+      "description": "Fought for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/c2c117e6440ac900c31f974778fa50386e266042.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.8"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Persona Ride!",
+      "description": "Performed Persona Ride for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/092d78c4613c44f092fd75d2b418525dc6386561.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.5"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Playmat Collector",
+      "description": "Collected all the playmats.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/58c27155f77d1feff70bd2960b62dc2faa231934.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Power to Change the Fate",
+      "description": "Activated Divine Skill for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/92f77976e1bb4fe822eef75342133b3d4d868a72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Premium Ride",
+      "description": "Rode a grade 3 premium card for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/e7b771bff38c11bcf0a90a8e824604f28f49c488.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.7"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Return to the Origin",
+      "description": "Accomplished the scenario of the Vintage Fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/61b33e48ac19729d8916f62ba7f3d3d4e2e63689.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Rising Star",
+      "description": "Won 10 times using Lyrical Monasterio deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/a0ae3a2745d15755e51e1cb569f6e8d8a9c69f6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Rookie",
+      "description": "Fought in World Fight for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/2a73547b5dd7966a1642db2c5ee64287bb2b9cdd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "School Idol of the Blue Sky",
+      "description": "Won 20 times using Lyrical Monasterio deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/b180055e720ecb37e4549e6b82df95bdadbc1f7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Skilled Fight Master",
+      "description": "Fought 200 times in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/fc13df811052ae749583c2ecc079b404e8d059ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Sleeves Collector",
+      "description": "Collected all the sleeves.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/56ad97768b371fe3f1e739eb5a8a49bf2874094b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "The Challenger",
+      "description": "Fought in CPU Fight for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/2ddb8e9e79b2254a5a30e3b4e467dbe338646243.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "The Collector",
+      "description": "Collected all the cards and supplies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/aa153bff542de5aed22f018232c0fcd12d13ee2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "The Dark Lord of Chaos",
+      "description": "Won 20 times using Dark States deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/66d39ba5f4587c4580e2e10e0fcd2bbad33f6ba8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACHIEVEMENT_03": {
+      "name": "The Fated Play",
+      "description": "Accomplished the scenario of Akina Myodo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/5fe7247cf90a94780207554cdd8efc490ee8de69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "The Overwhelming Victor",
+      "description": "Won a fight with 3 or less damage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/607ea2c2c0bead13e116f965a1d4151a4417d862.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "94.9"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "The Ruler of Heaven and Earth",
+      "description": "Won 20 times using Keter Sanctuary deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/75b41844dd655fc4700b31f1e575f0a3271b2543.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "The Sacred",
+      "description": "Won 10 times using Keter Sanctuary deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/95f39b4146f4044832af67bcfcac9d9bc4f88239.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.5"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "The Sage of Earth and Sea",
+      "description": "Won 20 times using Stoicheia deck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/c869d83c6b6c7272f0701ddd20873401f1541f9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "The Tempest",
+      "description": "Attacked 8 times in a turn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/363554d3efcddfc678c0e470f982fceed6b942fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ACHIEVEMENT_00": {
+      "name": "The True Vanguard",
+      "description": "Got all the achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/275969ea33d640798a9ef7be531593352cde91a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "The Unbreakable Shield",
+      "description": "Perfect guarded 3 times in a turn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/d9c045cc5b7327d0eaeaa730aba10b343ea54ca9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "The Veteran",
+      "description": "Fought 500 times in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/351f8554b9c68bbfb1a5362fd84c0442311f519f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    }
+  },
   "platform": null,
   "blacklist": [],
   "uses_db": false
