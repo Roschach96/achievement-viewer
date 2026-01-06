@@ -542,6 +542,27 @@ for appid in appids:
     achievements, hidden_achievements, achievement_names_map = fetch_achievements(
         appid, existing_info, achievements_from_xml
     )
+    
+    # Skip games with 0 achievements (similar to skip file behavior)
+    if len(achievements) == 0:
+        print(f"  ! Steam returned 0 achievements, skipping data fetch for {appid}")
+        existing_info = load_json_file(base_path / "game-info.json")
+        achievements_data, file_type = load_achievements_file(base_path)
+        
+        if existing_info and achievements_data:
+            existing_info["platform"] = current_platform
+            existing_info["blacklist"] = current_blacklist
+            
+            existing_game_data[str(appid)] = {
+                "appid": str(appid),
+                "info": existing_info,
+                "achievements": achievements_data,
+            }
+            print(f"  ✓ Existing data preserved with platform: {current_platform}")
+        else:
+            print(f"  ✗ Could not load existing info/achievements for game {appid} with 0 achievements")
+        continue
+    
     game_info["achievements"].update(achievements)
     print(f"  ✓ Merged {len(achievements)} achievements")
 
