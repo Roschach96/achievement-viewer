@@ -9,6 +9,12 @@ on:
         type: string
         default: 'push'
   workflow_dispatch:
+    inputs:
+      trigger_source:
+        description: 'Source of the trigger: manual, scheduled, or push'
+        required: false
+        type: string
+        default: 'manual'
 
 permissions:
   contents: write
@@ -54,8 +60,8 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
-          # Set TRIGGER_SOURCE: 'manual' if workflow_dispatch, otherwise use the input (defaults to 'push')
-          TRIGGER_SOURCE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || inputs.trigger_source }}
+          # Use the trigger_source input, defaulting based on event type
+          TRIGGER_SOURCE: ${{ inputs.trigger_source }}
         run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
