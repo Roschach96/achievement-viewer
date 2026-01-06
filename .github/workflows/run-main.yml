@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      process_all:
+        description: 'Process all games (leave empty for changed only)'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   call-main:
@@ -11,3 +17,5 @@ jobs:
       contents: write
     uses: ./.github/workflows/fetch-game-data.yml
     secrets: inherit
+    with:
+      trigger_source: ${{ github.event_name == 'schedule' && 'scheduled' || (inputs.process_all && 'manual' || 'push') }}

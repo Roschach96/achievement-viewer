@@ -14,6 +14,8 @@ import hashlib
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
+# NEW: Add trigger source detection
+TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")  # Will be set by workflow
 
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
@@ -448,12 +450,12 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
 # --- Determine AppIDs to process --- #
 
-# Process all games for scheduled or manual triggers
-if EVENT_NAME in ("schedule", "workflow_dispatch"):
+# FIXED: Process all games ONLY for scheduled runs or explicit manual trigger
+if EVENT_NAME == "schedule" or (EVENT_NAME == "workflow_dispatch" and TRIGGER_SOURCE == "manual"):
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
-    print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger)")
+    print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger with source: {TRIGGER_SOURCE or 'scheduled'})")
 
-# Process changed games only for other triggers
+# Process changed games only for push events or workflow calls triggered by push
 else:
     appids = get_changed_appids()
     if appids:

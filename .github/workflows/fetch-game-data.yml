@@ -1,8 +1,20 @@
 name: Fetch Steam Game Data
 
 on:
-  workflow_call: {}  # reusable
-  workflow_dispatch: # callable from other branches
+  workflow_call:
+    inputs:
+      trigger_source:
+        description: 'Source of the trigger: manual, scheduled, or push'
+        required: false
+        type: string
+        default: 'push'
+  workflow_dispatch:
+    inputs:
+      process_all:
+        description: 'Process all games (leave empty for changed only)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -48,6 +60,8 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
+          # Set TRIGGER_SOURCE based on workflow inputs
+          TRIGGER_SOURCE: ${{ inputs.trigger_source || (inputs.process_all && 'manual' || 'push') }}
         run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
