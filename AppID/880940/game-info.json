@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/1ba8720b023f06fc6bd5501c50c0c0eb08d96063.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACH_SPEEDY_SABERS": {
       "name": "Chopped To Bits",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/86e4292138b8c3fae71f6f1a0c4a50ab5687eb4e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "ACH_BULLET_BARRAGE": {
       "name": "Dodge This",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/e19613f48f5402a26559ae399d2f9f7648f43af2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "ACH_EXTRA_MEAT": {
       "name": "Extra Meat",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/0c8bd5962a29a2f838f1ad5b0310e8b93a829d36.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ACH_MAGMA_MAGES": {
       "name": "Floor is Lava",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/111b345878ababec379e3a797302059441384f61.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH_FIRST_GAME": {
       "name": "Goodluck!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/6c79ea96c990ed66e8113907dcb79ce1c23754e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ACH_WINTER_MAZE": {
       "name": "Hoarder",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/29abcaf9cac17098b921f7ea3f461dc1612ec1e7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_SLIPPERY_SPRINT": {
       "name": "Light Foot",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/d29b8c92fd3a333cc7df49905e67c30e0527a121.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "ACH_THUNDEROUS_TRENCH": {
       "name": "Lightning Rod",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/be501e9f28a3782c3f7648cdac8c1ffecfd1c912.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "ACH_SANDY_SEARCH": {
       "name": "Raider",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/52bb25764b8bb14686753fb13db15c3e2e00f3c5.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "ACH_FIRST_GOAL": {
       "name": "So Shiny",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/67ac2db51e88e08633e3d0a15f00bfa7ece3be11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.7"
     }
   },
   "platform": null,

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/5ba85ffc09c4862edf8052329e7a33dde9ce033a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "SOLO_ACHIEVEMENT_1_14": {
       "name": "Ally",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/d4c0ed33d611296f3a205baec2178051b920bc05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.7"
     },
     "SOLO_ACHIEVEMENT_1_7": {
       "name": "Almighty Shaman",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/c44e5aefd716588aaf4210e0147f7e2ecf68c4a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "SOLO_ACHIEVEMENT_1_17": {
       "name": "Durable Stuff",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/f9b75a2c68fb9f0f4c55cd66e8a8c29f56d16f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "SOLO_ACHIEVEMENT_1_36": {
       "name": "Graceful Movement",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/6a4cb61e0c7cf9cf81a8f5a312b81b6a36b86ded.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "92.1"
+      "percent": "92.0"
     },
     "SOLO_ACHIEVEMENT_1_51": {
       "name": "So Nimble!",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/0b454c7ac3594c8c06d95361c63703410a2df321.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.2"
     },
     "SOLO_ACHIEVEMENT_1_55": {
       "name": "Thou Shall Worship God",

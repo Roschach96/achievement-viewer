@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a2dbfcf4d034caa79469659d517ec1338977e15d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "DAMAGE_DEALT_BRONZE": {
       "name": "Damage Dealer (Bronze)",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a13dc22e33929f8169f4f224fab7af44e5f5dc2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "GADGET_UNLOCK_GOLD": {
       "name": "Inspector Gadget (Gold)",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.9"
+      "percent": "76.0"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8d0b6b6f7e3c04c52b6d03f4ac4baa128050d7dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "FINISH_GAME_RANK_S": {
       "name": "Perfect Run",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/d1ff7d656507a9341cd1d66187ae6f8d94443855.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.6"
     },
     "POWERCELL_GATHER_GOLD": {
       "name": "Powercell Gatherer (Gold)",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/13fa1b96baa5ecc9c85c5c324173089093eaef97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "WRENCH_GATHER_BRONZE": {
       "name": "Wrench Picker (Bronze)",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/b2606e4c1f7993a98120931edd267e33b99ac18f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "WRENCH_GATHER_GOLD": {
       "name": "Wrench Picker (Gold)",
