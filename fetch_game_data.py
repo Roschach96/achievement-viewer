@@ -14,8 +14,18 @@ import hashlib
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
-# NEW: Add trigger source detection
-TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")  # Will be set by workflow
+TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
+
+# NEW: Detect GitHub Pages URL for fallback icon
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # Format: "owner/repo"
+if GITHUB_REPOSITORY:
+    owner, repo = GITHUB_REPOSITORY.split("/")
+    FALLBACK_ICON_URL = f"https://{owner}.github.io/{repo}/default_icon.png"
+else:
+    # Fallback if not running in GitHub Actions
+    FALLBACK_ICON_URL = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Crect width='64' height='64' fill='%233d5a6c'/%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dy='.3em' fill='%23c7d5e0' font-size='24'%3E%3F%3C/text%3E%3C/svg%3E"
+
+print(f"Using fallback icon URL: {FALLBACK_ICON_URL}")
 
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
@@ -392,25 +402,25 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
         else:
             # No API Key -> Use SteamHunters data
             achievements = sh_data if 'sh_data' in locals() else []
-            # Fix icons for SH data if needed
-            try:
-                fallback_icon = "https://steamdb.info/static/img/appicon.svg"
-                for ach in achievements:
-                    # Safely handle icon
-                    if ach.get("icon"):
-                        if not ach["icon"].startswith("http"):
-                            ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-                    else:
-                        ach["icon"] = fallback_icon
-                    
-                    # Safely handle icongray
-                    if ach.get("icongray"):
-                        if not ach["icongray"].startswith("http"):
-                            ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
-                    else:
-                        ach["icongray"] = fallback_icon
-            except Exception as e:
-                print(f"  ⚠ Error fixing icon URLs: {e}")
+        
+        # Fix icons for ALL achievements (both from API and SteamHunters)
+        try:
+            for ach in achievements:
+                # Safely handle icon
+                if ach.get("icon"):
+                    if not ach["icon"].startswith("http"):
+                        ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
+                else:
+                    ach["icon"] = FALLBACK_ICON_URL
+        
+                # Safely handle icongray
+                if ach.get("icongray"):
+                    if not ach["icongray"].startswith("http"):
+                        ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+                else:
+                    ach["icongray"] = FALLBACK_ICON_URL
+        except Exception as e:
+            print(f"  ⚠ Error fixing icon URLs: {e}")
 
         for ach in achievements:
             api_name = ach["name"]
