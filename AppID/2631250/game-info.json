@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "ACH_05": {
       "name": "Crucifix of Blood",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/62af462c77cd8295298c8164489667c387cee244.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACH_06": {
       "name": "Empty Peace",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ab234831c99a74f252b92224a4196a621f77d0f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "ACH_38": {
       "name": "Force Majeure",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/008e0ef40b0f4707e3ad56c6778037fe5c21e49a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "ACH_40": {
       "name": "Natural Enemy",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/d009d9b84ca799274d6e1ced9eaf2c446174ab40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.8"
+      "percent": "78.7"
     },
     "ACH_27": {
       "name": "Technique Expert",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/be32d4a76934a698696d5690c9953bb18326cfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_28": {
       "name": "Technique Master",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/da2049bcbf7f22851de5e9fcbe2e0040729b07f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "ACH_07": {
       "name": "The Cruelty of Yin Yue",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ab6f8445d13f78420699de050a338ca25a7c8450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     }
   },
   "platform": null,

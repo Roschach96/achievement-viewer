@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "ACHIEVEMENT_17": {
       "name": "Attack Master",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.6"
     },
     "ACHIEVEMENT_21": {
       "name": "Attack-type Master",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/77c3072e2a99e988e50c5fed9b6454345473db7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACHIEVEMENT_14": {
       "name": "Bey Crafter",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/ab43563948ec2a3876c9a834f815ead874231f6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "ACHIEVEMENT_28": {
       "name": "Bonding with Aoi",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/243127d80e518a1c9709803195130275d58e2714.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "ACHIEVEMENT_10": {
       "name": "Cleared the 10th floor of The X!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/57a7f767de0fb00c2e21dedbd57ee4bce40416d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACHIEVEMENT_09": {
       "name": "Cleared the 20th floor of The X!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "ACHIEVEMENT_08": {
       "name": "Cleared the 30th floor of The X!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "ACHIEVEMENT_07": {
       "name": "Cleared the 40th floor of The X!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "ACHIEVEMENT_06": {
       "name": "Cleared the 50th floor of The X!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "ACHIEVEMENT_05": {
       "name": "Cleared the 60th floor of The X!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/ac1a566761a8599dcbeb18a5ce159b74c17c6671.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.9"
+      "percent": "56.8"
     },
     "ACHIEVEMENT_23": {
       "name": "Defense-type Master",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACHIEVEMENT_12": {
       "name": "Rumored Blader",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "ACHIEVEMENT_20": {
       "name": "XONE",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/3bc615c0193d0ae6fc4c3d217b52f90518365edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ACHIEVEMENT_39": {
       "name": "Xtreme Dash King of the Beasts",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "ACHIEVEMENT_38": {
       "name": "Xtreme Dash Mirror Reflection",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/992736483b73446ed5afd7cd0815c8720480989b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "ACHIEVEMENT_30": {
       "name": "Xtreme Dash Shadow Blade Walking",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.0"
     },
     "ACHIEVEMENT_44": {
       "name": "Xtreme Dash Strike Hunt",

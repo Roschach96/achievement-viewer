@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c2c25ec978eb4ca282670d4f4326d2649fbc27a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "ach03": {
       "name": "All Systems Go",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/7c875501edd85d2e409eebf7d3f18b0e12e6d13e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ach36": {
       "name": "Backbreaker",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/78517f01efc7380828f3e7f4eda0f40995fa5f0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "ach12": {
       "name": "Exodus",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/6ee4f66c9738fac4cd90ed2aeb6006d09ae55a8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "ach38": {
       "name": "Front Toward Enemy",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ac493191bf266c6a7de6c46e2f1a438faa24c56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ach41": {
       "name": "Full Clearance",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ebd67c7d792ccf294b397ff0bc0b7b23e3315961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ach02": {
       "name": "Lab Rat",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/19a9b9a56ec11cd8bc8594cfbc91c5acc1e7b4e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "ach31": {
       "name": "Marksman",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ad34d62757704d54c8508d0a44807487cda775de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "ach08": {
       "name": "Strange Transmissions",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/00e1f684aff0dc0f08c87885883cd6c49d78a8fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ach09": {
       "name": "Wreckage",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/503d7301b6975d7bb948670985991816fbd11af7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     }
   },
   "platform": null,

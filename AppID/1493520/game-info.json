@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/07a39d7387112b2ec41900131803ef6321d046a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "AchCompOST2": {
       "name": "Beginning Trancemission",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/8b8afe9866a6762aa22098d7a9758d5cb6e091e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.3"
+      "percent": "76.2"
     },
     "AchArmoury_SuperBombKills": {
       "name": "Cascade of Death",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/bc64268f9d9a7167ac45d963a1d86ada12ea25b3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "AchShadow1": {
       "name": "First Shadow Op",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/56cbf81a00ad4919c34bbf049d87ad981ba46bfa.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "AchSkills_MegaMix": {
       "name": "Johnny's Revenge",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/07a39d7387112b2ec41900131803ef6321d046a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "AchShip3": {
       "name": "Show Me The Money",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/84859df3a0ff9da9f5be09ac257b26309af59e8e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "AchShipTracks6": {
       "name": "Wide Spread Carnage",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/df4ec0a0f0b5d1550d01b6b5893e12180e27ee52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.7"
+      "percent": "3.8"
     }
   },
   "platform": null,
