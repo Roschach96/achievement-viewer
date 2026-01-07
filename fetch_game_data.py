@@ -393,11 +393,24 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
             # No API Key -> Use SteamHunters data
             achievements = sh_data if 'sh_data' in locals() else []
             # Fix icons for SH data if needed
-            for ach in achievements:
-                if not ach["icon"].startswith("http"):
-                    ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-                if not ach["icongray"].startswith("http"):
-                    ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+            try:
+                fallback_icon = "https://steamdb.info/static/img/appicon.svg"
+                for ach in achievements:
+                    # Safely handle icon
+                    if ach.get("icon"):
+                        if not ach["icon"].startswith("http"):
+                            ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
+                    else:
+                        ach["icon"] = fallback_icon
+                    
+                    # Safely handle icongray
+                    if ach.get("icongray"):
+                        if not ach["icongray"].startswith("http"):
+                            ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+                    else:
+                        ach["icongray"] = fallback_icon
+            except Exception as e:
+                print(f"  ⚠ Error fixing icon URLs: {e}")
 
         for ach in achievements:
             api_name = ach["name"]
@@ -443,7 +456,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 hidden_achievements.append(api_name)
 
     except Exception as e:
-        print(f"Error fetching schema achievements for {appid}: {e}")
+        print(f"  ✗ Error fetching schema achievements for {appid}: {e}")
 
     return achievements_info, hidden_achievements, achievement_names_map
 
