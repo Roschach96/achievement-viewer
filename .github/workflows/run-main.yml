@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      original_trigger:
+        required: false
+        type: string
+        description: 'get the trigger type from the caller workflow'
 
 jobs:
   call-main:
@@ -12,4 +17,4 @@ jobs:
     uses: ./.github/workflows/fetch-game-data.yml
     secrets: inherit
     with:
-      trigger_source: ${{ github.event_name == 'schedule' && 'scheduled' || 'manual' }}
+      original_trigger: ${{ inputs.original_trigger || github.event_name}}

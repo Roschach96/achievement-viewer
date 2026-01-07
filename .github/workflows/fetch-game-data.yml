@@ -1,20 +1,17 @@
 name: Fetch Steam Game Data
 
 on:
-  workflow_call:
+  workflow_call:  # reusable
     inputs:
-      trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+      original_trigger:
         required: false
         type: string
-        default: 'push'
-  workflow_dispatch:
+  workflow_dispatch: # callable from other branches
     inputs:
-      trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+      original_trigger:
         required: false
         type: string
-        default: 'manual'
+        description: 'get the trigger type from the caller workflow'
 
 permissions:
   contents: write
@@ -57,7 +54,7 @@ jobs:
       - name: Fetch game data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          EFFECTIVE_TRIGGER: ${{ inputs.original_trigger || github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
           # Use the trigger_source input, defaulting based on event type

@@ -13,9 +13,7 @@ import hashlib
 
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
-EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
-# NEW: Add trigger source detection
-TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")  # Will be set by workflow
+EVENT_NAME = os.environ.get("EFFECTIVE_TRIGGER", "workflow_dispatch")
 
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
