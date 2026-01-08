@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f3661c6e7d7fd647bfa4a251a3a62d82df6cf7fb.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "TF_SNIPER_DOMINATE_SNIPER": {
       "name": "Australian Rules",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f788a1e1b63a8221fca2cb9744f090409348ec0f.jpg",
       "hidden": false,
       "group": "Update 15",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "TF_MEDIC_ASSIST_HEAVY_LONG": {
       "name": "Big Pharma",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_destroy_two_tanks_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "TF_MVM_DESTROY_TANK_QUICKLY": {
       "name": "Clockwork Conqueror",
@@ -1000,7 +1000,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8a8aabb6d532be1f98c9fbfccd4f206125f65a1f.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_DEMOMAN_ACHIEVE_PROGRESS1": {
       "name": "Demoman Milestone 1",
@@ -1018,7 +1018,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/aa25334e5e5f36ee7c924b7e9e19a81db76a5c76.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "TF_DEMOMAN_ACHIEVE_PROGRESS3": {
       "name": "Demoman Milestone 3",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7c07bb62a45b959b851bea81895f0100a36646b9.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "TF_SNIPER_DESTROY_SENTRYGUNS": {
       "name": "De-sentry-lized",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_complete_wave_without_dying_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_SPY_BREAK_SHIELD_KILL_SNIPER": {
       "name": "Die Another Way",
@@ -1117,7 +1117,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0b9b564280d30525353f1710a98bbf9bc0d17b63.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "TF_MEDIC_ASSIST_VS_NEMESES": {
       "name": "Doctor Assisted Homicide",
@@ -1126,7 +1126,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_assist_vs_nemeses_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "TF_SCOUT_ASSIST_MEDIC": {
       "name": "Doctoring the Ball",
@@ -1297,7 +1297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/fa96727c44f9c48100e626e83d3b77540c3c1866.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS2": {
       "name": "Engineer Milestone 2",
@@ -1495,7 +1495,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4491091e6d6fff3e4139f8eaea8886e4c5b632a2.jpg",
       "hidden": false,
       "group": "Update 14",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TF_BURN_PLAYERSINMINIMUMTIME": {
       "name": "Flamethrower",
@@ -1630,7 +1630,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/865ad655982c8250bfab81ba8193910596d04bdb.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "TF_PYRO_IGNITE_WITH_RAINBOW": {
       "name": "Full Spectrum Warrior",
@@ -1639,7 +1639,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3f724208d4c27ebed40b91c0109bb65630b36600.jpg",
       "hidden": false,
       "group": "Update 15",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "TF_MEDIC_BONESAW_SPY_CALLERS": {
       "name": "FYI I am A Medic",
@@ -1720,7 +1720,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg",
       "hidden": false,
       "group": "The Great Gift Pile",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "TF_DEMOMAN_KILL_X_SCOUTS_PYROS": {
       "name": "Glasg0wned",
@@ -1891,7 +1891,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_demoman_charge_kill_charging_demo_bw.jpg",
       "hidden": false,
       "group": "Update 20",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "TF_HEAVY_FIRE_LOTS": {
       "name": "Heavy Industry",
@@ -2341,7 +2341,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_use_crit_bottle_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE": {
       "name": "Laddy Macdeth",
@@ -2773,7 +2773,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6195a83fe120970d0246395a418accb9f5a7cbb8.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "TF_SOLDIER_KILL_DEMOMAN_GRIND": {
       "name": "Out, Damned Scot!",
@@ -2800,7 +2800,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_TAUNT_CONGA_KILL": {
       "name": "Party Crasher",
@@ -3052,7 +3052,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/60dc06b26a1a5427dc5ca04c598c342ee0ede797.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TF_PYRO_ACHIEVE_PROGRESS3": {
       "name": "Pyro Milestone 3",
@@ -3097,7 +3097,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3dbcca6ddb26beea5bad87138d0b674c7e888bbd.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_SCOUT_WELL_EARLY_KILL": {
       "name": "Quick Hook",
@@ -3115,7 +3115,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "TF_MVM_COMPLETE_TOUR": {
       "name": "Raid Array",
@@ -3178,7 +3178,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/87199f19271434e12f1d67ec8577c040a3b68ce6.jpg",
       "hidden": false,
       "group": "Update 14",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "TF_MVM_ENGINEER_ESCAPE_SENTRY_BUSTER": {
       "name": "Real Steal",
@@ -3313,7 +3313,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/35dbea158f4fc5ea27e2909f7dca53e36773ee30.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "TF_SCOUT_FLAG_CAP_GRIND": {
       "name": "Round-Tripper",
@@ -3637,7 +3637,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/17a27fe45fd37d890ed32b8d600393a43446870e.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "TF_DEMOMAN_DECAPITATE_EQUALIZER": {
       "name": "Slammy Slayvis Woundya",
@@ -4258,7 +4258,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a734669ee35d76e6f5aecbb00f59f034c80b077e.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_ENGINEER_KILL_DISGUISED_SPY": {
       "name": "The Wrench Connection",
@@ -4546,7 +4546,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c86b046c0f68b79553e87293c77a9bd5d9096695.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "TF_REPLAY_PERFORMANCE_MODE": {
       "name": "We Can Fix It In Post",
