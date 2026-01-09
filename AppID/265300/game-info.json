@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265300/cd050400c65bf069048785576a7925ff04c11fd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "62.8"
     },
     "ID_ACHIEV_09": {
       "name": "Go breaking my heart",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265300/cc48882d57cfaf95d92033107abf202ad9e10dff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "ID_ACHIEV_03": {
       "name": "Harkyn collection",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265300/824afde69e9f4a29abe8a7e38159ad2697088ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "ID_ACHIEV_57": {
       "name": "Solitary",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265300/31863792dfc116d2256c569eafe81af88fcd5f1d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     }
   },
   "platform": null,

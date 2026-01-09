@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/86e4292138b8c3fae71f6f1a0c4a50ab5687eb4e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACH_BULLET_BARRAGE": {
       "name": "Dodge This",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/e19613f48f5402a26559ae399d2f9f7648f43af2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "ACH_EXTRA_MEAT": {
       "name": "Extra Meat",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/0c8bd5962a29a2f838f1ad5b0310e8b93a829d36.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "ACH_MAGMA_MAGES": {
       "name": "Floor is Lava",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/be501e9f28a3782c3f7648cdac8c1ffecfd1c912.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ACH_SANDY_SEARCH": {
       "name": "Raider",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/a17929b68e4d4ad33efbc9754c44e79768a32e2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.8"
+      "percent": "90.7"
     },
     "ACH_THE_TRIFECTA": {
       "name": "The Trifecta",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/cf7d8a647b6ab2a542e873446aab1167ab7bac43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "ACH_MADE_A_MISTAKE": {
       "name": "You Made a Mistake",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/880940/67ac2db51e88e08633e3d0a15f00bfa7ece3be11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.6"
     }
   },
   "platform": null,
