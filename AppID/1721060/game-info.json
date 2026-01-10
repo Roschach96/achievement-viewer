@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/6a456455083ded6ab319fea92a83c6f50c5bf501.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "ACH_Defeat_QueenSmiles": {
       "name": "All Smiles",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/cc81bd88624a85253637f2eeeebedf13b53b0c4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACH_ArenaCampion": {
       "name": "Arena Champion",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/50e23c7856735e7ea33a40bd4b6f0680bb2c8279.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACH_AllWeapons": {
       "name": "Armed to the Teeth",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/64374615043c5fd25713389a00435000cc707fd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACH_BountyHunter": {
       "name": "Bounty Hunter",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/4ecb344ce448183307c12cf390e32f4de78a4342.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "ACH_CatPerson": {
       "name": "Cat Person",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/3272d404fe4e0af3a52cd92a0ce61e15571a7ed5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH_EndEra": {
       "name": "End of an Era",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/a7852837bd620389e258f6662b4e9c08159648b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "ACH_Gold25K": {
       "name": "Fat Purse",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/35baddab20383b4621fd2c67b2912e7f2e5d6e38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "ACH_Kill1K": {
       "name": "Fighting",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2594d08fd291145b951a39ac8703ba43963052cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.2"
     },
     "ACH_Defeat_RiftBoss": {
       "name": "Interdimensional Threat",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/c84627dfe1f05c1d6550ea8dc34941509a8be10d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.1"
     },
     "ACH_Defeat_Demons": {
       "name": "It Was Hot",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/267337ae20f8f19164cb05b25f44aeeeeae3d35b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "ACH_Level25": {
       "name": "Journeyman",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/607b4e3ca05b381c07a3e9e253eb2e66479a0645.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "ACH_LearningCurve": {
       "name": "Learning Curve",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2b26f82c25c2e9218f91c975ca4187b9ba921d18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACH_Craft50": {
       "name": "Master Craftsman",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/028e7bfd84b2dbb8a871a00d51ab948050674bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "ACH_EnchantWeapon25": {
       "name": "Master Enchanter",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/7f70c20debf2bb73d0fa6e5880b0bc8166da4b6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "ACH_Occultist": {
       "name": "Master Occultist",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/ce42c6863c88e608ac4a67da91c01b1007c3caa2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ACH_LearnChaos": {
       "name": "Master Spellbinder",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/dee4a57febe498bb8750fbb1ed969a3b01849456.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "ACH_Defeat_Miniboss": {
       "name": "Monster Slayer",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0fe002692e37c1e98f939fc1ee17ec7c73fbf6e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "ACH_1049": {
       "name": "One Thousand and Forty-Nine",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e688e5e93bc682d353a4140f9b8dd08a6af7e989.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "ACH_ChestOpenGold": {
       "name": "Shiny Baubles",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0fb5036eac5005b9271fea6fab030dd6a572fb75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "ACH_Lantern": {
       "name": "The Light in the Darkness",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/6a79f607074dff9834eaaa73032fa221ce8d6454.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "ACH_Defeat_Marionettes": {
       "name": "The Play",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/f8629b5ce3c575d2093da7c18c90698f52f7ac93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACH_Kill100": {
       "name": "Warmup",

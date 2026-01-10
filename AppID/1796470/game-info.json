@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/6a82f0dff6444fc1850121f7d0303a65e9aa74a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACH_16": {
       "name": "Bare Bones",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/64c778b7d5efb08186a73927eb2a49f68768a7dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.6"
+      "percent": "97.5"
     },
     "ACH_19": {
       "name": "Megamarathon",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/798987b3fc49420661398c3e192376818f3a1024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.3"
+      "percent": "85.2"
     },
     "ACH_03": {
       "name": "Shard 2",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/d29d21ec5aab7fa43df2e24b7ef987cb923b5768.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.0"
     },
     "ACH_04": {
       "name": "Shard 3",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/1b61226dd2791f67f785891bd8aa70c6111afcc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.0"
     },
     "ACH_05": {
       "name": "Shard 4",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/10903e5a8f699a7ae4e545c9eb6263a95602e4b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACH_09": {
       "name": "Shard 8",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/8d8d79122ecc3f9a329e33603966beca16d35988.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_10": {
       "name": "Shard 9",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/5c9d976fd1070b5d6179599df943e1837474ac09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "ACH_26": {
       "name": "Stumble Out the Gate",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/a11f5f9bd766b85d340263065e4f2156e7a5c7d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "ACH_22": {
       "name": "The Archivist",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/382ccd57fda746de0dea79cb003151f97c513b81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "ACH_28": {
       "name": "The Machine",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.5"
     },
     "ACH_27": {
       "name": "Untouchable",

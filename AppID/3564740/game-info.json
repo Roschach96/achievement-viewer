@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1767796414",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header_alt_assets_0.jpg?t=1767925301",
   "achievements": {
     "1406001": {
       "name": "A Promise Fulfilled",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.6"
     },
     "1201011": {
       "name": "Buddha's Afterglow",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "301009": {
       "name": "Echoes Unbound",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "1403003": {
       "name": "Every Inch Covered - Kaifeng",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "301007": {
       "name": "First Resonance",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "1201020": {
       "name": "Life Goes to Dogs",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "1201002": {
       "name": "Past Secrets Unsung",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "1203005": {
       "name": "Qinghe · Seeker of Melodies",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "1403007": {
       "name": "Quick on the Uptake - Kaifeng",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "1203003": {
       "name": "Quick on the Uptake - Qinghe",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "1406003": {
       "name": "Speedrun in Granary",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0fca2521ea38abfd809a97b8205bbd8892a1669d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "101022": {
       "name": "The First Finding",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/261244e396d04a55e2c71d44e240adb8fca725a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "1205006": {
       "name": "The Old Timer Got It",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "1401009": {
       "name": "Voice of the Valiant",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     }
   },
   "platform": null,

@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "LOG_UNLOCK_BRONZE": {
       "name": "Log Collector (Bronze)",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/dda3215654df9ef0a6abdb6489f458e246044333.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "SENTINEL_UNLOCK": {
       "name": "Ranger",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/39a7927bc346914a0e6432b01c8786921e1cd8c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "FINISH_GAME_DIFF_MAX_RANK_S": {
       "name": "Ultimate Guardian",

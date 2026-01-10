@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "WHITE_DEFENDER": {
       "name": "Memory",
@@ -424,7 +424,7 @@
       "icongray": "https://Roschach96.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "SOULFUL": {
       "name": "Soulful",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/80ba52f035a3418b241c62c1eae7c924ec5705e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "ENDING_A": {
       "name": "The Hollow Knight",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ed0b80dee5a89c1ac24907b4fa9048512d95e705.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "VOID": {
       "name": "Void",

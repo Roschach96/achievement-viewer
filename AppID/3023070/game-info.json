@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/9e9d2e83ed6050b5c8d87f5640005ab102d1a487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_46": {
       "name": "Blue Fang",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "ACHIEVEMENT_05": {
       "name": "Cleared the 60th floor of The X!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/bb6f4bed2080cf84144451799b410378f61b0245.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ACHIEVEMENT_03": {
       "name": "Cleared the 80th floor of The X!",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/d771ea367cd462092a1d95add9226483fa286db6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "ACHIEVEMENT_40": {
       "name": "Xtreme Dash Burning Maneuver",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "ACHIEVEMENT_38": {
       "name": "Xtreme Dash Mirror Reflection",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3023070/fd0dada3f92ead9e695700f59d22cd50be96655c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     }
   },
   "platform": null,

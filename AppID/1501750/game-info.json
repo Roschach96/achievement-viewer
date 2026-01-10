@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "TLOTF_ACHIEVEMENT_077": {
       "name": "Altered Prospects",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.3"
+      "percent": "13.5"
     },
     "TLOTF_ACHIEVEMENT_008": {
       "name": "Ammunition Collector",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.5"
+      "percent": "0.7"
     },
     "TLOTF_ACHIEVEMENT_030": {
       "name": "Burying the Past",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "TLOTF_ACHIEVEMENT_020": {
       "name": "Comrades",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "TLOTF_ACHIEVEMENT_087": {
       "name": "Conqueror of Hardships",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "TLOTF_ACHIEVEMENT_056": {
       "name": "Essence of Death",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "TLOTF_ACHIEVEMENT_047": {
       "name": "Faithful",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "TLOTF_ACHIEVEMENT_065": {
       "name": "Fickle Fortune",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "TLOTF_ACHIEVEMENT_036": {
       "name": "Hunt's End",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "TLOTF_ACHIEVEMENT_053": {
       "name": "In Light we Walk",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "TLOTF_ACHIEVEMENT_044": {
       "name": "Moving On",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "TLOTF_ACHIEVEMENT_023": {
       "name": "No Mercy",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "TLOTF_ACHIEVEMENT_040": {
       "name": "None Shall be Spared",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "TLOTF_ACHIEVEMENT_084": {
       "name": "Promise Kept",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "TLOTF_ACHIEVEMENT_010": {
       "name": "Radiant Adept",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "TLOTF_ACHIEVEMENT_014": {
       "name": "Salvation in Blood",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "TLOTF_ACHIEVEMENT_058": {
       "name": "Seasoned",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "TLOTF_ACHIEVEMENT_037": {
       "name": "The King is Dead",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "TLOTF_ACHIEVEMENT_050": {
       "name": "The Last Step",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "TLOTF_ACHIEVEMENT_060": {
       "name": "The Past Shapes the Present",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "TLOTF_ACHIEVEMENT_083": {
       "name": "The Worm Stirs",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "TLOTF_ACHIEVEMENT_031": {
       "name": "Unwanted",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "TLOTF_ACHIEVEMENT_022": {
       "name": "Vengeance for the Fallen",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     },
     "TLOTF_ACHIEVEMENT_051": {
       "name": "Vengeful Reflection",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "TLOTF_ACHIEVEMENT_001": {
       "name": "Wayfarer",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "TLOTF_ACHIEVEMENT_004": {
       "name": "Weapon Collector",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "TLOTF_ACHIEVEMENT_048": {
       "name": "Without Purpose",
