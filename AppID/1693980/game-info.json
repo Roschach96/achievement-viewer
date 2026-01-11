@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c2c25ec978eb4ca282670d4f4326d2649fbc27a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ach03": {
       "name": "All Systems Go",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/7c875501edd85d2e409eebf7d3f18b0e12e6d13e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "ach36": {
       "name": "Backbreaker",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/7e03a8708ae92b95e333d4e969acfba198e5567c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ach19": {
       "name": "Built To Order",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/9af88cadaf444d7158baab80050e9b936035b1d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ach43": {
       "name": "Exterminator",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/6ee4f66c9738fac4cd90ed2aeb6006d09ae55a8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "ach38": {
       "name": "Front Toward Enemy",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ac493191bf266c6a7de6c46e2f1a438faa24c56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "35.8"
     },
     "ach41": {
       "name": "Full Clearance",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c25d9d9d19b18e31d6ed43fea43329ce3b1f6286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "ach10": {
       "name": "Keeper of the Faith",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ebd67c7d792ccf294b397ff0bc0b7b23e3315961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "ach02": {
       "name": "Lab Rat",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/3ea655f5f63d88442045319225158f3f75595278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.3"
     },
     "ach15": {
       "name": "Set A Benchmark",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ad34d62757704d54c8508d0a44807487cda775de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "ach08": {
       "name": "Strange Transmissions",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ee89712e44f3640be21d09a29d8b4d6b07d2c4a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "ach32": {
       "name": "Surgeon",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/b03841c16bb6dfbfaf8038faacb22149e4457fcd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "ach05": {
       "name": "True Believer",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/503d7301b6975d7bb948670985991816fbd11af7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     }
   },
   "platform": null,

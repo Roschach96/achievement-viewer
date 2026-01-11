@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "59.8"
+      "percent": "59.7"
     },
     "TUTORIAL_BASIC_DRIFT": {
       "name": "Basic Drift",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/d94ca62ff284d87de6bdfe922ac871936acdcc32.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TUTORIAL_BRAKE": {
       "name": "Braking",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "GOLD_MEDAL": {
       "name": "Gold Medal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "STALL_CAR": {
       "name": "Learner's Permit",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "TUTORIAL_KANSEI": {
       "name": "Nani?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "PLATINUM_MEDAL": {
       "name": "Platinum Medal",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/5818af4ef0d01e6ff6685b3b10d81afd589dd8d7.jpg",
       "hidden": true,
       "group": "Update 4",
-      "percent": "72.3"
+      "percent": "72.2"
     },
     "WHERE_ARE_YOU_GOING": {
       "name": "Where are you going?",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.9"
+      "percent": "7.8"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "1.0"
     },
     "1201011": {
       "name": "Buddha's Afterglow",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "1405001": {
       "name": "Jinming Pool Secrets",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "1201020": {
       "name": "Life Goes to Dogs",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.7"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "1402003": {
       "name": "Peak of All Arts",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "1201018": {
       "name": "The Final Destiny - Qinghe",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "1401009": {
       "name": "Voice of the Valiant",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     }
   },
   "platform": null,

@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "Meet_Nimue": {
       "name": "Blue Goddess",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "Obtain_Archetype": {
       "name": "First of Many",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "DLC1_Obtain_Archetype": {
       "name": "Master of the Dark Arts",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.7"
+      "percent": "80.6"
     },
     "Defeat_Boss_No_Damage": {
       "name": "Only Human",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.3"
     },
     "Discover_Blood_Moon_Room": {
       "name": "Red Room",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "Obtain_Scrap_B": {
       "name": "Scrap Hoarder",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "Obtain_Guns_A": {
       "name": "Strapped",

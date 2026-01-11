@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/462780/64de90e161593b61bd9317ee39f85a4325654742.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACHI_004": {
       "name": "One Tough Cookie",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/462780/9a96f0db626d2ed111a54d9fecdc80ddeef5a322.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "ACHI_011": {
       "name": "The True Horseman",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/462780/97ec7c86aafb86119666ac52d48177a9a6a12bcd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "ACHI_013": {
       "name": "Who's Counting?",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/462780/6bb59f400f4a8c3b281398944a560aff14327264.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     }
   },
   "platform": null,

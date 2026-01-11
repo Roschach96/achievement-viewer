@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.6"
+      "percent": "8.8"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/4531ef4d420d82a667ef996ac04826c85dd9d595.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.7"
     },
     "ACH_CompleteMission_All_Expert": {
       "name": "Death Incarnate",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "ACH_CompleteMission_Expert": {
       "name": "Express Elevator to Hell",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "ACH_KillAndroids1000": {
       "name": "Exterminate!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "67.8"
     },
     "ACH_FabricateAny": {
       "name": "Fabricate a Beer",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.1"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/080b9e888647a12f4ca816f358381bf7e88844a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "ACH_Sanctify1": {
       "name": "Gunpowder Piety",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "11.7"
+      "percent": "11.9"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.1"
     },
     "ACH_CompleteMission_All_Hard": {
       "name": "Hardcore to the Max",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/de62665ea3c2efece0b138f0fc4d6a089e9f88c3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "ACH_CompleteMission_All_Nightmare": {
       "name": "I am the Nightmare",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "ACH_CompleteMission_Undamaged": {
       "name": "Invincible",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.9"
+      "percent": "39.1"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/95d292d49c95b7e0cb08cc375e3898e038317ff8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "76.6"
+      "percent": "76.8"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.6"
     },
     "ACH_TechUpgrades3": {
       "name": "Plot Armor",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "ACH_PonderOrb": {
       "name": "Ponder Orb",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "ACH_CollectScrap50000": {
       "name": "Scrap Pile",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "ACH_CollectScrap500": {
       "name": "Scrappy",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/80f6771e34eeb33cbba4d38e4770a8babfef5caa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.6"
     },
     "ACH_CompleteStory2": {
       "name": "Stay Frosty",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/6c797a28f26edc3a3c0ad003ea378d41e2a0c7b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "ACH_KillAndroids500": {
       "name": "Terminate This",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.5"
     },
     "ACH_ReadAllDataLogs": {
       "name": "Too Long, Didn't Read",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.5"
+      "percent": "85.4"
     },
     "ACH_KillAndroids1": {
       "name": "What Are These?",
