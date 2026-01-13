@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "ACH_ACTIVATE_ALL_WEAPON_UPGRADES": {
       "name": "Boys'n'Toys",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "ACH_COLLECT_ALL_MONEY": {
       "name": "Chest Nuts",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/9df0cf216618b62837b023749f79131b4c70f55f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.4"
     },
     "ACH_GAME_COMPLETED_HARD": {
       "name": "Expert",

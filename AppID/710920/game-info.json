@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/5d08cfe0a6b74b08510eae490f3b48134076cf7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "AreYouNotEntertained": {
       "name": "Are You Not Entertained?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/26e21a138c1eec19d69b5a8c3f61264fdada6a9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "Infested": {
       "name": "Infested",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/580aa2bdd279ddbd2b7a0601b21cd8892f11025e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "MasterofWar": {
       "name": "Master of War",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/9639a867b98b722b09ef7cab5c48c750cd2db9db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "WickedKillington": {
       "name": "Wicked Killington",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/4c3774fde7f0bf0f1701023a325bf4621b71943a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     }
   },
   "platform": null,
