@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3a9cc6e18cfd7ebf7d4d94d7d1091d27329bcfb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.1"
     },
     "BG3_Quest04": {
       "name": "All's Well That Ends Well",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/042a397825694c4147bf6fc9bd580890b71573e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.2"
     },
     "BG3_Quest43": {
       "name": "Bookworm",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6036bb70d5b47b414c6412bdb4f893ccfa5238a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "BG3_Quest28": {
       "name": "Busker",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/59291415e026f667b59aabca48692c6c94846021.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "BG3_Quest11": {
       "name": "Expand Your Mind",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/5d6a1f80a5e816ee90bab4d96656219e30903fb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "BG3_Quest54": {
       "name": "Foehammer",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0db20ed8095106be54f7ced1c60f3540c77b8941.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "BG3_Quest06": {
       "name": "Hero of the Forgotten Realms",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/2cb77366c957e8fa3c5eff4fdd7c59ddc5d3c3e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "BG3_Quest17": {
       "name": "Homebrewer",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/30544be3da4df4a803371dfee3bf211abae8f5a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "BG3_Quest15": {
       "name": "Outsourcing",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "BG3_Quest32": {
       "name": "Pest Control",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/938724ca2cca38728e1243a024091fdaf8346c1c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "BG3_Quest42": {
       "name": "Shove Off",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/99ab472e0b521c17d3988f54c687635f05bfcabb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "BG3_Quest23": {
       "name": "Taking Blood",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "BG3_Quest03": {
       "name": "The City Awaits",

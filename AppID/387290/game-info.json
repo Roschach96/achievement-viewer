@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/6dc6c92be86489f9e1229bbb32e20429bcbe465a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "collectAllEnergyCells": {
       "name": "Powerhouse ",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/52a74733be480eb7222905cbbbc0ffb3da56d5f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "restoreFire": {
       "name": "Rekindle",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/954f98302af23c3a14de1a1af88b6fe470a9536c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "findHalfOfSecrets": {
       "name": "Seasoned Explorer",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/ee3997289012712253ce1dfd1016245069f22e94.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "collectBranchOneSkills": {
       "name": "Soul Master",

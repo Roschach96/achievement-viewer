@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/8ac99392d7850a4dfbc52be58237825d31afa3d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "PFA_21": {
       "name": "Challenge Accepted",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/458644244e2f0ebe5289599279e5c91106f7afba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "PFA_39": {
       "name": "Coasting Along",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/9f60666a9aef851637ef66f27f85e1c71cf8a8e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "PFA_34": {
       "name": "Floo Around the World",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/22b6e534eac3b5e9363fb56e137245c5abe3657a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "PFA_27": {
       "name": "Going Through the Potions",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/af311def0e66409bab459dc80817539ed449fe7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "PFA_10": {
       "name": "Grappling with a Graphorn",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/4b0f0166341563f75dad74ae6507f45bd6633df7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "PFA_24": {
       "name": "Loom for Improvement",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/1a65e332e7281ce256f7cab7021df7d3fdf62802.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "PFA_32": {
       "name": "Room with a View",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/e35fd6673f681e364123fa4abed61758a9dd4b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "PFA_33": {
       "name": "Spilled Milk",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/47adf0df129b5f89653bb0dca1e20b02128ba988.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "PFA_3": {
       "name": "The Auror's Apprentice",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a8a1944ec34e2405b24c7c33389491f00f1df851.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "PFA_16": {
       "name": "The Defender of Dragons",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a9e677e3397d09516932619122e659840367faed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "PFA_13": {
       "name": "The Hero of Hogwarts",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/57d9b6ac397bb8dbfce0c970e6c9b6e69538690f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "PFA_38": {
       "name": "The Intrepid Explorer",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ca5fb8d5e0612f69a5649a9f9be0ec8903181635.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "PFA_14": {
       "name": "The Seeker of Knowledge",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/70b3c64e9777c9e92c2f142c588fbb06f0866047.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.4"
     }
   },
   "platform": null,

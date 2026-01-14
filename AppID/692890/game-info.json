@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/9fe9e1858b5cc34d6e223b763b7174708d12a24a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "COMMANDO_UNLOCK": {
       "name": "Commando",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "DAMAGE_DEALT_SILVER": {
       "name": "Damage Dealer (Silver)",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "UNTOUCHED_BOSS": {
       "name": "Easy Peasy",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bb14c9c1c4e04b1c08d3a17eb5ff308c3698daff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "MAGUS_UNLOCK": {
       "name": "Elementalist",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/693ee7aeb9c6d7097e9ea7ea5723b70c9ca22dc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "ACT1_COMPLETED": {
       "name": "Haven 8",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ca951d071aaf4717c5f1d82c6f7a5797ae0eb7bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/37d27402d1d887dabaae9ab0c7352c8add455695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e1f00e87b9ecad9663602bf59fe4c09f84de0ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/b7e15ec2ad938368357ccd6fae51763c9a8dc697.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "SLIM_POWERCELL": {
       "name": "Spare Some Change?",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/14eac939215e8d08abd44972bf7c81b456f564b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4951ca7bdac3f639991b73b04437f1fc6abc636c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "SENTINEL_FINISH_GAME": {
       "name": "The Long Hunt",

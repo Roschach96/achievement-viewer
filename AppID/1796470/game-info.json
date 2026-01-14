@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/64c778b7d5efb08186a73927eb2a49f68768a7dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.5"
+      "percent": "97.6"
     },
     "ACH_19": {
       "name": "Megamarathon",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/03a76a3c4e9e76b7d02e24593d429cd7d76a95e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "ACH_12": {
       "name": "Perfect Landing",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/f33e43416e2b721185630c7018259cb6c379a652.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "ACH_13": {
       "name": "Perfect Landing Master",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/798987b3fc49420661398c3e192376818f3a1024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.2"
+      "percent": "85.1"
     },
     "ACH_03": {
       "name": "Shard 2",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/a11f5f9bd766b85d340263065e4f2156e7a5c7d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "ACH_22": {
       "name": "The Archivist",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.3"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.0"
     },
     "ACH_27": {
       "name": "Untouchable",

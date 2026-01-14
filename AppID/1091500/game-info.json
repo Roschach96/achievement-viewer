@@ -1,7 +1,7 @@
 {
   "appid": "1091500",
   "name": "Cyberpunk 2077",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1766141193",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1768304190",
   "achievements": {
     "AllThePresidentsMen": {
       "name": "All the President's Men",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "DirtyWork": {
       "name": "Dirty Deeds",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "YipMan": {
       "name": "It's Elementary",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
       "group": "Cyberpunk 2077: Phantom Liberty",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "KingOfTheSwords": {
       "name": "King of Swords",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "HandyMan": {
       "name": "Master Crafter",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "Temperance": {
       "name": "Temperance",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
       "group": "Cyberpunk 2077: Phantom Liberty",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "TheDevil": {
       "name": "The Devil",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "TradeUnion": {
       "name": "The Jungle",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "TheSun": {
       "name": "The Sun",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
       "group": "Cyberpunk 2077: Phantom Liberty",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "Fortuneteller": {
       "name": "The Wandering Fool",

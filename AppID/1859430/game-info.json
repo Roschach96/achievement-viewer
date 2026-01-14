@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/a863a944be95f3ac2ba6365d4157daa92c8d1b23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "KONTON": {
       "name": "Chaos",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/53c72131227f54fa6075a94ec689936281d8cfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "35.8"
     },
     "GIKO": {
       "name": "Finesse",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/8505171cdbcca5da533b2f850463c3d6f1412b19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "BOKYO": {
       "name": "Homesick",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/64d3ee6664bfb7def0b528e6bb666dac187f644f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "HAKUSHIKI": {
       "name": "Knowledgeable",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/52bda70203126062a69981673848286aab708cfc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "KIOKU": {
       "name": "Memory",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/c64bc13af52ec63b39c476d5f9e2e1fd75731943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "TASSEI": {
       "name": "Mission Accomplished",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/d966bd162759fa5bdc72d61d2b52894e28f852b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "KAIZOKU": {
       "name": "Pirate",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/4cb95f82339d4ad9f7647f3f6239cd89a73aeb61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "TANREN": {
       "name": "Training",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/f785ae0565534752345c8b9f9a637a36f355ec5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/fe320a5c80339cbe5767ad46c233a9098b730e23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Game_normal": {
       "name": "ALL GUNS BLAZING",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/61157d12122321a4afb1534bfd5663923147e57c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "Deadly_duo": {
       "name": "DEADLY DUO",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/2dd188b6f4990c741ec540e2d08d8de604cd9778.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "eye_in_the_sky": {
       "name": "EYE IN THE SKY",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/c5cad39c88956e3b9c085f31819ba51d31bff346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "looped": {
       "name": "LOOPED IT",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/e762f0212d81f193a5be4f7ddbce1e3dd6a9132f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "Level_5": {
       "name": "OVER THE CLOUDS",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/c61caa49c065368fd6ed7bd638515f1494937232.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "Pattern_design": {
       "name": "PATTERN DESIGN",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/7f8471757a5736a3540a28be31e87a59729d03ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "Level_7": {
       "name": "PERDITION",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/61759ac4a0fa3d1c2e78d9301c20885097dabbc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "Level_4": {
       "name": "STORMY SEAS",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/ec9fa69e6f780a95e02096592f6c82f5b9ea7ded.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "titan_hunter": {
       "name": "TITAN HUNTER",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/7df1ab474bee78074d74511730781140ff917882.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "Game_easy": {
       "name": "TRAINING WHEELS",
