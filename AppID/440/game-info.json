@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "TF_HEAVY_CLEAR_STICKYBOMBS": {
       "name": "0wn the Means of Production",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6f04a9327032259accf0e058daa343bf4d13b5d5.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "TF_PYRO_BURN_MEDICS_CHARGED": {
       "name": "Burn Ward",
@@ -793,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d0b1c10ece49201fbac2ee35cece320d75b517ee.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "TF_TAUNT_CONGA_LINE": {
       "name": "Conga Line",
@@ -1774,7 +1774,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_heal_callers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "TF_GET_HEADSHOTS": {
       "name": "Grey Matter",
@@ -2080,7 +2080,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1b745b2cee5f4bc9a6a661f37a2f1c23d09a48e1.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "TF_MEDIC_INVITE_JOIN_CHARGE": {
       "name": "House Call",
@@ -2089,7 +2089,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_invite_join_charge_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "TF_ENGINEER_DESTROY_STICKIES": {
       "name": "How the Pests Was Gunned",
@@ -2611,7 +2611,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6706abb617da105d8fd563dd0bc18ecf978465d7.jpg",
       "hidden": false,
       "group": "Update 19",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD": {
       "name": "Mutually Assured Destruction",
@@ -3205,7 +3205,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e4fab565b0063e29b474897f9690b73374b6cbfa.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "TF_HEAVY_HEAL_MEDIKITS": {
       "name": "Redistribution of Health",
@@ -3583,7 +3583,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/aa47f7d16432db5036d7b9125c3e1c4c83720fe8.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "TF_TAUNT_WHILE_CAPPING": {
       "name": "Showboat",
