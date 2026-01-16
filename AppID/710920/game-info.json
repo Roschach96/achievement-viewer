@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/0017f5373641df14965e975f43ab73eff9f40209.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "Belial": {
       "name": "Belial",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/26e21a138c1eec19d69b5a8c3f61264fdada6a9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "Infested": {
       "name": "Infested",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/4c3774fde7f0bf0f1701023a325bf4621b71943a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     }
   },
   "platform": null,
