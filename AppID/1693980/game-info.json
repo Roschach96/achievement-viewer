@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/c2c25ec978eb4ca282670d4f4326d2649fbc27a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "ach03": {
       "name": "All Systems Go",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/7c875501edd85d2e409eebf7d3f18b0e12e6d13e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "ach36": {
       "name": "Backbreaker",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/873139b4bf3e8ea5c3833ab33424ddbe0c82271e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ach11": {
       "name": "Betrayed",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/ac493191bf266c6a7de6c46e2f1a438faa24c56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ach41": {
       "name": "Full Clearance",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/66c70af47d850e7575d487f535dc3aecaecf76a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ach25": {
       "name": "Full Contact",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/730197c35ef10b8e0c762b4daf1173b08e403f70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "ach44": {
       "name": "Get Off My Ship!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/3cc5bf902e4002e6a5795e40e8ff47727049e6a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "ach26": {
       "name": "One Gun",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/0c7036fcd1dd8cebda7ab07177b07aad09f29b50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "ach34": {
       "name": "Raise The Stakes",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1693980/503d7301b6975d7bb948670985991816fbd11af7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     }
   },
   "platform": null,

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/065af0c6db231fba8b71bb7e5679abdc59989bae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "Achievement_GOSCC_8": {
       "name": "Adbusting",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/07513e76fb6f1237ee465666e7bd2f9c68d7fd90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "Achievement_GOSCC_18": {
       "name": "In the Flow",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/2841bee6d9fa9f74001ce8923c12b2dbe0e32949.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "Achievement_GOSCC_4": {
       "name": "Oh, It's On",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/fd2663dd3f03c586ad6e036cb2838b2161c7c151.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "Achievement_GOSCC_23": {
       "name": "Public Enemy",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/bef1570b357518c60a02cb07072378b1beb1b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "Achievement_GOSCC_19": {
       "name": "Rebel Without a Pause",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/3254dbe9d3dced65a2a5a52bb6320f384af9cecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Achievement_GOSCC_15": {
       "name": "Serious Guap",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/d85cb98924760e622b4c16604c795a0596201f1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "Achievement_GOSCC_30": {
       "name": "Superstar",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/dde54e210e678633dbf1818018cb8dae6c702a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "TF_HEAVY_CLEAR_STICKYBOMBS": {
       "name": "0wn the Means of Production",
@@ -1180,7 +1180,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/cf97220635537efcc9b59e7394a03cb4cb8dca9c.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_MAPS_DOOMSDAY_ACHIEVE_PROGRESS1": {
       "name": "Doomsday Milestone",
@@ -2080,7 +2080,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1b745b2cee5f4bc9a6a661f37a2f1c23d09a48e1.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "TF_MEDIC_INVITE_JOIN_CHARGE": {
       "name": "House Call",
@@ -2089,7 +2089,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_invite_join_charge_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "TF_ENGINEER_DESTROY_STICKIES": {
       "name": "How the Pests Was Gunned",
@@ -2611,7 +2611,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6706abb617da105d8fd563dd0bc18ecf978465d7.jpg",
       "hidden": false,
       "group": "Update 19",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD": {
       "name": "Mutually Assured Destruction",
@@ -4015,7 +4015,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_collect_money_grind_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC": {
       "name": "Tam O'Shatter",
