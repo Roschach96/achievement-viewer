@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/b2b4e6b8c98f075a9a40fa6ae54c2dbb1f3c1b50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "FleshAndInstinct": {
       "name": "Flesh And Instinct",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/5fabdd5da31e9a048ca753af9d649393c69d5068.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "LifeIsSuffering": {
       "name": "Life is Suffering",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/e0e4af8b20cb6b6cbeb45648a15f9296d5fb1584.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "NoLifer": {
       "name": "No Lifer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/319c3881caf214de65205382620e745d9fae4347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "SomeAssemblyRequired": {
       "name": "Some Assembly Required",

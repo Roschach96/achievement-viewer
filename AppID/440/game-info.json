@@ -2323,7 +2323,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a0f62037e8e803d22a0f2eeaf35ddc5d3c03bfea.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "TF_HEAVY_KILL_UNDERWATER": {
       "name": "Krazy Ivan",
@@ -3061,7 +3061,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a896644b41e2db2a13192fc9c642ec154f69a870.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "TF_PYRO_DAMAGE_GRIND": {
       "name": "Pyromancer",
@@ -3619,7 +3619,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_grind_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_ENGINEER_FREEZECAM_TAUNT": {
       "name": "Six-String Stinger",
@@ -3844,7 +3844,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/034e9b3305abccb1b69af2e0b577f32931171bec.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "TF_PYRO_REVEAL_SPIES": {
       "name": "Spontaneous Combustion",
@@ -4078,7 +4078,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d3c7c1b592257eaa09e575f469bb6c20029e9922.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "TF_REPLAY_SAVE_REPLAY": {
       "name": "That's a Wrap",
@@ -4249,7 +4249,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a325be4fb1bd5d1c3177a9dc680edc12fcbf3045.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "TF_DEMOMAN_CHARGE_KILL": {
       "name": "The Targe Charge",
@@ -4375,7 +4375,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/58321326ca99feb93923104622c8315d80286fa6.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_SOLDIER_KILL_GROUP_WITH_CROCKET": {
       "name": "Tri-Splatteral Damage",

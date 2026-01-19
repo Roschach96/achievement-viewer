@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/6dcc02a0230af3072600eff925cfda1d17a9f7b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "BRAVO_OLD_CHAP": {
       "name": "Bravo Old Chap",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/504fa409cdde9e40db3eb4a85aa57f3348eab4e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ITS_NOT_OVER": {
       "name": "It's Not Over",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/f1391e0affbebfa63fdc6ee9f8dc244894e5e2f7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "THE_ROOT_OF_CORRUPTION": {
       "name": "The Root Of Corruption",

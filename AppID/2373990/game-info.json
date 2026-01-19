@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/4c7be51bf59d102044723a2f09640cd4a5b821aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "77.1"
     },
     "SOLO_ACHIEVEMENT_1_26": {
       "name": "Account Saver",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/5197606339448bcff042e944de3b57522952a9d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "SOLO_ACHIEVEMENT_1_23": {
       "name": "Alchemist",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/5ba85ffc09c4862edf8052329e7a33dde9ce033a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "SOLO_ACHIEVEMENT_1_14": {
       "name": "Ally",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/d4c0ed33d611296f3a205baec2178051b920bc05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.9"
     },
     "SOLO_ACHIEVEMENT_1_7": {
       "name": "Almighty Shaman",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/e15cf185ef24dadc9e939b7763f6554549c7660a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "SOLO_ACHIEVEMENT_1_56": {
       "name": "Another Chance",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/4e53cfa41d3c6e6dc8a8bf30f8e71571cd06019e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.4"
     },
     "SOLO_ACHIEVEMENT_1_33": {
       "name": "Arise",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/56f5a0bb6a422575673fa05c8b80be6c702aab8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "SOLO_ACHIEVEMENT_1_10": {
       "name": "Behold My Army",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/80ede7cd49481d8ec478b838de06c8149bb686f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "SOLO_ACHIEVEMENT_1_32": {
       "name": "Don't Give Up!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/c682c265e4a31d60cf7b69d12095d4757e8e5fb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "SOLO_ACHIEVEMENT_1_2": {
       "name": "Dungeon Break",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/eb12b1715d954c766944ec06fce1f04c2fa4ecd3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.8"
+      "percent": "93.9"
     },
     "SOLO_ACHIEVEMENT_1_58": {
       "name": "Embrace the Darkness",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/2ecaf26cb757bb98678d8e0bd937bacf5cf4ca32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.5"
+      "percent": "96.6"
     },
     "SOLO_ACHIEVEMENT_1_49": {
       "name": "Guardian of the Empty Throne",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/3b7665dedc32c87ae8eef9663386a027de2e6dc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.7"
+      "percent": "83.8"
     },
     "SOLO_ACHIEVEMENT_1_39": {
       "name": "High Five!",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/94016859ee95d5515b4b119a4d4712c6c7d52698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "SOLO_ACHIEVEMENT_1_12": {
       "name": "Multi-talented",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/e9bd4d30c2c42299103fc8c520ed9ac21ffbbfa6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.0"
+      "percent": "95.1"
     },
     "SOLO_ACHIEVEMENT_1_43": {
       "name": "Perfect Coordination",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/c806a89d5978d4c29c048ebe8ac22c95665f1866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "SOLO_ACHIEVEMENT_1_46": {
       "name": "Punishment for the Cowardly",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/b09a9786b8c665abb0a35c6446da819a30fd1345.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.5"
+      "percent": "81.6"
     },
     "SOLO_ACHIEVEMENT_1_24": {
       "name": "Realm of Mystery",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/07390f876005b093d8c7654b34b2b84b4f80ffc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "SOLO_ACHIEVEMENT_1_30": {
       "name": "Reliable Ally!",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/b1a5f5925b7a0bc3cc462554c20fcd1d9e16bac0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "SOLO_ACHIEVEMENT_1_18": {
       "name": "Relic Collector",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/6a4cb61e0c7cf9cf81a8f5a312b81b6a36b86ded.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "92.0"
+      "percent": "92.1"
     },
     "SOLO_ACHIEVEMENT_1_51": {
       "name": "So Nimble!",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/cabb5b6e45db314841a09b513626f988fb1991cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.5"
+      "percent": "95.6"
     },
     "SOLO_ACHIEVEMENT_1_37": {
       "name": "Too Slow",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/d444c234282c764082e87ff1afa141c0745534c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "SOLO_ACHIEVEMENT_1_42": {
       "name": "Transformation!",

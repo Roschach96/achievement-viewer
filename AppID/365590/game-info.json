@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/0dc1754db868af1547ad1944de6299308fb78535.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "Division_Ach_17": {
       "name": "Droning on...",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/62b9d6207b11055925371c2cafa858caa10f483d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "Division_Ach_33": {
       "name": "Fixer Upper",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/6580e917bae998d7afa011390323544c9578be52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "Division_Ach_45": {
       "name": "Mass Extraction",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/031fd0db4e85167c6b194f0cf2733b840c38bf14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "Division_Ach_39": {
       "name": "Medic!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/0ad522344db94c168af02e5f1f386353bdfa0a6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "Division_Ach_46": {
       "name": "Plundered!",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/33a4d64393b9ea42b9b1b8e9aea3c08f406df94e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "Division_Ach_43": {
       "name": "Raid the Arsenal",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/1126d70a135000e52275941b921de11a1e4db29f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "Division_Ach_57": {
       "name": "Subzero Hero",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/2532cdf97218159b27b8c3f9dfe6255fcf5b5c6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "Division_Ach_20": {
       "name": "The Finder",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/9fc55b9bf8050377884ebcf7286910f2089fd3c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "Division_Ach_9": {
       "name": "What Needs To Be Done",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/ea23ea14e7ae68854e644099066f890a0d164854.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "Division_Ach_44": {
       "name": "Worth the Wait",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/365590/7992d0e6c6884299f72f56d2fc02f2fb05953ff8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     }
   },
   "platform": "Ubisoft",

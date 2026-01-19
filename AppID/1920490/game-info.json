@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/b30a2bc92aedbb4dd73562a289ce897b82b74ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Everything Must Go",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/5e0c0bf856f59b25496335d2e913d60ddc98c15a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Not the Best Choice",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/278b20ae911f9bc207bec1b8a1f83b93fa1628c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Paradise Found",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/345524f374aaa6f2c193167ac0a318285bda360c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Patient N",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/e9e6763cf3cb70b0963d97ba423c3dcedd00a6e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "NEW_ACHIEVEMENT_2_19": {
       "name": "Peril at Hand",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/d9550cc1bfef30e456acdd96e9c1af94f43131d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "NEW_ACHIEVEMENT_2_16": {
       "name": "Peril on Gorgon",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ea26442f89f1bf2413338cadcb6aded9911729af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "NEW_ACHIEVEMENT_1_6": {
       "name": "Silver Tongue",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Special P.E.T. Benefits",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f6e7826dd459ae67bab29bdd76bff76a8b529e07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/8a7a89c6eaab0436529516fc0f15fa1c70b123d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "NEW_ACHIEVEMENT_2_14": {
       "name": "The Cartographer",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/308d0318a89266b21f901c5d822bb3c226b5097d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "NEW_ACHIEVEMENT_2_22": {
       "name": "The Postman",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/72ab42d458af3ab849a13a8a10f3008fb106825b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "NEW_ACHIEVEMENT_2_0": {
       "name": "Ticket to Anywhere",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/3860a6c4ba082d9d7ccc2645b5835f18f13a0399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     }
   },
   "platform": null,
