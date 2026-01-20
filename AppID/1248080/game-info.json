@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/af4a408d270143edbe57d6d5a55b73cb7a3425f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "air_superiority": {
       "name": "Air Superiority",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/fe320a5c80339cbe5767ad46c233a9098b730e23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Game_normal": {
       "name": "ALL GUNS BLAZING",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/ce42279ccef5267ab105c23826f1833100769daf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "Level_6": {
       "name": "STRATOSPHERE",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/f46688528c865d3fe73ab0653d708a8fd810ca17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "Wingman": {
       "name": "WINGMAN",

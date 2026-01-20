@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
   "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/fd891726939b8d52bcbbbb199606a28be93a89d9/header_alt_assets_3.jpg?t=1768649668",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/fd891726939b8d52bcbbbb199606a28be93a89d9/header_alt_assets_3.jpg?t=1768793897",
   "achievements": {
     "20000017": {
       "name": "\"Ahhh, those tiny claws!\"",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f16bff89d2f16fff6de3c2d65e628198d7df28d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "20000028": {
       "name": "Aquatic Assault",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/a8bb95dc609fd5728b7cc9cff10a9e90b1e4a4cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "20000069": {
       "name": "Bouncing Ideas",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/0857dc4b9b261e304867dc4317f621e2e76369b7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.8"
+      "percent": "8.0"
     },
     "20000018": {
       "name": "Deadly Bites",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/109afe88e86a25266fb1d679fa0143b6ff3b5207.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "20000022": {
       "name": "Homo Superior",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/39b9868011941f76971dbe5213106e41c179a341.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "20000067": {
       "name": "Hot & Trending",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/51ec56e76749f61a8200de95323bf2acad924c37.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "10000001": {
       "name": "Inevitable！",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "20000008": {
       "name": "Justice for All! ",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/298067d54734e289b06b25af62b881ccacb726dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "20000071": {
       "name": "Lady of the House",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/62195af7230c123e4b911ec96de73d24b204a777.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.2"
+      "percent": "8.4"
     },
     "10000009": {
       "name": "Master of Modes",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f7ceced45f6d9769095edf13e933a4dad5cfea16.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.8"
+      "percent": "6.0"
     },
     "20000023": {
       "name": "No More Mutants",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6a67c1e841f27aec6be5547745902d40c570f071.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "10000005": {
       "name": "Onslaught!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/b9fbb391e7468bae90bb1631e84be2c5644d76dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "20000005": {
       "name": "Perilous Portal",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/008eb2c4c5a885efcf6ef70fe828fb74a709f8e2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "20000001": {
       "name": "Smart Is New Smash",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6530c235fca3c0bb90c1ce69b13fc9a22a9d3266.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "20000030": {
       "name": "Snack Attack!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/0ce5857cb16e0c7ab1315ebef16428ca5409a0da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "20000021": {
       "name": "Spider-Sense Tingling!",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/9b269af75aca47264e6fe1fc926604ab8b9b2ed2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "20000081": {
       "name": "Wish Upon a Phoenix",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "8": {
       "name": "You Do You",
