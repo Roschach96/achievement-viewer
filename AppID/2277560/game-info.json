@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/641ef8846c895ea156b3742a072945f2599aa974.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACH_COPPER_33_F": {
       "name": "Discerning Eye",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/0ac5585ae90bcd1eb7f4168d8431724e17f8c22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACH_PLATINUM_01_F": {
       "name": "Fallen Feathers",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/0b76e257038c57ca7c039c34d4db5f76b90d1168.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "ACH_COPPER_18_F": {
       "name": "General of the North - Ai Nengqi",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/a75896cdd1b2b1da05ec9cd50d945496e6c1c599.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACH_COPPER_15_F": {
       "name": "Gluttonous Monstrosity - Lu Hongliu",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/720da3903518e7f72e36637635e18748892d4144.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "ACH_SILVER_14_F": {
       "name": "Monstrous Toddler - Bai Kru",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/244998e557e31c9b0a0ccd3c88807985a504ecfb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ACH_COPPER_27_F": {
       "name": "Quelling Madness",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "ACH_COPPER_04_F": {
       "name": "Well Met, Divines",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/6fc823b16d40238d837f838a3e4e6538772df77a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     }
   },
   "platform": null,

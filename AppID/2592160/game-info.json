@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.3"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/31db4c4ed1846cbcfc98cfe3d431204acb3e8738.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "ACH_HIRED": {
       "name": "\"Did I drool on you?\"",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/6eef1f382de4cc380d1011a39773e61dbbe5292e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "ACH_DONUT": {
       "name": "\"Love ‘em from my mouth to my butt.\"",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/817da6824201a3b1a267c5ffe55375894d1277a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "ACH_FRIENDS": {
       "name": "\"We can just be friends.\"",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/a87b237764917ecbb47bacd874bba8a504524fd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.8"
+      "percent": "90.9"
     },
     "ACH_VIRUS": {
       "name": "Anti-Antivirus Club",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f116d0045c5f4a6f6dc562d1c3f3f503334ee64c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "71.1"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.6"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/706b01766984d59a2571b15090ce2d34b4254f6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "ACH_SCEN_MODS": {
       "name": "Modded",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "73.1"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",

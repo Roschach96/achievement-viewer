@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/d92b5372fbf62e667c33d109edc0a28a6aa12383.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "BG3_Quest01": {
       "name": "Descent From Avernus",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/26156176d423eafd2e71feebda09c85a842d84d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "BG3_Quest12": {
       "name": "Dig for Victory",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0128504fc4ae9e6c812338ce0569c0c3330f61cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "BG3_Quest38": {
       "name": "First Blood",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "BG3_Quest24": {
       "name": "Leave No One Behind",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44deee9d0a5a22a45be261cff52fa97b140d33c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "BG3_Quest26": {
       "name": "Mind Blown",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/03158bd6dfa768f111c3666c46b39f77b2d3ca61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "BG3_Quest35": {
       "name": "Penny Pincher",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6b55d2fb4ef8fbf7fe7605b561b95a762ea74ded.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "BG3_Quest19": {
       "name": "Rude, Crude, and Full of Attitude",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/15c53648c4aa9f05bef567e84a3fa0d8e5d5f2a1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "BG3_Quest22": {
       "name": "She Cannot Be Caged!",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/092cc30e865fbb0158afe43fb343d6362e9292fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "BG3_Quest47": {
       "name": "The Lich-Queen's Wrath",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9de27a7ba09b51e6e167626e76d66c98a3a7b33a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "BG3_Quest02": {
       "name": "The Plot Thickens",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "BG3_Quest48": {
       "name": "To Bloom in Darkest Night",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/2f32c004f552e9bc735ddb7d11b477e01152ab5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "BG3_Quest21": {
       "name": "Under Lock and Key",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/68b09cd38809a0ac26bf7f9eac5e35e7fbd92e92.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "BG3_Quest18": {
       "name": "You Have Two Hands for a Reason",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/eb31bf50dd62c7c0a6d0092bee088559e47c61fd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     }
   },
   "platform": null,

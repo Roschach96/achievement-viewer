@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/7beec116e3c143bfbc81b05be230cec02567f1d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ITEMS_EQUIPPED": {
       "name": "Bazaar Best Friend",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/2c819ccb985ca5511b45bb10f575f4b2243725e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "GADGET_UNLOCK_SILVER": {
       "name": "Inspector Gadget (Silver)",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/37d27402d1d887dabaae9ab0c7352c8add455695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.0"
+      "percent": "76.1"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e84937a244bf84064064edc9a9cc55004e9d1eaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "73.0"
     },
     "ENEMY_DESTROY_GOLD": {
       "name": "Robo-Regulator (Gold)",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",

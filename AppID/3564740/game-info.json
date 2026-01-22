@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "1201011": {
       "name": "Buddha's Afterglow",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "1203003": {
       "name": "Quick on the Uptake - Qinghe",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "1401009": {
       "name": "Voice of the Valiant",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     }
   },
   "platform": null,

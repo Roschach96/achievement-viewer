@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/397afc5c37e5068d49b091fc2d85268ba581c80a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "Classic": {
       "name": "CLASSIC",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/deb32d1eec6a6c40c9e2bd6ef0d9c9320c13715c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     }
   },
   "platform": "Epic",

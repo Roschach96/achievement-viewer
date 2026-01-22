@@ -1774,7 +1774,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_heal_callers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "TF_GET_HEADSHOTS": {
       "name": "Grey Matter",
@@ -2764,7 +2764,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a61057fa2f2799d4549884b2748b7bf7d4d0de71.jpg",
       "hidden": false,
       "group": "Update 12",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "TF_SCOUT_TAUNT_KILL": {
       "name": "Out of the Park",
