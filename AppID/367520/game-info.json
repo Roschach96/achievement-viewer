@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/d1f3d14cf7b0b0cf8a7bb4a71a43f5c950fd982c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "BANISHMENT": {
       "name": "Banishment",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a577316f7ae64c8cfdd0568209a915a9fad0f8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "PANTHEON1": {
       "name": "Brotherhood",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "STAG_STATION_HALF": {
       "name": "Connection",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4dce442376a62900d7064dbb04f66125678d0a99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "GREY_PRINCE": {
       "name": "Dark Romance",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e9699d861ee64eb0b3bfd57f2571896be5db12b4.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "ENDING_C": {
       "name": "Dream No More",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "TRAITOR_LORD": {
       "name": "Execution",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "GRIMM": {
       "name": "Grand Performance",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "GRUBFRIEND": {
       "name": "Grubfriend",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "NAILSMITH_SPARE": {
       "name": "Happy Couple",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -244,7 +244,7 @@
       "icongray": "https://Roschach96.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "HUNTER_1": {
       "name": "Keen Hunter",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f922c5de7ecfb30d3f7287e5fc472d669ec67fb8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "NEGLECT": {
       "name": "Neglect",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/512e98007863df71f4531d08676464c6aceea95d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "COLLECTOR": {
       "name": "Obsession",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1eb53b3fb180df87b48b07a5898aeb8b872b49d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "HORNET_2": {
       "name": "Proof of Resolve",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ce3e486770249d317f47c8277de5e7047d175cb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "PROTECTED": {
       "name": "Protected",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/23f190fe7fdc961652855d6134a096b2703bf479.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "BROKEN_VESSEL": {
       "name": "Release",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/00938958cda9497220f141c415a7ca7bdcdd27e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "ENDING_B": {
       "name": "Sealed Siblings",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/d9a08fbe0afb16ffae9ebcd67c41bb73388a8c26.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "MOURNER": {
       "name": "Solace",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "PANTHEON4": {
       "name": "Soul & Shade",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "HUNTER_2": {
       "name": "True Hunter",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "WATCHER": {
       "name": "Watcher",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "QUIRREL_EPILOGUE": {
       "name": "Witness",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "WORLDSOUL": {
       "name": "Worldsoul",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     }
   },
   "platform": null,

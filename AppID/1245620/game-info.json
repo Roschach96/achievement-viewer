@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "ACH40": {
       "name": "Great Rune",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "ACH16": {
       "name": "Legendary Sorceries and Incantations",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     }
   },
   "platform": null,
