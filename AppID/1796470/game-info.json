@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/1dd67d9f32dbb9741ebd2811bb8a133ca1e03390.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACH_14": {
       "name": "Iron Man",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/64c778b7d5efb08186a73927eb2a49f68768a7dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.4"
+      "percent": "97.5"
     },
     "ACH_19": {
       "name": "Megamarathon",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "ACH_27": {
       "name": "Untouchable",
