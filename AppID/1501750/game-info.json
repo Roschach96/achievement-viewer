@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "TLOTF_ACHIEVEMENT_030": {
       "name": "Burying the Past",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "TLOTF_ACHIEVEMENT_018": {
       "name": "Carving Out Victory",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "TLOTF_ACHIEVEMENT_056": {
       "name": "Essence of Death",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "TLOTF_ACHIEVEMENT_053": {
       "name": "In Light we Walk",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "TLOTF_ACHIEVEMENT_040": {
       "name": "None Shall be Spared",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "TLOTF_ACHIEVEMENT_048": {
       "name": "Without Purpose",

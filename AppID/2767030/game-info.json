@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/0857dc4b9b261e304867dc4317f621e2e76369b7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "20000018": {
       "name": "Deadly Bites",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f2e0453eb26943a1d679ca3544c27f703d0d4d46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "20000014": {
       "name": "Demon's Roar",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/9b820dd2eff4f27dd28a611626a946c5db49a3d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "20000029": {
       "name": "Family Ties",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/51ec56e76749f61a8200de95323bf2acad924c37.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "10000001": {
       "name": "Inevitable！",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/62195af7230c123e4b911ec96de73d24b204a777.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.5"
+      "percent": "8.7"
     },
     "10000009": {
       "name": "Master of Modes",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6a67c1e841f27aec6be5547745902d40c570f071.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "10000005": {
       "name": "Onslaught!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/7026756717dfca13214b1fb49f9235cecda18c7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "20000077": {
       "name": "Schism from Within",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/008eb2c4c5a885efcf6ef70fe828fb74a709f8e2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "20000001": {
       "name": "Smart Is New Smash",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/525eedde042caece450a9000a542f781c1343cbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "20000011": {
       "name": "Symphony of Light and Dark",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/5d1cddc3fef33bfcc5c210561d50d5f9cf9ffa65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "20000010": {
       "name": "Terror of the Ten Realms",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c4a511b54486978ace67689110752a42fb5ca2b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "10000004": {
       "name": "Thumbs Up",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/9b269af75aca47264e6fe1fc926604ab8b9b2ed2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "20000081": {
       "name": "Wish Upon a Phoenix",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "8": {
       "name": "You Do You",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/d18118d6f1b5d1f8f3c25f3d29e596c675f1d1d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     }
   },
   "platform": null,

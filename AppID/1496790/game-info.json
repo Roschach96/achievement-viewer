@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/c4389eee2a93c1c02934c6e6fa9a6fb81c5ba5fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.3"
     },
     "TIME_TRIALS_1": {
       "name": "Bat Out of Hell",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/26039d1622756156a06bad3fce795b152f66d75e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "GOTHAM_MURALS": {
       "name": "Claiming the Mural High Ground",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/77c21658f5f6cc853e890d538601b24c82e87063.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.0"
     },
     "AC1_HA_RESERVOIR": {
       "name": "Crime Is a Terrible Thing to Waste",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/a11cbc1674ab62785d8a8d7fdef90a765bb3ac23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "DEFEAT_OC_3": {
       "name": "Drone You Out",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/11c39a54d0da705b54a1f315bf24899b397b284d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "AC1_HA_BREAK_BUFFS": {
       "name": "Element of Surprise",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e9a32f3be6b12116c1b2c51ea4dc6e91e4285a91.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.4"
     },
     "CRIME_FIGHTER_1": {
       "name": "Expert Crime Fighter",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/8137daff4bea5d06727c9366abb0f11006b8b1d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "DEFEAT_OC_1": {
       "name": "Family Meeting",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/5ccb3c5325bd466fd4372a13e54f710a36110179.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "HERO_PROGRESSION_1": {
       "name": "First Step Into the Knight",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e075bcb901920c6bad1bc446173cac853ae23ca6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.0"
     },
     "MYSTERY_05": {
       "name": "From Inside Gotham's Walls",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/2b46a8a61facf68d29cfa35ef08954f769adacb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "CRAFTING_MOD_CHIPS": {
       "name": "Fusion Expert",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/49411a8f4352e68999ea790123cd0a66b54ddcf8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.5"
     },
     "SECRET_CACHE": {
       "name": "Gotham City Confidential",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/5f5c5c4e546dfb7eaf089d0a00280686c719bc4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "MYSTERY_08": {
       "name": "Gotham Knight",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/82c00862fe957b58573f55cfd7a5f9d30fe0f419.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ALL_HEROIC_ASSAULT": {
       "name": "Gotham's Greatest Depths",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/b3556e250250bb6bc6de3119edf3a62ceb5f52c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.5"
     },
     "HERO_PROGRESSION_2": {
       "name": "He'd Be So Proud of You",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/0064793906cafa506874e00a74ff6d02a8fcb82c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "FREEZE_SHOWDOWN_1": {
       "name": "Icebreaker",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/13e6c3ab66255dc0febc98915425453073a72164.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "AC1_HA_DEFEAT_MOST_WANTED": {
       "name": "It's Nice to Be Wanted",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/6183db23159e6f5512392af9a0f61e0acc4e665f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.4"
     },
     "MYSTERY_03": {
       "name": "Lock and Key",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d51e947c294752b981b06970bda67de6c54d5883.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "MYSTERY_01": {
       "name": "Loose Ends",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "CRIME_FIGHTER_2": {
       "name": "Not On My Watch",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/7c656a681cda8976bfb67eb727bbb16113312ca9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "DEFEAT_LOS_1": {
       "name": "Out of Their League",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/3a45ff1ee0e9b796b41b41124ce351c8d093314f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "ALL_TRAINING_ROOMS": {
       "name": "Practice Makes Perfect",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/274333beeaae48abf752b8109bf3c9d5e4685afa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "CHALLENGES_1": {
       "name": "Protector of Gotham",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/3fbd4b966dce50cecb34fc7afecb1d879d012140.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.6"
     },
     "FREEZE_1_5": {
       "name": "Quartzer Life Crisis",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/41a16a750847141c450e71f91f473c25a1f483c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "GOTHAM_COO_PAGES": {
       "name": "Read Owl About It",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/8ca0ef0ed8c35a11397f4d633495085fa059bdec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "23.9"
     },
     "MYSTERY_07": {
       "name": "Seeking Asylum",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/ce24028164e8f3ce3d855ff991a106642d6e9f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "DEFEAT_OC_2": {
       "name": "Shock Til They Drop",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/7e30dea01d6511da559055ed0484a1f89cecf17c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "ALL_SHOWDOWN": {
       "name": "Showdown Sovereign",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/d14831161b02285223fbaa0ea63bcc09ec0460ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.3"
     },
     "SECRET_IDENTITY": {
       "name": "Solid Alibi",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/846d2589e0f6b5456309659bb2513b92de7ae5d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "CLAYFACE_1": {
       "name": "Something in the Clay",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/a39b8faaa4254b90cde1ba8e45898a538ae8b68c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "33.9"
     },
     "DEFEAT_COO_1": {
       "name": "Talonted",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/138e6bbe8c6fd3ff50e136e30d6e16455c961046.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "CLAYFACE_SHOWDOWN_1": {
       "name": "That's Showbiz, Clayby",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f4b2622adbc355669d6291a52f30ba21a81554d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "AC1_HA_STARLABS": {
       "name": "The Cold, the Bad and the Ugly",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e3b31bfacb13a391a85c266e5cc7085e18c6e885.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "CLAYFACE_2": {
       "name": "The Show Mud Go On",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/ffba0fd048a4af6a6fc47f8c8fc372e82378d5cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.4"
     },
     "FREEZE_1": {
       "name": "To the Victor Go the Spoils",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f2e7d9e456ccc4d53ac7b8804875cdda7abcb0b8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.7"
     },
     "HARLEY_4": {
       "name": "Universal Health Scare",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/2efebbd54ea447fd92c72fa71ee7535d3b665cb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "HERO_PROGRESSION_4": {
       "name": "Unstoppable Force",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/85fdd1aff964214a328068a4153dd71a553a4152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "MYSTERY_06": {
       "name": "Voiceless",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1125ceeb545b81211b5d7825a283b8966ad13e70.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.7"
     },
     "MYSTERY_02": {
       "name": "Whispered Words",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1467ca5b9f49f11938b0fc249645742e17073118.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.8"
     },
     "HARLEY_3": {
       "name": "Working Hard or Harley Working?",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1db248c76e042f4ea5d726bd0198371b70c64750.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.6"
     }
   },
   "platform": null,

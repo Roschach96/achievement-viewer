@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/32ef38a459bf68dc7ffe8acdb4120777f2f6cda6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "ACHIEVEMENT_6": {
       "name": "4 Scorch...",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/ccca66eb7d9caf32fda49e6f06e1a68b220a0ba8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "ACHIEVEMENT_10": {
       "name": "Baby's first showdown",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/94e9e0807dbaff379feac476e06f35d34294d511.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACHIEVEMENT_8": {
       "name": "Beard oil is a luxury few can afford",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/9c3deddd1aedd1c6f1a069552af5bf6960bd1acd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "ACHIEVEMENT_4": {
       "name": "MageQuit great for parties",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/a0c88f7565dc144b1cdb952c0f49af2aeea84798.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACHIEVEMENT_2": {
       "name": "Purist",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/4f706835360888f1eb92c2366159cb7235d536c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ACHIEVEMENT_5": {
       "name": "Somebody's Fabulous",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/a70a5dcb04d508b61ca8b5596a366a78d9c6d74f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACHIEVEMENT_1": {
       "name": "Yer a wizard, hairy",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/3607f65dc84b378dd84e5cb839ac3eebf6efba0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.3"
     }
   },
   "platform": null,
