@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1b88bf9ae2b7d4b90ea3ad86470c98df618a8229.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ATTUNEMENT": {
       "name": "Attunement",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/c31aefeb1a1a66ea8df5973948938943e990def6.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "BEAST": {
       "name": "Beast",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "CHARMED": {
       "name": "Charmed",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/c98d546145ff3a8b0eed20ca5426b94d714127bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "STAG_STATION_ALL": {
       "name": "Hope",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "WHITE_DEFENDER": {
       "name": "Memory",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "DREAM_SOUL_MASTER_DEFEAT": {
       "name": "Mortality",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "MR_MUSHROOM": {
       "name": "Passing of the Age",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "MANTIS_LORDS": {
       "name": "Respect",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1720e3ef2802441c9f6f3d4b3ae62ba05109ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "NIGHTMARE_GRIMM": {
       "name": "Ritual",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f449ef6aacd0ef2423439931ef68466cd762456.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "TEACHER": {
       "name": "Teacher",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "COLOSSEUM_1": {
       "name": "Warrior",
