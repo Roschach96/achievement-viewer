@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/9a4c624d1e1d79fec5c257689cc09f3465f75443.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.2"
     },
     "NEW_ACHIEVEMENT_2_10": {
       "name": "Dentastic",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/57f4c5deed8d53942faabba260728b3b9efa63f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "NEW_ACHIEVEMENT_2_24": {
       "name": "Family Reunion",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/93d78f0e72e9b55ba1e22b981af98bdaeb38f5de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "NEW_ACHIEVEMENT_2_21": {
       "name": "Lucky Stiff",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/278b20ae911f9bc207bec1b8a1f83b93fa1628c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Paradise Found",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/345524f374aaa6f2c193167ac0a318285bda360c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Patient N",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Special P.E.T. Benefits",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/52cf1aa13917d2574d6703944107a31bceaa28e8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "The Audience Gasps",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/59aa8324d0b42f8cbfc5c60a38d482de70cf690b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Well Dressed",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/3860a6c4ba082d9d7ccc2645b5835f18f13a0399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     }
   },
   "platform": null,

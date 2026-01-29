@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.0"
     },
     "ACHIEVEMENT_23": {
       "name": "Clangorous Covenant",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ACHIEVEMENT_22": {
       "name": "Gnawing Covenant",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ACHIEVEMENT_07": {
       "name": "Iron Keep Bonfire",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_14": {
       "name": "Master of Sorcery",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "ACHIEVEMENT_31": {
       "name": "Moonlight Greatsword",

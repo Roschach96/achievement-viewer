@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/a40c21092dabcb98245c064ff53f8e60bbe8bfb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "AchCompTracks20": {
       "name": "20 Tracks",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/e49caf20b57eddefe42f2bfac526cd052413342b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "AchCompTracks50": {
       "name": "50 Tracks",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/dec22bf5dbfd64849b3529de6c4ab65bdf60d679.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "60.0"
     },
     "AchCompOST3": {
       "name": "Biohacker",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "AchCompOST6": {
       "name": "Lethal Trip",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/8baede1368ef1c3ba202efe7391e6786ced68445.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "AchBossMass2": {
       "name": "Medium Boss",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "AchSkills_AllPickups": {
       "name": "Nom nom nom",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/84859df3a0ff9da9f5be09ac257b26309af59e8e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "AchShipTracks6": {
       "name": "Wide Spread Carnage",

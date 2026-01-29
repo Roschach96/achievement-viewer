@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f457149dde2aae87e15e32bcbf06e5b25b20184b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "BG3_Quest05": {
       "name": "Absolute Power Corrupts",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6036bb70d5b47b414c6412bdb4f893ccfa5238a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "BG3_Quest28": {
       "name": "Busker",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/730ac43eb4f804a75356884351ad5dbe1f22fca0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "BG3_Quest27": {
       "name": "Kill Two Birds With One Gnome",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f87a62accfa59fb5f968cceacf189eee7497f7fd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "BG3_Quest25": {
       "name": "Murder in Baldur's Gate",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/d367f18a90c4ebd5f5ba852042be6a01adab68ab.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "BG3_Quest36": {
       "name": "No Free Lunches",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "BG3_Quest32": {
       "name": "Pest Control",
