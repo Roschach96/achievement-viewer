@@ -1,7 +1,7 @@
 {
   "appid": "2631250",
   "name": "Slitterhead",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1766112057",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1769679874",
   "achievements": {
     "ACH_12": {
       "name": "A Rare Encounter",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/6b6178e1e13e5e9fc0ce81ea8f2eb325064864a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "ACH_03": {
       "name": "Loss of Causality",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/0ecc5d0d68428febd9f2dbd621b0beb844b518bf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACH_20": {
       "name": "Masquerade",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/407c1074f439284507ee5b48c5922c039749df9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "ACH_14": {
       "name": "Neon Black Swan",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/8a249337904b013c0876ab9057dcedcf308a491b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "ACH_10": {
       "name": "Timeline Convergence",
