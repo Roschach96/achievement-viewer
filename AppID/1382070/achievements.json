@@ -1,0 +1,186 @@
+{
+  "ACH_BARCODEFOREST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BATTERYMAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BATTERY_DROP_HEAD": {
+    "earned": true,
+    "earned_time": 1769935572
+  },
+  "ACH_BEHINDWATERFALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BREAK_ROPEBRIDGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BREAK_TELEPORTER": {
+    "earned": true,
+    "earned_time": 1769881286
+  },
+  "ACH_CAIT_PHOTO": {
+    "earned": true,
+    "earned_time": 1769884223
+  },
+  "ACH_CATCH_SELF": {
+    "earned": true,
+    "earned_time": 1769885622
+  },
+  "ACH_CAT_PET": {
+    "earned": true,
+    "earned_time": 1769883723
+  },
+  "ACH_COLLECTION_DUCKS": {
+    "earned": true,
+    "earned_time": 1769881417
+  },
+  "ACH_COLLECTION_MAGNETS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECTION_MAHJONG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECTION_PLANETS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECT_FILTERS_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETELEVELFAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COPIERM3ALIGNMENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COUNT_PHOTO_100": {
+    "earned": true,
+    "earned_time": 1769897741
+  },
+  "ACH_COUNT_PHOTO_25": {
+    "earned": true,
+    "earned_time": 1769885549
+  },
+  "ACH_DRAWINGUSEGREEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DROPBATTERY": {
+    "earned": true,
+    "earned_time": 1769877589
+  },
+  "ACH_DROPDUSTIN": {
+    "earned": true,
+    "earned_time": 1769885848
+  },
+  "ACH_DUSTINBLUEPRINTALL": {
+    "earned": true,
+    "earned_time": 1769885800
+  },
+  "ACH_DUSTINGANG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DUSTINSLICED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FARPHOTOSPLACED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FLOWERGAMECOMPLETED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JUMPBOOSTLARGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JUMPBOOSTSMALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MELONSLICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MURALTRICKEDTWICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NOBATTERYPICKUP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PLAYINGCARDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROG_BOSS": {
+    "earned": true,
+    "earned_time": 1769937020
+  },
+  "ACH_PROG_END": {
+    "earned": true,
+    "earned_time": 1769937110
+  },
+  "ACH_PROG_HUB1POSTCRASH": {
+    "earned": true,
+    "earned_time": 1769878581
+  },
+  "ACH_PROG_HUB1TRAINUNLOCK": {
+    "earned": true,
+    "earned_time": 1769882173
+  },
+  "ACH_PROG_HUB3_CAMERA": {
+    "earned": true,
+    "earned_time": 1769884166
+  },
+  "ACH_PROG_HUB5_ARRIVE": {
+    "earned": true,
+    "earned_time": 1769900684
+  },
+  "ACH_PROG_OPT_ALL": {
+    "earned": true,
+    "earned_time": 1769899442
+  },
+  "ACH_PROG_PORTAL": {
+    "earned": true,
+    "earned_time": 1769900501
+  },
+  "ACH_PROG_WEC": {
+    "earned": true,
+    "earned_time": 1769893534
+  },
+  "ACH_REWIND_LONG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RIDEBALLOON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCREAMCHOIR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TIMER_JUST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WINDMILLBREAK": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
