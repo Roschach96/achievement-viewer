@@ -1,0 +1,424 @@
+{
+  "appid": "1382070",
+  "name": "Viewfinder",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a69eb56f73446624325dec8a4fe74dc4ae09fb96/header.jpg?t=1764842475",
+  "achievements": {
+    "ACH_COUNT_PHOTO_25": {
+      "name": "Amateur Photographer",
+      "description": "Take 25 photos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4678ce6c9220e8d5492ef5f56b77ce3d11af03af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.5"
+    },
+    "ACH_BARCODEFOREST": {
+      "name": "Bark code",
+      "description": "Go for a walk in the barcode forest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/edb7469c9d4f5407be3db557d164cf1726b39e2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/27ef549df371d1e016c455bd2974b4c77bf3572d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "ACH_BATTERY_DROP_HEAD": {
+      "name": "Battered by a battery",
+      "description": "Drop a battery onto your head",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/27e548417e7c8dc3a507b24b54e5d532e34f2233.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.6"
+    },
+    "ACH_BATTERYMAX": {
+      "name": "Battery of Batteries",
+      "description": "Make the maximum possible number of batteries in the first camera level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/d698ddedb1227c69b921cbfcd66e9362ee873d28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e92750681fc131fe1baf6d9eccc3755cd051d806.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "ACH_WINDMILLBREAK": {
+      "name": "Breaking wind",
+      "description": "Break the windmill inside the painting",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/f8e4b4a4b9aa178013bf116f5138fdc7cd0ce9eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e401a7363619bc83689c6c5852b14be8a9e90ab7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ACH_DROPBATTERY": {
+      "name": "Bye bye, Battery!",
+      "description": "Drop a battery off the level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/67ee7b3c4dbd947944ce8f4c51da262cd946c0df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/8957b05931f44d85f924c621ea5df826d14dd98a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.0"
+    },
+    "ACH_CATCH_SELF": {
+      "name": "Caught in the act!",
+      "description": "Place a photo while falling and land on it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/239efdee891a1391befc11a4e250217a73834320.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3bf2f91c70a71393af36763d4736996ca0ef19b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "ACH_NOBATTERYPICKUP": {
+      "name": "Contactless",
+      "description": "Complete the third level without touching the battery",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/139c6c81420c89d69e49591bb26da8c37fddc9ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/51d19c201dc8f39a15e4f80bbec6acd9a3385af7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ACH_DROPDUSTIN": {
+      "name": "Dustin? More like Dust-off!",
+      "description": "Drop a Dustin off the level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4422efa0c683a7d7d2cb73fe608cdc4c1fbe0e2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a79e4dd52e82c62c25f03f956199618f31d27d33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "ACH_DUSTINGANG": {
+      "name": "Dustinvasion!",
+      "description": "Make an army of Dustins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a9c8ec7c710bbc021d1ef1adce99ce8f6e05e060.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/bfbb2838062fceb5f54162feab390638edad9cc5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "ACH_PROG_HUB5_ARRIVE": {
+      "name": "End of the line",
+      "description": "Ride the train to the final hub world",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/aa538eaa257feffc10c9b52a2240a6ab11cf7651.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "ACH_COPIERM3ALIGNMENT": {
+      "name": "Everything in its right place",
+      "description": "Put the three paintings where they belong",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/0011a0eb1ad5ad8a5f0ca74d9a6a3477b9361fa8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/7c8e1ab69e8bdbd5dcc60e5d7a007d2f49ff704a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ACH_MURALTRICKEDTWICE": {
+      "name": "Fool me twice",
+      "description": "Get tricked twice in a certain level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3cc86eceefafb8db184e27932551b21c39851122.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/22a28192fd72540686087227cfe01f519bb88b96.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACH_PROG_BOSS": {
+      "name": "Full shutdown",
+      "description": "Complete the simulation shutdown sequence",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/f1b06ede63c7c61e7bba40c47c8f79a8a113e378.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "ACH_COLLECTION_DUCKS": {
+      "name": "Get your ducks in a row",
+      "description": "Find all the ducks in chapter 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/920f5edd8b6440c8c114042dabf98527282878cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/ab2e6a4591bdca619e880bfb60dcfe2aed1d95ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ACH_DRAWINGUSEGREEN": {
+      "name": "Green is not a creative colour",
+      "description": "Draw using the green pencil",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/ed4ad3d0fdbd22bacd56cdc64cdd7b1d3b044883.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/25f0c45d28b26ff2a70563205747a9a40f72bac1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "ACH_COLLECT_FILTERS_ALL": {
+      "name": "Hashtag all filters",
+      "description": "Collect all the camera filters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/0b65370f9820b91f65f6d06d9ef69c05c318a9af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/91c7effb07a360bb966db293cb780c926d7ddf80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_RIDEBALLOON": {
+      "name": "Hitching a ride",
+      "description": "Ride a balloon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/76a977840353ab58b72b2fbc96c105f659527039.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/1107be317ff8538ed43e30cf8ee1a32ca158c741.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACH_FLOWERGAMECOMPLETED": {
+      "name": "I bee-t the game!",
+      "description": "Grow the flower to attract a bee",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/dfc947f3d91df634a17caa0ec7bff6a633fb155d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/17826121e74790554c80f11e7c845975a092c7dd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACH_COLLECTION_PLANETS": {
+      "name": "I didn’t planets for this to happen.",
+      "description": "Find all the planets in chapter 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/19cb550f4d52f172e05ff063cdf5e203c7cef0d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/d355412e145e025d1c84e615faafe96a480e319c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACH_PROG_OPT_ALL": {
+      "name": "I didn’t realise they were optional",
+      "description": "Complete all the optional challenge levels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/656062f76c087318b2b0fb3680b22d8aeefc694f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/b2fb037e599cc2e9e1198b3c3c912daefa4ebe58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "ACH_PLAYINGCARDS": {
+      "name": "I fold",
+      "description": "Put down both playing cards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/9e40f501db9f29d0f979a5b10ad41a74050223b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/6d49f31b3e5322ef9cf92dad24da7e900f65932e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "ACH_COLLECTION_MAGNETS": {
+      "name": "I stuck with it",
+      "description": "Find all the magnets in chapter 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a3d2d372e5662b873e5d6b43b40afc8d06506749.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/8a210fd75a0616cf1418de186e7c4778da338fc4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACH_PROG_PORTAL": {
+      "name": "I’ve had my fil(ter)",
+      "description": "Complete the picture frame levels in chapter 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/004960e73e296ffcb16be004e89709b619ed80ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACH_PROG_HUB1TRAINUNLOCK": {
+      "name": "I’ve trained for this.",
+      "description": "Ride the train",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e0d652ae683bf70d5031c528da806b7e562636ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.3"
+    },
+    "ACH_TIMER_JUST": {
+      "name": "Impeccable timing",
+      "description": "Complete a timer level with only a fraction of a second to spare",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4e048715264cdf6afca2bb64e2d41686d0248342.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/2d56a8562747d32a749bc3867db3000a0423d30e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "ACH_DUSTINBLUEPRINTALL": {
+      "name": "Liberate the Dustins!",
+      "description": "Release all the blueprint Dustins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e7397150969d88ac2a02eb4cb2ebf5e8ca6f6ec1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/13704aa9c9fb01334ed8aa56562490c9150a4d60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "ACH_JUMPBOOSTLARGE": {
+      "name": "Low orbit",
+      "description": "Get multiple jump powerups",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/92db87372eb87d34a85992ccaf7cd882fa1e7119.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/972dc8b86081d8e74d36f83e1b2b6114961124b1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACH_MELONSLICE": {
+      "name": "Michelangelo",
+      "description": "Carve the melon repeatedly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/32c1150e1d6fa87c5ec7a66f5b748055d173c5f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/32bd011dc9f2e25d492ed79b42888689aeeb3862.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACH_CAIT_PHOTO": {
+      "name": "No copycaits!",
+      "description": "Try duplicating Cait",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/ff0ead52268ad2db016a8459a994b125c0025fdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a1782d4975cb6bdba69759a3a13d81d96be6de05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.1"
+    },
+    "ACH_BREAK_TELEPORTER": {
+      "name": "No way out!",
+      "description": "Break the only teleporter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/375b3eaeba76ead21c9d7b7c60b5f2a85785f946.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/79b0528cbcdfdd8f37a9c1c68bcb3f0746aafe30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "ACH_BREAK_ROPEBRIDGE": {
+      "name": "Nope bridge",
+      "description": "Break the cartoon rope bridge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/74363f8b05d12844bc19572b65299bb73950aad4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/d54c6765f9834799f7f1dfa5ac5d6c8a54895051.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACH_CAT_PET": {
+      "name": "Pet the Cait",
+      "description": "Pet Cait",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5b883b7015bd7e82f85c5c0383f0573216ba39e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/df9a9349047d759aaaba5765c948f505d194fff1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.2"
+    },
+    "ACH_COLLECTION_MAHJONG": {
+      "name": "Picking up the pieces",
+      "description": "Find all the mahjong tiles in chapter 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/74bb54df4bbcca77dd5177c7600bdf5bfcafdf1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/fb7fbcee4563acd97dc3a148dd3f4ae4327ea842.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACH_COUNT_PHOTO_100": {
+      "name": "Professional Photographer",
+      "description": "Take 100 Photos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/952236a57fef2fb93de64b0c282a348054a70faa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/42b7b770c8ab05a3055ac7ea3183b953df079a11.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "ACH_FARPHOTOSPLACED": {
+      "name": "Recursion excursion",
+      "description": "Place the recursive photo 15 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/90ecf3e580fdeb4db39aeb0fae7fca74fe796043.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/748058a30fcba28193b71d62bfee0aced9ad37da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACH_SCREAMCHOIR": {
+      "name": "Scream Orchestra",
+      "description": "Make a choir of screaming people",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/af3e23aee70141f34791a653b673da6bc6f2158c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/5654f6b19e6e8d57646d595d29050f79c8ac6c14.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACH_COMPLETELEVELFAST": {
+      "name": "Speed Demon",
+      "description": "Beat a level in less than 10 seconds!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/26a8dd733a8741e795e89006a6fa7c81d8c3859b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3ac12d5b950cfb69757700da483c830e69ace8a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_BEHINDWATERFALL": {
+      "name": "That’s something I can get behind!",
+      "description": "Get behind the waterfall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/71b80540cc12826a1bb0bf13d5a83184c4e1e8d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/40d34c51926db493a7fb6b97fb1ad6d801875f85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACH_REWIND_LONG": {
+      "name": "Time traveller",
+      "description": "Rewind for a really long time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/420a6a89b5aeb5a2fbfd105ab780d1b32c54f9b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4103a33c0db8776553edcf703664cc281ea0a495.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "ACH_JUMPBOOSTSMALL": {
+      "name": "To reach new heights!",
+      "description": "Get the jump powerup",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/45090ae55412b88a05bb73f8a6428df9401fa89e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/aae8236ce7b0be378d6a1e2fa2a10a72e22a15c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "ACH_PROG_WEC": {
+      "name": "Under the illusion",
+      "description": "Complete the illusion levels in chapter 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/38f51567a85492581bfe67d554c41a312769bb8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "ACH_PROG_HUB3_CAMERA": {
+      "name": "Viewfinder",
+      "description": "Get the camera",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e3c0ea8996e2935cd149bd49d0017a65479ee9c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/af3004df63077daa71ea553a0376c56ee6577ccb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.1"
+    },
+    "ACH_PROG_END": {
+      "name": "Viewfound",
+      "description": "Complete the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/994c9b855d62ac325b9a053e0ff310aa03ea75ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5aff2e0b2c638d969eff5847594e176f7724103.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "ACH_PROG_HUB1POSTCRASH": {
+      "name": "Welcome Back!",
+      "description": "Return to the hub world",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/0bbcae7e9af03a248b861b83081939e44a1c5828.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3e19843c976561b56aa4498817ee6c5633c6fdd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "90.1"
+    },
+    "ACH_DUSTINSLICED": {
+      "name": "You monster",
+      "description": "Slice a Dustin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/54ccd38a3372c5d5b6db6e68976d6203f8f48588.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3cc0150f0f8e0d7ee97d0d80bac1bd7937200137.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
