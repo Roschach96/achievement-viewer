@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/44b1edda49d7c60e7de7e4c8f6f5381f3407a986.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "TF_SCOUT_STUN_CAPPING_ENEMIES": {
       "name": "Brushback",
@@ -1279,7 +1279,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4c9c2837648df928a14dc150098830c7323ea760.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TF_MVM_NO_ALARMS_IN_FINAL_WAVE": {
       "name": "Engine Block",
@@ -1387,7 +1387,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_pickup_money_about_to_expire_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "TF_SPY_KILL_BACKSCATTER_SCOUT": {
       "name": "Fast Fingers",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_SNIPER_JARATE_REVEAL_SPY": {
       "name": "Jarring Transition",
@@ -4123,7 +4123,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/261ce641ff82995610f39bdb126c98c41b8a18db.jpg",
       "hidden": false,
       "group": "Update 14",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "TF_SCOUT_IRON_MAN_KILLS": {
       "name": "The Cycle",

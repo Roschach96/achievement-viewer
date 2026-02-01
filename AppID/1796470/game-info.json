@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/6a82f0dff6444fc1850121f7d0303a65e9aa74a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "ACH_16": {
       "name": "Bare Bones",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/1dd67d9f32dbb9741ebd2811bb8a133ca1e03390.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACH_14": {
       "name": "Iron Man",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/1903adcc57f0b65e27edb46e9689deaf2c19234d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "ACH_01": {
       "name": "Learning The Slopes",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/f33e43416e2b721185630c7018259cb6c379a652.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "ACH_13": {
       "name": "Perfect Landing Master",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/798987b3fc49420661398c3e192376818f3a1024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "84.8"
     },
     "ACH_03": {
       "name": "Shard 2",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/d29d21ec5aab7fa43df2e24b7ef987cb923b5768.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "ACH_04": {
       "name": "Shard 3",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/1b61226dd2791f67f785891bd8aa70c6111afcc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "ACH_05": {
       "name": "Shard 4",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/7ca145fe33f33f3dd86bc956846ad92410351354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "ACH_06": {
       "name": "Shard 5",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/b7d60d4cb1d25496c5c5d6dc42332132130fab72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "ACH_21": {
       "name": "Shopocalypse",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/a11f5f9bd766b85d340263065e4f2156e7a5c7d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.6"
     },
     "ACH_22": {
       "name": "The Archivist",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2e12904571a275ab7f0df023de9da6021a98b9b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "ACH_11": {
       "name": "The End Of Everything",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/382ccd57fda746de0dea79cb003151f97c513b81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "ACH_28": {
       "name": "The Machine",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.2"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.2"
     },
     "ACH_27": {
       "name": "Untouchable",

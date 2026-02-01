@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "SERPENPHARE": {
       "name": "À On",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/16243a4bc7fae868263a18ecace79f6b87ee19bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     },
     "BACK_TO_LUMIERE": {
       "name": "Back to Lumière",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "PETANK_ALPHA": {
       "name": "Carreau Parfait",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "CLEA": {
       "name": "Clea",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "ESQUIES_NEST": {
       "name": "Esquie's Nest",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3c2c617d8c4ddfd9cd9dda260c76efee5a3e18f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     },
     "ALL_CHARACTERS": {
       "name": "Expedition 33",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "ALL_MONOCO_SKILLS": {
       "name": "Feet Collection",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "FLYING_WATERS": {
       "name": "Flying Waters",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "FORGOTTEN_BATTLEFIELD": {
       "name": "Forgotten Battlefield",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.6"
     },
     "GESTRAL_BEACH": {
       "name": "Gestral Games",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/75728078954be60bdb48b3f2a894e4ed1481ee48.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.7"
     },
     "ESQUIE_UNLOCK": {
       "name": "Legend",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     },
     "LOST_GESTRALS": {
       "name": "Lost Gestrals",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "MAELLE_RELATIONSHIP": {
       "name": "Maelle",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "SCIEL_FORETELL": {
       "name": "Maximization",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "MONOCO_RELATIONSHIP": {
       "name": "Monoco",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "GRANDIS_STATION": {
       "name": "Monoco's Station",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "MONOLITH": {
       "name": "Monolith",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "PAINTING_WORKSHOP": {
       "name": "Noir et Blanc",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a86a6bd0cf0f4d4768dfb453b73efe2fcff3aaa6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "OLD_LUMIERE": {
       "name": "Old Lumière",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "GUSTAVE_OVERCHARGE": {
       "name": "Overcharge",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "SIMON": {
       "name": "Peace At Last",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "ESQUIE_UPGRADES": {
       "name": "Plane, Train, and Submarine",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "NO_DAMAGE_BOSS": {
       "name": "Professional",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "SCIEL_RELATIONSHIP": {
       "name": "Sciel",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e311c52896785463fefcc65981f1c4fa45694cff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "SECOND_AXON": {
       "name": "Second Axon",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "SPRING_MEADOWS": {
       "name": "Spring Meadows",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da2d99002428f819909fdb418c85cc191a931069.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "STONE_WAVE_CLIFFS": {
       "name": "Stone Wave Cliffs",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "LEVEL_99": {
       "name": "Survivor",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "BREAK": {
       "name": "Time to Spill Some Ink",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "WEAPON_FIRST_UPGRADE": {
       "name": "Weapon Upgrade",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     }
   },
   "platform": null,
