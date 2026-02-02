@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/d1f3d14cf7b0b0cf8a7bb4a71a43f5c950fd982c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "BANISHMENT": {
       "name": "Banishment",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -64,7 +64,7 @@
       "icongray": "https://Roschach96.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "MAP": {
       "name": "Cartographer",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -172,7 +172,7 @@
       "icongray": "https://Roschach96.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "COLOSSEUM_3": {
       "name": "Fool",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "GRIMM": {
       "name": "Grand Performance",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "GRUBFRIEND": {
       "name": "Grubfriend",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "METAMORPHOSIS": {
       "name": "Metamorphosis",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b5ee4828c750bcf90def63aaffe4a1b27f418efd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "DREAM_BROKEN_VESSEL": {
       "name": "Peace",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "COMPLETIONGG": {
       "name": "Pure Completion",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "PANTHEON4": {
       "name": "Soul & Shade",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/83ad82ce253a66e89e6ee51eb37db2fd0f781e10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f449ef6aacd0ef2423439931ef68466cd762456.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "TEACHER": {
       "name": "Teacher",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "QUIRREL_EPILOGUE": {
       "name": "Witness",
