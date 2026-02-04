@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/27ef549df371d1e016c455bd2974b4c77bf3572d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACH_BATTERY_DROP_HEAD": {
       "name": "Battered by a battery",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e92750681fc131fe1baf6d9eccc3755cd051d806.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ACH_WINDMILLBREAK": {
       "name": "Breaking wind",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/51d19c201dc8f39a15e4f80bbec6acd9a3385af7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ACH_DROPDUSTIN": {
       "name": "Dustin? More like Dust-off!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/bfbb2838062fceb5f54162feab390638edad9cc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH_PROG_HUB5_ARRIVE": {
       "name": "End of the line",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/91c7effb07a360bb966db293cb780c926d7ddf80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACH_RIDEBALLOON": {
       "name": "Hitching a ride",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/fb7fbcee4563acd97dc3a148dd3f4ae4327ea842.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ACH_COUNT_PHOTO_100": {
       "name": "Professional Photographer",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/42b7b770c8ab05a3055ac7ea3183b953df079a11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "ACH_FARPHOTOSPLACED": {
       "name": "Recursion excursion",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/748058a30fcba28193b71d62bfee0aced9ad37da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ACH_SCREAMCHOIR": {
       "name": "Scream Orchestra",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4103a33c0db8776553edcf703664cc281ea0a495.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "ACH_JUMPBOOSTSMALL": {
       "name": "To reach new heights!",

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/e5ad13eb4966367c74e86d3c3f9573cefeebad9d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.6"
+      "percent": "91.5"
     },
     "ach_accolades_2": {
       "name": "Been Everywhere, Done It All",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/a9a230b85846adc664114031ebc03f6f098da4c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "ach_gauss_dungeon_finish": {
       "name": "Beyond Humanity",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/e99a9ba6fa52e20fd8348428b0e9b30f728c9d9f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.1"
     },
     "ach_ae_easteregg": {
       "name": "Button Mashing",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2e66a528810b39bd77dc323a8a4af4016e31b8b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "ach_gauss_story_1": {
       "name": "Court Marshal",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/9cba0a72dc368cee65861a58a6ba5e230a6c40f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "ach_story_7": {
       "name": "Fatherhood Ain't Easy, Boss",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/b7810664e94e5ccca8d955842e21cea3d5c26fb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.7"
     },
     "ach_melee_milestone": {
       "name": "Fistbump",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/805d4de07dc3f03f14173f9ff47c0cf5b658b885.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "ach_item_trade": {
       "name": "Hard Bargainer",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/71634d3dcef9863cc7a292ff7a37d72ae8258855.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "ach_story_2": {
       "name": "In Rode A Hero",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/447831f353741eed5b30b9073b71709ed458ed3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ach_ae_complete": {
       "name": "Just Take the Pod",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/6c4784379e85be492913c14a43d8c76e5e05478e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "ach_story_5": {
       "name": "Malpractice",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/4305fe5064792619cccade09d891ab789c1d9694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "ach_accolades_class_2": {
       "name": "Outrider, First Class",

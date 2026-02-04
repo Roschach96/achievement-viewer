@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/5d08cfe0a6b74b08510eae490f3b48134076cf7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "AreYouNotEntertained": {
       "name": "Are You Not Entertained?",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/d9deaa0bab3935270061c1742793645224b5209c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "Blademaster": {
       "name": "Blademaster",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/26e21a138c1eec19d69b5a8c3f61264fdada6a9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "Infested": {
       "name": "Infested",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/e6d86e930aff23a197fcc172ecae74a69dda69a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "MintIII": {
       "name": "Mint III",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/080341fe549373ee363ece911f942ae79e17fcc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "TheDeadCourt": {
       "name": "The Dead Court",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/710920/4c3774fde7f0bf0f1701023a325bf4621b71943a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     }
   },
   "platform": null,
