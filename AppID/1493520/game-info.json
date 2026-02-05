@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/76ef1758734f87667f74d40a91a514f2f12ba6cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "AchBossTonnage1": {
       "name": "100 Megatons!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/df28ea88fb26d26176ff42a14696eb60b8fbce65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "AchCompTracks75": {
       "name": "75 Tracks",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/0563321179cccacdcd065ca4b3817abd934fa7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "AchShip5": {
       "name": "All Rounder",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/d01edb335bfc3e02ecf577818c81cbd141734b19.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "AchArmoury_CleanSweepKills": {
       "name": "Burning Sweep",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/2b5441a8e20f2194cbb9699e3d3ad5b4dc470710.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "AchHours2": {
       "name": "Hour 2",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/fe4e2ae7beb4964cec7445aee23d0fb68781b06f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "AchHours3": {
       "name": "Hour 3",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "AchGalaxy_KesselRun": {
       "name": "Kessel Run",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/bc64268f9d9a7167ac45d963a1d86ada12ea25b3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "AchShipTracks2": {
       "name": "Malaria",

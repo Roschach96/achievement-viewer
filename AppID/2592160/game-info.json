@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f82f676f25cbb0d461789d236e6e790e11ec1f74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACH_SECOND_CHANCE": {
       "name": "\"I wish to make love to you again.\"",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/4ad7dc43a4e528268ed93a60bd19854aaeed7210.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "ACH_VENGEANCE": {
       "name": "\"Muuuuurrrdaaaaah!\"",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/33e85870975d86ec61f57e5f8f7228b36f86252c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_PERFORMANCE": {
       "name": "Career Development",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
