@@ -176,7 +176,7 @@
     },
     "ACH_HACK_FAST": {
       "name": "Burning Chrome",
-      "description": "Completed a Hacking Level With a Third of the Timer Left",
+      "description": "Completed a Hacking Level With at least a third of the Timer Left",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f6fe0d049a66b18b4e652dff4cdb885726cd7f2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/33e85870975d86ec61f57e5f8f7228b36f86252c.jpg",
       "hidden": false,
@@ -248,7 +248,7 @@
     },
     "ACH_SCEN_MODS": {
       "name": "Modded",
-      "description": "Reached Bonus and Avoided Fail Stats on All Calls in a Shift",
+      "description": "Reached all bonuses and successfully avoid all failures",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/baac92b282c5fb90fecf5982cad29132a1afb830.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/339bf3e483c7f95868cee5e075146df299dbe116.jpg",
       "hidden": false,
@@ -311,7 +311,7 @@
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
-      "description": "Completed a Hacking Level With 5 Seconds Left",
+      "description": "Completed a Hacking Level With less than 5 Seconds Left",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/2d397db765d52eaa56b230328005dff123033c35.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/b5718c4f77c2048c47d4b604675ffbfabffba7f0.jpg",
       "hidden": false,
