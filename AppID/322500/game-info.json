@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/0a79bf04e4bda403a4693e38f8816789651ef234.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.2"
     },
     "ACH_KILL_SHOTGUN_100": {
       "name": "killing",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/3cc51ae66151172400077fbc54d734355b805d99.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.6"
+      "percent": "84.7"
     },
     "ACH_GAME_COMPLETED": {
       "name": "One of us",

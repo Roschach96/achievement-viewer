@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/28fc9f562e12f0a7e702d51b089933698147d0a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "ACH_KNIFE": {
       "name": "\"But I cheered for Invisigal...\"",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f35b4548042299135a4b0eba3bb2cdf8f5485d11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.6"
+      "percent": "94.5"
     },
     "ACH_MENTOR_FAIL": {
       "name": "\"Didn’t see that coming?\"",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/da03fcb8a60937b593a831925aaf7df228861ed3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.7"
     },
     "ACH_STORE": {
       "name": "\"There. You happy now?\"",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/817da6824201a3b1a267c5ffe55375894d1277a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "ACH_FRIENDS": {
       "name": "\"We can just be friends.\"",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.6"
+      "percent": "84.5"
     },
     "ACH_HACK_ALL": {
       "name": "H4ck3d by R0b3rt",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "ACH_STAT_MAX": {
       "name": "Min Max",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "ACH_TRAIN": {
       "name": "Power Trip",

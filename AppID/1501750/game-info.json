@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "TLOTF_ACHIEVEMENT_008": {
       "name": "Ammunition Collector",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "TLOTF_ACHIEVEMENT_046": {
       "name": "Antanas' Legacy",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "TLOTF_ACHIEVEMENT_018": {
       "name": "Carving Out Victory",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "TLOTF_ACHIEVEMENT_039": {
       "name": "Fallen",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "TLOTF_ACHIEVEMENT_061": {
       "name": "Lingering Moments",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "TLOTF_ACHIEVEMENT_040": {
       "name": "None Shall be Spared",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "TLOTF_ACHIEVEMENT_010": {
       "name": "Radiant Adept",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "TLOTF_ACHIEVEMENT_011": {
       "name": "Umbral Adept",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TLOTF_ACHIEVEMENT_032": {
       "name": "Unbroken to the End",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     }
   },
   "platform": null,
