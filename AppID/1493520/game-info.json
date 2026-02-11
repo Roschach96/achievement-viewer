@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/76ef1758734f87667f74d40a91a514f2f12ba6cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "AchBossTonnage1": {
       "name": "100 Megatons!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54a2da362f67e4bea7d33469ff5029c60c1f70e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "AchDailyChallenges3": {
       "name": "5 In The Top 10",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c3a3e1c751c86b0c3ec98eb4486e1acb39a49b75.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "AchRank3": {
       "name": "Aye aye Captain!",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/3de7efb87d6184293c9e399eef57e0f0e5770891.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "AchShip4": {
       "name": "Burn It Up",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f064bcd190a84b7bdb1d7abd3b2b7c40a43b9d83.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "AchRank1": {
       "name": "Cadet",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/ae77ff9fffcda91920afb3d2c34f560a80731a6f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "AchGalaxy_VisitGalaxies": {
       "name": "It's Full of Stars",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/2d0ac75026e7262555104cfa2561ebd5a7af5b87.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "AchFun_Rickroll": {
       "name": "Rickroll",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/9650dec4eebc9ebd95062eef8dcb0efac8bc1385.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "AchRank4": {
       "name": "Top Gun",
