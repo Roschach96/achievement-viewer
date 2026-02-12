@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2e66a528810b39bd77dc323a8a4af4016e31b8b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.5"
     },
     "ach_gauss_story_1": {
       "name": "Court Marshal",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2408562d5beead21e6c367076c439b9a530b784d.jpg",
       "hidden": false,
       "group": "OUTRIDERS WORLDSLAYER EXPANSION",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ach_crafting_exchange": {
       "name": "Extreme Engineering",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/f88d8745d4fdea729fe391203dc13ff103e4fe7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "ach_item_scrap": {
       "name": "One Man's Junk...",

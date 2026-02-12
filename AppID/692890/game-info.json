@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a00cc37e6ad1a2ea1ca7e8b8501968e772443b73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "FINISH_GAME_BUDDYBOT": {
       "name": "Best Buddy Forever",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/987cb89717e01d4bb34539f12cc746e4079d3d08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.6"
     },
     "LANGUAGE_FRENCH": {
       "name": "Confrérie du Croissant",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.0"
     },
     "CRYSTAL_UNLOCK_GOLD": {
       "name": "Crystal Claimer (Gold)",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/71a5500ba7f4bce06c4a40b1539e6499e0cf01af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "MAGUS_FINISH_GAME": {
       "name": "Elementary",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f31d62e8a6cb6cd31075aec65931c178034a9e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ENDLESS_DEATH": {
       "name": "Endless Journey",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/1e3e5d448bc179e0333d8c181bc97b44d23430fb.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "POWERCELLS_SPENT": {
       "name": "Energy Wallet",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/42fba3caebfc20aca1e7269f5bf60289ff24a7f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "ENDLESS_MUTATOR": {
       "name": "Evolution",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a2ba09d715802a606ac554a5a4d950715a051ef3.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "RECON_FINISH_GAME": {
       "name": "Fast and Furious",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/dbc092c2402813c76b1378c7beba13b19284b79f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "BROBOT_REBOOTED": {
       "name": "Field Mechanic",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "LOG_UNLOCK_BRONZE": {
       "name": "Log Collector (Bronze)",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.2"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/cc736c32c78ce59f4ec4140c02d4fa7e92734a6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "LOG_UNLOCK_SILVER": {
       "name": "Log Collector (Silver)",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/39524fa77bc0f19296c6623dd97f6a8f44f15541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "BROBOT_JOIN": {
       "name": "Meet my Brobot",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "LOOT_BUDDYBOT": {
       "name": "My Little Buddy",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/409950a971c212595f876f02f54bf8431c5cc0fd.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "BUS_JUMP": {
       "name": "Party Bus",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/edf6176ffa348a9c234d8210c8b991f712781be6.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "POWERCELL_GATHER_BRONZE": {
       "name": "Powercell Gatherer (Bronze)",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8a8877d824864015e14d1368c34d1ddc70e63d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "RECON_UNLOCK": {
       "name": "Recon",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e388e8d9d8b5aa0eafb917534cf4d2199993c7fb.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "RECON_MULTI_SLASH": {
       "name": "Sushi Master",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/435e253cdc0635af27339e85dc87d797065b0a56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "FINISH_GAME_MULTI": {
       "name": "The Power of Friendship",
