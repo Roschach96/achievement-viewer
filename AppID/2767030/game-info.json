@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
   "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/0d2320ad32448ada538d0903d44ad8df7e185800/header.jpg?t=1768793897",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/508dc5d8b3103d7323133089e91973ceab7f9dd0/header_alt_assets_4.jpg?t=1770976548",
   "achievements": {
     "20000017": {
       "name": "\"Ahhh, those tiny claws!\"",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/a8bb95dc609fd5728b7cc9cff10a9e90b1e4a4cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "20000069": {
       "name": "Bouncing Ideas",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/0857dc4b9b261e304867dc4317f621e2e76369b7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "20000018": {
       "name": "Deadly Bites",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/42e7d8804a04f12f9d80ee89d3f8350017481301.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "20000024": {
       "name": "Divine Justice",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/39b9868011941f76971dbe5213106e41c179a341.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "20000067": {
       "name": "Hot & Trending",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "20000008": {
       "name": "Justice for All! ",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/fc2ac0477d1dea01e8e2c55058a93a9a83017fd3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "20000012": {
       "name": "King of the Dead",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/62195af7230c123e4b911ec96de73d24b204a777.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "10000009": {
       "name": "Master of Modes",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/32a4ddfb4865f343b913d32a220d1de42d9cd3c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "20000033": {
       "name": "Might of Fuxi",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f7ceced45f6d9769095edf13e933a4dad5cfea16.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "20000023": {
       "name": "No More Mutants",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6a67c1e841f27aec6be5547745902d40c570f071.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "10000005": {
       "name": "Onslaught!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/3a404b86aefe500a57550f2939c239c4f090f950.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "20000015": {
       "name": "Punishment of the Moon",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/730445118ad850a0504870f23b4b19e4f7856240.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "20000032": {
       "name": "Rage Uncaged",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/1d0ba2ee912e21439e74fe753fd71888bae37524.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "3": {
       "name": "Rising Star",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/7026756717dfca13214b1fb49f9235cecda18c7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "20000077": {
       "name": "Schism from Within",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/008eb2c4c5a885efcf6ef70fe828fb74a709f8e2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "20000001": {
       "name": "Smart Is New Smash",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6530c235fca3c0bb90c1ce69b13fc9a22a9d3266.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "20000030": {
       "name": "Snack Attack!",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/3c59b3bba565a704c1e6d58fd1d6222088a8e892.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "20000003": {
       "name": "To Me, My X-Men!",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f68b62b3fb88555cae9e5d3efaadcb3a550a1c66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "20000031": {
       "name": "Way of the Butterfly",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/68bd1ab1f7145a083fca8f36260c20f9a78d5026.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "20000007": {
       "name": "West Coast, Best Coast",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "8": {
       "name": "You Do You",
