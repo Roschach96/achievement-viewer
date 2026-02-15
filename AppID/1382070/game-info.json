@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3bf2f91c70a71393af36763d4736996ca0ef19b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "ACH_NOBATTERYPICKUP": {
       "name": "Contactless",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ACH_COPIERM3ALIGNMENT": {
       "name": "Everything in its right place",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/1107be317ff8538ed43e30cf8ee1a32ca158c741.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACH_FLOWERGAMECOMPLETED": {
       "name": "I bee-t the game!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "ACH_PROG_HUB1TRAINUNLOCK": {
       "name": "I’ve trained for this.",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "ACH_TIMER_JUST": {
       "name": "Impeccable timing",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "ACH_PROG_HUB3_CAMERA": {
       "name": "Viewfinder",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3cc0150f0f8e0d7ee97d0d80bac1bd7937200137.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     }
   },
   "platform": null,
