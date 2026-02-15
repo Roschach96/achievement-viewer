@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/28fc9f562e12f0a7e702d51b089933698147d0a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "ACH_KNIFE": {
       "name": "\"But I cheered for Invisigal...\"",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/8a6c521cb57159eb907cd376f8b772de52a5fc57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACH_STRETCHER": {
       "name": "\"I'm a bleeder.\"",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3d39877b880191d545b67756ddbfcf29c25ae8b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "ACH_FIRST_SHOT": {
       "name": "\"It smells very chemically in here.\"",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/7f92dbf38ecc83e437c72d7a16f296a14693f36b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "ACH_HERO_MAX": {
       "name": "From Zero To Hero",

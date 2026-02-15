@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a577316f7ae64c8cfdd0568209a915a9fad0f8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "PANTHEON1": {
       "name": "Brotherhood",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "CHARMED": {
       "name": "Charmed",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "TRAITOR_LORD": {
       "name": "Execution",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "WHITE_DEFENDER": {
       "name": "Memory",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "DREAM_SOUL_MASTER_DEFEAT": {
       "name": "Mortality",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "MR_MUSHROOM": {
       "name": "Passing of the Age",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "COLOSSEUM_1": {
       "name": "Warrior",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "WORLDSOUL": {
       "name": "Worldsoul",

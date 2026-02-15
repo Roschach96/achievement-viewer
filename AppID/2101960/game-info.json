@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "BetterThanOne": {
       "name": "Better Than One",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "CounterGravityTraversal": {
       "name": "Counter-Gravity Traversal",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "DreamOfElectricSheep": {
       "name": "Do Travelers Dream Of Electric Sheep?",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "EfficiencyDiscipline": {
       "name": "Efficiency Discipline",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "ForGoodAndForIll": {
       "name": "For Good And For Ill",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "ForgedInFire": {
       "name": "Forged In Fire",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "IAmFree": {
       "name": "I Am Free",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "PublicTransport": {
       "name": "Public Transport",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "PunksNotDead": {
       "name": "Punks Not Dead!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "RagingBull": {
       "name": "Raging Bull",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.7"
+      "percent": "78.6"
     },
     "RapidOxidation": {
       "name": "Rapid Oxidation",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "TheAnvilOfTheCollective": {
       "name": "The Anvil Of The Collective",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TheAscendance": {
       "name": "The Ascendance",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ThePathfinder": {
       "name": "The Pathfinder",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "ThePraetorian": {
       "name": "The Praetorian",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ThePyromaniac": {
       "name": "The Pyromaniac",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "ToBringThemBack": {
       "name": "To Bring Them Back",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "97.9"
+      "percent": "97.8"
     },
     "YouNeverGiveUp": {
       "name": "You Never Give Up",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     }
   },
   "platform": null,
