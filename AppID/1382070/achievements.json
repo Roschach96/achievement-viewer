@@ -1,23 +1,23 @@
 {
   "ACH_BARCODEFOREST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771168030
   },
   "ACH_BATTERYMAX": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771157872
   },
   "ACH_BATTERY_DROP_HEAD": {
     "earned": true,
     "earned_time": 1769935572
   },
   "ACH_BEHINDWATERFALL": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771155728
   },
   "ACH_BREAK_ROPEBRIDGE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771158808
   },
   "ACH_BREAK_TELEPORTER": {
     "earned": true,
@@ -40,24 +40,24 @@
     "earned_time": 1769881417
   },
   "ACH_COLLECTION_MAGNETS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771155063
   },
   "ACH_COLLECTION_MAHJONG": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771155888
   },
   "ACH_COLLECTION_PLANETS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771156761
   },
   "ACH_COLLECT_FILTERS_ALL": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167022
   },
   "ACH_COMPLETELEVELFAST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771157559
   },
   "ACH_COPIERM3ALIGNMENT": {
     "earned": false,
@@ -72,8 +72,8 @@
     "earned_time": 1769885549
   },
   "ACH_DRAWINGUSEGREEN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771156914
   },
   "ACH_DROPBATTERY": {
     "earned": true,
@@ -88,44 +88,44 @@
     "earned_time": 1769885800
   },
   "ACH_DUSTINGANG": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771155512
   },
   "ACH_DUSTINSLICED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771155448
   },
   "ACH_FARPHOTOSPLACED": {
     "earned": false,
     "earned_time": 0
   },
   "ACH_FLOWERGAMECOMPLETED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167022
   },
   "ACH_JUMPBOOSTLARGE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771158532
   },
   "ACH_JUMPBOOSTSMALL": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771158522
   },
   "ACH_MELONSLICE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167598
   },
   "ACH_MURALTRICKEDTWICE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167280
   },
   "ACH_NOBATTERYPICKUP": {
     "earned": false,
     "earned_time": 0
   },
   "ACH_PLAYINGCARDS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167352
   },
   "ACH_PROG_BOSS": {
     "earned": true,
@@ -164,23 +164,23 @@
     "earned_time": 1769893534
   },
   "ACH_REWIND_LONG": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771160135
   },
   "ACH_RIDEBALLOON": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771158357
   },
   "ACH_SCREAMCHOIR": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771157059
   },
   "ACH_TIMER_JUST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771157348
   },
   "ACH_WINDMILLBREAK": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771167919
   }
 }
