@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/749d41e10cac54dbeb2b377d8bc69b2afdfbae62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "BG3_Quest29": {
       "name": "Action Surge",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/dffac3c431ff07d705ae86cfad147f1a490b39be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "BG3_Quest08": {
       "name": "Ceremorphosis",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0812cb6a6b9da0a844295409c1baaef2e0a69c4d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "BG3_Quest20": {
       "name": "Forged in Blood and Fire",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/156eb6ece98b877ab0bbe8fb72a84022ba3b9b90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "BG3_Quest39": {
       "name": "Interfectorem Draconis",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/15c53648c4aa9f05bef567e84a3fa0d8e5d5f2a1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "BG3_Quest22": {
       "name": "She Cannot Be Caged!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/80d10c6bd718fa0222d5c149ca25511dca67798d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "BG3_Quest07": {
       "name": "Sins of the Father",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "BG3_Quest03": {
       "name": "The City Awaits",

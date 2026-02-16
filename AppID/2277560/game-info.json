@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/ada597a820b1d1b450a28f1a167f5b66e2756def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "ACH_COPPER_14_F": {
       "name": "Blightweaver - Great Centipede",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/62fefaa9f43bfd0b0fdf6a3c6580522132989540.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "ACH_COPPER_22_F": {
       "name": "Bo Sorcerer",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/68fff81615d8280c62aa0908776dce798af4ec47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ACH_SILVER_02_F": {
       "name": "Bound by Fate's Threads",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/a363a22a0d28fe90e37def3d48b3daf458212a72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "ACH_SILVER_07_F": {
       "name": "Commander - Honglan",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/641ef8846c895ea156b3742a072945f2599aa974.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "ACH_COPPER_33_F": {
       "name": "Discerning Eye",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/0ac5585ae90bcd1eb7f4168d8431724e17f8c22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "ACH_PLATINUM_01_F": {
       "name": "Fallen Feathers",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/a75896cdd1b2b1da05ec9cd50d945496e6c1c599.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "ACH_COPPER_15_F": {
       "name": "Gluttonous Monstrosity - Lu Hongliu",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/3c94ba421dc78f6a091a8e731282e054845daf52.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ACH_COPPER_01_F": {
       "name": "Overflowing Manna",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/ecc5d7c242225cac73ceff7497c794f0c7ad83a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "ACH_COPPER_16_F": {
       "name": "Reborn Treant - Soulwood",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/30752c5d87337512ddba6e1eb6d9b7191c478bef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "ACH_SILVER_04_F": {
       "name": "Sage",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/9f3831c26ae102bd62a135b6535195c61ff69ee6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "ACH_COPPER_21_F": {
       "name": "South General - Liu Wenxiu",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ACH_COPPER_04_F": {
       "name": "Well Met, Divines",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/b84a5ecc5aaa0d11787fe0622924629cbf0297b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "ACH_COPPER_03_F": {
       "name": "Wielder of Power",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/6fc823b16d40238d837f838a3e4e6538772df77a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     }
   },
   "platform": null,
