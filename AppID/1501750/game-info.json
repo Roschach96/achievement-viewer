@@ -1,7 +1,7 @@
 {
   "appid": "1501750",
   "name": "Lords of the Fallen",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1765533592",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1771236480",
   "achievements": {
     "TLOTF_ACHIEVEMENT_074": {
       "name": "A Gruelling Journey",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "TLOTF_ACHIEVEMENT_008": {
       "name": "Ammunition Collector",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "TLOTF_ACHIEVEMENT_017": {
       "name": "Rune Master",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "TLOTF_ACHIEVEMENT_037": {
       "name": "The King is Dead",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/ac40045f4d207631c2f4418f3636fcf4429891af.jpg",
       "hidden": false,
       "group": "OUTRIDERS WORLDSLAYER EXPANSION",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ach_gauss_difficulty": {
       "name": "Approaching the Apocalypse",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/a9a230b85846adc664114031ebc03f6f098da4c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "ach_gauss_dungeon_finish": {
       "name": "Beyond Humanity",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/427ea88c2d035286a9956d0f14627fb5df583e2e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ach_story_end": {
       "name": "One Last Chance",

@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "AchGalaxy_KesselRun": {
       "name": "Kessel Run",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/84859df3a0ff9da9f5be09ac257b26309af59e8e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "AchShipTracks6": {
       "name": "Wide Spread Carnage",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/df4ec0a0f0b5d1550d01b6b5893e12180e27ee52.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.8"
+      "percent": "3.9"
     }
   },
   "platform": null,
