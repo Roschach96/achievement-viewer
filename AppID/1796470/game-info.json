@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/a8bfdae099b88f0b2bd47fac9b8d3aadcf1f26e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ACH_15": {
       "name": "S Star",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/d29d21ec5aab7fa43df2e24b7ef987cb923b5768.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "ACH_04": {
       "name": "Shard 3",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/9fa04b2d65ca73d718e44f7e91e08cb90cd4471a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "ACH_07": {
       "name": "Shard 6",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "ACH_27": {
       "name": "Untouchable",

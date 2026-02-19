@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "MasterRunner": {
       "name": "Christmas Tree Attack",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "Cyberjunkie": {
       "name": "Full Body Conversion",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "Gunslinger": {
       "name": "Gunslinger",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "HydraIsDead": {
       "name": "Judgement Day",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
       "group": "Cyberpunk 2077: Phantom Liberty",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "KingOfThePentacles": {
       "name": "King of Pentacles",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "QueenOfTheHighway": {
       "name": "Life of the Road",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "LittleTokyo": {
       "name": "Little Tokyo",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "TheWorld": {
       "name": "The World",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "TrueWarrior": {
       "name": "True Warrior",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     }
   },
   "platform": null,

@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACH_COMPLETE_LEVEL_FORTRESS": {
       "name": "Hermes Fortress",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACH_FIRST_DEATH": {
       "name": "Memory Interrupted",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.8"
+      "percent": "91.7"
     },
     "ACH_ALL_ENDING": {
       "name": "Memory Seeker",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "ACH_DEFEAT_MAGICIAN_LV2": {
       "name": "Mutated Odur",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/354348c854426fd45a8e521846098146a7f2e388.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ACH_DEFEAT_BOSS_NO_POTION": {
       "name": "Piece of Cake",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "ACH_DEFEAT_BAT": {
       "name": "The Hanged Queen",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     }
   },
   "platform": null,

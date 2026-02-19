@@ -1,7 +1,7 @@
 {
   "appid": "2246340",
   "name": "Monster Hunter Wilds",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1770710697",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1771382452",
   "achievements": {
     "MEDAL_006": {
       "name": "A Bitter Environment",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/ccbc7133215dee5901153e2830dddb0f003a6605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.1"
     },
     "MEDAL_009": {
       "name": "A True Hunter Is Never Satisfied",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/6e0d6bb38bad3d8376adbac08258261c1b8f955a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.1"
     },
     "MEDAL_023": {
       "name": "A-fish-ionado",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5ca64003d9eb6edee2302d7621e7843e4a085dc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.0"
     },
     "MEDAL_007": {
       "name": "Beyond the Black Wings",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/8307c401238c82426842096298c9f39adf988d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "MEDAL_033": {
       "name": "Bourgeois Hunter",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/9ba959fea47184f35d1b2b835b988fe891adfe9c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.2"
     },
     "MEDAL_024": {
       "name": "Campmaster",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/d7f2d8bfdc55d5c8b48d4f4d24c371f2d6197b4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.3"
     },
     "MEDAL_018": {
       "name": "Hunter-Assassin",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/603fa8530fa7eacc20ac9ffac14bc6857bfd2577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "MEDAL_039": {
       "name": "Miniature Crown Master",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/76d7aec4e8ca9aa7c8e887d2c048de33eb513097.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "MEDAL_035": {
       "name": "Monster Ph.D.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/b6002a1fd001522c62b5af34200d17d28f545ad4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.6"
     },
     "MEDAL_044": {
       "name": "Monster Slayer",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/112661e8da6815076bf791b50996e4938e71e709.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "62.9"
     },
     "MEDAL_030": {
       "name": "Power Is Everything",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/11f00641552023a9fa270840dc2ba2ef05c5a6ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.3"
+      "percent": "83.2"
     },
     "MEDAL_001": {
       "name": "Windward Lands",
