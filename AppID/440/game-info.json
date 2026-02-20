@@ -2098,7 +2098,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2317f1cebd8930a5723456a0af6d65346d4d0781.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "TF_MEDIC_KILL_HEALED_SPY": {
       "name": "Hypocritical Oath",
@@ -2224,7 +2224,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "TF_SPY_BACKSTAB_CAPPING_ENEMIES": {
       "name": "Is It Safe?",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "TF_SNIPER_JARATE_REVEAL_SPY": {
       "name": "Jarring Transition",
@@ -3043,7 +3043,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/073fc2c96d32b08d87540bb47981da0398278c13.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "TF_PYRO_ACHIEVE_PROGRESS2": {
       "name": "Pyro Milestone 2",
@@ -4573,7 +4573,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2d0d8d1cb270be604a8d4b37b70325337a3e31a4.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "TF_MAPS_POWERHOUSE_KILL_ENEMY_IN_WATER": {
       "name": "Wet Work",

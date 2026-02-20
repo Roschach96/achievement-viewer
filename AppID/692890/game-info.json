@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "SENTINEL_JAVELIN_DAMAGE": {
       "name": "Bot Skewer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/74595bd6c0919e7656b408d7534475a00415fdff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "CRYSTAL_UNLOCK_SILVER": {
       "name": "Crystal Claimer (Silver)",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a2dbfcf4d034caa79469659d517ec1338977e15d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "DAMAGE_DEALT_BRONZE": {
       "name": "Damage Dealer (Bronze)",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "DAMAGE_DEALT_SILVER": {
       "name": "Damage Dealer (Silver)",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.6"
     },
     "UNTOUCHED_BOSS": {
       "name": "Easy Peasy",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/716e9d77e661a152780b8c2be090e16a2e8d7af5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ENGINEER_SUMMON": {
       "name": "For the Swarm!",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/90d785a03d76f1e0938a58a7bb808bcd348755e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "CANYON_DEATH": {
       "name": "It's Gonna be a Looong Journey",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/37d27402d1d887dabaae9ab0c7352c8add455695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e1f00e87b9ecad9663602bf59fe4c09f84de0ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8d0b6b6f7e3c04c52b6d03f4ac4baa128050d7dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "FINISH_GAME_RANK_S": {
       "name": "Perfect Run",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/7824af0ff5c71d7911736b1db5e5d50e589c4335.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "LEGENDARY_BUDDYBOT": {
       "name": "Pimp my Buddy",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e89777b6b5c4430935115d6776b3bdb327a04534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "POWERCELL_GATHER_SILVER": {
       "name": "Powercell Gatherer (Silver)",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/dda3215654df9ef0a6abdb6489f458e246044333.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "SENTINEL_UNLOCK": {
       "name": "Ranger",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/db2cd288b28687dfeba62c06f4361e31961f1e92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "54.1"
     },
     "SUPERBOT_FINISH_GAME": {
       "name": "Revenge",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e84937a244bf84064064edc9a9cc55004e9d1eaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "73.1"
     },
     "ENEMY_DESTROY_GOLD": {
       "name": "Robo-Regulator (Gold)",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bfae61170e6eb8c9d7c56c03421ea60ff07e3ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ENEMY_DESTROY_SILVER": {
       "name": "Robo-Regulator (Silver)",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.8"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/13fa1b96baa5ecc9c85c5c324173089093eaef97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "WRENCH_GATHER_BRONZE": {
       "name": "Wrench Picker (Bronze)",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/aed0a66d9abf76a067510cea47d7e46052ecc06c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "WRENCH_GATHER_SILVER": {
       "name": "Wrench Picker (Silver)",
