@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/99ece6c2c318265baef5d8ccb348f9ba39ca4972.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "81018": {
       "name": "Buried in the Sand",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/2910f01556b32953737d246ab71ccb291521d7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "81037": {
       "name": "Matches with the Macaque",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/2ab15eecfc0947f6d85cf06a49c3872d63d1e466.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.3"
     },
     "81069": {
       "name": "Medicine Meal",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/3dd2dc951c66eb72f0f49e9a06e43ea44fa98146.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "81073": {
       "name": "Portraits Perfected",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/a70cafb2b1f343e8108bbb06e9b36416db8abc9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.0"
     },
     "81016": {
       "name": "The Stone's Secret",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/eac474a2368e33e10275ad1acaba80ec376351f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "81020": {
       "name": "The Tiger Family",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/f0dff35a8d2b8c7a283fa1df9f9917e89642c266.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.2"
     },
     "81057": {
       "name": "With Full Spirit",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2358720/4d28ee9c95b0c4c57f61c2ac2b2209a4489ae8c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     }
   },
   "platform": null,

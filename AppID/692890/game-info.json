@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "SENTINEL_JAVELIN_DAMAGE": {
       "name": "Bot Skewer",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/90d785a03d76f1e0938a58a7bb808bcd348755e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "CANYON_DEATH": {
       "name": "It's Gonna be a Looong Journey",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e1f00e87b9ecad9663602bf59fe4c09f84de0ced.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.0"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8d0b6b6f7e3c04c52b6d03f4ac4baa128050d7dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.7"
     },
     "FINISH_GAME_RANK_S": {
       "name": "Perfect Run",

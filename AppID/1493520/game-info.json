@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/76ef1758734f87667f74d40a91a514f2f12ba6cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "AchBossTonnage1": {
       "name": "100 Megatons!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/5a19633e1a160d9e379137fbfa4fd478a824ecd6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "AchGalaxy_WraithTracks": {
       "name": "Apparition",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/d01edb335bfc3e02ecf577818c81cbd141734b19.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "AchArmoury_CleanSweepKills": {
       "name": "Burning Sweep",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c3a3e1c751c86b0c3ec98eb4486e1acb39a49b75.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "AchDailyChallenges2": {
       "name": "Challenge Contender",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/494f39726592033d216be9b8bf23b8bb8a319ea7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "AchFun_DevFavourite1": {
       "name": "Dev Favourite Track 1",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/dede3be7b4ce370fdbfcd9710d4918373a39e801.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "AchFun_NoPickups": {
       "name": "I Don't Want Points",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/30996ef4e241334223b6937bf175d8fd6e14b2d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "AchSkills_1kDiff": {
       "name": "Tough Going",

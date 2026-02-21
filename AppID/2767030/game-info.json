@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
   "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/508dc5d8b3103d7323133089e91973ceab7f9dd0/header_alt_assets_4.jpg?t=1770976548",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/e53d0bf5c74da5cbfe99633056196ab47460a490/header.jpg?t=1770976548",
   "achievements": {
     "20000017": {
       "name": "\"Ahhh, those tiny claws!\"",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/51ec56e76749f61a8200de95323bf2acad924c37.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "10000001": {
       "name": "Inevitable！",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "20000008": {
       "name": "Justice for All! ",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f7ceced45f6d9769095edf13e933a4dad5cfea16.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "20000023": {
       "name": "No More Mutants",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "8": {
       "name": "You Do You",
