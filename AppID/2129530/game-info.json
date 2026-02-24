@@ -1,0 +1,289 @@
+{
+  "appid": "2129530",
+  "name": "REANIMAL",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1771918402",
+  "achievements": {
+    "AllPosters": {
+      "name": "A Proper Gander",
+      "description": "Find and tear down all posters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/61c66cd271c64b37f14c374d0feb42979fb1f8ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/a04eb1acfb339917492cf82a43d4e3c9a57ac24c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "CompleteWar": {
+      "name": "All is Well",
+      "description": "Finish the main story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/73a930e6beada06ffc87589ec58ea6fd41032bf4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "AllMasks": {
+      "name": "Beneath the Mask",
+      "description": "Find all masks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1054a1875c9d4fc33421b9d34fa09141b8a32d2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/dfecc76050de755c2bd4dafdf24d75dc6ed0c5bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ComfortPig": {
+      "name": "Creature Comforts",
+      "description": "Comfort the scared pig",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/4f039dc5907bc828a250e77694251db9c523e566.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1154afc0c2f42bd234b525d82ad18c8c3c5f28f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "AllCritters": {
+      "name": "Critter Kill Hit",
+      "description": "Kill every critter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/b277ea7f5750eb726429b06b1503a84b55554d4d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/6e1df45d1cc393ba4a03f95af6f8d5f5741b90cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "PushChair": {
+      "name": "Dark Tourism",
+      "description": "Push the sightseer into the pit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/38c9965eed46c4cef26db8c519f2553d202e9858.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/3e4283fa9ff0f3834ee88055aa9197c8802b8db9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.2"
+    },
+    "DestructionDerby": {
+      "name": "Destruction Derby",
+      "description": "Wreck 24 cars from the comfort of your own vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/27ea0c7ac5da3b47a3979f71ba3d426c3a20c8e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/d8108e9499b7830172c896de6c8c95b53b0921a3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ShootPlayer": {
+      "name": "Friends Like These",
+      "description": "Accidentally shoot your friend",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/33af7630047c286e147fe4f37a8547dfbc2ea5cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "SecretEnding": {
+      "name": "Friends Reunited",
+      "description": "Find all coffins and unlock the secret ending",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/92350cfe8a3e4e4bade04f3f189285314861283f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71f2d78c03542990f5985ee80a5cce61b07483bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "CompleteOrphanage": {
+      "name": "Happy Days",
+      "description": "Reunite with your friends",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/6017545a3555bb6667b824ac1157e149f5f53013.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.7"
+    },
+    "SecretsChapter2": {
+      "name": "Hidden among rats",
+      "description": "Find all secrets in the middle three chapters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f3ccf1d43da37062bae21998573673f125873c01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/4c069a5f7d6f6928abc03c4598ce916fd30cbf0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "SecretsChapter1": {
+      "name": "Hidden among the pines",
+      "description": "Find all secrets in the first three chapters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/05992b2cd48ac9ef35f72d3527b860ddaec64c8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/be4bea30cdf809679fae24a5c0f31d7b43735c35.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "SecretsChapter3": {
+      "name": "Hidden in rubble",
+      "description": "Find all secrets in the final three chapters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/5e96cea9a3302f28488caf43ea0fa88a41b307b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/ac9a05cff6c4f8626edce9dd04faf12f791f94c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ReachVillage": {
+      "name": "Home From Home",
+      "description": "Reach the small forest town",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/a6b838eaad665cb29de383bb0e871d5c48e0ef45.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bba035722522accd4ff09c5306a3f23ba27909ce.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.3"
+    },
+    "ReachWar": {
+      "name": "Into the Abyss",
+      "description": "Find your way into the breach",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/9e4e59ada2ddfa876f33d3953a6aca4f69ab47cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "ReachSandCity": {
+      "name": "It's a Trap!",
+      "description": "Reach Sand City",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/7eddab7c6c223256ce1d99b6dae9625715c69fdc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "KickSniper": {
+      "name": "Just Making Sure",
+      "description": "Get your revenge on the Sniper",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/0f907c2f102a3e7352f5303948ccdf433ab94b2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/90c67d2e9e6cb8ecad7b3fbecd486ae640df4752.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "KillTheKing": {
+      "name": "Long Live The King",
+      "description": "Steal the crown from the leader of the Spider Kids",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/5a52289eb94cbac4ca78feb5aa40fe59ed1527af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/cd629a929dca7c0788a38b137959593d494e3172.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "BoatTravel": {
+      "name": "Lost at Sea",
+      "description": "Travel a great distance with the boat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bd8c2566479cd4128a0f7c8695d7a5974897198f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bab00ff9314a2cf5f3692fbfe1cbaf04e1fb01d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "PlayPiano": {
+      "name": "Lullabye",
+      "description": "Play the piano",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f74a0178512cefe9fd1d6c6274f487f5af1899f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71c993da3f5e8e16d74f6c5cbface7369a28ebc6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "MineSweep": {
+      "name": "Naval Blazing",
+      "description": "Clear 20 naval mines in one playthrough",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/84506c06fe9fe67e205ea5f60509250064cc8193.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/55538c426a7f0799c0c9acc23de91a376a1baa35.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "CannonTarget": {
+      "name": "Non-Cannonical",
+      "description": "Fire at the secondary target with the cannon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f7f59ac613e46e07981fc4d11b68aff030f28b34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/12fc5fb724820603c53e4e0370f2a316f25251d1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "AllAltars": {
+      "name": "Prayer for the Dying",
+      "description": "Pay tribute at all hidden statues",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f61b7c3743b0ff1f75ad2a3b563a2615f53e1364.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/573d16ef3d3fa4f2a491f63a750f9fa08ca2a41e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "BreakPopcorn": {
+      "name": "Rock 'n Pop",
+      "description": "Break open the popcorn machine in the cinema",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/75f23f0885cdff6239888770c76d680bc714b6b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/17686a01e3d6efe6a8ed98aefa6b41a18189e546.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "CompleteForest": {
+      "name": "Save Our Skins",
+      "description": "Escape Sniffer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/37bf6b913a6859c0e2d47264113c862c113619a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "CrumbleSpiderKids": {
+      "name": "Scared to Dust",
+      "description": "Break all petrified kids in the clock tower",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1937ea0bed5615d07b80138b36e87f4649cfafea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/2f152a3b0ef4f8137923824b3cdedf9d22504e1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "CodeMachine": {
+      "name": "Secret Bunker",
+      "description": "Input the secret code",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/55bf41e5f95fa28c579810f719ee1c1b48760ab4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8bf0931735abf48f375d0bcca88209caaf63f080.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "KillMotherKids": {
+      "name": "Shot Through the Heart",
+      "description": "Kill 10 Spider Kids while fighting the Mother",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/0fae540c62d93567d6eb70dd856e06617b7b822c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/eb71899a4f10eeb3f1b764549b09c07a3f487d67.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "FailToSave": {
+      "name": "Survival Instinct",
+      "description": "Fail to save your friend from being killed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f56bd9c24124e0e877fb2ec19257953ee567a138.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/d7b7cf84403023c81e2c109ab0ba6cea1e2f77b9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "SitDown": {
+      "name": "Take a Load Off",
+      "description": "Rest your legs at 10 places around the world",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/608da5c1cb5138496b17dd033d58bd7e4c180335.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/f76146dfacf6998d78f2aa5a2cc15ab4e1e72cc0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "CompletePelicanQuest": {
+      "name": "Tarred and Feathered",
+      "description": "Save your friend from the birds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/ff238ab1ae6b72d0ca2d0a4ba3f9caac9f8a0799.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
