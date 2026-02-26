@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "trophy_01_level1_complete": {
       "name": "Break Out",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "trophy_22_all_armors": {
       "name": "Fine Feathers Make Fine Birds",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "trophy_20_size3_kill_special": {
       "name": "Flawless Victory",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "trophy_06_level6_complete": {
       "name": "Godslayer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "trophy_18_shatter_multi": {
       "name": "Shatter Them All",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "trophy_19_elite_enemies": {
       "name": "Slayer",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "trophy_15_currency": {
       "name": "Tributes of Caladrias",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "trophy_10_all_weapons": {
       "name": "Trinity",
