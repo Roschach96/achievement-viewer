@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "62.9"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/8a6c521cb57159eb907cd376f8b772de52a5fc57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "ACH_STRETCHER": {
       "name": "\"I'm a bleeder.\"",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/6eef1f382de4cc380d1011a39773e61dbbe5292e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "ACH_DONUT": {
       "name": "\"Love ‘em from my mouth to my butt.\"",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/4ad7dc43a4e528268ed93a60bd19854aaeed7210.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "ACH_VENGEANCE": {
       "name": "\"Muuuuurrrdaaaaah!\"",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/a87b237764917ecbb47bacd874bba8a504524fd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.0"
+      "percent": "90.9"
     },
     "ACH_VIRUS": {
       "name": "Anti-Antivirus Club",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.2"
+      "percent": "81.1"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/339bf3e483c7f95868cee5e075146df299dbe116.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "ACH_SCEN_PERFECT": {
       "name": "Nailed It",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.0"
+      "percent": "81.9"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5635b07c4074b4fbc817c5ff4d60c392d4291b5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "ACH_HEAL_TWICE": {
       "name": "Phoenixes Down",
