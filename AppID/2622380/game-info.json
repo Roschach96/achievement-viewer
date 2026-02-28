@@ -1,7 +1,7 @@
 {
   "appid": "2622380",
   "name": "ELDEN RING NIGHTREIGN",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1769023313",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1772217489",
   "achievements": {
     "ACH26": {
       "name": "A Champion's Path",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACH24": {
       "name": "Shifting Earth",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.6"
+      "percent": "97.5"
     },
     "ACH07": {
       "name": "Tricephalos",
