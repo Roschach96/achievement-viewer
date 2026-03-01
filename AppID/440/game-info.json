@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a32d9810f95dbf1bb455f7a7a514ee8efadb34dd.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "TF_MEDIC_ASSIST_PYRO": {
       "name": "Autoclave",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c89aaf25155ab8a78d436e935823b8b17c147660.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "TF_SCOUT_DOUBLE_JUMPS": {
       "name": "Batter Up",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "TF_SNIPER_FREEZECAM_HAT": {
       "name": "Be Polite",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f9f47ff3e4e70ca2b323643e369f6ea946b69b8e.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "TF_HALLOWEEN_DISGUISED_SPY_KILL": {
       "name": "Costume Contest",
@@ -1063,7 +1063,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5eb946c02f2e981573410c972afa6f70843ff2d0.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "TF_SPY_AMBASSADOR_GRIND": {
       "name": "Diplomacy",
@@ -1783,7 +1783,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_headshots_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "TF_MEDIC_SIMUL_CHARGE": {
       "name": "Group Health",
@@ -3259,7 +3259,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e8c90b021cb85cc9ffa64b28bbd7b3849b0b7e22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "TF_ENGINEER_HELP_MANUAL_SENTRY": {
       "name": "Rio Grind",
@@ -3880,7 +3880,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/eccef2e4337ae705848c4728ea546501bd0cf17b.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "TF_SPY_ACHIEVE_PROGRESS3": {
       "name": "Spy Milestone 3",
@@ -3898,7 +3898,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e0dd4bd3a147be78420e6a82f011a8f5fe2f3c4e.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "TF_SPY_BACKSTAB_GRIND": {
       "name": "Spymaster",
@@ -3943,7 +3943,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4d1b32cd09bd06a40ba84c2006200cad37433cb7.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_SCOUT_FAST_CAP": {
       "name": "Stealing Home",
@@ -4087,7 +4087,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e12de0fc44fdd08d7e1ae74db805b68d326a2ff3.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER": {
       "name": "The Argyle Sap",
@@ -4447,7 +4447,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2791206144ce2a2b7f1309de30c189e0cc24120e.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "TF_MVM_USE_BUILD_BOTTLE": {
       "name": "Undelete",
