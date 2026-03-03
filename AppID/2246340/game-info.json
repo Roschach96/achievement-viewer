@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/0883da80c5d15101884671831f2f87d3d4e9ad39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.6"
     },
     "MEDAL_026": {
       "name": "A Keen-eyed Observation",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/7a16fa794c94366ead1c92e89af7bcde59e1a7b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "MEDAL_012": {
       "name": "A Step Toward Mutual Understanding",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/206eb2ef1e15c868d24e02f44521f73a697213ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "MEDAL_014": {
       "name": "Angling for a Bite",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/36d8f5cae3bd53a2476caefbd5708f9a0488e0d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     },
     "MEDAL_004": {
       "name": "Bringer of Harmony",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/bd8bfca5811c7ba55108a26464a2e6b37eda28b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "MEDAL_000": {
       "name": "Eastward Wings",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/4fc85716e4d250e4feda0e46f8a1315a72f7923e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "MEDAL_034": {
       "name": "Explorer of the Eastlands",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/6e5279dbd42e918e411c6bbfa2c3757f5d02e1c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.4"
     },
     "MEDAL_042": {
       "name": "Giant Crown Master",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/bfbf7302efe2c91bbe805d7fed2eb78305954799.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "MEDAL_048": {
       "name": "Gossip Hunter",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/9fa4d7a08e9b29116fa1ef343244b144496907f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "MEDAL_029": {
       "name": "Impregnable Defense",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/fef975a2c30348f1cd0200a46b6f9e01221c51dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.0"
     },
     "MEDAL_010": {
       "name": "Let the Investigations Begin!",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5bf4bebc16451c8b3c70eab409bd77e3725a8e62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.1"
     },
     "MEDAL_037": {
       "name": "Miniature Crown",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/ef8c1132de4509dee02dc00a0a21f8ab5277fb9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "49.0"
     },
     "MEDAL_038": {
       "name": "Miniature Crown Collector",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/603fa8530fa7eacc20ac9ffac14bc6857bfd2577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.2"
     },
     "MEDAL_039": {
       "name": "Miniature Crown Master",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/f90f06d2ec9baefdb503559e8c19643050268a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "MEDAL_022": {
       "name": "Monster (Squid) Hunter",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/76d7aec4e8ca9aa7c8e887d2c048de33eb513097.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "MEDAL_035": {
       "name": "Monster Ph.D.",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "MEDAL_027": {
       "name": "Ride-or-die Companion",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/510e000175d6a08881aea61b24b1c4a1edafac25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.9"
     },
     "MEDAL_002": {
       "name": "Shadow in the Downpour",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/57f14b889026155d85655d15f0406d0fa5fd8738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.2"
+      "percent": "83.1"
     },
     "MEDAL_045": {
       "name": "Top of the Food Chain",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c1f9ce9ff4245ee1396a57c2fb21b017b5aa7a62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "MEDAL_016": {
       "name": "Was It a Meal to Remember?",

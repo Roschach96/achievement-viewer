@@ -3,6 +3,15 @@
   "name": "Where Winds Meet",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1772205634",
   "achievements": {
+    "1502009": {
+      "name": "A Fish Out of Water",
+      "description": "A fish atop the tallest tree? In this desert, anything goes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
+    },
     "1406001": {
       "name": "A Promise Fulfilled",
       "description": "Witness the full story of the Granary of Plenty and its grain relief case.",
@@ -12,6 +21,24 @@
       "group": "Base Game",
       "percent": "1.5"
     },
+    "1505051": {
+      "name": "A Squeak to Remember",
+      "description": "The tiny squeak of a woodchuck sealed your defeat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/984bce5376b194858776453b478fbaa44d4953fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/70dcb704a7941dc6f0d3d32cc763a706308d6d2e.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
+    },
+    "1505021": {
+      "name": "Alone in Chang'an",
+      "description": "Complete Hexi Jianghu Legacy: The Homeward Vow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/984bce5376b194858776453b478fbaa44d4953fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/70dcb704a7941dc6f0d3d32cc763a706308d6d2e.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
+    },
     "1002062": {
       "name": "Broken Spear Victory",
       "description": "Defeat the Nameless General.",
@@ -19,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "1201011": {
       "name": "Buddha's Afterglow",
@@ -28,7 +55,16 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
+    },
+    "1501001": {
+      "name": "Cat Fever",
+      "description": "Too much cat petting can be addictive. Everyone's got a little cat fever!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "301009": {
       "name": "Echoes Unbound",
@@ -37,7 +73,16 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.1"
+    },
+    "1504019": {
+      "name": "Egg-cellent Luck",
+      "description": "Perform a 10x smash in Wang Quanyou's egg-smashing game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "1403003": {
       "name": "Every Inch Covered - Kaifeng",
@@ -46,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "1404001": {
       "name": "Feline Riddler - Kaifeng",
@@ -64,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.3"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -73,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/1b65222c78121b8527d4d57289d6f6483a353295.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "401001": {
       "name": "Healing Hands",
@@ -82,7 +127,34 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
+    },
+    "1501032": {
+      "name": "Hexi: Full Moon Rising",
+      "description": "Unlock all Tales and Echoes in Hexi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
+    },
+    "1504001": {
+      "name": "Hexi: Paws on Point",
+      "description": "Solve 6 Meow Meow Puzzles in Hexi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
+    },
+    "1503002": {
+      "name": "Hexi: Relentless Hunter",
+      "description": "Collect 20 chests of any quality in Hexi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/07332588cd1ae954b106c534924809323207f87e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "1202003": {
       "name": "Horizon Seeker",
@@ -91,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "1405001": {
       "name": "Jinming Pool Secrets",
@@ -109,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "1002039": {
       "name": "Mighty Wolf Rider",
@@ -127,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -136,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "1402003": {
       "name": "Peak of All Arts",
@@ -154,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "301011": {
       "name": "Power of Four",
@@ -163,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "1203005": {
       "name": "Qinghe · Seeker of Melodies",
@@ -181,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "1203003": {
       "name": "Quick on the Uptake - Qinghe",
@@ -190,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.0"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -199,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -208,7 +280,16 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
+    },
+    "1501031": {
+      "name": "Reflections of Obsession",
+      "description": "Clear Campaign - Dim Lamp Night.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "1401015": {
       "name": "Savior of Kaifeng",
@@ -226,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.6"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -235,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.5"
     },
     "1406003": {
       "name": "Speedrun in Granary",
@@ -245,6 +326,15 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "3.4"
+    },
+    "1501024": {
+      "name": "Swift Annihilation",
+      "description": "Defeat Wucan within 180 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.0"
     },
     "1201018": {
       "name": "The Final Destiny - Qinghe",
@@ -262,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/a91d3a291e8910cfa658b590e62194cd326b1fab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.7"
     },
     "401004": {
       "name": "The Grand Strategist",
@@ -271,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -289,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c20d8a3ceb27d9e5152918e7b3a08d00bd6f8840.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "1201007": {
       "name": "Victory in the Abyss",
@@ -298,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "1401009": {
       "name": "Voice of the Valiant",

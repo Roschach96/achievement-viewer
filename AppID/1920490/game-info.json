@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/8a1286b649f88c5261fd188966d82a158ac363f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": " Everybody Likes Me",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/748a009a8ce42e1deadaaadf06057324752d48e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": " Mad Scientist",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/d82d91430374ee137ec4d9c466bc71aca56a9579.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "NEW_ACHIEVEMENT_1_9": {
       "name": " Never Seen",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/aa750a44bfb6f3ea8cb5e7bf73214dc016dbd480.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": " Short Circuit",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/aeb9d16dce55f3ccec41d240691a995a81ada670.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "NEW_ACHIEVEMENT_3_0": {
       "name": "Alive And Kicking (And Shooting Too!)",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/9a4c624d1e1d79fec5c257689cc09f3465f75443.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.2"
+      "percent": "74.3"
     },
     "NEW_ACHIEVEMENT_2_10": {
       "name": "Dentastic",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/c335311d5746c2fc9f13375b68b8abc2eb371d49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "NEW_ACHIEVEMENT_1_22": {
       "name": "Elemental Maelstrom",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/21aee12269498fcdfcf827bcb40cd3d92e82d660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "NEW_ACHIEVEMENT_2_3": {
       "name": "Hard Time",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/0fc0ad05ef4189451a605ac80c22b2d59ddfad4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "NEW_ACHIEVEMENT_1_11": {
       "name": "Health Insurance",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/93d78f0e72e9b55ba1e22b981af98bdaeb38f5de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "NEW_ACHIEVEMENT_2_21": {
       "name": "Lucky Stiff",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/523f69b74eb27bb8aff2d7ddb74ae4d4f1d47ba4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "NEW_ACHIEVEMENT_2_11": {
       "name": "Mightier than the Sword",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/5e0c0bf856f59b25496335d2e913d60ddc98c15a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Not the Best Choice",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/345524f374aaa6f2c193167ac0a318285bda360c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Patient N",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/e9e6763cf3cb70b0963d97ba423c3dcedd00a6e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "NEW_ACHIEVEMENT_2_19": {
       "name": "Peril at Hand",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/d9550cc1bfef30e456acdd96e9c1af94f43131d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "NEW_ACHIEVEMENT_2_16": {
       "name": "Peril on Gorgon",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/11982e012a22aeb80a6ae5546f71e17ff7cc52a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "NEW_ACHIEVEMENT_2_5": {
       "name": "Pirate Radio",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ddb1a7f2e32d705c89bf4a5fe44d27636a2a8d89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "Skilled",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/cab500c6972bc498c9ba3219c9c6108aa1c05057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Something's Fishy",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Special P.E.T. Benefits",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/c372b464ee8a5af809272c2e1d8b197bd3ac3286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "NEW_ACHIEVEMENT_3_1": {
       "name": "Spectrum Needler Buddy",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f6e7826dd459ae67bab29bdd76bff76a8b529e07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/71553f1dfff9ba6a5c83bf2f899f701fc04c19a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "NEW_ACHIEVEMENT_2_29": {
       "name": "The Mystery's Afoot",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/308d0318a89266b21f901c5d822bb3c226b5097d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "NEW_ACHIEVEMENT_2_22": {
       "name": "The Postman",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/72ab42d458af3ab849a13a8a10f3008fb106825b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "NEW_ACHIEVEMENT_2_0": {
       "name": "Ticket to Anywhere",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/9e6f62963de745f247d0d8cc39344d375ce0c8b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Upgrades Available",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f47631cd5fda373c1da05e22ec0f768fd90a124c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Welcome to Halcyon!",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/3860a6c4ba082d9d7ccc2645b5835f18f13a0399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     }
   },
   "platform": null,

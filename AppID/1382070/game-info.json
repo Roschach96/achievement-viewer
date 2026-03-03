@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "ACH_BARCODEFOREST": {
       "name": "Bark code",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "ACH_BATTERYMAX": {
       "name": "Battery of Batteries",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/e401a7363619bc83689c6c5852b14be8a9e90ab7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ACH_DROPBATTERY": {
       "name": "Bye bye, Battery!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/8957b05931f44d85f924c621ea5df826d14dd98a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "ACH_CATCH_SELF": {
       "name": "Caught in the act!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3bf2f91c70a71393af36763d4736996ca0ef19b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "ACH_NOBATTERYPICKUP": {
       "name": "Contactless",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a79e4dd52e82c62c25f03f956199618f31d27d33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "ACH_DUSTINGANG": {
       "name": "Dustinvasion!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "ACH_COPIERM3ALIGNMENT": {
       "name": "Everything in its right place",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACH_COLLECTION_DUCKS": {
       "name": "Get your ducks in a row",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/1107be317ff8538ed43e30cf8ee1a32ca158c741.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "ACH_FLOWERGAMECOMPLETED": {
       "name": "I bee-t the game!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/b2fb037e599cc2e9e1198b3c3c912daefa4ebe58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "ACH_PLAYINGCARDS": {
       "name": "I fold",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/6d49f31b3e5322ef9cf92dad24da7e900f65932e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "ACH_COLLECTION_MAGNETS": {
       "name": "I stuck with it",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "ACH_PROG_HUB1TRAINUNLOCK": {
       "name": "I’ve trained for this.",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.3"
     },
     "ACH_TIMER_JUST": {
       "name": "Impeccable timing",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/13704aa9c9fb01334ed8aa56562490c9150a4d60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "ACH_JUMPBOOSTLARGE": {
       "name": "Low orbit",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a1782d4975cb6bdba69759a3a13d81d96be6de05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ACH_BREAK_TELEPORTER": {
       "name": "No way out!",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/df9a9349047d759aaaba5765c948f505d194fff1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.2"
+      "percent": "73.1"
     },
     "ACH_COLLECTION_MAHJONG": {
       "name": "Picking up the pieces",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/42b7b770c8ab05a3055ac7ea3183b953df079a11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "ACH_FARPHOTOSPLACED": {
       "name": "Recursion excursion",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/aae8236ce7b0be378d6a1e2fa2a10a72e22a15c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "ACH_PROG_HUB3_CAMERA": {
       "name": "Viewfinder",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/af3004df63077daa71ea553a0376c56ee6577ccb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "ACH_PROG_END": {
       "name": "Viewfound",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5aff2e0b2c638d969eff5847594e176f7724103.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ACH_PROG_HUB1POSTCRASH": {
       "name": "Welcome Back!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/3cc0150f0f8e0d7ee97d0d80bac1bd7937200137.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     }
   },
   "platform": null,
