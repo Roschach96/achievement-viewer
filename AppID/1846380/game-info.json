@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/065af0c6db231fba8b71bb7e5679abdc59989bae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Achievement_GOSCC_8": {
       "name": "Adbusting",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/b9ec82b50a869ec202d16440ea5c9345457523cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "Achievement_GOSCC_16": {
       "name": "Cash Money Millionaire",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/84e8b30d04db38aabae4f982c715aa9843953507.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Achievement_GOSCC_14": {
       "name": "Cleaning Up",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/f0f509c08a4e5caa2c5dc4ba7990ae602a40a8bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.3"
     },
     "Achievement_GOSCC_41": {
       "name": "Drop the Beat",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/c5abf7fc2f714bf3c9d74d3a48f9751f99cb8c00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "Achievement_GOSCC_22": {
       "name": "Escape Artist",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/aa27a1d034df6a3b95fb454eacd626c80b1414f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.8"
     },
     "Achievement_GOSCC_35": {
       "name": "Hey Speedie!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/5324bc1d5507649bcaca3d664998292add155476.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "Achievement_GOSCC_5": {
       "name": "Lake Better Watch Out",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/2841bee6d9fa9f74001ce8923c12b2dbe0e32949.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "Achievement_GOSCC_4": {
       "name": "Oh, It's On",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/3254dbe9d3dced65a2a5a52bb6320f384af9cecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "Achievement_GOSCC_15": {
       "name": "Serious Guap",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/dde54e210e678633dbf1818018cb8dae6c702a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     }
   },
   "platform": null,

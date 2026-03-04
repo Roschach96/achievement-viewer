@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579840/e5b1b8dc2f8e41d95752f1e0e42cb7033ccc97fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "activate_first_slabb": {
       "name": "Beam me up",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579840/82594fe9dd4b5cc4373868207a4f300a2b9d1963.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "09_jungle_secret": {
       "name": "Hidden entrance",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579840/52e25c74f77e716bcf26b15b9a24bafadb720ce2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "worldmap_reached_cave": {
       "name": "Welcome to the depths!",

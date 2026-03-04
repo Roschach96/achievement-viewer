@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/4e48e963cc5ae27ecbf406321f513f2a63b0ba3c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "13": {
       "name": "Gear Legend",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/f411f65d34e5f59dbd5f9ffb240150a405f1d94b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "7": {
       "name": "The end? ",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/261f6fcf489c2cbdfcb6da090b03ce36cd663647.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "9": {
       "name": "Well, not bad",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/897610/41aed12d8bddb0991ec15f0ecb617d6ab78d5700.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     }
   },
   "platform": null,
