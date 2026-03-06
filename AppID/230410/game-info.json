@@ -1,7 +1,7 @@
 {
   "appid": "230410",
   "name": "Warframe",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/64cb9deaae9055003fd76ba0f6df6b6fba38e808/header.jpg?t=1771430631",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/64cb9deaae9055003fd76ba0f6df6b6fba38e808/header.jpg?t=1772741256",
   "achievements": {
     "ACHIEVEMENT_47": {
       "name": "A Watchful Eye",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/b7eb3c60c1854237fce2bbb920c9514d41d3c8c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "ACHIEVEMENT_30": {
       "name": "Dagger Proficiency III",
@@ -1333,7 +1333,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/b41161f42eab58ecf082d319b839fe85eeb375c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACHIEVEMENT_117": {
       "name": "Shotgun Proficiency I",
