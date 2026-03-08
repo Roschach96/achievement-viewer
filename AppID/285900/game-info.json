@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/285900/22ee0374aa3ba3f27b8269d0cf460c4be5feb285.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ACHIEVEMENT_DROP_KICK": {
       "name": "Drop Kick",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/285900/9f89f81a9f58a44e1a444f0a09f2a633cbac7e68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     }
   },
   "platform": null,
