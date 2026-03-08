@@ -32,8 +32,8 @@
     "earned_time": 0
   },
   "EternalLife": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772985052
   },
   "Excellent": {
     "earned": false,
@@ -52,8 +52,8 @@
     "earned_time": 0
   },
   "FreeWill": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772986316
   },
   "GameTheory": {
     "earned": false,
@@ -92,8 +92,8 @@
     "earned_time": 1772299022
   },
   "LandOfFaith": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772886967
   },
   "LeaveYourMark": {
     "earned": false,
@@ -112,16 +112,16 @@
     "earned_time": 1772289574
   },
   "OffTheRadar": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772887562
   },
   "OnTheEdge": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772984511
   },
   "OnTopOfThings": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772894545
   },
   "PressTheSerpent": {
     "earned": false,
@@ -180,8 +180,8 @@
     "earned_time": 0
   },
   "Transgression": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772974967
   },
   "Uplifted": {
     "earned": true,
