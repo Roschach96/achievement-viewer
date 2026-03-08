@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.3"
     },
     "AllMasks": {
       "name": "Beneath the Mask",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1154afc0c2f42bd234b525d82ad18c8c3c5f28f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "AllCritters": {
       "name": "Critter Kill Hit",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "SecretEnding": {
       "name": "Friends Reunited",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.5"
     },
     "SecretsChapter2": {
       "name": "Hidden among rats",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bba035722522accd4ff09c5306a3f23ba27909ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.7"
     },
     "ReachWar": {
       "name": "Into the Abyss",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.9"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.2"
     },
     "KickSniper": {
       "name": "Just Making Sure",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/cd629a929dca7c0788a38b137959593d494e3172.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "BoatTravel": {
       "name": "Lost at Sea",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71c993da3f5e8e16d74f6c5cbface7369a28ebc6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "MineSweep": {
       "name": "Naval Blazing",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/573d16ef3d3fa4f2a491f63a750f9fa08ca2a41e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "BreakPopcorn": {
       "name": "Rock 'n Pop",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/17686a01e3d6efe6a8ed98aefa6b41a18189e546.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "CompleteForest": {
       "name": "Save Our Skins",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     }
   },
   "platform": null,
