@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "TLOTF_ACHIEVEMENT_008": {
       "name": "Ammunition Collector",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "TLOTF_ACHIEVEMENT_030": {
       "name": "Burying the Past",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "TLOTF_ACHIEVEMENT_020": {
       "name": "Comrades",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "TLOTF_ACHIEVEMENT_015": {
       "name": "Honed to Perfection",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "TLOTF_ACHIEVEMENT_017": {
       "name": "Rune Master",

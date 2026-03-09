@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "ACH_BARCODEFOREST": {
       "name": "Bark code",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/8957b05931f44d85f924c621ea5df826d14dd98a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "ACH_CATCH_SELF": {
       "name": "Caught in the act!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "ACH_TIMER_JUST": {
       "name": "Impeccable timing",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "ACH_PROG_HUB3_CAMERA": {
       "name": "Viewfinder",
