@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/5642baf3384a4b8df90cc5860af765c05ddd060e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "Ascension": {
       "name": "Ascension",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/be0d79501d6a41a513865bb5ff8636ff9d0b5d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "First": {
       "name": "First!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/83df07576040fcbc92a07f3a1c14430f2916e853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "Fishmaster": {
       "name": "Fishmaster",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/fa2bbc244429a8a32076b4e28b6fb2802d177805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.7"
     },
     "ItsWorking": {
       "name": "It's Working",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/0a302a87d7ab5f23137a12ccf7b406508e4f4db3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "LeaveYourMark": {
       "name": "Leave Your Mark",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/1f4a5e43b4937bb08d8a2efea70c2fc33010814b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "LogicCheckSuccess": {
       "name": "Logic check... OK",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/4929b43ddadb717959b8f4ff76b8dfc5b7743f05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "MakeConnections": {
       "name": "Make Connections",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/c185f97448b38b51259a8b03041f6e1133a65ba9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "OnTheEdge": {
       "name": "On The Edge",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/2260238f6aeb061c54fee152ff932c312c8c13a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "OnTopOfThings": {
       "name": "On Top of Things",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/664ae1930df251d9b690fe58ad32cbb8ce33ee2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "SacredGrounds": {
       "name": "Sacred Grounds",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/e04ba8edb2f177a9d34b6f98a793e8f6e34ff5c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.4"
     },
     "SeeDouble": {
       "name": "See Double",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/2d45665b570f9c811e2465ea99e08fae7106f589.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "TowardsJerusalem": {
       "name": "Towards Jerusalem",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/9d48443c9fd5ab946050c4203bd4abb6fd062a06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "Transgression": {
       "name": "Transgression",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/eb1dcf68a1035d0c71187c398441bf0ed802d2c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     }
   },
   "platform": null,
