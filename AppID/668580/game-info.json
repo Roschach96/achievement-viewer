@@ -1,0 +1,631 @@
+{
+  "appid": "668580",
+  "name": "Atomic Heart",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1764675129",
+  "achievements": {
+    "playthroughGirsBestFriend": {
+      "name": "A Girl's Best Friend",
+      "description": "Send all BEA-Ds to NORA's brain",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d08c0540dca0062625991379c4cc9adf7d1b65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d08c0540dca0062625991379c4cc9adf7d1b65.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "7.5"
+    },
+    "battleFightAgainstDrunkenness": {
+      "name": "Alcoholics Anonymous",
+      "description": "Get drunk with vodka and kill 5 enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "EndOfDLC3": {
+      "name": "And now—CHAR-les",
+      "description": "Complete the story DLC",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "5.4"
+    },
+    "collectAllApples": {
+      "name": "Apple Pie",
+      "description": "Pick all apples in Limbo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/bea5e382f855ec4a204ba393bf45b0668789411c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/bea5e382f855ec4a204ba393bf45b0668789411c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "appleSurfer": {
+      "name": "Apple Pie 3826",
+      "description": "Collect 3,826 apples in the Trapped in Limbo DLC",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "2.6"
+    },
+    "craftFirstWeapon": {
+      "name": "Artisan",
+      "description": "Create a weapon in a crafting machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.6"
+    },
+    "battleAssimilationIsIncomplete": {
+      "name": "Assimilation Procedure Interrupted",
+      "description": "Don't let a sprout grow into a mutant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.6"
+    },
+    "playthroughAllGameHardcore": {
+      "name": "Atomic Heart",
+      "description": "Complete the game on Armageddon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6cc72dc555ed2cfb82a2db52455b65cf462ce820.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6cc72dc555ed2cfb82a2db52455b65cf462ce820.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "battleAvatar": {
+      "name": "Avatar",
+      "description": "Kill 10 burning enemies, 10 electrified enemies, and 10 frozen enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "researchAnimalDialogue": {
+      "name": "Beast Friend",
+      "description": "Find all talking dead animals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49cc1caa18f1a628bdadbb8e4ff266c7fa78d3a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49cc1caa18f1a628bdadbb8e4ff266c7fa78d3a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "battleBelowZero": {
+      "name": "Below Zero",
+      "description": "Freeze a Vova mid-air",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/21a6b723cd467bfb0571329bdf5f812eec953e20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/21a6b723cd467bfb0571329bdf5f812eec953e20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "battleBullsEye": {
+      "name": "Bull's Eye!",
+      "description": "Use Telekinesis to throw an object and knock down an Owl",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "researchCollectAllAudioDiary": {
+      "name": "Burning Ears",
+      "description": "Find all Chirpers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/5781ecad425e3fdb7e123e610cdfffde491dd585.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/5781ecad425e3fdb7e123e610cdfffde491dd585.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "craftAllConsumable": {
+      "name": "Chemist",
+      "description": "Craft consumables of all types",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "killBelyashWithoutShoot": {
+      "name": "Chop Chop Chop",
+      "description": "Kill Belyash with a melee weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d42942c906ef9e7f5c112803b90f3f03fa19a4c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d42942c906ef9e7f5c112803b90f3f03fa19a4c5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "researchCompleteAllTestSites": {
+      "name": "Clean-up",
+      "description": "Complete all testing grounds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "conquerorOfAnnapurna": {
+      "name": "Conqueror of Annapurna",
+      "description": "Complete the Tower of Memory without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6fb26fe7cbb73851ae62b52b6042b079afffbc65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6fb26fe7cbb73851ae62b52b6042b079afffbc65.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.8"
+    },
+    "conquerorOfChomolungma": {
+      "name": "Conqueror of Chomolungma",
+      "description": "Complete the Cliff of Perseverance without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c59759f2ecf6bf444d099bb49259c995a96805dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c59759f2ecf6bf444d099bb49259c995a96805dc.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.7"
+    },
+    "defenderOfNature": {
+      "name": "Conservationist",
+      "description": "Get a gold coin without shooting the Pchela",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4cfb6261ea421dc90d9049e0e25ec9153efcff88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4cfb6261ea421dc90d9049e0e25ec9153efcff88.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.8"
+    },
+    "playthroughTheater": {
+      "name": "Curtain",
+      "description": "Finish a theater performance",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/301e8a355e5f815b11a8d574b79afb2cf40be9b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/301e8a355e5f815b11a8d574b79afb2cf40be9b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.4"
+    },
+    "limboSurfer": {
+      "name": "Daring as a Bullet is Sharp",
+      "description": "Complete the Avenue of Speed without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1fe938d4927ffa0f6e5e07cfcedba9b08c06ae63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1fe938d4927ffa0f6e5e07cfcedba9b08c06ae63.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.9"
+    },
+    "DemonstrationOfViolence": {
+      "name": "Demonstration of Violence",
+      "description": "Destroy the Robogirl at Chelomey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "6.5"
+    },
+    "killDew": {
+      "name": "Dew Point",
+      "description": "Kill Dewdrop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "battleDivideEtImpera": {
+      "name": "Divide et Impera",
+      "description": "Separate several combined BEA-Ds with one shot from the Secateur",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "6.3"
+    },
+    "easyWalk": {
+      "name": "Don't Mess With the Major",
+      "description": "Complete the Trapped in Limbo DLC without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/67c1d34901744ddf7c7f76e4b1fa76b73486af6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/67c1d34901744ddf7c7f76e4b1fa76b73486af6c.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.7"
+    },
+    "researchFindAllTestSites": {
+      "name": "Explorer",
+      "description": "Find a testing ground",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/179d2eaf61e5428ff80972170fc869b5994e2f70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/179d2eaf61e5428ff80972170fc869b5994e2f70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "playthroughPavlov": {
+      "name": "Freedom Reflex",
+      "description": "Explore Pavlov",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/05e6d133dc6e396be5605d4337afcf8e3d67ca66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/05e6d133dc6e396be5605d4337afcf8e3d67ca66.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "goldenFever": {
+      "name": "Gold Rush",
+      "description": "Collect 76 gold coins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/996c54a4828e7df0df851f0b03e195e07b23a4f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/996c54a4828e7df0df851f0b03e195e07b23a4f1.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.8"
+    },
+    "battleKillByCar": {
+      "name": "Hands on the Hood",
+      "description": "Hit 20 enemies by a car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/b4d44000f370bc4379e9a1beb8e2b150800ce28d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/b4d44000f370bc4379e9a1beb8e2b150800ce28d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "playthroughChelomey": {
+      "name": "Happy Polymerization Day!",
+      "description": "Fly out of Chelomey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.6"
+    },
+    "Beyond": {
+      "name": "Hic Sunt Dracones",
+      "description": "Swim beyond the underwater world's borders, ignoring warnings",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1129d4f569c4082c25c6f177cb52356bf384e8e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1129d4f569c4082c25c6f177cb52356bf384e8e8.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "1.0"
+    },
+    "battleDaredevil": {
+      "name": "Hothead",
+      "description": "Get 25 kills with headshots using the PM",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1d913bd4654ed196791c8537a65f4aa18922045e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/1d913bd4654ed196791c8537a65f4aa18922045e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "researchHelloPhone": {
+      "name": "How Can I Help You?",
+      "description": "Use a phone booth at Chelomey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "FirstTalkDLC3": {
+      "name": "I'm here if you need to talk",
+      "description": "Talk to Terentiy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7781095148a0bfa7b95d03685ffba1b7cc9469a5.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "6.4"
+    },
+    "battleJohnSilversCrew": {
+      "name": "John Silver's Crew",
+      "description": "Kill 3 M4D-5 robots in a row while they're hopping on one foot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "9.2"
+    },
+    "playthroughAcademy": {
+      "name": "Kommunism 2.0",
+      "description": "Find out the AoC's secret",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6654e907221eec612667ee084a78f2c59ec29fca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6654e907221eec612667ee084a78f2c59ec29fca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "craftUpgradeSkillCategory": {
+      "name": "Lefthand Mastery",
+      "description": "Fully upgrade one skill tree",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6d90d7b7417809b6df238a953e0acb600a105283.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6d90d7b7417809b6df238a953e0acb600a105283.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "playthroughLordOfTheFlies": {
+      "name": "Lord of the Flies",
+      "description": "Use a Strekoza for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "7.4"
+    },
+    "collectAllWeapons": {
+      "name": "Lord of War",
+      "description": "Collect all weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f0e73e43e33e2b727bf3d8d70bdca4090b6714ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f0e73e43e33e2b727bf3d8d70bdca4090b6714ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "killEziha": {
+      "name": "Make It Go Round",
+      "description": "Kill Hedgie",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "SurvivalMaster": {
+      "name": "Master of Survival",
+      "description": "Find all the Hunter's stashes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "1.2"
+    },
+    "craftMaximumStrength": {
+      "name": "Maximum Strength",
+      "description": "Upgrade the Klusha and Secateur to max",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c706e9f8006fcb1e1d40a5649bab2a9bb66ba8fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c706e9f8006fcb1e1d40a5649bab2a9bb66ba8fb.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "3.2"
+    },
+    "playthroughHospital": {
+      "name": "Medical Checkup",
+      "description": "Get to a hospital",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a7c6440e7c51ae4281677db4414208eda25e18cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a7c6440e7c51ae4281677db4414208eda25e18cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.5"
+    },
+    "killBelyash": {
+      "name": "Medium Rare",
+      "description": "Kill Belyash",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "MobiDik": {
+      "name": "Moby Dick",
+      "description": "While standing by the window, listen to a chirper narrating the story of the mysterious tune",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2d9721a9615b06a0996e2f69de3dca803353d686.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2d9721a9615b06a0996e2f69de3dca803353d686.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "0.7"
+    },
+    "researchLootboy": {
+      "name": "More Than Profit",
+      "description": "Find all Lootyagins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/af858829cd4338e5d44f4683382737adb1397f5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/af858829cd4338e5d44f4683382737adb1397f5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "killTwins": {
+      "name": "Murderous Beauty",
+      "description": "Kill Twins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.1"
+    },
+    "overKill": {
+      "name": "Overkill",
+      "description": "Get extra 77th coin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6083c773fd28e3190c002547660844add6c52b6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6083c773fd28e3190c002547660844add6c52b6b.jpg",
+      "hidden": true,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.7"
+    },
+    "playthroughVavilov": {
+      "name": "Pistils and Stamens",
+      "description": "Get out of Vavilov",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "killIvy": {
+      "name": "Plyusch Rush",
+      "description": "Kill Plyusch",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.5"
+    },
+    "collectAllJelly": {
+      "name": "Polymerization",
+      "description": "Collect 100 jelly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.8"
+    },
+    "playthroughVDNH": {
+      "name": "Quite an Achievement",
+      "description": "Clear the VDNH complex",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "playthroughReturnToUtopia": {
+      "name": "Return to Utopia",
+      "description": "Complete the Annihilation Instinct DLC",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/9418419b30ed56acb4a4ee3d08306065348649ae.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "7.2"
+    },
+    "researchAnalyzAllMobs": {
+      "name": "Scanner",
+      "description": "Scan all mobs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "killNatasha": {
+      "name": "Show's Over",
+      "description": "Kill Natasha",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3b35e833a718bfbbd6d9c86f598886885e9d9c2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3b35e833a718bfbbd6d9c86f598886885e9d9c2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "cuttingThroughTheWavesOfLimbo": {
+      "name": "Slashing Through the Limbo Waves",
+      "description": "Complete the Plateau of Responsibility without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f512ccffdf712c5ff30507b378b340a962e10bca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f512ccffdf712c5ff30507b378b340a962e10bca.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "0.7"
+    },
+    "killEzhihaWithoutDamage": {
+      "name": "Strike",
+      "description": "Kill Hedgie without making a single shot / destroy all statues",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c17fec1e8c4127fff03e587cb7454ee98d0e1cbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c17fec1e8c4127fff03e587cb7454ee98d0e1cbb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "iLoveThisCasino": {
+      "name": "The Casino Isn't Always in the Black",
+      "description": "Get ALL items from the slot machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Trapped in Limbo",
+      "percent": "1.4"
+    },
+    "craftUpgradeWeapons": {
+      "name": "The Great Inventor",
+      "description": "Upgrade a weapon to the maximum level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "progress100": {
+      "name": "The Motherland Does Not Forget its Heroes",
+      "description": "Unlock all achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fbf6ef189b6beb1e0828e3a4909e6a460543e64b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fbf6ef189b6beb1e0828e3a4909e6a460543e64b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "researchCorpseDialogue": {
+      "name": "The Necromancer",
+      "description": "Talk to every dead",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3fe7322374cb80d7880bbcfdd07409da8d5e3d48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3fe7322374cb80d7880bbcfdd07409da8d5e3d48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "playthroughLesnaya": {
+      "name": "Tickets, Please!",
+      "description": "Take a train at the Lesnaya Maglev train station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cf322399dd21a288d540a66aa42a5cdade1e484e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "battleBoxInBottle": {
+      "name": "Time in a Bottle",
+      "description": "Kill 3 enemies while using technostasis",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "7.6"
+    },
+    "battleTriplePenetration": {
+      "name": "Triple Penetration",
+      "description": "Kill 3 or more enemies with a single Railgun shot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/be79c3da6147567431d3a033edf2ba9a0d37a467.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/be79c3da6147567431d3a033edf2ba9a0d37a467.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "battleRedOctober": {
+      "name": "Ultimate Storm",
+      "description": "Destroy 15 enemies using the neuropolymeric launch module",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d80bfffcd4d44e09d2e3439be92d5c6c83887003.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "11.4"
+    },
+    "WaterSports": {
+      "name": "Water Sports",
+      "description": "Toss the ball back and forth with the dolphin three times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7560aad4ef3bbe7923c9da8990d1e1dcb68d3494.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7560aad4ef3bbe7923c9da8990d1e1dcb68d3494.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "2.1"
+    },
+    "craftFiveUniqueWeapons": {
+      "name": "Weapon Master",
+      "description": "Create five types of weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "playthroughWeirdScience": {
+      "name": "Weird Science",
+      "description": "Get into the ORB lab",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Annihilation Instinct",
+      "percent": "9.3"
+    },
+    "YouReadTheInstructions": {
+      "name": "You've Read the Manual!",
+      "description": "Pull yourself close to your enemy with the Whip",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
+      "hidden": false,
+      "group": "Atomic Heart - Enchantment Under the Sea",
+      "percent": "6.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
