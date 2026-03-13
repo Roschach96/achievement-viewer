@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.1"
     },
     "ACH_BLOODATTACK_RECOVER": {
       "name": "Romeo is a Bloodied Man",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "ACH_COLLECT_MEDAL": {
       "name": "Romeo is a Decorated Man",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.4"
     },
     "ACH_NO_DAMAGE": {
       "name": "Romeo is a Flawless Man",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACH_TALKING": {
       "name": "Romeo is a Friendly Man",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_CLEAR_CHAPTER_5_1": {
       "name": "Romeo is a Gullible Man",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACH_GROW_BUSTERS": {
       "name": "Romeo is a Harvest Man",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     },
     "ACH_HAVE_JUNK": {
       "name": "Romeo is a Junk Man",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACH_ATTACK_BUSTERS": {
       "name": "Romeo is a Leash Man",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACH_SUPER_WEAPON": {
       "name": "Romeo is a Loyal Man",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ACH_SUMMON_BUSTERS": {
       "name": "Romeo is a Lucky Man",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.7"
+      "percent": "89.8"
     },
     "ACH_DEAD_ENEMY_3": {
       "name": "Romeo is a Master Man",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "ACH_SUPER_ROMEO": {
       "name": "Romeo is a Max Man",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ACH_DEAD_ENEMY_1": {
       "name": "Romeo is a Novice Man",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.7"
+      "percent": "72.8"
     },
     "ACH_CLEAR_CHAPTER_3": {
       "name": "Romeo is a Patient Man",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.7"
     },
     "ACH_INFECTION": {
       "name": "Romeo is a Poor Man",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "ACH_CLEAR_BOSSRUSH": {
       "name": "Romeo is a Proven Man",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "ACH_CLEAR_CHAPTER_1": {
       "name": "Romeo is a Righteous Man",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "ACH_HAVE_EMERALD": {
       "name": "Romeo is a Siphon Man",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.6"
+      "percent": "84.7"
     },
     "ACH_ATTACK_MECHANISM": {
       "name": "Romeo is a Tech Man",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACH_MARRIAGE": {
       "name": "Romeo is a Wed Man",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACH_UNLOCK_WEAPON": {
       "name": "Romeo is an Armed Man",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "ACH_CLEAR_CHAPTER_5_2": {
       "name": "Romeo is an Ascendant Man",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.6"
     },
     "ACH_BOSS_KILLER": {
       "name": "Romeo is an Encore Man",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "ACH_CLEAR_CHAPTER_2": {
       "name": "Romeo is an Unstrung Man",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     }
   },
   "platform": null,

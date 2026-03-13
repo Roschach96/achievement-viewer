@@ -1,7 +1,7 @@
 {
   "appid": "2373990",
   "name": "Solo Leveling: ARISE OVERDRIVE",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1773277621",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1773363478",
   "achievements": {
     "SOLO_ACHIEVEMENT_1_0": {
       "name": "A Hunter's Duty",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/4e53cfa41d3c6e6dc8a8bf30f8e71571cd06019e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.2"
+      "percent": "95.3"
     },
     "SOLO_ACHIEVEMENT_1_33": {
       "name": "Arise",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/f9b75a2c68fb9f0f4c55cd66e8a8c29f56d16f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "SOLO_ACHIEVEMENT_1_36": {
       "name": "Graceful Movement",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/94016859ee95d5515b4b119a4d4712c6c7d52698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "SOLO_ACHIEVEMENT_1_12": {
       "name": "Multi-talented",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/4f3249a2f205fa7293901b3dfb750ccfd3b91386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "SOLO_ACHIEVEMENT_1_9": {
       "name": "Promotion!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/6a4cb61e0c7cf9cf81a8f5a312b81b6a36b86ded.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "92.0"
+      "percent": "92.1"
     },
     "SOLO_ACHIEVEMENT_1_51": {
       "name": "So Nimble!",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/5943471ac7dd62a5c029486dcd5b9885f8809c23.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "SOLO_ACHIEVEMENT_1_34": {
       "name": "You're My Angel",

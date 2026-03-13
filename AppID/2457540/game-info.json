@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "ACHIEVEMENT_06": {
       "name": "Dragonic Fighter",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.2"
+      "percent": "88.1"
     },
     "ACHIEVEMENT_30": {
       "name": "Playmat Collector",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "ACHIEVEMENT_19": {
       "name": "School Idol of the Blue Sky",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.8"
+      "percent": "94.7"
     },
     "ACHIEVEMENT_17": {
       "name": "The Ruler of Heaven and Earth",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "ACHIEVEMENT_18": {
       "name": "The Sage of Earth and Sea",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     }
   },
   "platform": null,
