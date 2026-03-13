@@ -1,0 +1,347 @@
+[
+  {
+    "apiname": "progress100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killEzhihaWithoutDamage",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killBelyash",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killEziha",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killIvy",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killNatasha",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killDew",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killTwins",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "killBelyashWithoutShoot",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughChelomey",
+    "achieved": 1,
+    "unlocktime": 1773006149
+  },
+  {
+    "apiname": "playthroughVavilov",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughLesnaya",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughVDNH",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughTheater",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughHospital",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughPavlov",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughAcademy",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughAllGameHardcore",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftFirstWeapon",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftFiveUniqueWeapons",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "collectAllWeapons",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftAllConsumable",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "collectAllJelly",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "collectAllApples",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftUpgradeWeapons",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftUpgradeSkillCategory",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchHelloPhone",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchAnimalDialogue",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchCorpseDialogue",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchCollectAllAudioDiary",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchLootboy",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchFindAllTestSites",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchCompleteAllTestSites",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "researchAnalyzAllMobs",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleAvatar",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleDaredevil",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleBelowZero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleAssimilationIsIncomplete",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleBullsEye",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleFightAgainstDrunkenness",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleTriplePenetration",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleKillByCar",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughWeirdScience",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughLordOfTheFlies",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughGirsBestFriend",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "playthroughReturnToUtopia",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleDivideEtImpera",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleBoxInBottle",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleJohnSilversCrew",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "battleRedOctober",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "craftMaximumStrength",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "appleSurfer",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "defenderOfNature",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "iLoveThisCasino",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "cuttingThroughTheWavesOfLimbo",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "conquerorOfAnnapurna",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "conquerorOfChomolungma",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "limboSurfer",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "easyWalk",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "goldenFever",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "overKill",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "MobiDik",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "SurvivalMaster",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "DemonstrationOfViolence",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "EndOfDLC3",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "WaterSports",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "YouReadTheInstructions",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "FirstTalkDLC3",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "Beyond",
+    "achieved": 0,
+    "unlocktime": 0
+  }
+]
