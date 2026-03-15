@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/7fcdb8fc57a59291d5e93fe9a21b34e097f158e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "WatchDogs_Ach_15": {
       "name": "Bookmarked",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/38e9478bc53550a3757b5f9db30cbe260cd13215.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.3"
     },
     "WatchDogs_Ach_39": {
       "name": "Clear Signals",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/8758f66d3043dd37da5e1afc30cf1c4b898fee69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "WatchDogs_Ach_28": {
       "name": "Darkness Looms",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/01b9495e493bac872d14b3a54cc9c6e1d966c86b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "WatchDogs_Ach_7": {
       "name": "Enforcer",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ae0c70c75b4dbc5e6c75616917a206c60e79c531.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "WatchDogs_Ach_18": {
       "name": "Escape Loop",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/408c2aba9c081df86c8d6a6858511d5ece6241f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "WatchDogs_Ach_8": {
       "name": "Family Man",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/bb1803438a995357afe34cffe5e55e33640a1cf7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.1"
     },
     "WatchDogs_Ach_19": {
       "name": "Free Radical",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/28d223fa8ab5ea7d9199fc4b00081b023c128ecd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.5"
     },
     "WatchDogs_Ach_22": {
       "name": "Hardware Fail",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/c39daa0cc1f127c5b88c890fdb14cd2a49520b98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "WatchDogs_Ach_1": {
       "name": "Hello World",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f9e186732b9d6bb5f278bae6f60a18c981f095d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.6"
     },
     "WatchDogs_Ach_12": {
       "name": "Log Off",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/20dc128ce9caca62a52b8777cbfa210c8cbbf22a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "WatchDogs_Ach_17": {
       "name": "Magic Smoke",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3db96b3e5c4753482ab103d56c466a470d1cd68f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "WatchDogs_Ach_10": {
       "name": "One Down, One to Go",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/433cc977ccedb499e8e9d7aed710683f73817154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "WatchDogs_Ach_5": {
       "name": "Peephole",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ac1e2d3fec2fc60c746db7d6e7b2bdd9cde82dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "WatchDogs_Ach_27": {
       "name": "Read-only",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/720fdbe030ba7ac7329231596002195a7a9d33de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "WatchDogs_Ach_25": {
       "name": "Saturday Night Special",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/349e483d2e42ae8e28e1d967205ecfaaee96e2a7.jpg",
       "hidden": false,
       "group": "Watch_Dogs - Bad Blood",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "WatchDogs_Ach_42": {
       "name": "T-Bone: Pest Control",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5c92bbc7b7c522bfd2b1ab33c39f6063a3cbb983.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "WatchDogs_Ach_20": {
       "name": "White Rabbit Object",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5a3a61dd7cf7bbf7e67e0cc03359967c778da695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "WatchDogs_Ach_9": {
       "name": "Who Is Raymond Kenney?",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3985895c92f59dac033f7319a5ee04111fd2b514.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     }
   },
   "platform": "Ubisoft",
