@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "ACH_KILL_BEAST_WITHOUT_HEAL": {
       "name": "Best the Beast",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACH_PARASITER_MINIONS_ALIVE": {
       "name": "Bio Friendly",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACH_KILL_USING_ECOMBO": {
       "name": "E-Rodeo",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_WILLIAM_NO_DAMAGE": {
       "name": "Father's Day",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/9df0cf216618b62837b023749f79131b4c70f55f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "ACH_LIMBS_TORN_OFF": {
       "name": "Sever Forever",

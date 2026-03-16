@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/7ec42f5a823ec73db8d81e8221cdfc3165107c32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "Achievement_GOSCC_152": {
       "name": "Battle Scarred",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/fcd9f093622f20bb3ec448e87105dfb5b764dcd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "Achievement_GOSCC_103": {
       "name": "Bringer of War",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/252f43a7e67736cc7460940e146c0b056e3f7715.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "Achievement_GOSCC_143": {
       "name": "Enlisted",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/f3b0eb47037528f10a722fcb41e450cda534ab3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "Achievement_GOSCC_113": {
       "name": "Executioner",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/1a5e2ebd0f06e8bc05fdd56db80aaced26b1cf18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "Achievement_GOSCC_123": {
       "name": "Long Service Medal",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/15d584a2f8e93368af1a0c8587655889ac498736.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "Achievement_GOSCC_122": {
       "name": "Lost and Found",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/7925d829c27e6ef40c916ad03ac463d2c02357cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "Achievement_GOSCC_163": {
       "name": "Meticulous",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/b10f1b147391929edb1897149fb22fa0df786e85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "Achievement_GOSCC_106": {
       "name": "Pathfinder",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/0d7bd344ea5574e24ffc0e01f8703cdd1ae67dd1.jpg",
       "hidden": false,
       "group": "Mass Effect™ 3 From Ashes",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "Achievement_GOSCC_137": {
       "name": "Pyromaniac",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/061f8111f35e8a1bb91585f8d349471364138851.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "Achievement_GOSCC_161": {
       "name": "Savior",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/1cf850a9a8f81d5d4aba9d6565aa2a3ced5b32c2.jpg",
       "hidden": false,
       "group": "Mass Effect™ 3 Citadel",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "Achievement_GOSCC_170": {
       "name": "Technical Issues",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/c45b277a3f49317b113c653bb901132595ca2e95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "Achievement_GOSCC_153": {
       "name": "Unwavering",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/046d525f62e1a20b127d19c742ac3ebd1a6232b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     }
   },
   "platform": "EA",

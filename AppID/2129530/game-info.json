@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/a04eb1acfb339917492cf82a43d4e3c9a57ac24c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "CompleteWar": {
       "name": "All is Well",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.2"
     },
     "AllMasks": {
       "name": "Beneath the Mask",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1154afc0c2f42bd234b525d82ad18c8c3c5f28f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "AllCritters": {
       "name": "Critter Kill Hit",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "SecretEnding": {
       "name": "Friends Reunited",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71f2d78c03542990f5985ee80a5cce61b07483bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "CompleteOrphanage": {
       "name": "Happy Days",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.3"
     },
     "SecretsChapter2": {
       "name": "Hidden among rats",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bba035722522accd4ff09c5306a3f23ba27909ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.8"
     },
     "ReachWar": {
       "name": "Into the Abyss",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "37.0"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.9"
     },
     "KickSniper": {
       "name": "Just Making Sure",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/cd629a929dca7c0788a38b137959593d494e3172.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "BoatTravel": {
       "name": "Lost at Sea",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bab00ff9314a2cf5f3692fbfe1cbaf04e1fb01d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "PlayPiano": {
       "name": "Lullabye",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71c993da3f5e8e16d74f6c5cbface7369a28ebc6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "MineSweep": {
       "name": "Naval Blazing",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/55538c426a7f0799c0c9acc23de91a376a1baa35.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "CannonTarget": {
       "name": "Non-Cannonical",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/17686a01e3d6efe6a8ed98aefa6b41a18189e546.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "CompleteForest": {
       "name": "Save Our Skins",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     }
   },
   "platform": null,
