@@ -1,7 +1,7 @@
 {
   "appid": "1110910",
   "name": "Mortal Shell",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1110910/header.jpg?t=1757606520",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1110910/header.jpg?t=1773766575",
   "achievements": {
     "BarsTended": {
       "name": "Bars Tended",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/eee26378815d4396a0eae554d8f2490d1b4013e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "FaceOff": {
       "name": "Face Off",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/0493a3edbf557805753eb18c5fdafa31b605c1ba.jpg",
       "hidden": false,
       "group": "Mortal Shell: The Virtuous Cycle",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "StepGoal": {
       "name": "Step Goal",

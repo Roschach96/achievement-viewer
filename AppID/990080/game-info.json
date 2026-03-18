@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/3ede5cd4d4e8e217a239bbd4ce0078862730597f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "PFA_17": {
       "name": "Beast Friends",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/e466750e42bc7c80d28db7b64c434f25b71182db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.4"
+      "percent": "85.3"
     },
     "PFA_19": {
       "name": "Flight the Good Flight",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/9f60666a9aef851637ef66f27f85e1c71cf8a8e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "PFA_34": {
       "name": "Floo Around the World",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/80c6a1e8bb97d58cf52afe9f22ce0a27fdbcce67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "PFA_35": {
       "name": "Followed the Butterflies",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/e603fa6f52e5e984d35c0e0897ecda198505b193.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "26.9"
     },
     "PFA_36": {
       "name": "Rise to the Challenges",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/47adf0df129b5f89653bb0dca1e20b02128ba988.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.3"
     },
     "PFA_3": {
       "name": "The Auror's Apprentice",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/996278f7c3712c1f18efd791438aad166d5cceb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "PFA_15": {
       "name": "The Avenging Gazelle",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/ca5fb8d5e0612f69a5649a9f9be0ec8903181635.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "PFA_14": {
       "name": "The Seeker of Knowledge",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/70b3c64e9777c9e92c2f142c588fbb06f0866047.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.1"
     }
   },
   "platform": null,

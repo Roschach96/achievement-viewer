@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "1406001": {
       "name": "A Promise Fulfilled",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.3"
     },
     "301009": {
       "name": "Echoes Unbound",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "1504019": {
       "name": "Egg-cellent Luck",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "301007": {
       "name": "First Resonance",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "1204016": {
       "name": "Goose Slayer",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.8"
+      "percent": "1.1"
     },
     "1503002": {
       "name": "Hexi: Relentless Hunter",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.6"
+      "percent": "2.0"
     },
     "1202003": {
       "name": "Horizon Seeker",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "1405001": {
       "name": "Jinming Pool Secrets",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "1002039": {
       "name": "Mighty Wolf Rider",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "1402003": {
       "name": "Peak of All Arts",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "1203005": {
       "name": "Qinghe · Seeker of Melodies",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "1501031": {
       "name": "Reflections of Obsession",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "1406003": {
       "name": "Speedrun in Granary",
