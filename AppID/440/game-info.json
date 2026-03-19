@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/905f8d39fd06c9627faf6bf426557352ab902ed7.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "TF_PYRO_DOMINATE_LEAVESVR": {
       "name": "BarbeQueQ",
@@ -2332,7 +2332,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/34b787ce4e47ef0e206ecd52626b053da13e18c4.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "TF_MVM_USE_CRIT_BOTTLE": {
       "name": "Kritical Terror",
@@ -2476,7 +2476,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_healed_byenemy_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "TF_MVM_MAX_PLAYER_RESISTANCES": {
       "name": "Maximum Performance",
@@ -2827,7 +2827,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2276bb264fdd4eb556a08b9dad44b7f31ebe180b.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "TF_MEDIC_BONESAW_MEDICS": {
       "name": "Peer Review",
@@ -3151,7 +3151,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/899028390313c6a31ed8d81652507e66438ce862.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "TF_MAPS_FOUNDRY_KILL_ENEMY_ON_ROOF": {
       "name": "Raze the Roof",
@@ -3268,7 +3268,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6b4f426f5c3cefba36d5c879e8d56f4d58bfa3bd.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "TF_DEMOMAN_DESTROY_X_STICKYBOMBS": {
       "name": "Robbed Royal",
@@ -3826,7 +3826,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_sniper_kill_group_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "TF_MEDIC_HEAL_HUGE": {
       "name": "Specialist",

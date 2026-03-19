@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/d2cfd1e0adf1652b3a55ee3e6fd43bb4340dd5e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "ach_accolades_1": {
       "name": "Been There, Done That...",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/0992e334829cd6873106a2427382a5839ab390e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "ach_story_6": {
       "name": "Breaking the Seal",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/29483931a870e1dd9f6609b9d2a61fba4e169bc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ach_accolades_class_1": {
       "name": "Classy",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/5896bc27392059f7e6dcfa1977ed46de3cddab43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "ach_kill_with_statuses": {
       "name": "Coup de Grâce",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2e66a528810b39bd77dc323a8a4af4016e31b8b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "ach_gauss_story_1": {
       "name": "Court Marshal",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/65fe395c972fe0c7a3fa1c60241f0fc598b8b56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "ach_character_level_1": {
       "name": "Fortune Favors the Bold",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/a7aa15bbe08f5f447886d9c16f8d980010f43f53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.7"
+      "percent": "83.6"
     },
     "ach_kills_2": {
       "name": "Gravedigger's BFF",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/1d18879af94b4f4c61391c8648052d9b7802cc63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.3"
+      "percent": "89.2"
     },
     "ach_mod_unlock_milestone": {
       "name": "Inventor's Almanac",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/307a5118d0b138d090426d2de24831f9507f3283.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "ach_killstreak": {
       "name": "Misfortune Loves Company",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/11f45c9bd744f80226b8ae49ccba7970daa3cd0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.1"
     },
     "ach_sidequests_milestone": {
       "name": "Multitasking",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/0cc457efefb956a28073915acfd801a73adb4c80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.4"
     },
     "ach_gauss_story_2": {
       "name": "Null and Void",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/f88d8745d4fdea729fe391203dc13ff103e4fe7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "ach_item_scrap": {
       "name": "One Man's Junk...",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/64f03219febad9f16ca4950e7cb5619b06e4b56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "ach_story_4": {
       "name": "One Way Ride",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/7f96f026a6247a1770a2b19ad2ca1027be8389f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "ach_collector": {
       "name": "Patron of the Past",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/80fd8efa694f4c03a259c5be80476f7adc068366.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "ach_total_damage": {
       "name": "Snap of the Fingers",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/55f959d60fcea2ac6a23d44333cdca61787f1fbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.7"
+      "percent": "70.6"
     },
     "ach_sidequests_all": {
       "name": "Squaretasking",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/0e9ee18865ea5404198e0f9487ba261ab3c0768c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.6"
+      "percent": "77.5"
     }
   },
   "platform": null,

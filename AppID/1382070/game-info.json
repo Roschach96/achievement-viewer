@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/27ef549df371d1e016c455bd2974b4c77bf3572d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACH_BATTERY_DROP_HEAD": {
       "name": "Battered by a battery",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "ACH_COLLECTION_DUCKS": {
       "name": "Get your ducks in a row",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/79b0528cbcdfdd8f37a9c1c68bcb3f0746aafe30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.6"
+      "percent": "83.7"
     },
     "ACH_BREAK_ROPEBRIDGE": {
       "name": "Nope bridge",
