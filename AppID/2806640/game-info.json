@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/5642baf3384a4b8df90cc5860af765c05ddd060e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "Ascension": {
       "name": "Ascension",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/1d8b2bcc4dc1d8f1a76cb4597f3546a7716abf2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "BlessedMessenger": {
       "name": "Blessed Messenger",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/ede78b6b9b7269852f1760b0b92863f0cc2afbdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "BreakDownBarriers": {
       "name": "Break Down Barriers",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/88dd17bcdf0c7fc7ff032b70423150a9bc4f342a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "DealWithTheDeceiver": {
       "name": "Deal With The Deceiver",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/50ba9d205b574496a787ba76946612882c08045e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "Excellent": {
       "name": "Excellent",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/83df07576040fcbc92a07f3a1c14430f2916e853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Fishmaster": {
       "name": "Fishmaster",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/341378f33101b1bdbd122707385cb02efba844b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "FreeWill": {
       "name": "Free Will",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/1837d0b16347eac65925922d45248a39c693b22e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "HallsOfHisTemple": {
       "name": "Halls of His Temple",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/24926e70af83b2815cb1ea89995bf5efe62246b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "HelpFromAbove": {
       "name": "Help From Above",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/d86055e895ca429f808102b20fbfbe67474ead66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "ILoveDemocracy": {
       "name": "I Love Democracy",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/fa2bbc244429a8a32076b4e28b6fb2802d177805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "ItsWorking": {
       "name": "It's Working",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/1f4a5e43b4937bb08d8a2efea70c2fc33010814b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "LogicCheckSuccess": {
       "name": "Logic check... OK",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/a1e7243c34cb20a78ac9f9b14690fc5a6df70d77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.2"
     },
     "OffTheRadar": {
       "name": "Off The Radar",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/c185f97448b38b51259a8b03041f6e1133a65ba9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "OnTheEdge": {
       "name": "On The Edge",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/2260238f6aeb061c54fee152ff932c312c8c13a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "OnTopOfThings": {
       "name": "On Top of Things",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/bb7c26cbd2de629f5f64bc714f33295c8fc6abd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "PressTheSerpent": {
       "name": "Press The Serpent",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/664ae1930df251d9b690fe58ad32cbb8ce33ee2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "SacredGrounds": {
       "name": "Sacred Grounds",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/e04ba8edb2f177a9d34b6f98a793e8f6e34ff5c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "SeeDouble": {
       "name": "See Double",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/35567bcc3ef4897b07e7d35710096b2e1393b909.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "SigilsAreNotEnough": {
       "name": "Sigils Are Not Enough",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/291c9f2c0ed13387cf8e825d7eb9fc0d20d083ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.6"
     },
     "SilenceTheSerpent": {
       "name": "Silence The Serpent",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/8640ab2d848770e764fac32823f28fbd06f6f47f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "SoFarSoGood": {
       "name": "So Far, So Good",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/6e73a4b075fc899211d78793a964322e60834f36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "SplitPersonality": {
       "name": "Split Personality",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/56be1ea36b1db44b1ad5c9970b5dd879139c921a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.3"
     },
     "LandOfFaith": {
       "name": "The Land of Faith",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/284cfe9aa87f8e3264c8f999f8724d7b76499961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "ThoroughResearcher": {
       "name": "Thorough Researcher",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/2d45665b570f9c811e2465ea99e08fae7106f589.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "TowardsJerusalem": {
       "name": "Towards Jerusalem",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/ac14b5bbc2f340ffc80832d5ed4132ae9005410e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "Uplifted": {
       "name": "Uplifted",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/fa39c76dd9d478d53cadb7be5ef04bdf854abdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "WelcomeToGehenna": {
       "name": "Welcome to Gehenna",

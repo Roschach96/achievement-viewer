@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.5"
     },
     "AllMasks": {
       "name": "Beneath the Mask",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1154afc0c2f42bd234b525d82ad18c8c3c5f28f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "AllCritters": {
       "name": "Critter Kill Hit",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/3e4283fa9ff0f3834ee88055aa9197c8802b8db9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "DestructionDerby": {
       "name": "Destruction Derby",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/d8108e9499b7830172c896de6c8c95b53b0921a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ShootPlayer": {
       "name": "Friends Like These",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "SecretEnding": {
       "name": "Friends Reunited",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.5"
     },
     "SecretsChapter2": {
       "name": "Hidden among rats",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/be4bea30cdf809679fae24a5c0f31d7b43735c35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "SecretsChapter3": {
       "name": "Hidden in rubble",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bba035722522accd4ff09c5306a3f23ba27909ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.7"
     },
     "ReachWar": {
       "name": "Into the Abyss",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.2"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "KickSniper": {
       "name": "Just Making Sure",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/90c67d2e9e6cb8ecad7b3fbecd486ae640df4752.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "KillTheKing": {
       "name": "Long Live The King",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/17686a01e3d6efe6a8ed98aefa6b41a18189e546.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "CompleteForest": {
       "name": "Save Our Skins",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8bf0931735abf48f375d0bcca88209caaf63f080.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "KillMotherKids": {
       "name": "Shot Through the Heart",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/eb71899a4f10eeb3f1b764549b09c07a3f487d67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "FailToSave": {
       "name": "Survival Instinct",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     }
   },
   "platform": null,
