@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "SERPENPHARE": {
       "name": "À On",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "LUMIERE_MIME": {
       "name": "A Peculiar Encounter",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "PETANK_ALPHA": {
       "name": "Carreau Parfait",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "LVL3_GRADIENT_ATTACK": {
       "name": "Chroma Proficiency",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "CLEA": {
       "name": "Clea",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0f618d59ada226fc7eb4d4da836cf00916917da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ALL_SONGS": {
       "name": "Connoisseur",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "FIRST_AXON": {
       "name": "First Axon",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/95c39498077ced5d3877d8f67406e3a4555708d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "GESTRAL_VILLAGE": {
       "name": "Gestral Village",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a86a6bd0cf0f4d4768dfb453b73efe2fcff3aaa6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "OLD_LUMIERE": {
       "name": "Old Lumière",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "GUSTAVE_OVERCHARGE": {
       "name": "Overcharge",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "SIMON": {
       "name": "Peace At Last",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9982734563dd247451e61b32041f700740d27297.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "VERSO_PERFECTION": {
       "name": "Perfection",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "ESQUIE_UPGRADES": {
       "name": "Plane, Train, and Submarine",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "NO_DAMAGE_BOSS": {
       "name": "Professional",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "SPRING_MEADOWS": {
       "name": "Spring Meadows",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "WEAPON_FULL_UPGRADE": {
       "name": "Weapon Mastery",

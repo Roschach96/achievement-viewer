@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/9a7d7dbc879cace83e69a7ee28d358536281e9dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "ChangeOfHeart": {
       "name": "Change of Heart",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/15fa865a35ecca4757df26ec9e7e43826078e1ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "DifferentKindsOfGrisha": {
       "name": "Different Kinds of Grisha",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/eee26378815d4396a0eae554d8f2490d1b4013e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "FaceOff": {
       "name": "Face Off",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/8cab3f60e6c61be11e63b98f3980e4c3ccdb1c96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "FadedTheFire": {
       "name": "Faded the Fire",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/6af6e944317588b949431ffa3f0eb7e6f924d056.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "FashionShells": {
       "name": "Fashion Shells",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/b2b4e6b8c98f075a9a40fa6ae54c2dbb1f3c1b50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "FleshAndInstinct": {
       "name": "Flesh And Instinct",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/00022dd6727d5d8a0d96fe8bce3a862ade3b8963.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "GatewayDrug": {
       "name": "Gateway Drug",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/5b49742d7eec523998a8809428b67cd464de18b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "Seedbearer": {
       "name": "Seedbearer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/0493a3edbf557805753eb18c5fdafa31b605c1ba.jpg",
       "hidden": false,
       "group": "Mortal Shell: The Virtuous Cycle",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "StepGoal": {
       "name": "Step Goal",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/aa167e7e646981f12996cc010067a5c8d905cf81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "SugarBaby": {
       "name": "Sugar Baby",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/5228cd44fd412af1f6374601209f6d6d4b70eec5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "TrueNektar": {
       "name": "True Nektar",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/7e8a9015b097ac4a911ca759da73423538d55326.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "YouSeemDifferent": {
       "name": "You Seem Different...",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/a73f20a3c870e806ac61750fd96f3e59e621e1dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     }
   },
   "platform": null,
