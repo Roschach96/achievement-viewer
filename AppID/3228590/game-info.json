@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "14.1"
+      "percent": "14.4"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.2"
+      "percent": "5.4"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/362b94d99cf3171fae4977e9a1fcf338e1f291b9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.9"
+      "percent": "3.1"
     },
     "ACH_LoadoutLegendary": {
       "name": "Blinged Out",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/23907483911cb4ddcd36d7ff59aa700b0ea52e80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ACH_Botanist": {
       "name": "Botanist",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "ACH_CompleteStory1": {
       "name": "Brain in a Jar",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ae8cdad5e46d16e66a325693acc4922fbf1e7e98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.1"
+      "percent": "84.0"
     },
     "ACH_KillAndroidsWithBarrel1": {
       "name": "Contents Under Pressure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3965bc6d50c1c5163a90deead6941d3bd57b7dfd.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/0d57e8bf75ab5aa161171cf512c979e3dc0a0dc7.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "ACH_KillAndroids1000": {
       "name": "Exterminate!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "ACH_FabricateAny": {
       "name": "Fabricate a Beer",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.7"
+      "percent": "70.6"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "38.3"
+      "percent": "38.5"
     },
     "ACH_ReadZone4Logs": {
       "name": "Forbidden Texts",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/1466ad014bebea5662c2ee499204e5166d8f7427.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "ACH_TechUpgrades1": {
       "name": "Gaining Power",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "18.4"
+      "percent": "18.8"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ad46833c16a71280f5866ea635db20dd7463ce46.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "ACH_ActivateSynergy": {
       "name": "Item Alchemist",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "41.1"
+      "percent": "41.3"
     },
     "ACH_CompleteMission_Coop": {
       "name": "Jarheads",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "43.0"
+      "percent": "43.2"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/2aea7e9c7ad6961429eb98587ff6de4c52a49c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.8"
+      "percent": "94.9"
     },
     "ACH_MadeAFriend": {
       "name": "Made a Friend",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.6"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "ACH_CollectScrap50000": {
       "name": "Scrap Pile",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "66.9"
     },
     "ACH_CollectScrap500": {
       "name": "Scrappy",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/80f6771e34eeb33cbba4d38e4770a8babfef5caa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "ACH_CompleteStory2": {
       "name": "Stay Frosty",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/323155ee0faac720d57e3035eb424bae914cb70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.0"
+      "percent": "94.1"
     },
     "ACH_CollectTech1000": {
       "name": "Tech Titan",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/6c797a28f26edc3a3c0ad003ea378d41e2a0c7b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.0"
+      "percent": "81.9"
     },
     "ACH_KillAndroids500": {
       "name": "Terminate This",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3d6fef7c011e6e7c7fd78dd483dbe41ce9a3e1f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.2"
     },
     "ACH_SuperUpgrades2": {
       "name": "This Ain’t Standard Issue",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.1"
     },
     "ACH_ReadAllDataLogs": {
       "name": "Too Long, Didn't Read",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3a846709696add4505209b6a8f74bf22ceeb1d88.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ACH_CompleteMission": {
       "name": "Welcome to the Deadzone",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.6"
+      "percent": "98.7"
     }
   },
   "platform": null,

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8342f6c2630943b056978593315dfb8676e5bbd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.0"
     },
     "COMPLETION": {
       "name": "Completion",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "TRAITOR_LORD": {
       "name": "Execution",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e92b8a9b1382393740a658d9ece0bcad21d0bb03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.5"
     },
     "PANTHEON3": {
       "name": "Focus",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/c98d546145ff3a8b0eed20ca5426b94d714127bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "STAG_STATION_ALL": {
       "name": "Hope",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.0"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1eb53b3fb180df87b48b07a5898aeb8b872b49d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "HORNET_2": {
       "name": "Proof of Resolve",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/ce3e486770249d317f47c8277de5e7047d175cb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "PROTECTED": {
       "name": "Protected",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "COMPLETIONGG": {
       "name": "Pure Completion",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "MANTIS_LORDS": {
       "name": "Respect",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/1720e3ef2802441c9f6f3d4b3ae62ba05109ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "NIGHTMARE_GRIMM": {
       "name": "Ritual",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "PANTHEON4": {
       "name": "Soul & Shade",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/80ba52f035a3418b241c62c1eae7c924ec5705e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.0"
+      "percent": "62.9"
     },
     "ENDING_A": {
       "name": "The Hollow Knight",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "HUNTER_2": {
       "name": "True Hunter",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "QUIRREL_EPILOGUE": {
       "name": "Witness",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     }
   },
   "platform": null,
