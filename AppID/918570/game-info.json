@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/918570/85c3b9550bf9ce39ac65a0423dfe81c9cc6cacb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "FinishTutorial": {
       "name": "First Flight",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/918570/cecbc89d8af556304b24807059ef22e1d7453afa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "Bank400Gold": {
       "name": "Gold Hoarder",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/918570/b7f63ca5b5f76eb1d91022f3771cc55c8b5f7f29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "Make50Eliminations": {
       "name": "Killer",
