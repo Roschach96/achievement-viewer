@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/0f8a1ebb0321fdb25738f7d93b989e503c6013b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "completeGameWithoutUsingAbilityPoint": {
       "name": "Elite",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/715b779a64cc17c0f7eae1b0e4b833b9f823e402.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "completeGameWithoutDying": {
       "name": "Immortal",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/c721a74e9d75dd221de36a3a10891a2e08d54769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "juggleRock": {
       "name": "Juggle Master",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/65266b65ae3df4373862c07b4785f6574191514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     },
     "createLotsOfSoulLinks": {
       "name": "Life Saver",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/f7b397a6e8ca35b1b94922ab03382e7f054d3f61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.2"
     },
     "collectAllHealthCells": {
       "name": "Master Guardian",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/589ae8050437f1118df599f1f2bc8747d47126a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "discoverAllMap": {
       "name": "Master of the Forest ",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/6dc6c92be86489f9e1229bbb32e20429bcbe465a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "collectAllEnergyCells": {
       "name": "Powerhouse ",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/14d8f9a2f4ebd526e58a902d9f13cc86dfa4ed7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.8"
     },
     "ressurectedGinsoHeart": {
       "name": "Run for Your Life",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/ee3997289012712253ce1dfd1016245069f22e94.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "collectBranchOneSkills": {
       "name": "Soul Master",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/387290/e8065b1dd0e14045e2f37765f1dcbd0f1f01719e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     }
   },
   "platform": null,

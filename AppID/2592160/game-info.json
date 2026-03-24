@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/31db4c4ed1846cbcfc98cfe3d431204acb3e8738.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "ACH_HIRED": {
       "name": "\"Did I drool on you?\"",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3d39877b880191d545b67756ddbfcf29c25ae8b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_FIRST_SHOT": {
       "name": "\"It smells very chemically in here.\"",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/da03fcb8a60937b593a831925aaf7df228861ed3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.6"
     },
     "ACH_STORE": {
       "name": "\"There. You happy now?\"",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3b603e1dfd03869565072af80d2c2898c3286184.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH_TIE": {
       "name": "\"Watch your back, Robert.\"",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.9"
+      "percent": "81.0"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.7"
+      "percent": "81.8"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5635b07c4074b4fbc817c5ff4d60c392d4291b5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.4"
     },
     "ACH_HEAL_TWICE": {
       "name": "Phoenixes Down",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "ACH_TRAIN": {
       "name": "Power Trip",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.2"
+      "percent": "73.3"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
