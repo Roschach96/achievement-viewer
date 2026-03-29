@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
   "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/1e6d30e2bf3200f6c972d71b968f0ab82c8916e9/header_alt_assets_5.jpg?t=1774000818",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/d0fbd193f4a68c7563ae47ab3322d08f184633f9/header.jpg?t=1774000818",
   "achievements": {
     "20000017": {
       "name": "\"Ahhh, those tiny claws!\"",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "20000008": {
       "name": "Justice for All! ",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6a67c1e841f27aec6be5547745902d40c570f071.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "10000005": {
       "name": "Onslaught!",
