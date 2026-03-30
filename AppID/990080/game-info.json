@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/c52f0bb4243967c409d8125e788483c3eb76b816.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "PFA_23": {
       "name": "A Keen Sense of Spell",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/d3fd39cd6d573ed5d9e102fcf042c00e003c462d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.6"
+      "percent": "72.5"
     },
     "PFA_18": {
       "name": "A Sallow Grave",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/8ac99392d7850a4dfbc52be58237825d31afa3d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "PFA_21": {
       "name": "Challenge Accepted",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/22b6e534eac3b5e9363fb56e137245c5abe3657a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.3"
     },
     "PFA_27": {
       "name": "Going Through the Potions",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/4b0f0166341563f75dad74ae6507f45bd6633df7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "PFA_24": {
       "name": "Loom for Improvement",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/efd0279b97c404541e0504fdba87cda1ad629534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "PFA_37": {
       "name": "Merlin's Beard!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/1a65e332e7281ce256f7cab7021df7d3fdf62802.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "PFA_32": {
       "name": "Room with a View",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/9ec1680a9f088cc1abc909b94ced35699a9aa1b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "PFA_31": {
       "name": "Savvy Spender",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a8a1944ec34e2405b24c7c33389491f00f1df851.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "PFA_16": {
       "name": "The Defender of Dragons",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/d3e3b3c319f67d37d492ccda01b127db3ed794fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "PFA_41": {
       "name": "The Ends Petrify the Means",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/093c6bdc6a16e489e1d5a95737583d018337443d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "PFA_12": {
       "name": "The Hallowed Hero",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/57d9b6ac397bb8dbfce0c970e6c9b6e69538690f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "PFA_38": {
       "name": "The Intrepid Explorer",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/debb35fb04fb5f7bdfd112ff7f01cef57542f796.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "PFA_7": {
       "name": "Troll with the Punches",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/70b3c64e9777c9e92c2f142c588fbb06f0866047.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.0"
     }
   },
   "platform": null,
