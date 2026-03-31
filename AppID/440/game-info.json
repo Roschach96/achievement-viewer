@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_play_game_friends_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "TF_SOLDIER_DUO_SOLDIER_KILLS": {
       "name": "Brothers in Harms",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5a26af89a8d51b22f1d7665e5fc4163fc23f8904.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "TF_PYRO_CAMP_POSITION": {
       "name": "Camp Fire",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3cbff38aab9346c884b92310a2e0ab35e6bb5fdf.jpg",
       "hidden": false,
       "group": "Update 15",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "TF_HALLOWEEN_DOOMSDAY_TINY_SMASHER": {
       "name": "Carnival of Carnage: Arms Reduction",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/89d0ada548faa8bb391137a577f53f36a8218f13.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "TF_SPY_BACKSTAB_DISGUISED_SPY": {
       "name": "Counter Espionage",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8e5d2e7506435723314046bffc20f995a006aeb4.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "TF_MVM_MAPS_ROTTENBURG_BOMB": {
       "name": "Crasher Crusher",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/726eda799d20f0fedb4a8d3880c3f1f8e0ce8522.jpg",
       "hidden": false,
       "group": "Update 19",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "TF_HEAVY_KILL_FLAG_CARRIERS": {
       "name": "Crime and Punishment",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/81a0db8106bb2bb04f7a01218d50a01878c46b5f.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "TF_MVM_ROCKET_SPECIALIST_STUN_GRIND": {
       "name": "Dazed and Defused",
@@ -1756,7 +1756,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/60960eae646747412c3867db93b0d1076e4fc609.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "TF_PYRO_BURN_SPY_TAUNT": {
       "name": "Got A Light?",
@@ -2242,7 +2242,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e5e75bfc78f897e3bde0fa12a0e0a984ed83e159.jpg",
       "hidden": false,
       "group": "Update 23",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "TF_SNIPER_JARATE_KILL_MELEE": {
       "name": "Jarate Chop",
@@ -2656,7 +2656,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "TF_PYRO_BURN_MEDICPAIR": {
       "name": "Next of Kindling",
@@ -3214,7 +3214,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bd63a21bf0d49e5227e3e31b71b139dcbf3506d2.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "TF_WIN_HYDRO_NOENEMYCAPS": {
       "name": "Relentless Offense",
@@ -3322,7 +3322,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bb6e9099e29244f656819136ae11ce9fa3d5da15.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "TF_TAUNT_RPS_SCISSORS": {
       "name": "Running With Scissors",
@@ -3367,7 +3367,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a9a209bb97b14d1244f12ce66f1249c5c9ac24e8.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "TF_SNIPER_JARATE_GROUP": {
       "name": "Saturation Bombing",
@@ -4105,7 +4105,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3db864d73dcbdce2d9138f1a34d5e49e87b279f3.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "TF_SOLDIER_BUFF_TEAMMATES": {
       "name": "The Boostie Boys",
@@ -4366,7 +4366,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/00b875a0d37242fedd8a9dbbf40453f615f2464f.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "TF_SPY_BACKSTAB_SNIPERS": {
       "name": "Triplecrossed",
@@ -4672,7 +4672,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/fbcb7b80e90bffb8f549bb6b3288c32697ddea0c.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "TF_MEDIC_ASSIST_SCOUT": {
       "name": "You'll Feel a Little Prick",

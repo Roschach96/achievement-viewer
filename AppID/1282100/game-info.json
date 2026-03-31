@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "Upgrade_Boss_Weapon_B": {
       "name": "Almost There",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "Obtain_Boss_Weapon": {
       "name": "Boss'n Up",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.8"
     },
     "Obtain_Water_Harp_Item": {
       "name": "Carnage in C-Minor",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "Craft_Weapon_Mod_B": {
       "name": "Crafty",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "Obtain_Archetype_Dual": {
       "name": "Duality",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "Obtain_Archetype": {
       "name": "First of Many",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.7"
+      "percent": "92.8"
     },
     "Defeat_Final_Boss": {
       "name": "Forever is a Long Time Coming",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "Upgrade_Standard_Weapon_A": {
       "name": "Good, but Could be Better!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "DLC2_Obtain_Archetype": {
       "name": "Master of Elements",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.2"
     },
     "Defeat_Special_Enemies": {
       "name": "Not so special now",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "DLC1_Defeat_OneTrueKing": {
       "name": "Regicide",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Awakened King",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "DLC2_Complete": {
       "name": "Requiem of the Forgotten Kingdom",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "Obtain_Archetype_Secret": {
       "name": "Shhh...It's a Secret",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8"
     },
     "DLC3_Obtain_Bastion": {
       "name": "Still Not a Janitor",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "Defeat_Mantis": {
       "name": "The Killing Jar",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "Obtain_Guns_B": {
       "name": "The Trigger",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "Upgrade_Boss_Weapon_A": {
       "name": "The Ultimate Weapon",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "Obtain_Archetype_Level": {
       "name": "Top Performer",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "Upgrade_Weapon_Mutator": {
       "name": "Transmutate",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "DLC1_Obtain_Warden_Reward": {
       "name": "You Shall Pass",

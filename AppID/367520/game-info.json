@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a577316f7ae64c8cfdd0568209a915a9fad0f8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "PANTHEON1": {
       "name": "Brotherhood",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "TRAITOR_LORD": {
       "name": "Execution",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "WHITE_DEFENDER": {
       "name": "Memory",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f922c5de7ecfb30d3f7287e5fc472d669ec67fb8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "NEGLECT": {
       "name": "Neglect",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "COMPLETIONGG": {
       "name": "Pure Completion",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/80ba52f035a3418b241c62c1eae7c924ec5705e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "62.8"
     },
     "ENDING_A": {
       "name": "The Hollow Knight",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "COLOSSEUM_1": {
       "name": "Warrior",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     }
   },
   "platform": null,

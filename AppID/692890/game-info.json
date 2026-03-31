@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/6c3be76f8b97c74c9ca501be6bdf7c3c06053f5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "BOSS_TAKEDOWN_SILVER": {
       "name": "Boss Punisher (Silver)",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/02b0fed5e1cb2d15856e45a18669796ea4c36367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "ENGINEER_UNLOCK": {
       "name": "Engineer",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/dbc092c2402813c76b1378c7beba13b19284b79f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "BROBOT_REBOOTED": {
       "name": "Field Mechanic",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "ENGINEER_FINISH_GAME": {
       "name": "Science Above All!",

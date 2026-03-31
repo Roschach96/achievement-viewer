@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "LUMIERE_MIME": {
       "name": "A Peculiar Encounter",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/116758b973e6d42226cdb8d69ef63783b9595759.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "NEVRON_QUESTS": {
       "name": "Aiding the Enemy",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "FORGOTTEN_BATTLEFIELD": {
       "name": "Forgotten Battlefield",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "GUSTAVE_OVERCHARGE": {
       "name": "Overcharge",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d01ce52bd3d66c59b277bc01d970bf3dc322769.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "LUNE_STAINS": {
       "name": "Perfect Flow",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/26b6bf703dfbf65c102b5d2a48b99522c38e9b75.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "THE_END": {
       "name": "The End",
