@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/25f0c45d28b26ff2a70563205747a9a40f72bac1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "ACH_COLLECT_FILTERS_ALL": {
       "name": "Hashtag all filters",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/b2fb037e599cc2e9e1198b3c3c912daefa4ebe58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "ACH_PLAYINGCARDS": {
       "name": "I fold",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/6d49f31b3e5322ef9cf92dad24da7e900f65932e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.7"
     },
     "ACH_COLLECTION_MAGNETS": {
       "name": "I stuck with it",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/79b0528cbcdfdd8f37a9c1c68bcb3f0746aafe30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.6"
+      "percent": "83.7"
     },
     "ACH_BREAK_ROPEBRIDGE": {
       "name": "Nope bridge",

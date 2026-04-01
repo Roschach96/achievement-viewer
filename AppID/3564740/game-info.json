@@ -33,8 +33,8 @@
     "1505021": {
       "name": "Alone in Chang'an",
       "description": "Complete Hexi Jianghu Legacy: The Homeward Vow.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/984bce5376b194858776453b478fbaa44d4953fe.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/70dcb704a7941dc6f0d3d32cc763a706308d6d2e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Update 1",
       "percent": "0.0"
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/a91d3a291e8910cfa658b590e62194cd326b1fab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "401004": {
       "name": "The Grand Strategist",
@@ -380,6 +380,15 @@
       "hidden": true,
       "group": "Base Game",
       "percent": "11.3"
+    },
+    "9999001": {
+      "name": "The Unspeakable Victory",
+      "description": "The move that renders you unstoppable. A secret best kept silent.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/55f195e04819acf3c55a6a77e5f3715e9f2f5c02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/5660ec8db1dd56b100d9902b04a5ee602e57d085.jpg",
+      "hidden": true,
+      "group": "Update 2",
+      "percent": "0.0"
     },
     "1201007": {
       "name": "Victory in the Abyss",
