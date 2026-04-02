@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/1466ad014bebea5662c2ee499204e5166d8f7427.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACH_TechUpgrades1": {
       "name": "Gaining Power",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "80.9"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACH_PonderOrb": {
       "name": "Ponder Orb",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "ACH_CollectTech100": {
       "name": "Tech Enthusiast",

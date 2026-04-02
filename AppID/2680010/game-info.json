@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "Boss_14": {
       "name": "Hismar the Berserk Dragon",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "Boss_09": {
       "name": "Linon's Beast",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "Mission_09": {
       "name": "Merchant's Wisdom",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "Mission_08": {
       "name": "Resourceful Merchant",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "Mission_15": {
       "name": "Special Scroll",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.2"
     }
   },
   "platform": null,

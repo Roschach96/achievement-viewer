@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "TFD_ACHIEVEMENT_24": {
       "name": "Good Things Happen Twice",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "TFD_ACHIEVEMENT_6": {
       "name": "I Can See the Future of the Colossi",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "TFD_ACHIEVEMENT_7": {
       "name": "Power! O, Infinite Power!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.4"
+      "percent": "83.5"
     },
     "TFD_ACHIEVEMENT_15": {
       "name": "Ready, Extract, Complete",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "TFD_ACHIEVEMENT_12": {
       "name": "Slot Maketh Module",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2074920/d0b0cf43611585c3ecf5aab173c34a3f13ce461f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     }
   },
   "platform": null,
