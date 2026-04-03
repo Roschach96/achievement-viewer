@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3ad1699cc3cdf3a6051a92fac2c0521912cbfa40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "WatchDogs_Ach_23": {
       "name": "Black Hat Trick",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/38e9478bc53550a3757b5f9db30cbe260cd13215.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "WatchDogs_Ach_39": {
       "name": "Clear Signals",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/baf72999baede6c899924fceeed63aa1ebb28914.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "WatchDogs_Ach_14": {
       "name": "Communication Fail",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/fd89f0850b43f469c7c3d3bfaf4cc73c1cf524f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "WatchDogs_Ach_30": {
       "name": "Disk Space Full",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ae0c70c75b4dbc5e6c75616917a206c60e79c531.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "WatchDogs_Ach_18": {
       "name": "Escape Loop",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/408c2aba9c081df86c8d6a6858511d5ece6241f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "WatchDogs_Ach_8": {
       "name": "Family Man",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/bb1803438a995357afe34cffe5e55e33640a1cf7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "WatchDogs_Ach_19": {
       "name": "Free Radical",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/07c9128d8b374a93b1f293b418e2f0cfbf4154c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "WatchDogs_Ach_37": {
       "name": "Freeware",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/28d223fa8ab5ea7d9199fc4b00081b023c128ecd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "WatchDogs_Ach_22": {
       "name": "Hardware Fail",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f9e186732b9d6bb5f278bae6f60a18c981f095d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "WatchDogs_Ach_12": {
       "name": "Log Off",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/20dc128ce9caca62a52b8777cbfa210c8cbbf22a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "WatchDogs_Ach_17": {
       "name": "Magic Smoke",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/88a02bad9414e22d306c51470eaaea8dbfc44952.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "WatchDogs_Ach_24": {
       "name": "Revoking Client Privileges",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5c92bbc7b7c522bfd2b1ab33c39f6063a3cbb983.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "WatchDogs_Ach_20": {
       "name": "White Rabbit Object",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3985895c92f59dac033f7319a5ee04111fd2b514.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     }
   },
   "platform": "Ubisoft",

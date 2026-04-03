@@ -64,7 +64,7 @@
       "icongray": "https://Roschach96.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "MAP": {
       "name": "Cartographer",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "CHARMED": {
       "name": "Charmed",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8342f6c2630943b056978593315dfb8676e5bbd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "76.9"
     },
     "COMPLETION": {
       "name": "Completion",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "NAILSMITH_SPARE": {
       "name": "Happy Couple",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/512e98007863df71f4531d08676464c6aceea95d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "COLLECTOR": {
       "name": "Obsession",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/83ad82ce253a66e89e6ee51eb37db2fd0f781e10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "WATCHER": {
       "name": "Watcher",

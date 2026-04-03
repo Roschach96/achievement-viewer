@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/83c0143a0297bdcad28348fc9d6df2b39fbc121d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "AchDailyChallenges4": {
       "name": "10 In The Top 10",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/a40c21092dabcb98245c064ff53f8e60bbe8bfb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "AchCompTracks20": {
       "name": "20 Tracks",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/fe9945f96d8a227cf1a5c2352b4c640e016384b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "AchHardTrack4": {
       "name": "800%+",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/3de7efb87d6184293c9e399eef57e0f0e5770891.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "AchShip4": {
       "name": "Burn It Up",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/d01edb335bfc3e02ecf577818c81cbd141734b19.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "AchArmoury_CleanSweepKills": {
       "name": "Burning Sweep",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c3a3e1c751c86b0c3ec98eb4486e1acb39a49b75.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "AchDailyChallenges2": {
       "name": "Challenge Contender",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "AchShipTracks3": {
       "name": "Criminal",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/da1c58e504512bf7d8372eb47c3082dcaa93d25d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "AchCompOST5": {
       "name": "Fractal Diver",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "AchCompOST6": {
       "name": "Lethal Trip",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/21fbbb709e1fd4d53010dde25c9bfb8466c742f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.5"
     },
     "AchArmoury_EMPHits": {
       "name": "Out Of Action",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/2d0ac75026e7262555104cfa2561ebd5a7af5b87.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "AchFun_Rickroll": {
       "name": "Rickroll",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/dad8e28f95b35de7b40cd0a8add8a2d569476c30.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "AchShadow4": {
       "name": "Shadow Ops 25",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f0f700cc5be52effc78065adf775cb1e9290a061.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "AchCompOST10": {
       "name": "Stadium Wave",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "AchCompTracks100": {
       "name": "Track Master!",
@@ -919,7 +919,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c3a3e1c751c86b0c3ec98eb4486e1acb39a49b75.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "AchShip7": {
       "name": "WAR!",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/84859df3a0ff9da9f5be09ac257b26309af59e8e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "AchShipTracks6": {
       "name": "Wide Spread Carnage",

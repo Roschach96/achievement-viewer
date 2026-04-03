@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/8137daff4bea5d06727c9366abb0f11006b8b1d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "DEFEAT_OC_1": {
       "name": "Family Meeting",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/5ccb3c5325bd466fd4372a13e54f710a36110179.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "HERO_PROGRESSION_1": {
       "name": "First Step Into the Knight",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.1"
     },
     "CRIME_FIGHTER_2": {
       "name": "Not On My Watch",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/41a16a750847141c450e71f91f473c25a1f483c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "GOTHAM_COO_PAGES": {
       "name": "Read Owl About It",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/846d2589e0f6b5456309659bb2513b92de7ae5d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "CLAYFACE_1": {
       "name": "Something in the Clay",
