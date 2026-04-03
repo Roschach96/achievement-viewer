@@ -19,9 +19,11 @@ async function loadGameDataWithCache() {
         let data = null;
         let needsFullFetch = true;
 
+        const cacheBust = `?t=${Date.now()}`;
+
         // 1. SMART CHECK: Fetch only the first 200 bytes to check the timestamp
         try {
-            const partialResponse = await fetch(baseUrl + 'game-data.json', {
+            const partialResponse = await fetch(baseUrl + `game-data.json${cacheBust}`, {
                 headers: { 'Range': 'bytes=0-200' },
                 cache: 'no-cache'
             });
@@ -32,7 +34,8 @@ async function loadGameDataWithCache() {
 
                 if (match && match[1]) {
                     const serverTimestamp = match[1];
-                    
+                    console.log(`🕐 Server timestamp: ${serverTimestamp} (${new Date(serverTimestamp * 1000).toLocaleString()})`);
+
                     if (cachedTimestamp && cachedGames && serverTimestamp === cachedTimestamp) {
                         console.log(`✓ Smart check: Timestamp unchanged for ${userInfo.username}, using cache.`);
                         return JSON.parse(cachedGames);
@@ -52,7 +55,7 @@ async function loadGameDataWithCache() {
         // 2. Full Fetch (only if smart check found an update or failed)
         if (needsFullFetch) {
             console.log(`Fetching full game data for ${userInfo.username}...`);
-            const dataResponse = await fetch(baseUrl + 'game-data.json', {
+            const dataResponse = await fetch(baseUrl + `game-data.json${cacheBust}`, {
                 cache: 'no-cache'
             });
             
@@ -89,6 +92,7 @@ async function loadGameDataWithCache() {
                 localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
                 localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
                 console.log(`✓ Cache updated successfully for ${userInfo.username}`);
+                console.log(`🕐 Cached timestamp: ${lastUpdated} (${new Date(lastUpdated * 1000).toLocaleString()})`);
             } catch (e) {
                 if (e.name === 'QuotaExceededError' || e.name === 'NS_ERROR_DOM_QUOTA_REACHED') {
                     console.warn('⚠ LocalStorage quota exceeded. Caching disabled for this session.');
