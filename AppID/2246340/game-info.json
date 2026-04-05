@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/ccbc7133215dee5901153e2830dddb0f003a6605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.0"
     },
     "MEDAL_009": {
       "name": "A True Hunter Is Never Satisfied",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/6e0d6bb38bad3d8376adbac08258261c1b8f955a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "MEDAL_023": {
       "name": "A-fish-ionado",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/9ba959fea47184f35d1b2b835b988fe891adfe9c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.2"
+      "percent": "75.1"
     },
     "MEDAL_024": {
       "name": "Campmaster",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/06f9f9e48b9898935b5e9d2561aac530494c125b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.9"
+      "percent": "61.8"
     },
     "MEDAL_043": {
       "name": "Capture Pro",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/574063ea25cfc4a4451ba34b92b07ff25ecdc76a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "MEDAL_013": {
       "name": "East to West, A Hunter Never Rests",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/6e5279dbd42e918e411c6bbfa2c3757f5d02e1c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "MEDAL_042": {
       "name": "Giant Crown Master",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/5ad81772be7e6081283054e0054d16998631af51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.7"
     },
     "MEDAL_036": {
       "name": "Seasoned Hunter",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/8ed3fd490cf157c0454cc82b8b3d4cd4a3d79056.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.5"
+      "percent": "85.4"
     },
     "MEDAL_011": {
       "name": "The Hunt Is On!",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2246340/c1f9ce9ff4245ee1396a57c2fb21b017b5aa7a62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "MEDAL_016": {
       "name": "Was It a Meal to Remember?",
