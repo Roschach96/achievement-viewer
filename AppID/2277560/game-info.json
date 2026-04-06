@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/ada597a820b1d1b450a28f1a167f5b66e2756def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "ACH_COPPER_14_F": {
       "name": "Blightweaver - Great Centipede",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/ef89b8c67b47e69cd97777f5c860dcf5c733ac6b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "ACH_SILVER_05_F": {
       "name": "Legendary Collector",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/f72c28468802e554c7a565462ecc1adc6eebb90f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "ACH_SILVER_06_F": {
       "name": "Pendant Gatherer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/244998e557e31c9b0a0ccd3c88807985a504ecfb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ACH_COPPER_27_F": {
       "name": "Quelling Madness",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "ACH_COPPER_04_F": {
       "name": "Well Met, Divines",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2277560/6fc823b16d40238d837f838a3e4e6538772df77a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     }
   },
   "platform": null,

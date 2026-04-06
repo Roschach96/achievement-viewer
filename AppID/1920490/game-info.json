@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ba90f832d20af7196886faa5bf80b3d0cb75d62c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "NEW_ACHIEVEMENT_1_13": {
       "name": " Tossball All Star",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/309676463cfff9691af7160898433ecdbf1c2c5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "Destroyer of Worlds",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/aec35a21fc450535bb7d0efdbdc18028fa940832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "NEW_ACHIEVEMENT_2_18": {
       "name": "NDA Protocol",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/5e0c0bf856f59b25496335d2e913d60ddc98c15a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Not the Best Choice",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/678b4e486678138000c061c2cb7c745d2fea180e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "One for All",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/cab500c6972bc498c9ba3219c9c6108aa1c05057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Something's Fishy",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/3860a6c4ba082d9d7ccc2645b5835f18f13a0399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     }
   },
   "platform": null,

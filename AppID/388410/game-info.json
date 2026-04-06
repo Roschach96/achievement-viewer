@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/82510f580048da8e5c38908bc35c267fbadaf6c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "IS_THERE_ANYONE_ELSE": {
       "name": "Is There Anyone Else?",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/5d7ccc3dae9062895b3bf0b8b55ecc85195cc65c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "THE_BIG_BOSS": {
       "name": "The Big Boss",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/294dd2baeebee1263b4da60d3495395194e89f08.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "THE_TOLL_OF_KINGS": {
       "name": "The Toll of Kings",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/2b5d55bda4e8adcbc5361fcf33e06026883d677d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "TO_MOVE_A_MOUNTAIN": {
       "name": "To Move a Mountain",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/388410/7b760b6edb7ce5d39c1354bbb2f8d3ee38dacbe8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     }
   },
   "platform": null,

@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "TLOTF_ACHIEVEMENT_008": {
       "name": "Ammunition Collector",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "TLOTF_ACHIEVEMENT_018": {
       "name": "Carving Out Victory",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "TLOTF_ACHIEVEMENT_051": {
       "name": "Vengeful Reflection",

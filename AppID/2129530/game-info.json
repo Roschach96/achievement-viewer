@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.9"
     },
     "AllMasks": {
       "name": "Beneath the Mask",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/dfecc76050de755c2bd4dafdf24d75dc6ed0c5bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ComfortPig": {
       "name": "Creature Comforts",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "SecretEnding": {
       "name": "Friends Reunited",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "SecretsChapter2": {
       "name": "Hidden among rats",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "KickSniper": {
       "name": "Just Making Sure",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/71c993da3f5e8e16d74f6c5cbface7369a28ebc6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "MineSweep": {
       "name": "Naval Blazing",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/d7b7cf84403023c81e2c109ab0ba6cea1e2f77b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "SitDown": {
       "name": "Take a Load Off",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     }
   },
   "platform": null,

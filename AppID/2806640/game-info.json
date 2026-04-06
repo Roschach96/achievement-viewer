@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/4469bb7ed2ae808fe975596218c496ea31dc7f54.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "AndSoItBegins": {
       "name": "And So It Begins",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/5642baf3384a4b8df90cc5860af765c05ddd060e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "Ascension": {
       "name": "Ascension",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/83df07576040fcbc92a07f3a1c14430f2916e853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "26.9"
     },
     "Fishmaster": {
       "name": "Fishmaster",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/341378f33101b1bdbd122707385cb02efba844b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "FreeWill": {
       "name": "Free Will",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/de37416b9eaf50fe4c287b30c1c5db39e1e122a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "GameTheory": {
       "name": "Game Theory",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/14ed56b99ea33df9198c5bc582f6e10858f9de3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "80.7"
     },
     "HappyAccidents": {
       "name": "Happy Accidents",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/a1e7243c34cb20a78ac9f9b14690fc5a6df70d77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.2"
     },
     "OffTheRadar": {
       "name": "Off The Radar",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/35567bcc3ef4897b07e7d35710096b2e1393b909.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.6"
     },
     "SigilsAreNotEnough": {
       "name": "Sigils Are Not Enough",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/284cfe9aa87f8e3264c8f999f8724d7b76499961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "ThoroughResearcher": {
       "name": "Thorough Researcher",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/2d45665b570f9c811e2465ea99e08fae7106f589.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "TowardsJerusalem": {
       "name": "Towards Jerusalem",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2806640/eb1dcf68a1035d0c71187c398441bf0ed802d2c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     }
   },
   "platform": null,
