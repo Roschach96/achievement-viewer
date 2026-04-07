@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/7beec116e3c143bfbc81b05be230cec02567f1d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ITEMS_EQUIPPED": {
       "name": "Bazaar Best Friend",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/cb01bec674507796790c20a3f9f3eaa7e73df335.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "BOSS_TAKEDOWN_BRONZE": {
       "name": "Boss Punisher (Bronze)",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/beebf55b6dd3604eac279b2b1cbe6c726407fca8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "BOSS_TAKEDOWN_GOLD": {
       "name": "Boss Punisher (Gold)",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "CRYSTAL_UNLOCK_GOLD": {
       "name": "Crystal Claimer (Gold)",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/74595bd6c0919e7656b408d7534475a00415fdff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "CRYSTAL_UNLOCK_SILVER": {
       "name": "Crystal Claimer (Silver)",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/3290ae972f4b21516e4b4ee4dca992ee59fadcb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "82.0"
     },
     "DAMAGE_DEALT_GOLD": {
       "name": "Damage Dealer (Gold)",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "UNTOUCHED_BOSS": {
       "name": "Easy Peasy",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/42fba3caebfc20aca1e7269f5bf60289ff24a7f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "ENDLESS_MUTATOR": {
       "name": "Evolution",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ca951d071aaf4717c5f1d82c6f7a5797ae0eb7bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.8"
     },
     "LOG_UNLOCK_BRONZE": {
       "name": "Log Collector (Bronze)",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.3"
+      "percent": "76.4"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/892885555fbd752d8ab56ed519104b0198860ffa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "WONKABAR_TRIGGER": {
       "name": "Master Gambler",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/880aec919973919ef11a0c86dd13dee4411e3f8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "ACT3_COMPLETED": {
       "name": "Moonwalker",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "MAX_LEVEL_REACHED": {
       "name": "Muscle +4000",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "LOOT_BUDDYBOT": {
       "name": "My Little Buddy",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/409950a971c212595f876f02f54bf8431c5cc0fd.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "BUS_JUMP": {
       "name": "Party Bus",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4d75df81bed07285693766fd7a520f9aba9815fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ENDLESS_UNLOCK": {
       "name": "Portal Online!",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/edf6176ffa348a9c234d8210c8b991f712781be6.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "POWERCELL_GATHER_BRONZE": {
       "name": "Powercell Gatherer (Bronze)",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/f4331e1a004eec3595e5df89395148d3e86fc823.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "FINISH_GAME": {
       "name": "Reboot",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/db2cd288b28687dfeba62c06f4361e31961f1e92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "SUPERBOT_FINISH_GAME": {
       "name": "Revenge",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/af81a5eff2e1314451afda7c7296ab842a2e9edc.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "ENEMY_DESTROY_BRONZE": {
       "name": "Robo-Regulator (Bronze)",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4565d67072a2c032bd4189ae4de4c796980a81fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "LOOT_SHOVEL": {
       "name": "Shovel Knight",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/201ce964fd7c6dec9444ae4205f62f9c2983ce31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "COMMANDO_MULTI_ROCKET": {
       "name": "Special Delivery",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e388e8d9d8b5aa0eafb917534cf4d2199993c7fb.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "RECON_MULTI_SLASH": {
       "name": "Sushi Master",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/f0d18740453f3be37a3ab4d2ad34ee83a1d3300f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ACT2_COMPLETED": {
       "name": "Taking it Back!",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     }
   },
   "platform": null,
