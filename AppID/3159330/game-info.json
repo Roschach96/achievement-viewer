@@ -1,7 +1,7 @@
 {
   "appid": "3159330",
   "name": "Assassin’s Creed Shadows",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1774551195",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420",
   "achievements": {
     "ACShadows_Ach_2": {
       "name": "A New League Rises",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3dfcccb1debb1440bbee9a5b68f0ad7b3789a262.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.9"
     },
     "ACShadows_Ach_72": {
       "name": "All Clear",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/dbd7b6a1fb3091c7ed256252899ffdf6bdfd7f5c.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACShadows_Ach_3": {
       "name": "An Oath Fulfilled",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2e689359eabdf85d1bd1ee56cb10a684349d3b32.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "ACShadows_Ach_16": {
       "name": "Art of Kenjutsu",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2a39e54526e89824e9d524df9cd2bca0dab54759.jpg",
       "hidden": false,
       "group": "Assassin's Creed Shadows - Claws of Awaji",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "ACShadows_Ach_66": {
       "name": "Backfire",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3f66c03a72b2d7b510f751a02bdbde59e31b88e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "ACShadows_Ach_47": {
       "name": "Chase the Morning",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/199c7f28f395633368bed07fa03d925730b9f3a5.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "ACShadows_Ach_6": {
       "name": "Death Blossom",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3c3bf15a289976142c8fa6ea40c76c24750bd532.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACShadows_Ach_56": {
       "name": "Enjoy the Ride",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/afadb373ee90df85d4cb24d0682282f46984aa98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "ACShadows_Ach_50": {
       "name": "Happy Place",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9187f5a2b58a9b7462882c1a04fcc52d2d4705fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "ACShadows_Ach_19": {
       "name": "Limitless",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/d879ab736b9b455a04ec0657360816f979500757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ACShadows_Ach_1": {
       "name": "Prologue",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0924fa87013f572f228743d58591ec9ba7639128.jpg",
       "hidden": true,
       "group": "Assassin's Creed Shadows - Claws of Awaji",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACShadows_Ach_23": {
       "name": "Reeding is Fundamental",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/297bff3d27b3dc886ba216895179eb6c75a3099e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACShadows_Ach_57": {
       "name": "Stars Unseen",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1620ff8a165626322f8090c6c3ff1c1a15a9dba7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACShadows_Ach_9": {
       "name": "The Eager Assassin",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/94b51794e71fe05fb5a38406ed797d0d2cec3d2d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "ACShadows_Ach_63": {
       "name": "The Stick of Truth",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/cc7104b3d32b5f1c9c2f81ac23fe7100108eaa01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "ACShadows_Ach_61": {
       "name": "Unity",
