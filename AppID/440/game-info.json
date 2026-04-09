@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e0a08c4a19a93f352f7b9f83ca28bc853c3dceb5.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY": {
       "name": "Cap Trap",
@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ec6f89035a26a2799163c9f99c6198633790591e.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "TF_MAPS_FOUNDRY_BACK_AND_FORTH_BATTLE": {
       "name": "Dead Heat",
@@ -1306,7 +1306,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5c5fbf78c3b23c22542d7b841dbd7a9d3e84c719.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS3": {
       "name": "Engineer Milestone 3",
@@ -1657,7 +1657,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/f4fba389318e8be6ad05d9db524c4b5a85aa595d.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "TF_SOLDIER_KILL_DEFENSELESS": {
       "name": "Geneva Contravention",
@@ -1756,7 +1756,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/60960eae646747412c3867db93b0d1076e4fc609.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "TF_PYRO_BURN_SPY_TAUNT": {
       "name": "Got A Light?",
@@ -2251,7 +2251,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_SNIPER_JARATE_REVEAL_SPY": {
       "name": "Jarring Transition",
@@ -2449,7 +2449,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d7e01ff5e6f3896fa362aa1701fa7d068eeaa6af.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "TF_HALLOWEEN_COLLECT_GOODY_BAG": {
       "name": "Masked Mann",
@@ -3214,7 +3214,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bd63a21bf0d49e5227e3e31b71b139dcbf3506d2.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TF_WIN_HYDRO_NOENEMYCAPS": {
       "name": "Relentless Offense",
@@ -3736,7 +3736,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7b164c64b67d20dfdb4b5d5046956dbdc31c6a3e.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "TF_MVM_MAPS_MANNHATTAN_STUN_RADIOWAVE": {
       "name": "Software Downgrade",
@@ -3772,7 +3772,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/342a0dfd403972200ccb00ed6b0c4c35ca190c8f.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "TF_DEMOMAN_AIR_BURST_KILLS": {
       "name": "Something Stickied This Way Comes",
@@ -4105,7 +4105,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3db864d73dcbdce2d9138f1a34d5e49e87b279f3.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_SOLDIER_BUFF_TEAMMATES": {
       "name": "The Boostie Boys",

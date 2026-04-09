@@ -1,7 +1,7 @@
 {
   "appid": "1796470",
   "name": "Haste",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796470/header.jpg?t=1752241805",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796470/header.jpg?t=1775640343",
   "achievements": {
     "ACH_25": {
       "name": " Legendary Overload",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/38f98037a79caea9109a16e010649cc5e4c54d72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "ACH_29": {
       "name": "Endless",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/64c778b7d5efb08186a73927eb2a49f68768a7dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.4"
+      "percent": "97.3"
     },
     "ACH_19": {
       "name": "Megamarathon",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/03a76a3c4e9e76b7d02e24593d429cd7d76a95e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_12": {
       "name": "Perfect Landing",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/9fa04b2d65ca73d718e44f7e91e08cb90cd4471a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_07": {
       "name": "Shard 6",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/b7d60d4cb1d25496c5c5d6dc42332132130fab72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACH_21": {
       "name": "Shopocalypse",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/a11f5f9bd766b85d340263065e4f2156e7a5c7d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "ACH_22": {
       "name": "The Archivist",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.6"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "ACH_27": {
       "name": "Untouchable",
