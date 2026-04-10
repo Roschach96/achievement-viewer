@@ -1,0 +1,316 @@
+{
+  "appid": "3321460",
+  "name": "Crimson Desert",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1775206852",
+  "achievements": {
+    "BattlefieldWarlord": {
+      "name": "Battlefield Conqueror",
+      "description": "Complete all battle challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/7dfe8c02c6cb6015df9e46c384cfe998ca9d2ae7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/cc9e1c7497433ec1b5b05626f416b00ecdf982a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "BeastButcherer": {
+      "name": "Beast Slayer",
+      "description": "Complete all New Power challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/385743dbdbce3c3d363191a279e557a95f3f6848.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/a0862858bc4dd1d655ddfbdf79ee6afa278f77ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "BrilliantTactician": {
+      "name": "Brilliant Tactician",
+      "description": "Complete all operation challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/625609b8e7ba322dc2135986505ce3713fbb1dbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/fa00bea68f39ee497446a0e2bbbb4e3fabe4723a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "TowerBreaker": {
+      "name": "Conqueror of Spires",
+      "description": "Complete all spire challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/9c791e66809413ced99624b9e0fe2ac18d0f1101.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/18fd38df3b32380aae784715f5dcd63528cfbffb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ConqueroroftheAbysses": {
+      "name": "Conqueror of the Abysses",
+      "description": "Complete all Abyss challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/686a3c4abed8551b5de3c9e7cf06d7742bf7a6f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/84c2fa89c144fc147e3a0da1f342e588c351aa48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ExpertExplorer": {
+      "name": "Expert Explorer",
+      "description": "Complete all exploration challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/eabcf404e3d39552127b70c60f422a515217f825.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/b927c724860f9aebd5bc3ee0cc03356ee61fe881.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ExpertStoryteller": {
+      "name": "Expert Storyteller",
+      "description": "Complete all main quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/790e5659ae8d8b915e47e57d753080df8724eb98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "UltimateWeaponCollector": {
+      "name": "Grand Collector of Arms",
+      "description": "Complete all special equipment challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/1f75d635084e5553ca24e699fa4fbbea2db9b451.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/04844114c5abcd5a899187a985c0810c5f255e8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "LightLeader": {
+      "name": "Lightbringer",
+      "description": "Complete all sanctum challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/99d2b0f01339cfe3937e4e92652f0e65417eb3d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "HonorarySovereign": {
+      "name": "Lord of Honor",
+      "description": "Complete all Challenges and Changes challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/dd97c5172615b7176bd786ef086c89446238f02a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/bf3d7ce16c23613b6f4f2f1314ced1841419d473.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "MasterCamper": {
+      "name": "Master Camper",
+      "description": "Complete the activation of the camp at Howling Hill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/2df91d42db90145457a0561585d88108054d66f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/93d03a8d684ee0a2aa55cae660b209da11418a78.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.8"
+    },
+    "SiegeMaster": {
+      "name": "Master of Artillery",
+      "description": "Complete all cannon challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/7cbe129dc0bb025e7bfc7dc4913b52559eff2eaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/61ebe974b3648d3ff41d250feb72fb164a600239.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "Bowmaster": {
+      "name": "Master of Bows",
+      "description": "Complete all bow challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/8c3495c4c5e0a4ae6f4475aca2cf2a0210c9b92c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/056bbeaaf533a2e1dabc673c38f430a144838f14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "Gunmaster": {
+      "name": "Master of Firearms",
+      "description": "Complete all gun challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/a28700b6deeca57541ec26322afbdf969f6576e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/3afc85f92b2178503ddd5fbefd391e119770d823.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "RapierMaster": {
+      "name": "Master of Rapiers",
+      "description": "Complete all rapier and shield challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/aec1f62bdb827b93d02c51a36b13eedbd236bb5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/8b5256a561eeb4e476d3af3b1563d0e13d0d20f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "Shieldmaster": {
+      "name": "Master of Shields",
+      "description": "Complete all shield challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/3b1df180431b87706ad49798cb1361b9fa5bb6e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/f26ab36b0c19f4ee2476782aa1974b1acc681be9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "Spearmaster": {
+      "name": "Master of Spears",
+      "description": "Complete all spear challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/257444acc5d9411a3d3324d7cc8b814de492a070.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/732775acff20d36fe99c965fb1278ad4d6cadc3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "Swordmaster": {
+      "name": "Master of Swords",
+      "description": "Complete all sword challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/076ddb13bb16683a13fff314b792314a133a0ded.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/2a7e919ca92781c9e048f5e483a0a1522b11994c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "GreatWeaponMaster": {
+      "name": "Master of Two-Handed Weapons",
+      "description": "Complete all two-handed weapon challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/69affa1164fe87c2b391b5ccf54e92ad6b09d5d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/16bfb51317e195c8e7cf349b4e20588b2bf3194b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "MazeHunter": {
+      "name": "Maze Pathfinder",
+      "description": "Complete all maze challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/119768c5fce4b96db3c8a45c5b918f75844c1d2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/1c02a4dd34c24b2995f38fb8bcfaab0cf668ca2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "NaturalGatherer": {
+      "name": "Natural Collector",
+      "description": "Complete all life challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/0fd8de88f3ab48b55e74812105b932c81a57e30b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/878c303574325644e763f1f89e7ddf6d0475f17d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "StarpathNavigator": {
+      "name": "Navigator of the Stars",
+      "description": "Complete all constellation challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/6abf780b94efe545a78862dd886ab29012e126e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/155a1cdfd1d3d740ac932d7654d60213c21f4089.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "NoviceAdventurer": {
+      "name": "Novice Adventurer",
+      "description": "Complete chapter 1 of main quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/c05f04fc5033ff67d2078db084751b45eba3b91d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.1"
+    },
+    "SceneryPilgrim": {
+      "name": "Pilgrim of Wonders",
+      "description": "Complete all secret place challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/5e61be52f0a5f57b48c3e28df350927ecc5fb25f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/c987f556550056815e778a3bb6ae40792bb443b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "PailuneseGuardian": {
+      "name": "Protector of Pailune",
+      "description": "Complete chapter 7 of main quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/30efce32e45de2979d7405ca7a6df2b5bc957cae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "ConfidentReturnee": {
+      "name": "Proud Returnee",
+      "description": "Complete the camp relocation to Pailune.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/52e174374d915e41a99d58304b4f98f312192cbc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/15c862f80c986b21c0e93445d5e84c4d89f08c11.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "PuzzleSolver": {
+      "name": "Puzzle Solver",
+      "description": "Complete all ancient ruins challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/0482a83ab0498e6cce5f95027ab58c2c9ca4d2d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/532674601897d1273817bacba77238970e46efc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "UnbreakableFighter": {
+      "name": "Relentless Warrior",
+      "description": "Complete all training challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/e4767ae4b05c1ae6e0914947e6bc354284d3baa6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/16e0556e390607104259103407ec6ec5fcf2a246.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ShadowRuler": {
+      "name": "Shadowlord",
+      "description": "Complete all Above the Law challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/3d5bcf197cad22d785aa622a1159a831c18acbd9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/2b90974e492690717784a5240d220a4143e54a23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "LegendaryTrainer": {
+      "name": "Tamer of Legends",
+      "description": "Complete all horse challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/0ddc1f406a0e400e644f53befb2df3800e2bc0a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/19cb19efacdaf5ccae44c298ddbd6d075307be70.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "GoldenMerchant": {
+      "name": "The Golden Merchant",
+      "description": "Complete all trade challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/3865607b5e7f544e121f971e3e635b1d30c8a382.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/0f09859166f36be64e8ce5354ff6d931225f600d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "GameConqueror": {
+      "name": "True Gamer",
+      "description": "Complete all minigame challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/6a3435f25c05104b43c0b9f0c581cf9e4bc611b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/d86a7c061ec0618a129719c6862084b1e1d0c698.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "UltimateHunter": {
+      "name": "Ultimate Hunter",
+      "description": "Complete all hunting challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/aea72c848e3819ce2d1f880c4b72e1be49d9123e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/4816ebcbf819ac01ae1ef6531de8e968dd63fc4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "TheUltimateWarrior": {
+      "name": "Unvanquished Strategist",
+      "description": "Complete all mastery challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/90b42713d14ac72b8e87f54342c18e17bb541776.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/d9e572150d4f2ab25a6d47f32abc4034a60158f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
