@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5a5b2e9a1a5d3c0f83a0300c09c67cd7c8632624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "ACHIEVEMENT_126": {
       "name": "Agent",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7bd2a21d08043798480249f1d01d3ff52102184c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "ACHIEVEMENT_7": {
       "name": "Blade Proficiency II",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/209065b1146994dac20320411f49f81f1e23b860.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "ACHIEVEMENT_178": {
       "name": "Bounty Hunter",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/eecc0b82bd2d30f7466fbfa0a4c3acf3fdb12e42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "ACHIEVEMENT_13": {
       "name": "Bow Proficiency II",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/be29b02fbceb62005b88c9830f95f4ff8ec07674.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACHIEVEMENT_20": {
       "name": "Brawler Proficiency III",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ad2aa6564e964cf37cacdb916e64bc42f732efb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "ACHIEVEMENT_26": {
       "name": "Dagger Mastery II",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/00d9843b005966d72e8b5ad73047714599c5c586.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACHIEVEMENT_28": {
       "name": "Dagger Proficiency I",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e5c0719bab4aebb1983f66eb4c156eaa7fce564c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "ACHIEVEMENT_136": {
       "name": "Dark Sectors",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/2bf460c0d542ffffb7ec417e9e9f0b8ed7be820a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "ACHIEVEMENT_74": {
       "name": "Gold Hunter",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/174c4c9ec7a6c7e6d7b658a83d337e63259b3fe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "ACHIEVEMENT_86": {
       "name": "Gold Sage",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/6ed751bd9578523f7df0a219b1f339b185f558ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "ACHIEVEMENT_184": {
       "name": "Hang Tenno",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/c4e2d3366a6e58ee17b0e3414f45c101f74f2ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "ACHIEVEMENT_140": {
       "name": "Into the Void",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/9498946ebfb3a7e667335622f712da60da7c7a91.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACHIEVEMENT_183": {
       "name": "K-Driven",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/91163f0ac997385f0726807b2447b67e18293ef6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "ACHIEVEMENT_166": {
       "name": "Marathoner",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/45de05674395bb6d5ee366aaebbdf591d9657b0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "ACHIEVEMENT_144": {
       "name": "No Witnesses",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5a72810746ce6a5c72818a659727e7c7b362b2bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_128": {
       "name": "Operative",
@@ -955,7 +955,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/07ef25cfd053974f901b6062ab80f4712b0381fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "ACHIEVEMENT_55": {
       "name": "Pistol Proficiency II",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e56ea9b2155726669030b88394bcad27697a8427.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_172": {
       "name": "Plains Prospector",
@@ -991,7 +991,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/9f17a5761ce19ecf05d7ff038d65699fe6647165.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACHIEVEMENT_145": {
       "name": "Polarize This",
@@ -1000,7 +1000,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/a55c65a13dc78e1e9fb562f56ffbfbeb26f62d75.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACHIEVEMENT_90": {
       "name": "Pole Weapon Mastery I",
@@ -1045,7 +1045,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/77e732b9d2e11a74e76da22ebbabefff53df2f45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_95": {
       "name": "Pole Weapon Proficiency III",
@@ -1252,7 +1252,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ea80b41bd001a7301f912454972d8ba9ec670d80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ACHIEVEMENT_110": {
       "name": "Sentinel Mastery III",
@@ -1261,7 +1261,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/f86d7a6d78cbd9883b486be6d448d159e73c83be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "ACHIEVEMENT_111": {
       "name": "Sentinel Proficiency I",
@@ -1288,7 +1288,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d9be9104e6bb5d897065b1c502f22af2f304c0c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACHIEVEMENT_169": {
       "name": "Sharp Shooter",
@@ -1387,7 +1387,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/3cb8d64d5a4df7a5625b2490bc3706d00492782d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "ACHIEVEMENT_123": {
       "name": "Shuriken Proficiency I",
@@ -1396,7 +1396,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/52e766d4d6010e11c7ee7596c132afd59a87ba9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACHIEVEMENT_124": {
       "name": "Shuriken Proficiency II",
@@ -1549,7 +1549,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/686e476507ebb2f59de07b194af22e1e4df1d185.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "ACHIEVEMENT_153": {
       "name": "Tenno and Hooch",
@@ -1567,7 +1567,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/63f90fc755ecbbd837466ef16d6d41c72b4fed5c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACHIEVEMENT_190": {
       "name": "That Which Does Not Kill Us",
@@ -1576,7 +1576,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/bdba66794b1a32d4a41e13d898a18f6682e5ba4e.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACHIEVEMENT_155": {
       "name": "The 8-fold Path",
@@ -1594,7 +1594,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e96143d3b1a72fb8358f0b0c8605833dbf4bd19c.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACHIEVEMENT_156": {
       "name": "The Camera Adds 10 Pounds",
@@ -1630,7 +1630,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/3067c2aae284ea36269ab529f03b3ff93d8f8c36.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACHIEVEMENT_157": {
       "name": "The Sword Alone",
@@ -1666,7 +1666,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/8d29f616aa6ba73ab228da3da271e1c26ef68e5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACHIEVEMENT_173": {
       "name": "Tomb Looter",
@@ -1711,7 +1711,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5739d6675d986dbe9438157f7f9f1970562692e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "ACHIEVEMENT_160": {
       "name": "What a Nightmare",
@@ -1720,7 +1720,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/fdf50df4521d3cbc2359ee22cdfb51a2ca5fe144.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ACHIEVEMENT_33": {
       "name": "Where Credit is Due",

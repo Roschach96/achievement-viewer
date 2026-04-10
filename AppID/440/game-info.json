@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1658425c1a3221b4efdc17dbd8f8b25ba5eac726.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "TF_DOMINATE_FOR_GOGGLES": {
       "name": "A Fresh Pair of Eyes",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/504da86f77eab338366d9acbf865760f02aecece.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_DEMOMAN_KILL_X_DEFENDING": {
       "name": "Bravehurt",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c022de85f8a9716868b43cf48c2d2ba876a459f2.jpg",
       "hidden": false,
       "group": "Update 21",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TF_HALLOWEEN_DOOMSDAY_COLLECT_DUCKS": {
       "name": "Carnival of Carnage: Up All Night To Get Ducky",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/84ba60e80daef936246d53162702220bd521881a.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "TF_MVM_DESTROY_TWO_TANKS": {
       "name": "Clockwork Carnage",
@@ -1846,7 +1846,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "TF_GET_MULTIPLEKILLS": {
       "name": "Hardcore",
@@ -1873,7 +1873,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/9a81eac808a46e2dfec9f7f3dd810c9d4fe1d6d1.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_PLAY_GAME_EVERYCLASS": {
       "name": "Head of the Class",
@@ -1882,7 +1882,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_play_game_everyclass_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "TF_DEMOMAN_CHARGE_KILL_CHARGING_DEMO": {
       "name": "Head-On Collision",
@@ -2017,7 +2017,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/699f4f245df64217cf52aac9665d94551f92779c.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "TF_DEMOMAN_STICKJUMP_DISTANCE": {
       "name": "Highland Fling",
@@ -2737,7 +2737,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/b3e3dddbadd5c06537a30efac9d5038a9c6d4899.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TF_TAUNT_RPS_ROCK": {
       "name": "On The Rocks",
@@ -2800,7 +2800,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_TAUNT_CONGA_KILL": {
       "name": "Party Crasher",
@@ -2962,7 +2962,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_win_2fort_noenemycaps_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE": {
       "name": "Pownd on the Range",
@@ -3115,7 +3115,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "TF_MVM_COMPLETE_TOUR": {
       "name": "Raid Array",
@@ -3556,7 +3556,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4286a24b0079a1fb8e7d5eb98beafbf279e46056.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TF_SNIPER_KILL_INVIS_SPY": {
       "name": "Shoot the Breeze",
@@ -3691,7 +3691,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4a6f7f02e7343e25db716348f16c89b06a620b6c.jpg",
       "hidden": false,
       "group": "Update 19",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "TF_MAPS_SNAKEWATER_WIN_ROUNDS": {
       "name": "Snakewater Salesman",
@@ -4042,7 +4042,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_healpoints_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TF_MVM_DEMO_GROUP_KILL": {
       "name": "Tech Wrecker",
@@ -4429,7 +4429,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/dccf0521c85daf0c555b9a1b8e6dfadb18c4c4c3.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "TF_MEDIC_ASSIST_CAPTURER": {
       "name": "Ubi concordia, ibi victoria",
@@ -4537,7 +4537,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/51468bf80f7c23a7dbcf9e5b98954097fec9ec31.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "21.8"
+      "percent": "21.7"
     },
     "TF_SOLDIER_KILL_SPY_KILLER": {
       "name": "War Crime Spybunal",
