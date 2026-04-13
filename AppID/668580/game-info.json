@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c18bf20edd105dee909c20a2b4d73d17e1aebf24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "conquerorOfAnnapurna": {
       "name": "Conqueror of Annapurna",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/05e6d133dc6e396be5605d4337afcf8e3d67ca66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "goldenFever": {
       "name": "Gold Rush",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/fc545da647ee4d662a8fd2480c7d38fe387bd265.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "craftUpgradeWeapons": {
       "name": "The Great Inventor",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4fe54810441720d9260bb6d812c6383752de6f3d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "battleTriplePenetration": {
       "name": "Triple Penetration",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "YouReadTheInstructions": {
       "name": "You've Read the Manual!",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.7"
+      "percent": "6.8"
     }
   },
   "platform": null,
