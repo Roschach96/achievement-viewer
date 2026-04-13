@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "ACH_05": {
       "name": "Crucifix of Blood",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/37f2f70ec0360b4da35c1889dbbb8a03b192aab8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ACH_15": {
       "name": "Drunken Angel",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/86763e51937a0ede5de7e6b7fce897ffacaafe54.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "ACH_21": {
       "name": "Fashionista",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/fe8f8303e119a0e297562100d5363fa143a08e84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_19": {
       "name": "Friend of the Fairy",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/16993fff5910435e34483075334b62210f6f3d62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_35": {
       "name": "Power of Blood",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/d009d9b84ca799274d6e1ced9eaf2c446174ab40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.5"
+      "percent": "77.4"
     },
     "ACH_27": {
       "name": "Technique Expert",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/da2049bcbf7f22851de5e9fcbe2e0040729b07f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACH_07": {
       "name": "The Cruelty of Yin Yue",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/cafb7c46fc9e24d5f14c686a91c552ee2d06e5e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACH_22": {
       "name": "Total Recall",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ab6f8445d13f78420699de050a338ca25a7c8450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     }
   },
   "platform": null,

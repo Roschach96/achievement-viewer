@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/c10115160b77ba56d0b686777a3802b4005b81cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "Level_2": {
       "name": "CANYON GRAVEYARD",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/397afc5c37e5068d49b091fc2d85268ba581c80a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "Classic": {
       "name": "CLASSIC",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/c5cad39c88956e3b9c085f31819ba51d31bff346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "looped": {
       "name": "LOOPED IT",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/e363a81e2439f8a0f8c850933146ca5eab98c4c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "Tutorial_complete": {
       "name": "NEW RECRUIT",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1248080/40fad4736ac6b15ddc9ab20132abb548cde099cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "red_kite": {
       "name": "THE RED KITE",

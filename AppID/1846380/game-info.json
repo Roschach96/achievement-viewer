@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/fd2663dd3f03c586ad6e036cb2838b2161c7c151.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "Achievement_GOSCC_23": {
       "name": "Public Enemy",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/bef1570b357518c60a02cb07072378b1beb1b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "Achievement_GOSCC_19": {
       "name": "Rebel Without a Pause",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1846380/dde54e210e678633dbf1818018cb8dae6c702a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     }
   },
   "platform": null,
