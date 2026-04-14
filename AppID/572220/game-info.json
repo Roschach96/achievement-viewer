@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/ccca66eb7d9caf32fda49e6f06e1a68b220a0ba8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACHIEVEMENT_10": {
       "name": "Baby's first showdown",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/1654faaa3f8c37fdb99603d911bf8623f0bebac1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "ACHIEVEMENT_3": {
       "name": "Pentakill",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/572220/3607f65dc84b378dd84e5cb839ac3eebf6efba0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.2"
     }
   },
   "platform": null,
