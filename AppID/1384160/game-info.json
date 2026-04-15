@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/a3dc3a69b2696d0732fc9f9c8c45ffa1c7f7755a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "ACHIEVEMENT002": {
       "name": "Armor-Clad Faith",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/c2ed4aac8b688041196bf645a9caf1a57b3d4c5f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "ACHIEVEMENT010": {
       "name": "At the End of the Struggle",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/85bc52ce82e580d7755f7e0ecf37ab26c6a5376b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACHIEVEMENT007": {
       "name": "Battle Ready",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0ebb851459e0fb9daf345b27c840c31b5970b720.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "73.9"
     },
     "ACHIEVEMENT019": {
       "name": "Beautiful Catch, Ain't It?",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/e787bec062b492831ef07008999a0f7d060636e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "43.8"
     },
     "ACHIEVEMENT012": {
       "name": "Begin Assessment of the Target",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/27922cbf4a817a85d108ddc819abca1f780ef783.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "ACHIEVEMENT037": {
       "name": "Behold the Power of My Lightning",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/31cfb9cab19fe7d81ec186eef0d4392142c96481.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ACHIEVEMENT017": {
       "name": "Day 1 Bounty Hunter",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/3a34b7b01359549f9236513acc6e15a39465c683.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "ACHIEVEMENT021": {
       "name": "Destruction and Creation",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/8229e1cbbf93350017dea346bea30e3f1fd02a36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "ACHIEVEMENT020": {
       "name": "Everlasting Thirst",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/cae04d0b83ca4418efacf9bd01887c24c8bab2a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.5"
     },
     "ACHIEVEMENT013": {
       "name": "Extinct Species",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/6eea77679b4f7552dbfc652d82ef79f2168acd79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "ACHIEVEMENT014": {
       "name": "Gateway to the Tower",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.6"
     },
     "ACHIEVEMENT009": {
       "name": "Gaze of the Strong",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/16bf0f4b364f2972642f86794a667f37c719226b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.0"
     },
     "ACHIEVEMENT011": {
       "name": "Gym Regular",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0fb176648926d966a9913ed4ad46830256c9de98.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACHIEVEMENT006": {
       "name": "I'll have a Little of Your Time",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/883d146af2174ad8b1d7af1d6647eb91d72ee629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.4"
     },
     "ACHIEVEMENT031": {
       "name": "I'm Overflowing with Power",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/fc2348f1a985c33a96695aafe21c3d05062a8dd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "ACHIEVEMENT025": {
       "name": "In the Blink of an Eye",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/c6c50196821077c4d7b345ef5bc56b9a137cd583.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ACHIEVEMENT036": {
       "name": "No Return, High Risk",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/d8a750eb652f50445b534adb76e30154ff0b9857.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.7"
     },
     "ACHIEVEMENT034": {
       "name": "Not Missing an Opportunity",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/52bab7e2f2d17aea0b2c5fd8dcf7eaaaa41ec8a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.2"
     },
     "ACHIEVEMENT030": {
       "name": "Shine When Polished",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/3e7d9dc14ec4635c075f748f98ec7f829a45831e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "ACHIEVEMENT023": {
       "name": "Strike from Heaven",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0eee9f05dac7cea38ab8771366c6a336eeb98055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "ACHIEVEMENT000": {
       "name": "STRIVE",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/e224e830b14428aaffcd87f9e4a8a86c1d0b98ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ACHIEVEMENT016": {
       "name": "The Room where Demons Dwell",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/2c6378adbe5e6cad74239bbc7d0da4ffa679053f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.8"
     },
     "ACHIEVEMENT038": {
       "name": "Triple Cross",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/67af1a83fb4a4aa623a77e44359070c52d906f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "ACHIEVEMENT027": {
       "name": "You've Fallen Right into my Trap",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0a7e7003456dcf21a83b0e2f031d4f1fa6ca934a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.4"
     }
   },
   "platform": null,

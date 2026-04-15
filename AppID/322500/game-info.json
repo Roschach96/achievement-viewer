@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/2f4f20c8b73d1fbaeaa0b2b52fbabb27b64f22fd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACH_KILL_ENDLESS_1001": {
       "name": "Can't get enough",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/daaae26beb7201a53b84e1f1656925f3c54792ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.3"
     },
     "ACH_KILL_PISTOL_100": {
       "name": "Just",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/20c439cead2fa05066cd77a4f4b4b9b4216c8a7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "ACH_BULLET_SHOT": {
       "name": "No they didn't",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/16571329bfdbfb9d51d04070cfc4f6cee12d9e9e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "ACH_RIFLE_SHOOT_3": {
       "name": "Ratatatata!",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a0cb3a7e422195d502c541b600ebf8d913b50862.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.6"
+      "percent": "95.5"
     },
     "ACH_CollectTech5000": {
       "name": "Crypto Wizard",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e084c2c043f3d7e7b54545ddc8abd8c133ff0f07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.4"
+      "percent": "97.3"
     },
     "ACH_TechUpgrades2": {
       "name": "Feeling Good",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7492b9bab5c6a18e606cfabc2d54083155a64d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.0"
+      "percent": "96.9"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.7"
+      "percent": "98.6"
     }
   },
   "platform": null,

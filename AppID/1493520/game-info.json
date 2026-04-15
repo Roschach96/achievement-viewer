@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/a40c21092dabcb98245c064ff53f8e60bbe8bfb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "AchCompTracks20": {
       "name": "20 Tracks",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54a2da362f67e4bea7d33469ff5029c60c1f70e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "AchDailyChallenges3": {
       "name": "5 In The Top 10",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/e49caf20b57eddefe42f2bfac526cd052413342b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "AchCompTracks50": {
       "name": "50 Tracks",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "AchArmoury_UnlockAll": {
       "name": "Arms Race",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/dec22bf5dbfd64849b3529de6c4ab65bdf60d679.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "59.9"
     },
     "AchCompOST3": {
       "name": "Biohacker",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f064bcd190a84b7bdb1d7abd3b2b7c40a43b9d83.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "AchRank1": {
       "name": "Cadet",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/ae77ff9fffcda91920afb3d2c34f560a80731a6f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "AchGalaxy_VisitGalaxies": {
       "name": "It's Full of Stars",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/21fbbb709e1fd4d53010dde25c9bfb8466c742f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     },
     "AchArmoury_EMPHits": {
       "name": "Out Of Action",
@@ -802,7 +802,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/0ee1c6f8d7fef13fc11ac5153615801a67b12927.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "AchShadow5": {
       "name": "Shadow Ops Veteran",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/07a39d7387112b2ec41900131803ef6321d046a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "AchGalaxy_Traveller": {
       "name": "Traveller",
