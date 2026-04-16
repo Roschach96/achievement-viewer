@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/9a7d7dbc879cace83e69a7ee28d358536281e9dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "ChangeOfHeart": {
       "name": "Change of Heart",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/15fa865a35ecca4757df26ec9e7e43826078e1ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "DifferentKindsOfGrisha": {
       "name": "Different Kinds of Grisha",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/eee26378815d4396a0eae554d8f2490d1b4013e2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "FaceOff": {
       "name": "Face Off",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/6af6e944317588b949431ffa3f0eb7e6f924d056.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "FashionShells": {
       "name": "Fashion Shells",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/b2b4e6b8c98f075a9a40fa6ae54c2dbb1f3c1b50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "FleshAndInstinct": {
       "name": "Flesh And Instinct",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/aa167e7e646981f12996cc010067a5c8d905cf81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "SugarBaby": {
       "name": "Sugar Baby",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/97ababdf407de81dceb0f6db962740a7d038d398.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ThereCanOnlyBeOne": {
       "name": "There Can Only Be One",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/60ce6e0d88f36fd3e6bfeeff601729401dfe2f69.jpg",
       "hidden": false,
       "group": "Mortal Shell: The Virtuous Cycle",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "TragicLoss": {
       "name": "Tragic Loss",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/be4715ba3599d40f63fcc2889d7ad8e5e998f536.jpg",
       "hidden": true,
       "group": "Mortal Shell: The Virtuous Cycle",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "Untarnished": {
       "name": "Untarnished",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1110910/a73f20a3c870e806ac61750fd96f3e59e621e1dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     }
   },
   "platform": null,
