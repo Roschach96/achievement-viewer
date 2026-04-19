@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/978345de72614124311d149b1c429c72d7467711.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ACH_KillAndroidsWithBarrel100": {
       "name": "Barrel of Laughs",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/e43c9152d669649563297fc74d60471fca21dce9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ACH_CompleteStory3": {
       "name": "Brain Drain",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "ACH_CompleteStory1": {
       "name": "Brain in a Jar",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/3965bc6d50c1c5163a90deead6941d3bd57b7dfd.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "ACH_KillAndroids1000": {
       "name": "Exterminate!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.7"
     },
     "ACH_CompleteMission_All_Hard": {
       "name": "Hardcore to the Max",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "ACH_CompleteMission_Coop": {
       "name": "Jarheads",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.5"
+      "percent": "81.6"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7492b9bab5c6a18e606cfabc2d54083155a64d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.9"
+      "percent": "97.0"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.4"
     },
     "ACH_CompleteZone1": {
       "name": "This Bug Hunt Got Complicated",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.7"
     },
     "ACH_ReadAllDataLogs": {
       "name": "Too Long, Didn't Read",

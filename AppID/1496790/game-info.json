@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e4be6762309d2173256fc6427d7bdd5d2dc82c24.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "CRAFTING_LEGENDARY_SET": {
       "name": "Dressed to Impress",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1db248c76e042f4ea5d726bd0198371b70c64750.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     }
   },
   "platform": null,

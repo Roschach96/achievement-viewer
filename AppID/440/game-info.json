@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TF_HEAVY_CLEAR_STICKYBOMBS": {
       "name": "0wn the Means of Production",
@@ -1441,7 +1441,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/212a92733def907031c3969f680638bdd7f0baed.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "TF_SCOUT_FIRST_BLOOD": {
       "name": "First Blood",
@@ -1648,7 +1648,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_spy_callers_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "TF_SPY_BACKSTAB_MEDIC_HEALING_YOU": {
       "name": "FYI I am a Spy",
@@ -2800,7 +2800,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "TF_TAUNT_CONGA_KILL": {
       "name": "Party Crasher",
@@ -2989,7 +2989,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_sniper_classic_rifle_gib_grind_bw.jpg",
       "hidden": false,
       "group": "Update 20",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "TF_MAPS_PROCESS_WIN_ROUNDS": {
       "name": "Process of Elimination",
@@ -3835,7 +3835,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -4339,7 +4339,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_save_teammate_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "TF_SCOUT_CAPTURE_THREE_POINTS": {
       "name": "Triple Play",
@@ -4384,7 +4384,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/787d9acc9ea42304e05cd110af544470e42d28aa.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "TF_SNIPER_KILL_UNSCOPED": {
       "name": "Trust Your Feelings",

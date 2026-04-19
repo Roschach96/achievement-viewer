@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "DLC3_Obtain_SpiritAlternator": {
       "name": "B.O.T.",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "Obtain_Blood_Moon_Item": {
       "name": "Bad Moon Rising",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Forgotten Kingdom",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "DLC3_Obtain_Archetype": {
       "name": "Master of Technology",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "DLC1_Obtain_Archetype": {
       "name": "Master of the Dark Arts",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "Defeat_World_Boss": {
       "name": "Quest for Survival",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Remnant II® - The Forgotten Kingdom",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "Obtain_Scrap_A": {
       "name": "Scrap Collector",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Remnant II® - The Dark Horizon",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "Upgrade_Boss_Weapon_A": {
       "name": "The Ultimate Weapon",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "DLC2_Obtain_Crossbow": {
       "name": "Triple Takeover",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "AllMasks": {
       "name": "Beneath the Mask",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/dfecc76050de755c2bd4dafdf24d75dc6ed0c5bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ComfortPig": {
       "name": "Creature Comforts",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/d8108e9499b7830172c896de6c8c95b53b0921a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ShootPlayer": {
       "name": "Friends Like These",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/573d16ef3d3fa4f2a491f63a750f9fa08ca2a41e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "2.9"
     },
     "BreakPopcorn": {
       "name": "Rock 'n Pop",
