@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "SecretEnding": {
       "name": "Friends Reunited",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "SecretsChapter2": {
       "name": "Hidden among rats",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "KickSniper": {
       "name": "Just Making Sure",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/17686a01e3d6efe6a8ed98aefa6b41a18189e546.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "CompleteForest": {
       "name": "Save Our Skins",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     }
   },
   "platform": null,

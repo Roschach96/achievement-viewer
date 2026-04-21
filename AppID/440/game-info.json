@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/276c1d51d318ff50685ace92cd40203372389303.jpg",
       "hidden": false,
       "group": "Update 8",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TF_MAPS_FOUNDRY_TELEPORT_AND_CAP": {
       "name": "Claim Jumper",
@@ -1441,7 +1441,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/212a92733def907031c3969f680638bdd7f0baed.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "TF_SCOUT_FIRST_BLOOD": {
       "name": "First Blood",
@@ -1648,7 +1648,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_spy_callers_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_SPY_BACKSTAB_MEDIC_HEALING_YOU": {
       "name": "FYI I am a Spy",
@@ -2800,7 +2800,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_TAUNT_CONGA_KILL": {
       "name": "Party Crasher",
@@ -3835,7 +3835,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -4339,7 +4339,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_save_teammate_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_SCOUT_CAPTURE_THREE_POINTS": {
       "name": "Triple Play",
@@ -4384,7 +4384,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/787d9acc9ea42304e05cd110af544470e42d28aa.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_SNIPER_KILL_UNSCOPED": {
       "name": "Trust Your Feelings",

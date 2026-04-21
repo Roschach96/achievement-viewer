@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/16bf0f4b364f2972642f86794a667f37c719226b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.0"
     },
     "ACHIEVEMENT011": {
       "name": "Gym Regular",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/244a327c460516e4eb04770f5ca692a3aa1096cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "ACHIEVEMENT003": {
       "name": "Heart is Blazing",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/c75b1bc5faa43633c0c67840beea123c5e514d2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "ACHIEVEMENT028": {
       "name": "Ready to Meet Your Maker?",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/2c6378adbe5e6cad74239bbc7d0da4ffa679053f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "ACHIEVEMENT038": {
       "name": "Triple Cross",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1384160/0a7e7003456dcf21a83b0e2f031d4f1fa6ca934a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     }
   },
   "platform": null,

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/6c3be76f8b97c74c9ca501be6bdf7c3c06053f5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "BOSS_TAKEDOWN_SILVER": {
       "name": "Boss Punisher (Silver)",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/839b21210946ef9d927fd5c2d39f1dbd20ce4bfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "MOVESPEED_MAX": {
       "name": "Faster Than Light",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bad2747db3f94270fbd5302fbc9eec7cad3ba79f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "SUPERBOT_HEROLANDING": {
       "name": "Hero Landing",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8d0b6b6f7e3c04c52b6d03f4ac4baa128050d7dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "FINISH_GAME_RANK_S": {
       "name": "Perfect Run",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bfae61170e6eb8c9d7c56c03421ea60ff07e3ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "ENEMY_DESTROY_SILVER": {
       "name": "Robo-Regulator (Silver)",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "ENGINEER_FINISH_GAME": {
       "name": "Science Above All!",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/b7e15ec2ad938368357ccd6fae51763c9a8dc697.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "SLIM_POWERCELL": {
       "name": "Spare Some Change?",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/aed0a66d9abf76a067510cea47d7e46052ecc06c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "WRENCH_GATHER_SILVER": {
       "name": "Wrench Picker (Silver)",
