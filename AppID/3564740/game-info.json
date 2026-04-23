@@ -24,8 +24,8 @@
     "1505051": {
       "name": "A Squeak to Remember",
       "description": "The tiny squeak of a woodchuck sealed your defeat.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/984bce5376b194858776453b478fbaa44d4953fe.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/70dcb704a7941dc6f0d3d32cc763a706308d6d2e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Update 1",
       "percent": "0.0"
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "1403003": {
       "name": "Every Inch Covered - Kaifeng",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "1202003": {
       "name": "Horizon Seeker",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "301011": {
       "name": "Power of Four",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "1401002": {
       "name": "Quirks of Fate - Kaifeng",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "1201018": {
       "name": "The Final Destiny - Qinghe",

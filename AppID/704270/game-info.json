@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/da491472d5130f0ebda1d41c537105d22926b8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ach_020": {
       "name": "All Out Of Bubblegum",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/61afa240ba271d276fa3e1af5ef1194c8a9cfb9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ach_086": {
       "name": "Assist",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/da491472d5130f0ebda1d41c537105d22926b8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ach_050": {
       "name": "DJ",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/52679beb668cc2b8ce2f3537db1c3b5aa510ccae.jpg",
       "hidden": true,
       "group": "Generation Zero® - FNIX Rising",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ach_048": {
       "name": "Engineer",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/2bdec35b7b24e7c0b684131d3cb78d9522ea4d0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ach_056": {
       "name": "Fashionista",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/3040f90a8f006707d30536731789b1af48c1b7d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ach_049": {
       "name": "Gardener",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/da491472d5130f0ebda1d41c537105d22926b8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "ach_069": {
       "name": "Go-Getter",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/52679beb668cc2b8ce2f3537db1c3b5aa510ccae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ach_061": {
       "name": "Grey Dawn",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/3040f90a8f006707d30536731789b1af48c1b7d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "ach_036": {
       "name": "Gustafsloppet",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/da491472d5130f0ebda1d41c537105d22926b8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ach_045": {
       "name": "Scavenger",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/704270/da491472d5130f0ebda1d41c537105d22926b8ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     }
   },
   "platform": null,
