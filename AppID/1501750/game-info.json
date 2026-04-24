@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "TLOTF_ACHIEVEMENT_073": {
       "name": "Come What May",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "TLOTF_ACHIEVEMENT_015": {
       "name": "Honed to Perfection",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "TLOTF_ACHIEVEMENT_053": {
       "name": "In Light we Walk",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "TLOTF_ACHIEVEMENT_003": {
       "name": "Lost and Found",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TLOTF_ACHIEVEMENT_040": {
       "name": "None Shall be Spared",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "TLOTF_ACHIEVEMENT_010": {
       "name": "Radiant Adept",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "TLOTF_ACHIEVEMENT_057": {
       "name": "Thriving in Darkness",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "SERPENPHARE": {
       "name": "À On",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "LVL3_GRADIENT_ATTACK": {
       "name": "Chroma Proficiency",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "ESQUIES_NEST": {
       "name": "Esquie's Nest",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "MONOCO_RELATIONSHIP": {
       "name": "Monoco",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.3"
     },
     "SPRING_MEADOWS": {
       "name": "Spring Meadows",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "MAELLE_STANCES": {
       "name": "Synergy",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "BREAK": {
       "name": "Time to Spill Some Ink",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "WEAPON_FIRST_UPGRADE": {
       "name": "Weapon Upgrade",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     }
   },
   "platform": null,

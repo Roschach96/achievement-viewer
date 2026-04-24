@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/a0862858bc4dd1d655ddfbdf79ee6afa278f77ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.4"
     },
     "BrilliantTactician": {
       "name": "Brilliant Tactician",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/fa00bea68f39ee497446a0e2bbbb4e3fabe4723a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "TowerBreaker": {
       "name": "Conqueror of Spires",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/18fd38df3b32380aae784715f5dcd63528cfbffb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.2"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/84c2fa89c144fc147e3a0da1f342e588c351aa48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ExpertExplorer": {
       "name": "Expert Explorer",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.9"
     },
     "UltimateWeaponCollector": {
       "name": "Grand Collector of Arms",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "4.3"
     },
     "HonorarySovereign": {
       "name": "Lord of Honor",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/93d03a8d684ee0a2aa55cae660b209da11418a78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "57.1"
     },
     "SiegeMaster": {
       "name": "Master of Artillery",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/056bbeaaf533a2e1dabc673c38f430a144838f14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "Gunmaster": {
       "name": "Master of Firearms",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/f26ab36b0c19f4ee2476782aa1974b1acc681be9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "Spearmaster": {
       "name": "Master of Spears",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/732775acff20d36fe99c965fb1278ad4d6cadc3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "Swordmaster": {
       "name": "Master of Swords",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/2a7e919ca92781c9e048f5e483a0a1522b11994c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.1"
     },
     "GreatWeaponMaster": {
       "name": "Master of Two-Handed Weapons",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/1c02a4dd34c24b2995f38fb8bcfaab0cf668ca2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "NaturalGatherer": {
       "name": "Natural Collector",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "SceneryPilgrim": {
       "name": "Pilgrim of Wonders",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/c987f556550056815e778a3bb6ae40792bb443b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "PailuneseGuardian": {
       "name": "Protector of Pailune",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "20.6"
     },
     "ConfidentReturnee": {
       "name": "Proud Returnee",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/15c862f80c986b21c0e93445d5e84c4d89f08c11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "1.0"
     },
     "PuzzleSolver": {
       "name": "Puzzle Solver",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/532674601897d1273817bacba77238970e46efc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "UnbreakableFighter": {
       "name": "Relentless Warrior",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/0f09859166f36be64e8ce5354ff6d931225f600d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "GameConqueror": {
       "name": "True Gamer",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/d86a7c061ec0618a129719c6862084b1e1d0c698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3321460/d9e572150d4f2ab25a6d47f32abc4034a60158f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     }
   },
   "platform": null,

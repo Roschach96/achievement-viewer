@@ -1,7 +1,7 @@
 {
   "appid": "2680010",
   "name": "The First Berserker: Khazan",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1765255716",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1776936760",
   "achievements": {
     "Mission_20": {
       "name": "A New Path",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "77.1"
     },
     "Mission_03": {
       "name": "Blacksmith's Resolve",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "Mission_07": {
       "name": "Indomitable",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "85.0"
     },
     "Boss_08": {
       "name": "No Turning Back",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.0"
+      "percent": "90.1"
     },
     "Sub_05": {
       "name": "Reese's Past",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "Boss_01": {
       "name": "Ruler of the Frozen Mountain",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.7"
+      "percent": "81.8"
     },
     "Mission_15": {
       "name": "Special Scroll",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "Mission_17": {
       "name": "Traces of a Stranger",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "Sub_09": {
       "name": "Undying Loyalty",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/28fc9f562e12f0a7e702d51b089933698147d0a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "ACH_KNIFE": {
       "name": "\"But I cheered for Invisigal...\"",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/be595d8b7666b47b80685fd189f8e489e1f568cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "ACH_MERCY": {
       "name": "\"I can confirm he’s a bad ass.\"",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/817da6824201a3b1a267c5ffe55375894d1277a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ACH_FRIENDS": {
       "name": "\"We can just be friends.\"",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/33e85870975d86ec61f57e5f8f7228b36f86252c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "ACH_PERFORMANCE": {
       "name": "Career Development",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/63bac29d385c3799e21e69d41cb1fe3a037ce1b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "ACH_SCEN_FAIL": {
       "name": "Snake Eyes",
