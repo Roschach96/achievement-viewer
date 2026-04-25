@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/3b7665dedc32c87ae8eef9663386a027de2e6dc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.6"
+      "percent": "82.7"
     },
     "SOLO_ACHIEVEMENT_1_39": {
       "name": "High Five!",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/57bcb41bd7155793c09e997a89e471a78b712fb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "SOLO_ACHIEVEMENT_1_15": {
       "name": "Power Empowerment",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/56177ceeacd7d56c594b1a67cd75a599ed59efbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "SOLO_ACHIEVEMENT_1_19": {
       "name": "Resale",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/e22c3fdba5e1399e4a2f1c4dc8175c41247abe14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "SOLO_ACHIEVEMENT_1_45": {
       "name": "Snake Hunting",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/cabb5b6e45db314841a09b513626f988fb1991cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.4"
     },
     "SOLO_ACHIEVEMENT_1_37": {
       "name": "Too Slow",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2373990/cb00f72f2fb3838e0237e01fb34701a47f794f97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     }
   },
   "platform": null,
