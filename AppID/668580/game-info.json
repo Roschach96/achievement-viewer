@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dbbca6d9a3a42101584184c9ba1fd2580a034b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "EndOfDLC3": {
       "name": "And now—CHAR-les",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/a62565c7a5573cb81ade405b86c3fb140265bb9d.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "collectAllApples": {
       "name": "Apple Pie",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/49d9d0b92aac3d21dd1c7460330b6e0b9360020b.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "craftFirstWeapon": {
       "name": "Artisan",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/3872a1524f172fe988ac2e2b3166edffd094f1fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "researchAnimalDialogue": {
       "name": "Beast Friend",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f00f690317ede1ef95fe82d67c3d5839edf653b9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "battleBullsEye": {
       "name": "Bull's Eye!",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7b53927f24a0017ff1b3111421cc72427ed7c2a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "researchCollectAllAudioDiary": {
       "name": "Burning Ears",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/d42942c906ef9e7f5c112803b90f3f03fa19a4c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "LastTwinsDead": {
       "name": "Clean in Two",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.4"
+      "percent": "1.2"
     },
     "researchCompleteAllTestSites": {
       "name": "Clean-up",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c59759f2ecf6bf444d099bb49259c995a96805dc.jpg",
       "hidden": false,
       "group": "Atomic Heart - Trapped in Limbo",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "defenderOfNature": {
       "name": "Conservationist",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/dd5507a4761e5f2c042565d5a26f9418cf054051.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "killDew": {
       "name": "Dew Point",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/747aab16f7934b56502ad4efaf6faa7c1ac6d242.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "easyWalk": {
       "name": "Don't Mess With the Major",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.1"
     },
     "LastJump": {
       "name": "Final Burn-down",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c027d8aefaa246cdfc965dd8c81c3d6c95540298.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "SaveSechinov": {
       "name": "For Chief's a Jolly Good Fellow",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78a3021564f091a1afd4df819296ec4e7b2b2620.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.1"
     },
     "playthroughPavlov": {
       "name": "Freedom Reflex",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6bb9211420662282241f4c50bee988c34c74a83e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "FirstTalkDLC3": {
       "name": "I'm here if you need to talk",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "playthroughAcademy": {
       "name": "Kommunism 2.0",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0d9f4534517479b9f572df98096e4cc4db6aa0d6.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.8"
+      "percent": "1.6"
     },
     "playthroughLordOfTheFlies": {
       "name": "Lord of the Flies",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/83a242a747c13b430a4c127cc575b67fa8a14f9d.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.1"
     },
     "SurvivalMaster": {
       "name": "Master of Survival",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "1.3"
+      "percent": "1.2"
     },
     "craftMaximumStrength": {
       "name": "Maximum Strength",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c706e9f8006fcb1e1d40a5649bab2a9bb66ba8fb.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "playthroughHospital": {
       "name": "Medical Checkup",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.7"
     },
     "playthroughVDNH": {
       "name": "Quite an Achievement",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/0cd98726ed64df630e0b60f93fdc590163a86d9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "playthroughReturnToUtopia": {
       "name": "Return to Utopia",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ab3cde9af8f5ad256f152dc525481e05341593ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "SecretMeet": {
       "name": "Secret Meeting",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ca090d52845878ddfc6b1af3a386369ed00b5de7.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "killNatasha": {
       "name": "Show's Over",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/eeffe3f41c82cc1d115559860aad84b0148ffc41.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.2"
+      "percent": "1.0"
     },
     "iLoveThisCasino": {
       "name": "The Casino Isn't Always in the Black",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "progress100": {
       "name": "The Motherland Does Not Forget its Heroes",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.1"
     },
     "playthroughLesnaya": {
       "name": "Tickets, Please!",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/c82911f3efaf5776a8dc8770edbfddfeef486611.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "0.9"
     },
     "WaterSports": {
       "name": "Water Sports",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e54d2f9d5b713d50852fcd6a2a2db7df657ec0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "playthroughWeirdScience": {
       "name": "Weird Science",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/77c5348598b946982a1fd3bd4de3678045e58250.jpg",
       "hidden": false,
       "group": "Atomic Heart - Annihilation Instinct",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "YouReadTheInstructions": {
       "name": "You've Read the Manual!",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ede60891bb49c7843f4410042bf160f50accbe8.jpg",
       "hidden": false,
       "group": "Atomic Heart - Enchantment Under the Sea",
-      "percent": "7.1"
+      "percent": "7.0"
     }
   },
   "platform": null,
