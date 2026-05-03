@@ -71,9 +71,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          FILES=$(find AppID -type f \( -name "game-info.json" -o -name "missing hidden achievements" \))
-          FILES="$FILES top_owners.json game-data.json"
-
           git fetch origin user
 
           # Merge remote changes into local
@@ -85,7 +82,8 @@ jobs:
             git checkout --theirs -- "$file"
           done
 
-          git add $FILES 2>/dev/null || true
+          git add game-data.json top_owners.json
+          git add AppID/
 
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit to user branch"
