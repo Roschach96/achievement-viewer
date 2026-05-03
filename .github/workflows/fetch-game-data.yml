@@ -51,7 +51,6 @@ jobs:
           playwright install
 
       - name: Update TOP_OWNER_IDS
-        if: ${{ github.event_name == 'schedule' || inputs.trigger_source == 'manual' }}
         run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
