@@ -30,6 +30,7 @@ print(f"Using fallback icon URL: {FALLBACK_ICON_URL}")
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
 top_owners_file = Path("top_owners.json")
+TOP_OWNER_LIMIT = 250
 
 DEFAULT_OWNERS = [
     76561198028121353,
@@ -609,7 +610,7 @@ for appid in appids:
             f"  → Found {len(hidden_achievements)} hidden achievements without descriptions"
         )
         descriptions_found = 0
-        for steam_id in TOP_OWNER_IDS[:32]:
+        for steam_id in TOP_OWNER_IDS[:TOP_OWNER_LIMIT]:
             scraped = scrape_hidden_achievements(appid, steam_id, achievement_names_map)
             for api_name, data in scraped.items():
                 if (

@@ -21,7 +21,7 @@ try:
             if steam_id not in steam_ids:
                 steam_ids.append(steam_id)
 
-    steam_ids = steam_ids[:32]  # Top 32 users
+    steam_ids = steam_ids[:250]  # Top 250 users
 
     if len(steam_ids) >= 10:
         # Write to top_owners.json

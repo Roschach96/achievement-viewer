@@ -50,8 +50,8 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright
           playwright install
 
-      - name: Update TOP_OWNER_IDS (scheduled only)
-        if: ${{ github.event_name == 'schedule' }}
+      - name: Update TOP_OWNER_IDS
+        if: ${{ github.event_name == 'schedule' || inputs.trigger_source == 'manual' }}
         run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
