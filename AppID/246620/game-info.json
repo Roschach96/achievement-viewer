@@ -1,0 +1,2260 @@
+{
+  "appid": "246620",
+  "name": "Plague Inc: Evolved",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/816a75e7b7a6f2c8bed307f247063f34ad45636b/header_alt_assets_2.jpg?t=1776850604",
+  "achievements": {
+    "A_WormFood": {
+      "name": "Worm Food",
+      "description": "Win a game by eradicating humanity with the Neurax Worm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bdd40b2ff312c4d5dd7a9b460996401fc8011d5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/39663dc29577535b347ccabfc021d798e0e3834f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "A_NotAnotherZombieGame": {
+      "name": "Not Another Zombie Game",
+      "description": "Win a game with the Necroa Virus without making a single zombie",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a5f5b6e2ef41ab41ecd9121b2311b2abce405aed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a23c9c89871a9517db2708c8abf880557ed216a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_TheGloriousDead": {
+      "name": "The Glorious Dead",
+      "description": "Win a game with the Necroa Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/67c43a2a2d81efcfe99ea99a28c234a97b333029.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2b5124be9172cfc91f6d1cc31b14ef1789535c69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "A_InsaneBolt": {
+      "name": "Insane Bolt",
+      "description": "Sprint to victory and set a world record by winning the game with Bacteria in under 365 days",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ba578b3eddf1e316133f115897b91513845d7e12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9bd11283f9ffa1102b62febb5b84867f2b19cb2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "A_CompleteBacteria": {
+      "name": "Bacteria Victory",
+      "description": "Win a game with Bacteria on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1a3900dfd585f312568561b032b4be3079c7daa5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cea23fc379994f17f17c7a196c858ac043d1cf25.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.9"
+    },
+    "A_CompleteVirus": {
+      "name": "Virus Victory",
+      "description": "Win a game with Virus on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e1662cd4e6771a7ad307d3b815d17809648249d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cf763d8d532f1fce4df64d5710336b0daf7bc6f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "A_CompleteFungus": {
+      "name": "Fungus Victory",
+      "description": "Win a game with Fungus on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fde598aff7a42af1357a95d6afaca48393ab65fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0cd351471340f8e7d0acd5f81a5deb36c9bdddb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "A_CompleteParasite": {
+      "name": "Parasite Victory",
+      "description": "Win a game with Parasite on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e108bfbecd4165301ad8e2ad7ca487c8ca798d05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fb663170a973dcba0cb9f3f51b92cc2ab9c61028.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "A_CompletePrion": {
+      "name": "Prion Victory",
+      "description": "Win a game with Prion on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0e1afe2d37166afd140ec26248b6887766967421.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5f310349de1efcabf9903c6b580ed063698bb1d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "A_CompleteNanoVirus": {
+      "name": "Nano-Virus Victory",
+      "description": "Win a game with Nano-Virus on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/02cc8b6bce3dd1004686cc83eb755d33e027b1fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a8690cc9e06d9e9fa0817a716c4789aa4e34699b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "A_UnlockCheats": {
+      "name": "Unlock Cheatmodes",
+      "description": "Unlock the cheats by winning a game on Normal for ALL disease types",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ead2fd60ded0e984be7cc403f3128fbcb729ff94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b9830d47786bda715cf334313a613a04d916f17d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "A_BananaSkin": {
+      "name": "Banana Skin",
+      "description": "Prevent PfiGlax modifing the Necroa Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/76b3ef4b4b1238ddb5f635f13134671c12493e4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e7e3446dcb0b4f091d8b108b3f8a703e0a36a170.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_BigBang": {
+      "name": "Big Bang",
+      "description": "Kill the DarkWater research team",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4eb43efdb77b6ed037a1583c198ffbbcf27d63ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2619a48a4586fd92ae65171643d08380c0656514.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_BottleSmasher": {
+      "name": "Bottle Smasher",
+      "description": "Smash a Blue cure bubble and slow down the Research Team",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ffd1d8f6f7395664067c42dac67c3de1a304369f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2cae25900776ebffafc4a74717abb2928c859331.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.1"
+    },
+    "A_Brainzzzz": {
+      "name": "Brainzzzz",
+      "description": "Discover the Waking Dead combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d46ed67ac17d8ae9dca017fe6edb21d194bcd072.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/45c4540052550d88ccc85cddca554155601964d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "A_BreatheDeep": {
+      "name": "Breathe Deep",
+      "description": "Infect the Chernobyl research team",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ddc9cef92e430180a362c56b124f024b6e8c0d15.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fb04c2ba2947a60bcd8731fce118ca1598228ccb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_BrownStreets": {
+      "name": "Brown Streets",
+      "description": "Discover the Public Defecation combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/276df925236229986a526fcc014fe873861414cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1ae1d260f5218031e1c056268970370a47d139b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "A_ChineseNuclearRetaliation": {
+      "name": "Chinese Nuclear Retaliation",
+      "description": "Make the USA nuke China",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5b8b738da8b00c2efae837e45f888fe339864180.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2a16fc5df44d67ab9e2b862639f7df2e99ef4b9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_ContaminatedPackage": {
+      "name": "Contaminated Package",
+      "description": "Let humans spread the disease via blood transfusion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5d6712528a7893b6fd64cc9714da3b1b4af14da7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/72c2597eab1807aa5d7e13cc015b9c091884f312.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "A_DeadEnd": {
+      "name": "Dead End",
+      "description": "Stop DarkWater from discovering a Necroa Virus weakness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/01d50dcc532fade0b3dfd674af3667e8a8ae0640.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/078d34fb94b12a71efc1dd16f489e43cc7772726.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_DontAskMe": {
+      "name": "Don't Ask Me",
+      "description": "Make the PfiGlax modification project fail",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9a1cb4591f0a91c082ed3f86544b4bcf851dd327.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a9db47e688ee8e1d75fde9971d3d2a062c0d27ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_DueDiligence": {
+      "name": "Due Diligence",
+      "description": "Stop PfiGlax finding a link to the Necroa Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2eb99446250677df0e67df2bdaeb05230a51391e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1a9c3db21ea25ab5d86c5d004ac1cf6c313e91af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_EvolveYourDisease": {
+      "name": "Evolve your disease",
+      "description": "Evolve your disease to become stronger",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e1662cd4e6771a7ad307d3b815d17809648249d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cf763d8d532f1fce4df64d5710336b0daf7bc6f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.3"
+    },
+    "A_FlashMob": {
+      "name": "Flash Mob",
+      "description": "Successfully use the Zombie Horde active ability",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/97948b241ded45c727a33038ae0d13c7055f12cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e78daaa668f775f50b4d90a6edc14cb02b82e787.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "A_GettingColder": {
+      "name": "Getting Colder",
+      "description": "Trick the Egyptian DNA tests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e935bb0f184464a16b9335eb9befd6292611e11d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b0a5db3d3c1dadfac95fe16e627c7cbcce9f7b46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_HideAndSeek": {
+      "name": "Hide and Seek",
+      "description": "Prevent link with Chernobyl exclusion zone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/99fdbdadf562ecd1fba5acdd3b0d1d2cf89fa3cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/aded4420070a5bc9f462d5fdcdb0e54df32760b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_IllBeBack": {
+      "name": "I'll Be Back",
+      "description": "Successfully use the Zombie re-animate active ability",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/135257d27776b7ebc9444646c396710c9b860bda.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/49846b3490658c9800c9ca44ae45fbcbcdd54937.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "A_IsItABird": {
+      "name": "Is it a bird?",
+      "description": "Discover the Vampire Bat combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/02a389f53cbb1d53ebe807ca411d6ab5b917e9bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/30b0fa20a2cbb30f64e7de0d2abeedcb599c423c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "A_ItsATrap": {
+      "name": "It's a Trap!",
+      "description": "Wipe out the Giza expedition",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/199ad013bd5848e59e470ec821edceb1fc8c854b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/64be03de5d1932b4818f81243c8d36bafc80793c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_Jaws": {
+      "name": "Jaws",
+      "description": "Discover the Blood in the Air combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b9014ec04e2c49dfba1d1bb7d5991f70d5f053e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a8f3bbc588ff7e74bf0aeca87a77fb7b714cac7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "A_LongShot": {
+      "name": "Long Shot",
+      "description": "Discover the Projectile Vomiting combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68125e70d7961d254db54c42653536ad02f79a94.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9187a1a20eb6c235e680f011d94459f251d3f2b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    },
+    "A_NotStarter": {
+      "name": "Non Starter",
+      "description": "Stop DarkWater from analysing the Necroa Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ef73dedb58fa02e13e2ffe687a081564d29a9b00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/62c47487c33c607545d9457fe7c38c5b661dd838.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_OinkOink": {
+      "name": "Oink oink",
+      "description": "Discover the Swineflu Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/16ef9e10eadac162aefbc311005ba78a8ece48f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fa3a258a6aef7129e999719dc81c36745aaa26ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "A_OlympicSpoiler": {
+      "name": "Olympic Spoiler",
+      "description": "Help the Olympics go viral",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/43e17017ae8d35bf8e07108caa3f83e8d7dc1af6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2d1a1afc36bef658802d5a565bcf10cdcc5e9ab3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "A_PatientWho": {
+      "name": "Patient Who?",
+      "description": "Stop the CDC finding Patient Zero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/02138f5302407a41cf919762d09a968588662c9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/58b3be74a4790392d27112794e8fa8bb6f4b3531.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "A_PeerPressure": {
+      "name": "Peer Pressure",
+      "description": "Have your plague discovered after riots force a government investigation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a1e3b91ca2babee53b7bf9259172cae8d5a93900.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/da0d66c86e26d8269bca0a7eae4c7571d4ceb54e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "A_PlagueInSpace": {
+      "name": "Plague in Space",
+      "description": "Infect astronauts before they launch a space mission",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/66a1db01c9d30a242b01ba3e9b1e606db33db32b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/91e4a4fb7b77dc3d41c3876bd490b33484c3bd62.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_RedRain": {
+      "name": "Red Rain",
+      "description": "Discover the Profuse Bleeding combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/91011bf800a8f211df45fea4e96b5f0654c671b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bca8d073fb9e6007c8d6e646da98ebc08ae6c5e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.2"
+    },
+    "A_RevengeOfOsiris": {
+      "name": "Revenge of Osiris",
+      "description": "Invalidate the knowledge of the pharaohs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8d69d2ab6c70da84c921e709cd9b1d775360726b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a1e098da2ac3fa60242c79e8fe16a76c5c360474.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_RMSWatchList": {
+      "name": "RMS Watch List",
+      "description": "Get your Plague on the RMS Watch List",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1885aec18ecab30ce10595541420a554d708fadb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e4a3cf76362d350ce82e8f5efa11e830c3181ed9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.2"
+    },
+    "A_Runner": {
+      "name": "Runner",
+      "description": "Discover the Runner combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1ed150fb36d78fa10fcb6afb1476696a934c8265.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0c79311ed38c65227b8751f9dbc6abe80785d8db.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "A_RussianNuclearRetaliation": {
+      "name": "Russian Nuclear Retaliation",
+      "description": "Make the USA nuke Russia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1569f86697e1d4ed735974163f53b5ec57cec39a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a366f9bce34a9c1eea2607306ddee565104f2693.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_Spitter": {
+      "name": "Spitter",
+      "description": "Discover the Spitter combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a6d0b8964c9ccc2e9a29b32da00f340b25a3b5dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/828bf8351290bdb84b9288d0919d30b63919a2b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "A_StalkersDelight": {
+      "name": "STALKERs delight",
+      "description": "Cause a nuclear meltdown",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a740a377301e14dff97cb23da8d58233ac67df85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1a8e4b07169613951db5ad2aff8cca0469e2cce9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "A_Tank": {
+      "name": "Tank",
+      "description": "Discover the Tank combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8b0885798fffc5e384987eb1cabd2ac326d3400d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/237188d25f57de098d3df5a13bd661afdb6de8e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "A_Tasty": {
+      "name": "Tasty",
+      "description": "Discover the Bath Time combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f2ab08a1811f374c8662ba4c8c9edda7746134c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/efc79289af4fb614228b2f521525a182a195306b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "A_TestThis": {
+      "name": "Test This!",
+      "description": "Force Chernobyl research to be put on hold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2ecb610289b4868ee16ebd9c22b1ad5df8e70c05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c03ea8cd594392d36c601c8cc176383a89432f9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_TheEndPlague": {
+      "name": "The End Plague",
+      "description": "Win one game with any disease type and any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8225dd2f318db80d78e4908b4bb1c03d6aafacd3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d54956ba5afd8919d02a109852ecce2f9d46ee4d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.0"
+    },
+    "A_TouchscreenTrash": {
+      "name": "Touchscreen Trash",
+      "description": "Disrupt the iCure and stop it helping cure research",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9986acca5751398f7be810abcfcf24d1a666c4fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fd9c240b04c0f8f27d14eae6013ba33af564de20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "A_UhOh": {
+      "name": "Uh Oh",
+      "description": "Discover the Oops symptom combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/422f9feb90e49a30d7603f0c17dee729fe4a55fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3d0558955037c8cbfd201c1e31cb304a299655a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "A_UseYourHead": {
+      "name": "Use your head",
+      "description": "Discover the Cranial Dispersion combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/dc8115b8d7da39ae9a247fde965ecbc9e619af59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/784bf0f8d11d4e6c2a8b42f5ed0ab688de7a81b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "A_WalkingContradiction": {
+      "name": "Walking Contradiction",
+      "description": "Discover the Walking Contradiction combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f4d4c69e134901c72d3394b3e1fc1f538872389a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fd3538129c16a5d83d026d2d3170839252b37a28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "A_WhoNeedsDEET": {
+      "name": "Who needs DEET",
+      "description": "Avoid insect bites",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9b08613e8ccb8934fa5b2165fcdaee9886211993.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5d91616a01785d7a2ead1ca44efbfcb3ee1a806f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_InvoluntaryWithdrawal": {
+      "name": "Z Com: Enemy Undead",
+      "description": "Destroy a Z Com fortress",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cb6da6cbc52174c9aaeddf118f2d5c8eb8f0fc69.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b9afde527b4d9127434686843d0332f9a397d438.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.1"
+    },
+    "A_AssumingDirectControlPC": {
+      "name": "Assuming Direct Control",
+      "description": "Win a game by enslaving humanity with the Neurax Worm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4e932346a3ea21d9d3f288218935f99e3c49b368.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a44825015b685662aa80bb2791dcf8bf777b41b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "A_CompleteNeurax": {
+      "name": "Neurax Worm Victory",
+      "description": "Win a game with Neurax Worm on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bdd40b2ff312c4d5dd7a9b460996401fc8011d5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/39663dc29577535b347ccabfc021d798e0e3834f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "A_CompleteBioWeapon": {
+      "name": "Bio-Weapon Victory",
+      "description": "Win a game with Bio-Weapon on Normal Difficulty or higher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/76d981f9bf3ac40010461af1bd0761c3d1abb30b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5ba29df9fe6c938c6a2f87a5a1743944efd97289.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "A_completeblackdeath": {
+      "name": "Complete Black Death",
+      "description": "Score 3 biohazards with Black Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/92e36a0c140710d63793a30435a91695855f9a08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/828d297ea1e90e645435303afe7b07f86fd4cb93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "A_completecreatedequal": {
+      "name": "Complete Created Equal",
+      "description": "Score 3 biohazards with Created Equal scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f8fabb7bab80c11c8d13cfcb42f38a8159b4ea09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c11d373bdab1d2883e895342ec799b5962d8a9d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completeglobalwarming": {
+      "name": "Complete Global Warming",
+      "description": "Score 3 biohazards with Global Warming scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/417b9b4ca03b3edfbf84393d31fdfa91e35eea44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b19493b1ebb0edf70be21b3d0a923d444629d134.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_completegoldenage": {
+      "name": "Complete Golden Age",
+      "description": "Score 3 biohazards with Golden Age scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8950b691b4e1f2d038fdff03d92fdddfbfb061cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0711a02deab56cb1ee6cd5c445f9718a1187782a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completeiceage": {
+      "name": "Complete Ice Age",
+      "description": "Score 3 biohazards with Ice Age scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c94157237b4504a8386dd6c5e497971ce061b7fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9ac720696df8a06223bfa0dbe7fc85ff26701f1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_completemirrorearth": {
+      "name": "Complete Mirror Earth",
+      "description": "Score 3 biohazards with Mirror Earth scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/875033d50ed77c6bfe59e4508ff492ed2285cc44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/dc4d95a4abafb210c1661eef9651ae3f6ddb2a0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completepirateplague": {
+      "name": "Complete Pirate Plague",
+      "description": "Score 3 biohazards in the Pirate Plague scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7e47f0c2ef97e61629de7c196b4340d5dd4dfe2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5ee4422e5b2c1cdd2beb0b1f881cd08a5356bf76.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completeshutdowneverything": {
+      "name": "Complete Shut Down Everything",
+      "description": "Score 3 biohazards in the Shut Down Everything scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/add34a5d580508190d14df94d8cae54c4d76df10.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1442d8dcf6909f0538ecc008f506a7e38015007c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completesmallpox": {
+      "name": "Complete Smallpox",
+      "description": "Score 3 biohazards with Smallpox scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f62990fa2613fc789fc740da178526555db57305.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/607ced5ac54d181f669c368c6d81b2ef6f07ee4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completesovereigndefault": {
+      "name": "Complete Sovereign Default",
+      "description": "Score 3 biohazards with Sovereign Default scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/71a7af88007462aeeec2cb2bb40a269cfd7ea5b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/400fbf58c320c8e8aa0efbacedacbf5c890c5fe3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_completeswineflu": {
+      "name": "Complete Swine Flu",
+      "description": "Score 3 biohazards with Swine Flu scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8244f8d94b54239728da1863a14a1e63f68f81ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6aa6f8d7ae7d66d381b952a16d7f39da4e7bbec4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_completevolcanicash": {
+      "name": "Complete Volcanic Ash",
+      "description": "Score 3 biohazards in the Volcanic Ash scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/356cc2376535b39baaa1f121634e1d262e615229.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3b76df96a2a1cc454f3b74d67e2e78496fa3e491.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "A_completewhocares": {
+      "name": "Complete Who Cares",
+      "description": "Score 3 biohazards with Who Cares scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f1d430f07b1c16aa1c220062cb082386c605020b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c7afc12343809d5025d2a5d5153807c8f6271a22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "A_completexenophobia": {
+      "name": "Complete Xenophobia",
+      "description": "Score 3 biohazards with Xenophobia scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/888c5492139e925fdb5db9c12d90b96364be80fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/701f89d5679bb0fe6b5c740fa687db9f8ffdcdd9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_supersparrow": {
+      "name": "Super Sparrow",
+      "description": "Get 3 biohazards with each disease on Normal or higher in the Pirate Plague Scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cd8598aeb1ddf58ebdf7533863e0a0c5bf6700b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/da2a38a7f7416521c98938d34e334db25e8e01be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_lavagod": {
+      "name": "Lava God",
+      "description": "Get 3 biohazards with each disease on Normal or higher in Volcanic Ash scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9a0bc22e7df70503ea62f27367110b7b0c9d77cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e55dbad8acaf7d4dd0914efb5c2d972f58ef5039.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_mrpresident": {
+      "name": "Mr President",
+      "description": "Get 3 biohazards with each disease on Normal or higher in the Shut Down Everything Scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9a0f96c4690d43b1e42c69c5475936f07cd41e34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e64379fc4ec9100e72110577ff1b16d0c1dde79d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_UnknownOrigin": {
+      "name": "Unknown Origin",
+      "description": "Score 3 biohazards with Unknown Origin scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e068d115a864d79d06fbeb45441c6a7166992621.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/af213035a88103ac7dd9d530b92004de9ef7b845.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_NipahVirus": {
+      "name": "Nipah Virus",
+      "description": "Score 3 biohazards with Nipah Virus scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8792545f5a66e2180d9490d0c530d74583a30730.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7827046eea357441b0d144d8c9a3181efda202fa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_FrozenVirus": {
+      "name": "Frozen Virus",
+      "description": "Score 3 biohazards with Frozen Virus scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68961787d37912a5eeed3571e43e3ee3af1a297c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d0cf8389445da54abf914ea2d75a5b3693535257.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "A_ArtificialOrgans": {
+      "name": "Artificial Organs",
+      "description": "Score 3 biohazards with Artificial Organs scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a86591027a592c6dc614e10b13b33372ccef9443.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/eba8d9ae5f1c7537a4edcf5286244ea44f1527c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "A_CallPETA": {
+      "name": "Call PETA",
+      "description": "Make a celebrity cry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ea7cf2f5b04003a9a3e3e1ab3285da02c15766b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/61ef3041f58539c05962c0cc92f90dd9dc075936.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_ContagionCancelled": {
+      "name": "Contagion Cancelled",
+      "description": "Prevent a film about your plague being made",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/42d7f21c77da7468f37f6728eb8e0cb490fc3ff1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4805094485ec32dc9cf5fbcaaad52f08e3cfb0f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_WhoNeedsScience": {
+      "name": "Who needs Science",
+      "description": "Show the world how useful homeopathy is",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/973d9682f027c53ff4ba09d4e1ce4758894809c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c5abefff00401db372eb6afa1c130e309017e94e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_WhoNeedsBrains": {
+      "name": "Who needs brains",
+      "description": "Take humanity back to the stone age",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/de94653d65669ddb3b9f922ee867ecc659b169a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6f0f93386fc0e642fb9e391b90b1ef7f5bad479c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "A_INeverAskedForThis": {
+      "name": "I never asked for this",
+      "description": "Feel the negative side of artificial organs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1e8cc44337e8f13a24ed7c1165e2748a9a1c6dfd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/81c0e351f086994db196cab4922697a0c42fc6f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_BacteriaMaster": {
+      "name": "Bacteria Master",
+      "description": "Beat Bacteria on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/56c5f0c394a64316cc54f4ca93940a34fc6dd30a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/182310929d83874f69d874624af6e62dc16245f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "A_VirusMaster": {
+      "name": "Virus Master",
+      "description": "Beat Virus disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/020971fb68a8a9e0e9a775777f51fbf03058ad73.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/12f1e48c25999411065e4c96ef082cacb3f85ab7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "A_FungusMaster": {
+      "name": "Fungus Master",
+      "description": "Beat Fungus disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c2f562ce93e5c87424179c04238f2fe13b49476f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/42a5e7e396049fb1fc0e09048afb88e281d00c0f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "A_ParasiteMaster": {
+      "name": "Parasite Master",
+      "description": "Beat Parasite disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9770f5ddc78b1123437cb401519deded7a38d67f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4d61545e8ad35c8eca5a0bf03ad2f266ce6091e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "A_PrionMaster": {
+      "name": "Prion Master",
+      "description": "Beat Prion disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d977796b382b00b9ae6b6ec502432aa5ff6b32ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d517aa790217f7ceb7bfb3b11b3820773ebb472b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "A_NanovirusMaster": {
+      "name": "Nano-Virus Master",
+      "description": "Beat Nano-Virus disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7220d9c2b747c24e0e4a8988c10b928cfcd1982c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9101fac17ebc372a3ae51620ae8eacda003c88cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "A_BioweaponMaster": {
+      "name": "Bioweapon Master",
+      "description": "Beat Bioweapon disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/79173b41e863d8550856bb5cc5bc0b7d205d64c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/711fe822edb6dda2aa704cd741aa89e0677756cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "A_NeuraxMaster": {
+      "name": "Neurax Master",
+      "description": "Beat Neurax Worm disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/53c9a89b9e6f46680315b13c128c428de80b33c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b8640af577f76337000af0f2294dc63c41fa87e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "A_NecroaMaster": {
+      "name": "Necroa Master",
+      "description": "Beat Necroa Virus disease type on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/352c6427f28eb1e909e522f33ff7160bbf32d49a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fc9846f79cfe1af387d009ba1013d8b4030c8cbd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "A_NormalShuffle": {
+      "name": "Normal Shuffle",
+      "description": "Win 5 times in a row on normal difficulty with the shuffle strain enabled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/df379901ca56555ac433502d3591c7a1c8704341.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/973c96b9ce077b9f8a3534a4774ca148cf10bdeb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_MegabrutalShuffle": {
+      "name": "Mega-Brutal Shuffle",
+      "description": "Win 5 times in a row on mega-brutal difficulty with the shuffle strain enabled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ae01fca0bd11eda17bba61a8d345cd065b12c58b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a204b9f69553f5e4a2bf2edfd9a04e0cf5046ac3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_Bingo": {
+      "name": "Bingo!",
+      "description": "Win 5 times in a row on normal difficulty with the lucky dip strain enabled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/30dae2118b36dd5269b34c6113cd6196204afbfc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b2d35a41ebc2b8c51b17103c178d0b2d15ce5c2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_LotteryWinner": {
+      "name": "Lottery Winner!",
+      "description": "Win 5 times in a row on mega brutal difficulty with the lucky dip strain enabled",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9f85b55d9235d6407dbc7d31f091e0d185e44a77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4eab9b7bd3cab19b9132409c878820a4226c5ea5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_Boomer": {
+      "name": "Boomer",
+      "description": "Discover the Boomer combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9612b634d6c1f7da724aae5d63ef655451568a2e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/892ec5cdc3bde9445ada96d1419f996a0268957c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "A_apeswillrise": {
+      "name": "Apes will Rise!",
+      "description": "Destroy humanity with the Simian Flu and let the apes take over",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0b2d018a8bc1d42709018a93e26529c964548e25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f39f3ffb38e9c2bb14a53ccc0a62017de855ed8b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "A_notjustaprettyface": {
+      "name": "Not Just a Pretty Face",
+      "description": "Make every ape in the world intelligent",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/74568fdb8264b91eaa330d817a483d1c2e0237e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68e1a3674a8bc0656194a9f6ea5788a611e9bf30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "A_filmfanatic": {
+      "name": "Film Fanatic",
+      "description": "Recreate the setting of the Dawn of the Planet of the Apes film",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b8e0aa12364f52164bdfe228b41f08ea6dfb940a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/76ef0e723c8660d34208b9d68478413b68d04822.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_greatescape": {
+      "name": "Great EscApe",
+      "description": "Break apes out of the primate shelter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8cd9602b4538273996f3e1d3c4896cbabc1126f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3d90ea46ae9f8177796712de9861e1696838d9e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "A_TrojanHorse": {
+      "name": "Trojan Horse",
+      "description": "Create a trojan plane and use it to infect a new country with the Neurax Worm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/69afb53e2223cd2d0f0e6de2d1776f6c17245aed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e20269457158451eb93262ef3ffec71053acce4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "A_PublishedScenario": {
+      "name": "Published Scenario",
+      "description": "Publish a Plague Inc:Evolved Scenario to Steam Workshop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d6cb6041faa604ba0545e4808deb5118d690feb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/16599e86cc219abb2fbbb0726c0ba306eb25f451.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_didimeantodothat": {
+      "name": "Did I mean to do that?",
+      "description": "Reverse Simian evolution",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/80e85ba0f03f9acb29cad699d28bb24ccaae90ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/504392d4a8f5658cf27588cb3045f39c2adc7e08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_familyfuture": {
+      "name": "Family. Future.",
+      "description": "Create an ape colony to bring intelligent apes together",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e9995bbbfd93ddff93862960fb9978c40c990b4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/da43e2fb14fed07b29336adb006ea03f29acb785.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "A_gosimianfaeces": {
+      "name": "Go Simian-faeces",
+      "description": "Destroy a Gen-Sys lab",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/74bca5a3437c0cade4346319d903b2adacfaecb7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f341ca105c4698949adc9d42f14286a97002e99c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "A_thetraveller": {
+      "name": "The Traveller",
+      "description": "Move intelligent apes to a new country",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/297de68d24b7c5140bce355e4d54b8c80d3bd65b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6d05619c232c1f788d3a61097767d0c20a2672e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "A_evacuape": {
+      "name": "EvacuApe",
+      "description": "Evade a drone attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/344ef113a2dae7f7e71a06b7b8428824c54ebaf5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e0a9926409173c8fdd08d99b5d531c0e82e0509f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "A_apestogetherstrong": {
+      "name": "Apes. Together. Strong.",
+      "description": "Gather 500,000 apes in a single country",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/43e433846fb72942fc8f360a017a2a4a59520da4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2648652e854d7e1a963e1ea8d77e9b576c6788ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "A_Exterminape": {
+      "name": "ExterminApe",
+      "description": "Scare humans into becoming hostile to apes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/eaae38a3c69450cd9304a829fe6143d01fa3327b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/694376040130dea1beb97e06a0dd45b6358017a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "A_shouldntkeeppets": {
+      "name": "Shouldn't Keep Pets",
+      "description": "Allow all the apes to die",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/dbbac8a5107ce57d6b50cd5e3df229ed28a61a9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/350961ffa35141acf0a04edcffb6e3d71352a06d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_anapeisforlife": {
+      "name": "An Ape is for Life…",
+      "description": "…Not just for Christmas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/72195b9d6a19b3d2c89ce3f98ef3f0ca424a4bcc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1f7a4f06b63c807b85a68114cbe51e43a770429e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_simianmaster": {
+      "name": "Simian Master",
+      "description": "Beat the Simian Flu on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/04ec75463787214fe9499d80a027be8742f9b255.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/508fa5a405cb6ec5859fba89b9427b170d2bafcc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "A_noidea": {
+      "name": "No Idea",
+      "description": "Evolve 'Total Brain Death' in the first year and win",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/190e8ade7c7d8901f38a8f65d6a6a3e226c10059.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/28c73fc9ce24fa7ebdf650778b3fb84b757f5168.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "A_doitliketheydo": {
+      "name": "Do it like they do",
+      "description": "Discover the Discovery Channel Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1ca0f8a36ee9d2e96d7af5863fb6ea2d5c56ef78.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b5ce6e545c7eb69f3d6b63af3c45511081c41442.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "A_apescreed": {
+      "name": "Ape's Creed",
+      "description": "Discover the Assassin Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/255c99e01ffa8039879a0ef2af39a2eb098d7144.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0f557ccd2b25c0f0d3d6469b2955dcfe1c31589b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "A_likefliesround": {
+      "name": "Like flies round…",
+      "description": "Discover the Fly Magnet Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/423d54b583fdaf1607898305036211eb9780697a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/54c59097dfaae3a0aebf9fb090f838ca866a681f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "A_rudeawakening": {
+      "name": "Rude Awakening",
+      "description": "Discover the Rude Awakening Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bc5854a85b82c546435eeb358fbd9d34aca64b19.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cbb0486f000d48cf9df09a6cd3b065aa1fb99da5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "A_redaperedemption": {
+      "name": "Red Ape Redemption",
+      "description": "Discover the Red Ape Redemption Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fdb74e84c168db8ff33abfd2763f2ba6244b61ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d6fd6d72a61af29cfb2096e62eb5ae6a3a3d22a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "A_blindgenius": {
+      "name": "Blind Genius",
+      "description": "Discover the Blind Genius Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c934f6ae3bea4ba472285846f34bb23cb6119665.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7839cccd3cca59fbf53dfaa9ac24262a6a3f8a82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "A_notnecroa": {
+      "name": "Not Necroa",
+      "description": "Discover the Zombie Panic Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c8e8482c5f4d32778aaab61d13eea6f7f55780ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8b00affeb5cf956de000e359a44f86d0107fe87d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "A_attackofthedrones": {
+      "name": "Attack of the Drones",
+      "description": "Have a colony destroyed by a drone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/578fefcfdeff7661ef12fc55febfe4a5ae652967.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e52d9d1d11b88624b55588584339d889c274b54c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "A_onthenaughtylist": {
+      "name": "On The Naughty List",
+      "description": "Put humanity on Santa's naughty list",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/36bbffe534c2f86aa9040faeb7f02cb0e0e983d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ec425f493cf8a8c6e70ad05518d39d6ac9d4083d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "A_ultimatechristmas": {
+      "name": "Ultimate Christmas",
+      "description": "Discover the Ultimate Christmas Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8449d19d57ef0c2f79e15e94eca03579ce1f3ec5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e2a0ff09e39f3468f0efb8197bf1c0b9bb592935.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "A_completeteleportation": {
+      "name": "Complete Teleportation",
+      "description": "Score 3 biohazards in the Teleportation scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d44d871767d6fc976d5b9658ba4fb49076fc3f53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/598ceff85f9400a174cd1cad992c017f6285dbaf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "A_completesantaslittlehelper": {
+      "name": "Complete Santa's Little Helper",
+      "description": "Score 3 biohazards in the Santa's Little Helper scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a735e51035c0ef915e27d904c23c8469e5006e7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a20b4d0c7f0eb88cfd52f98d6298ec5eb86adb0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "A_gladossayshi": {
+      "name": "GLaDOS Says Hi",
+      "description": "Make a teleport attempt end in tragedy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3daeb476afacd7cc3beaf07853ebffe0cf648ff1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d7e7ce1411e328ed42065ddf6f0bb6587298b61e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "A_thefutureisbright": {
+      "name": "The Future is Bright",
+      "description": "End the game with apes and humans living together peacefully",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/78430149278f828a9a1e7b5f1e523b8948b113f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7b3988affd072452c64629d1286cc7d208411c47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_MP_GeneticChallenger": {
+      "name": "Genetic Challenger",
+      "description": "Play a VS multiplayer game through to the end",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/92412049004310ea5af6450d87c108efd700bf85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d8c6f321ab664a23ca8d4db2746e8a76eeb3c3eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "A_MP_GeneticDomination": {
+      "name": "Genetic Domination",
+      "description": "Play and win a VS multiplayer game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/51c350e513c4f18a672ca9381b36c334045490fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/77571c692f824862e2b2c0adacc1fc91aa86328f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "A_MP_BetaInfection": {
+      "name": "Beta Infection",
+      "description": "Play a multiplayer VS game to completion with someone who already has the Beta Infection achievement",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d7119235401612eb0592680c26e00d4665f60195.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/72562b4bdfab609dc8db554f67e32d90f793df50.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "A_MP_NdemicInfection": {
+      "name": "Ndemic Infection",
+      "description": "Play a multiplayer VS game with someone who already has the Ndemic Infection",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a8465082df7654be2077585689977c4f9e8635b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68c996c4e1b5435f5ae3155a23e5b4bb594560cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "A_TutorialComplete": {
+      "name": "Tutorial",
+      "description": "Complete the Tutorial",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/739a51c631d24a46d76d232821965f3fb4908bbe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a3410913d95c35b7244daed1a5523b0e5e60ed25.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "A_MP_Nuclear_Warfare": {
+      "name": "Nuclear Warfare",
+      "description": "Launch a Nuclear Strike in a multiplayer game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/995223fdf8dc4ad3e0e7bd662c0185649c83fcd6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/28363bfd3b288ba55f4fd7ea1ea03be71e010b1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_MP_Brief_Acquaintance": {
+      "name": "Brief Acquaintance",
+      "description": "Play a Co-op multiplayer game through to the end",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ef9f027b34b1514a13c13a06884dc2497b60a837.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/636cbad6610f5c9b3140b4c811e58f392a9a2e05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "A_MP_One_Night_Stand": {
+      "name": "One Night Stand",
+      "description": "Win a Quick Match Co-op multiplayer game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/45cc5df6ed0428d9f94de0e8725a3d13448fd81c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cd0dc871abe4a8e9df071741e67f7bcdff6cb9f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "A_MP_Friends_With_Benefits": {
+      "name": "Friends With benefits",
+      "description": "Win a Co-op multiplayer game on Casual Difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/54892da76aed7ce33ec199b61c726bccf148ee58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2a53875c210cb1fd9ffd724d3449d51872d5d193.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "A_MP_BFF": {
+      "name": "BFF",
+      "description": "Win a Co-op multiplayer game on Brutal Difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/14453aec538da67b061100e7e67a3f303ab7c6fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4c70f73b92608f8f49924c5ac41d4da285444643.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_MP_Comrade_In_Arms": {
+      "name": "Comrade-In-Arms",
+      "description": "Win a Co-op multiplayer game on Normal Difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b956a83e461b8d300bc0a36ce35bfd929d1a7cbc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4892b883b27db36fbe0ca1d19713e316784db952.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "A_Disease_Master": {
+      "name": "Disease Master",
+      "description": "Complete all disease types on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6a59dfd7e96cd17645e7a6ec1cbfe1f46ec6f173.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5d6f0fcf6a7e5850c1223322f553d86cfaae4462.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "A_Scenario_Master": {
+      "name": "Scenario Master",
+      "description": "Score 3 biohazards in every Official scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/88a4787ec9ccbb45d5252e3529d2380f4c44fd27.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8f7f3b2cc8f27810a4630d063d6439883a048416.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_Fully_Evolved": {
+      "name": "Fully Evolved",
+      "description": "Unlock all other Achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8b1545f542458cda0d33b24a4d37cd31af7f264e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/18f278a7f2cd6ac72f57826e8a42a99483e0e470.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_luckofthedevil": {
+      "name": "Luck of the Devil",
+      "description": "Destroy a Templar fort with near death vampire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/23508754f14df5e991b03087c7c1a882c2c84fe1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e80bc19bed63ec82d5477ed98171125481e0a5ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "A_heartofdarkness": {
+      "name": "Heart of Darkness",
+      "description": "Send your vampire into a Blood Rage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8bc5f94903f4cbe5072c7242be169cbb6a979363.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/02ffb4a888cacba43035f36edf6d49d67d30885d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "A_batmobile": {
+      "name": "Batmobile",
+      "description": "Transform vampire into a bat and fly somewhere",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3473a936f3c730c5d3b1d595b06921d97d02a8ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/468b874bb0bdd0758bb91a429015f087025ba59d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "A_vampiremaster": {
+      "name": "Vampire Master",
+      "description": "Beat Shadow Plague on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bb2bc741ad7b8116941edce180181fb2f59c0332.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d9febf7cb2a503ed0cda6714eff47ca97dd91e6f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "A_bloodpets": {
+      "name": "Blood Pets",
+      "description": "Create slaves for your vampire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7df4fad7271020c5ff2a7158ee60a8c7ec89feb2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/03a4ed8b8b7864106c9bceb850e2f1e73c5fc6cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "A_purityofthechosen": {
+      "name": "Purity of the Chosen",
+      "description": "Create a new vampire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5637789af00327a51a631af95789cdcad84a6e5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3d769d696c468b64d8aeaea51eb38c1e6e772025.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "A_homesweethome": {
+      "name": "Home Sweet Home",
+      "description": "Set up a vampire lair",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e87b32b76a1f79ed29baa08373835dcd0e892e4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d295ed0f8f9bc1250added8223d0c786567e70a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "A_vanhelsingsdoom": {
+      "name": "Van Helsing's Doom",
+      "description": "Destroy a Templar fort",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/07d206cd2088d73bd2cd4d658cc4b876a127def8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6ae82e29a0b254f2c5a4411142b65e96ecbe9e2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "A_twilightlied": {
+      "name": "Twilight Lied",
+      "description": "Let Humanity discover your vampire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4dfbb7b42c8ac3d0824ee619edb4bb4ed479e8a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/69cd2082f3b3403e9f3eace5f3c95e1daef9c214.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "A_rockbottom": {
+      "name": "Rock Bottom",
+      "description": "Consume the cavers exploring the Shadow Pool",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f382d1677dad52920fd93c031e8ed0d089cd262f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/15f37f0b8e88545835b6ab796b5e2f6020f1d4e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_waterygrave": {
+      "name": "Watery Grave",
+      "description": "Drown Templar scientists in the Shadow Pool",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d02ca367cc7f97e4eee1a7b0bb9084c55c7d5e5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e1b57fecef6b35339988bbbc67aa779cb5f7fa4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_pusexplosion": {
+      "name": "Pus Explosion",
+      "description": "Oooze pus everywhere!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/59ec7a9267347e25c62922e4ce25b247cd4eec3b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3ae6189ee772d0364d4bc6c4c201f92d386e5984.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_wolfpack": {
+      "name": "Wolf Pack",
+      "description": "Hunt down historian searching for Dracula's tomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/77a437ed45f12fbe9a0633268bf72c84aa1365c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/166984d13128c9a15c24bb595d6881e16090e743.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_iamyourfather": {
+      "name": "I am your Father",
+      "description": "Resurrect Count Dracula",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f3b05b0d86b188c0baacdf4471934ef6d4be4d87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e50a6476d000efb4dcbb9a2846840fc503877d17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_makingamends": {
+      "name": "Making Amends",
+      "description": "Help tourists repair the damage to Stonehenge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0989ac276149bac55879d4ac57896364f2a5016e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e55f14fb587f3f97613cdef2c97434068ceff546.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_greyscale": {
+      "name": "Greyscale",
+      "description": "Infect Stonehenge explorers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b242deef926d053bc75b1e1c4cb566625d96611c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e33f353337324bdca63157bcf7ec9b7e765b64bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_poweroverwhelming": {
+      "name": "Power Overwhelming",
+      "description": "Consume the bones at Stonehenge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/170032e3dc87b12e23a76205da158b54fcd2a8ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cfff230a5fab067ff02bb69f75df92ef9031337d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_sadomasicist": {
+      "name": "Sadomasochist",
+      "description": "Beat Shadow Plague with no Shadow Slaves",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0b319461925bc1765902a68ada5552f48f6164c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/949064437a55634629465c4b30de7e80343d4ace.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_countcountula": {
+      "name": "Count Countula",
+      "description": "Carefully count your vampire's feeds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f723e9876490c16702356c0b1f957e0e6e6ba46a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e70c14e0b108754d737c0a12015c1f74376b6289.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_mruniverse": {
+      "name": "Mr. Universe",
+      "description": "Discover the Mr. Universe Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2d5e4a8918d051551ba93f7a99d72cb6cc160e42.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3fd2ae4d4b68ed235754c6bc9f846639dc6bc9fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "A_darknight": {
+      "name": "Dark Night",
+      "description": "Discover the Dark Night Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1021ebb847ada65fb7d9e021351ef1223ed69856.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fce18f1d5caeadcbf4b12bff0a5bf66f0e498abb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "A_silentbutdeadly": {
+      "name": "Silent but Deadly",
+      "description": "Discover the Silent but Deadly Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/762b23c41c15749bee53afab322477501e453fbb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d96137a84fbd29a4866128191f3c37ffa1056f86.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "A_dentistsdream": {
+      "name": "Dentist's Dream",
+      "description": "Discover the Dentist's Dream Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/69455d36a2ae49feb3eba3da0c1811210eee2249.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ac23d64e85ba4239b3faf4f5b4f00a4852727bf2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "A_uphilliceskating": {
+      "name": "Uphill Ice Skating",
+      "description": "Discover the Uphill Ice Skating Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/efd9170c1b45d9c9420ef28f40fecd8bffd29435.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b407d78152102d9926a28a13007656e265a1a101.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "A_evilisapointofview": {
+      "name": "Evil is a point of view",
+      "description": "Discover the Evil is a point of view Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/12ab03ac2fcbdab85a31598dc28123832ddd3867.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d0e159f0577074f5625ef0f2076f663284f3e617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "A_bloodtrumpsall": {
+      "name": "Blood Trumps All",
+      "description": "Discover the Blood Trumps All Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e92dca6f79a8207d1d93e28a4b3fbc55b740efb6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/666b7ed8b4bf40eb6ac0635ff277dc9ee0d8b0e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "A_carpejugulum": {
+      "name": "Carpe Jugulum",
+      "description": "Discover the Carpe Jugulum Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7c799f3e82e5c54c3f038e68dc005bcb5a0bad99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bcd4c1e27807830d87f39405c490f4d758e80957.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "A_welcometohellmouth": {
+      "name": "Welcome to Hellmouth",
+      "description": "Discover the Welcome to Hellmouth Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fa333d01ded24efb8ddb2d469f43d99680fe5e7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c43c7bacc2393b78a7b0f307b8300fba1a936519.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "A_diamondskin": {
+      "name": "Diamond Skin",
+      "description": "Discover the Diamond Skin Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68baabe96219a05a1efd432552850fc40faa0762.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0d45fd1527f11d2b2f6a2a50a2293046947b75ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "A_batcave": {
+      "name": "Bat Cave",
+      "description": "Discover the Bat Cave Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/598b609ed31f1d424b9bd2e1038638eb020e37c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/84574f714bd72b620248f96e5914bfbf7c90988a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "A_essentialvitamins": {
+      "name": "Essential Vitamins",
+      "description": "Discover the Essential Vitamins Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c78c5a310d4a6413126d556cbd4da6d3692a9886.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/87858e8dd280c37b61de0894aa56d060e080d869.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "A_plaguedogs": {
+      "name": "Plague Dogs",
+      "description": "Discover the Plague Dogs Combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c061a7fb8332c07996862d0d6a6caedcb548abb6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3d1557578f31bae8fd781f485039ab6e88021b48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "A_chiroptophobia": {
+      "name": "Chiroptophobia",
+      "description": "Drive out cavers before sampling the Shadow Pool",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/937524db090cfcac44994775515aee1a3899493a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b22426325551e02510ed6c8d475a2d6f3eb98811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_NoBrexit": {
+      "name": "No Brexit",
+      "description": "Stop Britain leaving the EU",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3c34f9dce44867a551831298874d1fb285cd2e9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/eba7084772fd0722f306b9180fec3d7b467ffe62.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "A_SoftBrexit": {
+      "name": "Soft Brexit",
+      "description": "Help Britain softly leave the EU",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b89b6fa46b7887d566e25cc03a12451aefb3aeea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/68b73e3de700c55beee63cf3966e39cfefe69e98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "A_HardBrexit": {
+      "name": "Hard Brexit",
+      "description": "Encourage Britain to have a 'hard' Brexit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c9be836c72534f60adac3a0eac582cd3654d2271.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1a6cd675c6ce6290e1194878b63e83d7f33cc610.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_BrutalBrexit": {
+      "name": "Brutal Brexit",
+      "description": "Put Britain on the road to madness when it leaves the EU",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e68ae85d0f967f87783dd068a7b9578b0c8a9191.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2e1b6e1ff8b282f920604e734a05ed3bcf7a3a1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_completemaddcow": {
+      "name": "Complete Mad Cow Disease",
+      "description": "Score 3 biohazards in the Mad Cow scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c33453d80d6e886ff6c59d70503ad681194e1712.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/904590ef4e755b52c53bb67eda603e053ffb046e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_sushicrisis": {
+      "name": "Sushi Crisis",
+      "description": "Start a Sushi Crisis in Japan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9816929335ce12088d3ab48a656e4b11773a4a9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/73d61781e918ccd180f3b17c6ba5d337c5bf0350.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "A_completeflightclub": {
+      "name": "Complete Flight Club",
+      "description": "Score 3 biohazards in the Flight Club scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cf5678414b33d0d5f3d01a91505b83415f3eed26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7be83c946a3ff0628c267e0034e973ad94b2208a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "A_completewhereiseveryone": {
+      "name": "Complete Where is Everyone?",
+      "description": "Score 3 biohazards in the Where is Everyone? scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/55082ca34de5ab315ae4775f0b0ecee553def030.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8170e5bc367d64f33b00ea870d0baa21c5a6ea69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_kindofabigdeal": {
+      "name": "Kind Of A Big Deal",
+      "description": "Discover the Poker board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/076229253140296470c68c1a166bb60fc37b57c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a17983ec49334760b2fa13035a5d8ea7cadcb000.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_acoltclassic": {
+      "name": "A Colt Classic",
+      "description": "Discover the Steeplechase board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/926df84d8a0b1570b0939d0921d9c3a7ad7b0d64.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f5746255ebeb4fb3f243e758cced0fd4dffd4fe2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_infectingtabletops": {
+      "name": "Infecting Tabletops",
+      "description": "Discover a very familiar board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7463720d83299c0dc0bc7e954351abe84086f3c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b125c697592e43631580ba1a61fa3e698df4e3ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_sinkingfeelings": {
+      "name": "Sinking Feelings",
+      "description": "Discover the Battleship board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a8b49aed8bc5601256433ad49506857a9bef9bfd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/eaff497d14a27b2a8e5d28f3df7584b774d94013.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_partyhard": {
+      "name": "Party Hard",
+      "description": "Discover a compulsory enjoyment board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1e8a39c70ddc625a541ebe6e307bd0c6eaa6468d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a91bdc4ae265489130bfb18d02c77f1c569af9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_takingrisks": {
+      "name": "Taking Risks",
+      "description": "Discover the Risk board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b5d559097cb5e8e2496e23dbde47f293b3eab0c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/379817d7bbae4e2553d610d057dfa81f72e56945.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_catanyoubelieveit": {
+      "name": "Catan You Believe It?",
+      "description": "Discover the Settlers Of Catan board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a8f71957e9e2d3ad02eac9053313bad4ce753033.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9a7fec289bb2fac08e428ce919caa6af4725caee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_spellingoutsuccess": {
+      "name": "Spelling Out Success",
+      "description": "Discover the Scrabble board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/522de48f8fb5f3f19592f945e1d83d730dad4c40.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ff394b3e2949c4517e05068b495b2d3919f4b422.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_killercombo": {
+      "name": "Killer Combo",
+      "description": "Discover the Cluedo/Clue board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/069680209e0389823bb9a7ea68d2a278794259a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/377287334b4795c54b5e2d4530477040fef1f7d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "A_anythingbuttrivial": {
+      "name": "Anything But Trivial",
+      "description": "Discover the Trivial Pursuit board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8686456edbf2bbd39c3685abda85b0a9a7ed068e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bb2d971d96ddd70a73746047fd4eba92fe878e08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_welcometothejungle": {
+      "name": "Welcome To The Jungle!",
+      "description": "Discover a cursed board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0c53135d41c8832ae37d3a6877995c44cdd989c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cfa3a003fc456d6254a987ceab7f1a8a70e965d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "A_plagueopoly": {
+      "name": "Plague-opoly",
+      "description": "Discover the Monopoly board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6191aaf5e58299316ba7ca8c6d9d3077262ff6d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b7adbb2d403fa711bd3b944b9787606f20ed2164.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_awkward": {
+      "name": "Awkward!",
+      "description": "Discover an inappropriate board game combo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4734b47871886fb78b7de0387f168f2faf75316b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ffeaab994488da9468a90741ae6147ccf1ebd05c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_completeultimateboardgames": {
+      "name": "Complete Ultimate Board Games",
+      "description": "Score three biohazards in the Ultimate Board Games scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c3491b028d53d756b0a1adb5a5ce6b84fe27ad9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/840a032d4279547d66154bfd7674ef2bb7357623.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "A_completesciencedenial": {
+      "name": "Complete Science Denial",
+      "description": "Score three biohazards in the Science Denial scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/43ace7a443231cefdd39390367881ae9209c34f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8b3a78ac603e43c6e9fd60de14a50963e56a9046.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_thecureisalie": {
+      "name": "The Cure Is A Lie",
+      "description": "Inspire an anti-cure protest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/626cb526f12a427ccdf19a1a39a3e44f55f50fd0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/48f9889f43329066a0549d9982cf896abf9dadec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "A_makingHeatWaves": {
+      "name": "Making 'heat' waves",
+      "description": "Convince the world there is no environment crisis",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/97a377082750e89ca9fb52230159aaa3ec3097ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/149febae292f703411a89ab6c8e37da649796a74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_hackJob": {
+      "name": "Hack Job",
+      "description": "Convince the world that the elections were rigged",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5a38629b12d8ff1aee6c94f34fd6d0aa929ed328.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/67c6c1cfc6bf0fc1cc43e10d016443fc5581d648.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_gamegate": {
+      "name": "Gamergate",
+      "description": "Please don't review bomb us",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/27ddab99af8a45e6e619ca11c2d33adb8f3b5f5b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/493ee688b009d444cbfea8a967bb64be41240b47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_generationalTensions": {
+      "name": "Generational tension",
+      "description": "Convince the world. Divide the world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/19685a578a8eff650dbc588d3ad2c2ec791b3c20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/540f8511aaa49047a09fd48d06213b83f440b384.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_district9": {
+      "name": "District 9",
+      "description": "Convince the world that the newcomers don't belong",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a56e39b43732cb8d2e1ac0eed9e1ef2340b47b16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ba9ab7c10cab1454d02633443b4e19ea84238394.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_independenceDay": {
+      "name": "Independence Day",
+      "description": "Convince the world with an otherworldly threat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f669061b1303fa67e2e797f6c3435ea41afac5b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/873feda163a384209d9d48259d786ded875b07db.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_lochNessMonster": {
+      "name": "Loch Ness Monster",
+      "description": "Convince the world of a legend in the loch",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/dd84e0c692d0bb27faa0578d32a8482a1a9771af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ec79163d4f66267dedc287a7093cd5814226ea9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_tooCuteToLie": {
+      "name": "Too cute to lie",
+      "description": "Convince the world it's not feline fine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a50483b18aa35eed3b9e260fdae8fa7d3bb80709.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f7da9e2060a01b45e8719871a29778a645e9d166.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_filterBubble": {
+      "name": "Filter bubble",
+      "description": "Beat the Fake News Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6b3e3f00dc7cfc2f0341d18c3454d5a2ed715114.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b5913b397890e75476500d2391ca79cdc1b003ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "A_postTruthSociety": {
+      "name": "Post-truth society",
+      "description": "Beat the Fake News Scenario on Brutal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/843631a138d2e24b404497d8c93ff8c3cf31872c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a6d1a258a75a4ba723eda7d9d5a3f51c68d9c261.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "A_weLoveFactCheckers": {
+      "name": "We love fact checkers",
+      "description": "Get Fact Checked",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/be72a945345b5ee22aec44f0d3633841d7501aa1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/36bae56da0704277c292e1a571aab1df405e996d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "A_onTheFence": {
+      "name": "On the fence",
+      "description": "Tear the world in two with indecision",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/855812b70c4973d736629d596cb367fdaa46d74f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/76ccae27f9a05cf7309c328c16aa8997be14941c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "A_bacteriacured": {
+      "name": "Bacteria Cured!",
+      "description": "Save the world from Bacteria on any difficulty ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cb3a3e052caaacb41e38365dbac563b77ba5d9eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c2388846cae3fefefcece18bbbc2472cb1f8d9a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "A_viruscured": {
+      "name": "Virus Cured!",
+      "description": "Save the world from Virus on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e63b9d4146130c92c50cd482f36de1b80cade790.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ac01db797e7500aaa02e1b99453c24f0f795244a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "A_parasitecured": {
+      "name": "Parasite Cured!",
+      "description": "Save the world from Parasite on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/09136da8ffef53389410099038e86d2045cd3cfe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f3ba405d377bdfc5f96ab0c44fa792ece22bff84.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "A_nanoviruscured": {
+      "name": "Nano-Virus Cured!",
+      "description": "Save the world from Nano-Virus on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fc94a835dfc305c1754cb0e15f4786fc6e446237.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/595153286c4d3b7589ce5020a61f94998a1aed00.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_funguscured": {
+      "name": "Fungus Cured!",
+      "description": "Save the world from Fungus on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/4312925c3e6be057a4ef7f7df9f7e59c8db202a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/521916ffedd23d37401272e9f3c08b55cc720f68.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "A_prioncured": {
+      "name": "Prion Cured!",
+      "description": "Save the world from Prion on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/838befa74d3956f7781c57cd49f64f789de4b2b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f3881b9ee14aa7f7f219f9702ec15bf650ed4cd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "A_bioweaponcured": {
+      "name": "Bio-Weapon Cured!",
+      "description": "Save the world from Bio-Weapon on any difficulty with a vaccine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8c86975510379a901f045e3c19093deed0bf4e7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/605abbde44d75d492577819f8639303b0e81ff78.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_antivaxxer": {
+      "name": "Anti Vaxxer",
+      "description": "Save the world without using a vaccine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3a66d6099ad40cea9f5660c4925ae0cfd1bf6012.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6f5f75a900731d69b7ae3e51dfb657b500cc3c48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_doomsdaysave": {
+      "name": "Doomsday Save",
+      "description": "Save the world with less than 5% of the world's population left",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/fb705f7971d5e1365573fc57e5fc666f9c68221b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1ea07409cf46436597bfe1b549634afcae8963ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_iwillfindyou": {
+      "name": "I will find you",
+      "description": "Investigate a new disease outbreak",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ae8aa74d64bfddb49e45ef78b318d63c574d5fa2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/ba9bfe1f4be91a6efa6455d02f2477d782478bf5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "A_shutdowneverything": {
+      "name": "Shut down everything",
+      "description": "Do as Madagascar does",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3f8fe410e2018a9099c5d8fd4ad562969de66db9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/72e2759b30a9536f5a9cb855cb55347408b6d722.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "A_inittogether": {
+      "name": "In it together",
+      "description": "Initiative combo: In it together",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b5f38df0939e799f5128b67cee10585fa9b242ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/501ca4c2c3a461683e58f654373ce35398ed4b9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "A_humanswerentmeanttofly": {
+      "name": "Humans weren't meant to fly",
+      "description": "Initiative combo: Humans weren't meant to fly",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d3bc8653062c4254cc7a043f785840fa63ee6321.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0717e7a5b7368582537eacd1be51321f096ffe8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_wereheretohelp": {
+      "name": "We're here to help",
+      "description": "Initiative combo: We're here to help",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8a7f4022c9eb8545a3c86804daa307e2315740db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/665103dc6da1bf4d74df2204fb855353e51040b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "A_reportthyneighbour": {
+      "name": "Report thy neighbour",
+      "description": "Initiative combo: Report thy neighbour",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a8ff09bee2509e7b53b1b758cb5223f21de1d4f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a3f7e5c5cdc1edb5276972b6cc2b0a5efaaf58ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "A_happyfrogs": {
+      "name": "Happy Frogs",
+      "description": "Initiative combo: Happy Frogs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5e2348bad983ebf8bc708b69345871a4e1156263.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/42293c89709ae0ed2be8c1cfc4ec4052920e343f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "A_rulesareforlosers": {
+      "name": "Rules are for losers",
+      "description": "Initiative combo: Rules are for losers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/930ff731031ff41391956b27bb3b704870567d13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/789680d2835be20bb34da531a5dcc7a73e72c608.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "A_weaponx": {
+      "name": "Weapon X",
+      "description": "Initiative combo: Weapon X",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cfa646ad8c65dcca26661749d012114bfc04e2dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/091eb3b2a6340e712198e5c51fc3d2dccf4d0919.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_frozenviruscured": {
+      "name": "Frozen Virus Cured!",
+      "description": "Save the world from Frozen Virus on any difficulty with a vaccine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/901aa7cb9dd8657a352cccd64188544efcaa2ac7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7580b3c5a67b4b4d25792beee7c18e78a81365af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "A_supportbubble": {
+      "name": "Support Bubble",
+      "description": "Fund all the special Field Operative upgrades in Frozen Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/19c4a76649e1e985472c1f1ddbd7e513b908768d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a6f2444d2db8960f502558934f84cc676e79651c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_snowway": {
+      "name": "Snow Way",
+      "description": "Try to cover up the DrillZero site",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/deec7733f637fe93ce6a3634e2432fe86c502d70.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/edf1e29d8cfdcb1102e7561458c2df2bf0f7efe8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "A_icefind": {
+      "name": "Ice Find",
+      "description": "Study the DrillZero site",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3c2bbbd099e83aba5644011683dac82f9b45c99a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b0bd043241ed98679bf389ec02efb0dd59f6b30f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "A_freezethingshappen": {
+      "name": "Freeze things happen",
+      "description": "Unleash a new outbreak of the Frozen Virus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/9482f265d991f7e259143c62a28ef35111d0d5dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/08f75ccec913092a0572f5d3d18534ea752b27b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "A_OutbreakSurvivor": {
+      "name": "Outbreak Survivor",
+      "description": "Win 5 Outbreaks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/f24bf7ee4045573b94302a59509dbbce76c1d71a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a9e88826a509f518dcdf9b292c750d1581b4dccd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "A_OutbreakVeteran": {
+      "name": "Outbreak Veteran",
+      "description": "Win 10 Outbreaks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/552a1aa1a25d33af665303a6c23fde894a8985dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/450f0d0725215668423ad07010f1c7ccb34be6d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "A_OutbreakLegend": {
+      "name": "Outbreak Legend",
+      "description": "Win 20 Outbreaks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/35e4dcaf43b3c4ef540e228d07b9f4292995bcca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8ffebfc5705a20a82454f3c796a7fd1a396bc53c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_XenolithWin": {
+      "name": "Diamonds Are Forever",
+      "description": "Turn the planet into a crystal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/53fa08aa23e825f4c0a7117e715f2f33f56b9c95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b29fd5719e5f2f2d5a8d4ba01d717f6fbff37077.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "A_XenolithAI": {
+      "name": "Hello, World!",
+      "description": "Awaken an alien consciousness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/106ee4fffa94f12cd2050e0e7dfd2529392ab2d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/85517a7c873f20b5b3c1fc340d01f471c148d362.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "A_XenolithSeed": {
+      "name": "To Infinity and Beyond",
+      "description": "Shatter the planet into fragments",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/5bf4fb1ea12dfa84e8d0fc99ada33473d7233419.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/efd4ad04906b52c0873d8026c19ee5a2a622a16a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_XenolithSignal": {
+      "name": "Phone Home",
+      "description": "Emit a powerful void signal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b18315b9c55ad9bb8d8234485c51444866e7de35.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/23cc5f03285d9d58518cadf3a848d3552fbe11ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "A_therecanbeonlyone": {
+      "name": "There Can Be Only One",
+      "description": "Turn the planet into a crystal without using meteors",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0b8ae86f4bb0a8f7a92819c81f1f73646b0a4125.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/23be7e9bf627760fc0d19937e3b93514b1807b19.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_onevisiononepurpose": {
+      "name": "One Vision, One Purpose",
+      "description": "Beat Xenolith on mega-brutal difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/0b97d372291546a3c8f11fa3fa1ddb804b7ce2b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/df24e13875463eaed2fd17987867f71badb30927.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_winterhascome": {
+      "name": "Winter Has Come",
+      "description": "Beat the Zombies Vs Earth Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/aa10e136618108b573e98605fa537e22bd3dff92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7692ac91ffeefb005f690b30ba73d0b3c328bb7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_coopmode": {
+      "name": "Co-Op Mode",
+      "description": "Beat the Anti-Vax Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b16bd8572bd0643045a11bee929d34c8e03edabe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/83e599fa89a142ddae98bf63dd31c1dba1cbc7bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_highwaytohell": {
+      "name": "Highway to Hell",
+      "description": "Beat the Hell On Earth Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6bd1bc6b3a767a47a2217add91dea031c8172026.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c39c3b2090af2ceee35c2a10ef06c83526616e02.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "A_thinningtheherd": {
+      "name": "Thinning the Herd",
+      "description": "Beat the Herd Immunity Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a562220c6c0d4a88128942c72c270c7d8a633c58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/bcd8d92be07a67edc94a5437d5a7e13247b0ac39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "A_connectthedots": {
+      "name": "Connect the Dots",
+      "description": "Beat the Measles Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/1a8ad439695fca968c72c5f5162d5dc9137cdbc2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/a773bcb9fffaf3b4964f19baedc30b4faf724747.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "A_outoftheblue": {
+      "name": "Out of the Blue",
+      "description": "Beat the Cure Mania Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d87a29ab5636d9de8f51ad025fa3364a2b6f8358.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/802d385c38e1c4849fa97bcd785e7e27a7d6b370.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "A_gottahandittoyou": {
+      "name": "Gotta Hand It to you",
+      "description": "Beat the Leprosy Scenario on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7c7e58069b6d5d1379d35b7710c82bdbd7c7dad2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c10a4fa60e773085894462b738dcc86df5e9cb15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
