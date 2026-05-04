@@ -3,254 +3,218 @@
   "name": "Watch_Dogs™",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
   "achievements": {
-    "WatchDogs_Ach_3": {
-      "name": "Basest Base",
-      "description": "Complete every Gang Hideout",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/1edd5de30329488b3ec2ed41ad08cfae19921012.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3ad1699cc3cdf3a6051a92fac2c0521912cbfa40.jpg",
+    "WatchDogs_Ach_1": {
+      "name": "Hello World",
+      "description": "Take down Maurice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/f02d53961402c3da6019b98b08a0743afedcfdb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/f9e186732b9d6bb5f278bae6f60a18c981f095d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
-    },
-    "WatchDogs_Ach_23": {
-      "name": "Black Hat Trick",
-      "description": "Kill 3 enemies with a single IED",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/89c72ac01709e41d444a1e94744dad2323bc2007.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/7fcdb8fc57a59291d5e93fe9a21b34e097f158e6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "6.3"
-    },
-    "WatchDogs_Ach_15": {
-      "name": "Bookmarked",
-      "description": "Tag 100 enemies",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/e0f80944925dc8053ceff077464340b806496bb8.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/38e9478bc53550a3757b5f9db30cbe260cd13215.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "10.8"
-    },
-    "WatchDogs_Ach_39": {
-      "name": "Clear Signals",
-      "description": "Unlock every ctOS Tower",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/20ff85be9f708068024d734f3d012af405079919.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/baf72999baede6c899924fceeed63aa1ebb28914.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.4"
-    },
-    "WatchDogs_Ach_14": {
-      "name": "Communication Fail",
-      "description": "Using non-lethal takedown, stop 10 civilians from calling to report you",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/1f2919b25e436ad261362ff5303bb5ce7e0b9ea7.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/8758f66d3043dd37da5e1afc30cf1c4b898fee69.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.5"
-    },
-    "WatchDogs_Ach_28": {
-      "name": "Darkness Looms",
-      "description": "Complete the final mission of the Missing Persons Investigation",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/0ff77cfc4db38294eda35107f33389852d5134c4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/fd89f0850b43f469c7c3d3bfaf4cc73c1cf524f4.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.0"
-    },
-    "WatchDogs_Ach_30": {
-      "name": "Disk Space Full",
-      "description": "Unlock every song with the SongSneak app",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/6eb34094ef06c09fadb9fb696df9973661ab6f4c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/1b8d737d5e3eb4c079566e0fb8ba4b7c762622dc.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.5"
+      "percent": "18.6"
     },
     "WatchDogs_Ach_2": {
       "name": "End of Line",
       "description": "Complete 40 Fixer Contracts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/be8c2e6880fde3c4f686a6497524e84ecd2d80fb.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/01b9495e493bac872d14b3a54cc9c6e1d966c86b.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/be8c2e6880fde3c4f686a6497524e84ecd2d80fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/01b9495e493bac872d14b3a54cc9c6e1d966c86b.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.0"
     },
-    "WatchDogs_Ach_7": {
-      "name": "Enforcer",
-      "description": "Use the Crime Detection System to take down 20 confirmed criminals",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/b58f5ec0ee7aeb25699bf5e88e79b33984160e4a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ae0c70c75b4dbc5e6c75616917a206c60e79c531.jpg",
+    "WatchDogs_Ach_3": {
+      "name": "Basest Base",
+      "description": "Complete every Gang Hideout",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/1edd5de30329488b3ec2ed41ad08cfae19921012.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3ad1699cc3cdf3a6051a92fac2c0521912cbfa40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "2.0"
     },
-    "WatchDogs_Ach_18": {
-      "name": "Escape Loop",
-      "description": "Escape 15 police chases",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/9a0321f15922c20f7af6b730150ac3f6bec9071c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/408c2aba9c081df86c8d6a6858511d5ece6241f0.jpg",
+    "WatchDogs_Ach_4": {
+      "name": "They Call Him The Vigilante",
+      "description": "Complete every Investigation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/18698ab4c13418889ec6d3cbc08ef100d6a5a3ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/16027dbac0c3ceae7f665f0ba0a416ede9fb2f7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
-    },
-    "WatchDogs_Ach_8": {
-      "name": "Family Man",
-      "description": "Complete Act 1",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/6db5597a39cb6b14aa42ca67f313e2d086ec68bb.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/bb1803438a995357afe34cffe5e55e33640a1cf7.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "9.5"
-    },
-    "WatchDogs_Ach_19": {
-      "name": "Free Radical",
-      "description": "Escape a level 5 police chase",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3e3abdded3eb29fbd871fe3100448874475f879f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/07c9128d8b374a93b1f293b418e2f0cfbf4154c6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.5"
-    },
-    "WatchDogs_Ach_37": {
-      "name": "Freeware",
-      "description": "Unlock every Skill in the Skills Tree",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f10c7f353413e1f8e240e0f092a892ddfae112a3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/483a507b2493c7c739a154e46527be8c4efa573a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
-    },
-    "WatchDogs_Ach_29": {
-      "name": "Geolocated",
-      "description": "Check in at every Hotspot",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/4a9659b44c6e6216ec2c528e5402245956d4a4df.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/8c651cc309483128f2b206068166c4460bb89bf5.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.0"
-    },
-    "WatchDogs_Ach_32": {
-      "name": "Hackification",
-      "description": "Invade and successfully hack 10 enemy Fixers in Online Hacking",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/6b306f13cf1091058a9c8f85222a0e8fc0e96d93.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/82a776d8b4cb09c1e6f7ad11b5c9360e9b1d0353.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
-    },
-    "WatchDogs_Ach_13": {
-      "name": "Hard Crash",
-      "description": "Perform 10 vehicle take downs",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/965d8f1ddb1d1f92b9e424b1bd01f7afce38ab0a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/28d223fa8ab5ea7d9199fc4b00081b023c128ecd.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "9.9"
-    },
-    "WatchDogs_Ach_22": {
-      "name": "Hardware Fail",
-      "description": "Shoot out a tire on 15 different vehicles",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/43b398dde87aef8d8615f4a0a6c729e64f90345e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/c39daa0cc1f127c5b88c890fdb14cd2a49520b98.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.9"
-    },
-    "WatchDogs_Ach_1": {
-      "name": "Hello World",
-      "description": "Take down Maurice",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f02d53961402c3da6019b98b08a0743afedcfdb4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f9e186732b9d6bb5f278bae6f60a18c981f095d6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "18.4"
-    },
-    "WatchDogs_Ach_12": {
-      "name": "Log Off",
-      "description": "Complete Act 5",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/d0df96eff6cdb8d0da8712d7ef80fa12003ca50d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/20dc128ce9caca62a52b8777cbfa210c8cbbf22a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.5"
-    },
-    "WatchDogs_Ach_17": {
-      "name": "Magic Smoke",
-      "description": "Kill 4 enemies within a single instance of Focus",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/469df87c422571389cf6636e5ea6a71c1ce096f4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3db96b3e5c4753482ab103d56c466a470d1cd68f.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.0"
-    },
-    "WatchDogs_Ach_10": {
-      "name": "One Down, One to Go",
-      "description": "Complete Act 3",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ba43ac4cf9bd857344e646980996518fda9113dd.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/433cc977ccedb499e8e9d7aed710683f73817154.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "6.1"
+      "percent": "1.2"
     },
     "WatchDogs_Ach_5": {
       "name": "Peephole",
       "description": "Complete every Privacy Invasion",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/af28cca0ca1fb93b1da9d419bf93d92fd0960e13.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/df155cbf1b29805979ef20259034ec42062333cb.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/af28cca0ca1fb93b1da9d419bf93d92fd0960e13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/df155cbf1b29805979ef20259034ec42062333cb.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.4"
-    },
-    "WatchDogs_Ach_33": {
-      "name": "Piggyback",
-      "description": "Invade and successfully observe 10 enemy Fixers in Online Tailing",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/2ec78bdc11067f80315ae5333232ecb11f3df640.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/36bfcaed80831f2f31d4d13569b6de4f756be987.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
-    },
-    "WatchDogs_Ach_16": {
-      "name": "Power Cycle",
-      "description": "Participate in 5 different City Games",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/9d54741e80d22919e023830849abedad5bfe5a02.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/ac1e2d3fec2fc60c746db7d6e7b2bdd9cde82dbd.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.1"
-    },
-    "WatchDogs_Ach_27": {
-      "name": "Read-only",
-      "description": "Complete the final mission in the QR Code Investigation",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/9a523f9bbd6d4f7d45daf26d5d97f83b7c2b4e7b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/88a02bad9414e22d306c51470eaaea8dbfc44952.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.4"
-    },
-    "WatchDogs_Ach_24": {
-      "name": "Revoking Client Privileges",
-      "description": "Complete the final mission in the Human Traffic Investigation",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/9b1754f217dadfb62d4b29684b5ac87418baf00b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/b0bdfd2a86ca7574de1f7216fd25cd0f9e13cb19.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.8"
     },
     "WatchDogs_Ach_6": {
       "name": "Road Rage",
       "description": "Complete every Criminal Convoy",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5c972e176bd923af2b97a272b61ec0515a456cb5.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/2c1c9e57eda83f5f0f13f7418c3c3f47b88f1716.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/5c972e176bd923af2b97a272b61ec0515a456cb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/2c1c9e57eda83f5f0f13f7418c3c3f47b88f1716.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.1"
     },
-    "WatchDogs_Ach_26": {
-      "name": "Sanity Check",
-      "description": "Collect all 8 Burner Phones",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/26079a2a5049e22e55df42d671e70dc85786354c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/720fdbe030ba7ac7329231596002195a7a9d33de.jpg",
+    "WatchDogs_Ach_7": {
+      "name": "Enforcer",
+      "description": "Use the Crime Detection System to take down 20 confirmed criminals",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/b58f5ec0ee7aeb25699bf5e88e79b33984160e4a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/ae0c70c75b4dbc5e6c75616917a206c60e79c531.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "WatchDogs_Ach_8": {
+      "name": "Family Man",
+      "description": "Complete Act 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/6db5597a39cb6b14aa42ca67f313e2d086ec68bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/bb1803438a995357afe34cffe5e55e33640a1cf7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "WatchDogs_Ach_9": {
+      "name": "Who Is Raymond Kenney?",
+      "description": "Complete Act 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/939bd6abdba4667f6e5788c114a706e7b7fa2311.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3985895c92f59dac033f7319a5ee04111fd2b514.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "WatchDogs_Ach_10": {
+      "name": "One Down, One to Go",
+      "description": "Complete Act 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/ba43ac4cf9bd857344e646980996518fda9113dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/433cc977ccedb499e8e9d7aed710683f73817154.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "WatchDogs_Ach_11": {
+      "name": "Vengeance",
+      "description": "Complete Act 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/8a2f0fd0ffb79491952ea6074c04b285d3cab522.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/5c92bbc7b7c522bfd2b1ab33c39f6063a3cbb983.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "WatchDogs_Ach_12": {
+      "name": "Log Off",
+      "description": "Complete Act 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/d0df96eff6cdb8d0da8712d7ef80fa12003ca50d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/20dc128ce9caca62a52b8777cbfa210c8cbbf22a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "WatchDogs_Ach_13": {
+      "name": "Hard Crash",
+      "description": "Perform 10 vehicle take downs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/965d8f1ddb1d1f92b9e424b1bd01f7afce38ab0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/28d223fa8ab5ea7d9199fc4b00081b023c128ecd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "WatchDogs_Ach_14": {
+      "name": "Communication Fail",
+      "description": "Using non-lethal takedown, stop 10 civilians from calling to report you",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/1f2919b25e436ad261362ff5303bb5ce7e0b9ea7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/8758f66d3043dd37da5e1afc30cf1c4b898fee69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "WatchDogs_Ach_15": {
+      "name": "Bookmarked",
+      "description": "Tag 100 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/e0f80944925dc8053ceff077464340b806496bb8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/38e9478bc53550a3757b5f9db30cbe260cd13215.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "WatchDogs_Ach_16": {
+      "name": "Power Cycle",
+      "description": "Participate in 5 different City Games",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/9d54741e80d22919e023830849abedad5bfe5a02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/ac1e2d3fec2fc60c746db7d6e7b2bdd9cde82dbd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "WatchDogs_Ach_17": {
+      "name": "Magic Smoke",
+      "description": "Kill 4 enemies within a single instance of Focus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/469df87c422571389cf6636e5ea6a71c1ce096f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3db96b3e5c4753482ab103d56c466a470d1cd68f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "WatchDogs_Ach_18": {
+      "name": "Escape Loop",
+      "description": "Escape 15 police chases",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/9a0321f15922c20f7af6b730150ac3f6bec9071c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/408c2aba9c081df86c8d6a6858511d5ece6241f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "WatchDogs_Ach_19": {
+      "name": "Free Radical",
+      "description": "Escape a level 5 police chase",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3e3abdded3eb29fbd871fe3100448874475f879f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/07c9128d8b374a93b1f293b418e2f0cfbf4154c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "WatchDogs_Ach_20": {
+      "name": "White Rabbit Object",
+      "description": "Escape 15 police scans",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/352c91a89bcbcaa50fe23af1959e9816b3a8c86f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/5a3a61dd7cf7bbf7e67e0cc03359967c778da695.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "WatchDogs_Ach_21": {
+      "name": "Scanproof",
+      "description": "Escape a level 5 police scan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/f012c4593df065212ae732afa78e41ab12395d31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/35e0e4491bb0c6cb8b80d5c9f3ae1bfcf0044e33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "WatchDogs_Ach_22": {
+      "name": "Hardware Fail",
+      "description": "Shoot out a tire on 15 different vehicles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/43b398dde87aef8d8615f4a0a6c729e64f90345e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/c39daa0cc1f127c5b88c890fdb14cd2a49520b98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "WatchDogs_Ach_23": {
+      "name": "Black Hat Trick",
+      "description": "Kill 3 enemies with a single IED",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/89c72ac01709e41d444a1e94744dad2323bc2007.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/7fcdb8fc57a59291d5e93fe9a21b34e097f158e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "WatchDogs_Ach_24": {
+      "name": "Revoking Client Privileges",
+      "description": "Complete the final mission in the Human Traffic Investigation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/9b1754f217dadfb62d4b29684b5ac87418baf00b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/b0bdfd2a86ca7574de1f7216fd25cd0f9e13cb19.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.9"
@@ -258,44 +222,89 @@
     "WatchDogs_Ach_25": {
       "name": "Saturday Night Special",
       "description": "Complete the final mission in the Weapons Trade Investigation",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/fe8236a2b8d58d41a6c73b413d020d4ef14c62ba.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/9a30f3cbd2e36f0df84ab619f1277dc75a5c70c8.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/fe8236a2b8d58d41a6c73b413d020d4ef14c62ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/9a30f3cbd2e36f0df84ab619f1277dc75a5c70c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "WatchDogs_Ach_26": {
+      "name": "Sanity Check",
+      "description": "Collect all 8 Burner Phones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/26079a2a5049e22e55df42d671e70dc85786354c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/720fdbe030ba7ac7329231596002195a7a9d33de.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.9"
     },
-    "WatchDogs_Ach_21": {
-      "name": "Scanproof",
-      "description": "Escape a level 5 police scan",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f012c4593df065212ae732afa78e41ab12395d31.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/35e0e4491bb0c6cb8b80d5c9f3ae1bfcf0044e33.jpg",
+    "WatchDogs_Ach_27": {
+      "name": "Read-only",
+      "description": "Complete the final mission in the QR Code Investigation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/9a523f9bbd6d4f7d45daf26d5d97f83b7c2b4e7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/88a02bad9414e22d306c51470eaaea8dbfc44952.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "1.4"
+    },
+    "WatchDogs_Ach_28": {
+      "name": "Darkness Looms",
+      "description": "Complete the final mission of the Missing Persons Investigation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/0ff77cfc4db38294eda35107f33389852d5134c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/fd89f0850b43f469c7c3d3bfaf4cc73c1cf524f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "WatchDogs_Ach_29": {
+      "name": "Geolocated",
+      "description": "Check in at every Hotspot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/4a9659b44c6e6216ec2c528e5402245956d4a4df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/8c651cc309483128f2b206068166c4460bb89bf5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "WatchDogs_Ach_30": {
+      "name": "Disk Space Full",
+      "description": "Unlock every song with the SongSneak app",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/6eb34094ef06c09fadb9fb696df9973661ab6f4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/1b8d737d5e3eb4c079566e0fb8ba4b7c762622dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
     },
     "WatchDogs_Ach_31": {
       "name": "Social Lubricant",
       "description": "Complete level 10 against all 3 Drinking Game opponents",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/78a89823d4e35d4e0ae44f09e89129a1f4f7f03d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/efdc4cf836caaee83ec523086167380028238b78.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/78a89823d4e35d4e0ae44f09e89129a1f4f7f03d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/efdc4cf836caaee83ec523086167380028238b78.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.4"
     },
-    "WatchDogs_Ach_36": {
-      "name": "Stealth Cookie",
-      "description": "Complete an Online Tailing without being detected",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/be42efccc3ba830dc56b9f544377504ba13c441d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/a9c6b30f5decf59577c6ef5a0d1fe9c572be7833.jpg",
+    "WatchDogs_Ach_32": {
+      "name": "Hackification",
+      "description": "Invade and successfully hack 10 enemy Fixers in Online Hacking",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/6b306f13cf1091058a9c8f85222a0e8fc0e96d93.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/82a776d8b4cb09c1e6f7ad11b5c9360e9b1d0353.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.4"
+    },
+    "WatchDogs_Ach_33": {
+      "name": "Piggyback",
+      "description": "Invade and successfully observe 10 enemy Fixers in Online Tailing",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/2ec78bdc11067f80315ae5333232ecb11f3df640.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/36bfcaed80831f2f31d4d13569b6de4f756be987.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
     },
     "WatchDogs_Ach_34": {
       "name": "Superhighway",
       "description": "Complete 10 Public Online Races",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/88a7782d9b9c82e6ab7dbba9556a440911c554a4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/f3deaf42dd72100ba2959d9aed9c679637944ea1.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/88a7782d9b9c82e6ab7dbba9556a440911c554a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/f3deaf42dd72100ba2959d9aed9c679637944ea1.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.3"
@@ -303,146 +312,137 @@
     "WatchDogs_Ach_35": {
       "name": "System Mangler",
       "description": "Complete every ctOS Breach",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/eec791b4c864bfdcea20508777ef4e5df4c67c3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/dcd8ebea26e2feb3976220c1a4d4c5ae7803daba.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/eec791b4c864bfdcea20508777ef4e5df4c67c3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/dcd8ebea26e2feb3976220c1a4d4c5ae7803daba.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.2"
     },
+    "WatchDogs_Ach_36": {
+      "name": "Stealth Cookie",
+      "description": "Complete an Online Tailing without being detected",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/be42efccc3ba830dc56b9f544377504ba13c441d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/a9c6b30f5decf59577c6ef5a0d1fe9c572be7833.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "WatchDogs_Ach_37": {
+      "name": "Freeware",
+      "description": "Unlock every Skill in the Skills Tree",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/f10c7f353413e1f8e240e0f092a892ddfae112a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/483a507b2493c7c739a154e46527be8c4efa573a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "WatchDogs_Ach_38": {
+      "name": "Traced",
+      "description": "Get tailed 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/d6edbea9d2981fe0345c611a4df4d79b4763c6cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/bd5b76e6dd48e256512e7639bc4f629f7655ae0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "WatchDogs_Ach_39": {
+      "name": "Clear Signals",
+      "description": "Unlock every ctOS Tower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/20ff85be9f708068024d734f3d012af405079919.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/baf72999baede6c899924fceeed63aa1ebb28914.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
     "WatchDogs_Ach_40": {
       "name": "T-Bone: Friends in Need",
       "description": "Complete Act 1",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/6fe0fd84aad17d152fd9c9a6ad071e8cc3573727.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/464c909ccfefd8b69b9c30a378b6dc875df7c492.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/6fe0fd84aad17d152fd9c9a6ad071e8cc3573727.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/464c909ccfefd8b69b9c30a378b6dc875df7c492.jpg",
       "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
+      "group": "Base Game",
       "percent": "1.6"
-    },
-    "WatchDogs_Ach_46": {
-      "name": "T-Bone: Full Circuit",
-      "description": "Complete 29 driving missions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/30736caf2caabdc2d6a1ea19579603a297a57842.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/e2c3697d6aa572434d36adc02b785a913e7bd210.jpg",
-      "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "0.3"
-    },
-    "WatchDogs_Ach_48": {
-      "name": "T-Bone: Looking For Trouble",
-      "description": "Complete all side investigations",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/01383501382377f71eacbd8287082b31036af196.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/731605a12d29dff830f26e1d31b8d8df9c807031.jpg",
-      "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "0.6"
-    },
-    "WatchDogs_Ach_43": {
-      "name": "T-Bone: Mob Ruled",
-      "description": "Complete 20 Chicago South Club contracts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/60519fc753c86d8965c10bf60b996c9eaf4070ae.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/bcfd4fd41ff73f77b1add5b9f22b80b39dadb1be.jpg",
-      "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "0.3"
-    },
-    "WatchDogs_Ach_49": {
-      "name": "T-Bone: Negative Eugenics",
-      "description": "Kill 4 enemies at once by blowing up the RC Car",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3c3a6ecfd33e68385abf851129905a45d4464e72.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/0e7369021badf462ba91d1ffc93b75d7039dfe2b.jpg",
-      "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "0.2"
     },
     "WatchDogs_Ach_41": {
       "name": "T-Bone: No Easy Fix",
       "description": "Complete Act 2",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/e557ee6a01f161d07aa698fb15960b355f921b00.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/349e483d2e42ae8e28e1d967205ecfaaee96e2a7.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/e557ee6a01f161d07aa698fb15960b355f921b00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/349e483d2e42ae8e28e1d967205ecfaaee96e2a7.jpg",
       "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "1.3"
+      "group": "Base Game",
+      "percent": "1.4"
     },
     "WatchDogs_Ach_42": {
       "name": "T-Bone: Pest Control",
       "description": "Complete Act 3",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/51aed7edcd2e460a07c1546e0dbe01898af173da.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/e1abd0b4ff6f8aec24cab329dd93850948f811cd.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/51aed7edcd2e460a07c1546e0dbe01898af173da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/e1abd0b4ff6f8aec24cab329dd93850948f811cd.jpg",
       "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
+      "group": "Base Game",
       "percent": "1.3"
+    },
+    "WatchDogs_Ach_43": {
+      "name": "T-Bone: Mob Ruled",
+      "description": "Complete 20 Chicago South Club contracts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/60519fc753c86d8965c10bf60b996c9eaf4070ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/bcfd4fd41ff73f77b1add5b9f22b80b39dadb1be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
     },
     "WatchDogs_Ach_44": {
       "name": "T-Bone: Second Amendment",
       "description": "Complete 20 Militia contracts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/0328c0727f44dd7b09a3ae9c6162d778bdbbfd0e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/02b836970fac3d11a01388c0733180000059a514.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/0328c0727f44dd7b09a3ae9c6162d778bdbbfd0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/02b836970fac3d11a01388c0733180000059a514.jpg",
       "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "WatchDogs_Ach_45": {
+      "name": "T-Bone: Unfixable",
+      "description": "Complete 20 Fixer contracts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/423cbceeae9b6483660c252d08a1ad31e5939bd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/297a791bac53e8928bbc4840cf1ea45615a7ca8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "WatchDogs_Ach_46": {
+      "name": "T-Bone: Full Circuit",
+      "description": "Complete 29 driving missions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/30736caf2caabdc2d6a1ea19579603a297a57842.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/e2c3697d6aa572434d36adc02b785a913e7bd210.jpg",
+      "hidden": false,
+      "group": "Base Game",
       "percent": "0.3"
     },
     "WatchDogs_Ach_47": {
       "name": "T-Bone: Tag Team",
       "description": "Complete 10 coop missions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/c1b166db78e80729c87a653e3c89629f93b0b2cf.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/1efbd33b06ac3871e2c78c708eedeaa46393305d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/c1b166db78e80729c87a653e3c89629f93b0b2cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/1efbd33b06ac3871e2c78c708eedeaa46393305d.jpg",
       "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
+      "group": "Base Game",
       "percent": "0.2"
     },
-    "WatchDogs_Ach_45": {
-      "name": "T-Bone: Unfixable",
-      "description": "Complete 20 Fixer contracts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/423cbceeae9b6483660c252d08a1ad31e5939bd7.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/297a791bac53e8928bbc4840cf1ea45615a7ca8d.jpg",
-      "hidden": false,
-      "group": "Watch_Dogs - Bad Blood",
-      "percent": "0.3"
-    },
-    "WatchDogs_Ach_4": {
-      "name": "They Call Him The Vigilante",
-      "description": "Complete every Investigation",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/18698ab4c13418889ec6d3cbc08ef100d6a5a3ec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/16027dbac0c3ceae7f665f0ba0a416ede9fb2f7b.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.2"
-    },
-    "WatchDogs_Ach_38": {
-      "name": "Traced",
-      "description": "Get tailed 5 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/d6edbea9d2981fe0345c611a4df4d79b4763c6cd.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/bd5b76e6dd48e256512e7639bc4f629f7655ae0a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
-    },
-    "WatchDogs_Ach_11": {
-      "name": "Vengeance",
-      "description": "Complete Act 4",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/8a2f0fd0ffb79491952ea6074c04b285d3cab522.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5c92bbc7b7c522bfd2b1ab33c39f6063a3cbb983.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.8"
-    },
-    "WatchDogs_Ach_20": {
-      "name": "White Rabbit Object",
-      "description": "Escape 15 police scans",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/352c91a89bcbcaa50fe23af1959e9816b3a8c86f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/5a3a61dd7cf7bbf7e67e0cc03359967c778da695.jpg",
+    "WatchDogs_Ach_48": {
+      "name": "T-Bone: Looking For Trouble",
+      "description": "Complete all side investigations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/01383501382377f71eacbd8287082b31036af196.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/731605a12d29dff830f26e1d31b8d8df9c807031.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.6"
     },
-    "WatchDogs_Ach_9": {
-      "name": "Who Is Raymond Kenney?",
-      "description": "Complete Act 2",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/939bd6abdba4667f6e5788c114a706e7b7fa2311.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/243470/3985895c92f59dac033f7319a5ee04111fd2b514.jpg",
+    "WatchDogs_Ach_49": {
+      "name": "T-Bone: Negative Eugenics",
+      "description": "Kill 4 enemies at once by blowing up the RC Car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3c3a6ecfd33e68385abf851129905a45d4464e72.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/0e7369021badf462ba91d1ffc93b75d7039dfe2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "0.2"
     }
   },
   "platform": "Ubisoft",

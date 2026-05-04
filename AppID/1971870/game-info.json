@@ -3,455 +3,455 @@
   "name": "Mortal Kombat 1",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg?t=1750176505",
   "achievements": {
-    "FD51A4B8": {
-      "name": "A New Timeline",
-      "description": "Komplete 50% Of Story Mode Part 1",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/6ff6f37fbd81c6ec318ced3cd744a1ab17477c48.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "42.8"
-    },
-    "CED753D4": {
-      "name": "ABACABB",
-      "description": "Use A Key",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/b6f97bfce06107f48b651647357080d65475207e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "39.2"
-    },
-    "4A34C442": {
-      "name": "Adventure Time",
-      "description": "Komplete 25 Unique Encounters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/1f67327be35a092479d58d0f1aa5032cbd941645.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "26.1"
-    },
-    "7F452FCB": {
-      "name": "Always Accessorize",
-      "description": "Equip A Relic",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/5ea64a0549273feaeb26539b4fcea67b954fee6c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "24.7"
-    },
-    "EDC10C55": {
-      "name": "Annihilation",
-      "description": "Perform 10 Different Kameo Fatalities",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/f4605a9af2fd21e7addf5b779dfe90887de8026a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.6"
-    },
-    "66FFB3DB": {
-      "name": "Beaten And Broken",
-      "description": "Spill 5,000 Pints Of Blood",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/eb3f6e02cf303677d34599b5268eefa87f136738.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "44.4"
-    },
     "08DC9D95": {
       "name": "Become A Ninja In No Time",
       "description": "Komplete The Basic Tutorial",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/0ca3fd6890fb2b0f05ba686627b602d3cc37eba8.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/0ca3fd6890fb2b0f05ba686627b602d3cc37eba8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
-    },
-    "1E981181": {
-      "name": "Big Spender",
-      "description": "Spend 10,000 Seasonal Kredits",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/924acc52cb5c0dd1cb1b3d2f37917f3579b6b573.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "16.5"
-    },
-    "5386188E": {
-      "name": "Buddy System",
-      "description": "Komplete Mastery With 1 Kameo Character",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/6c5ce85704748c63ed3c57ce5bf7a0fa3660c596.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "9.0"
-    },
-    "EB0D4578": {
-      "name": "Deadly Assassin",
-      "description": "Perform 20 Different Fatalities",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/7b3774365c1efd51552115d3856d52472c60f056.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "10.6"
+      "percent": "33.0"
     },
     "968797EF": {
       "name": "Eye Of The TaiGore",
       "description": "Spend A Total Of 1 Hour In Practice",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/e0e72a6e20c69df2e422e151c3679f0668e2222b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/e0e72a6e20c69df2e422e151c3679f0668e2222b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "22.4"
     },
-    "F0F609FE": {
-      "name": "Feeling Stronger",
-      "description": "Reach Invasions Level 5",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/c2415bd423c063f2ca70d7c2f4836b302964ded8.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+    "FD51A4B8": {
+      "name": "A New Timeline",
+      "description": "Komplete 50% Of Story Mode Part 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/6ff6f37fbd81c6ec318ced3cd744a1ab17477c48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
-    },
-    "3BFFE5C8": {
-      "name": "Found You",
-      "description": "Unlock A Secret Fight",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/866616383c716af53ec6b20a685ab69c641b67e5.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "19.7"
-    },
-    "20745379": {
-      "name": "Give A Koin",
-      "description": "Spend 10,000 Koins On The Shrine",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/132ae58087fb5887a94b3f372d4ef35aedd74b13.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "24.6"
-    },
-    "14F35B3B": {
-      "name": "Happy Endings",
-      "description": "Unlock 10 Tower Endings",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/92acd4c76bbfab7ccd374b3c80b0e41b8fc0adc3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.9"
-    },
-    "602D8B93": {
-      "name": "High Score, Is That Good?",
-      "description": "Obtain A Total Score Of 5,000,000 In Towers Of Time",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/7b242acaad93eb4b6ab5a3f9ff768357cbcabb73.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.1"
-    },
-    "C7E206E8": {
-      "name": "It Has Begun!!!",
-      "description": "Komplete Cage Mansion Tutorial",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/bcfb5ecb04102027703dd02b56761ffe022d186c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "29.2"
-    },
-    "DA30DFAB": {
-      "name": "Juggernaut",
-      "description": "Reach Invasions Level 20",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/0de937d798ac316a52197b3ad3dcc3db8654ea75.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "12.4"
-    },
-    "1A4D8C3E": {
-      "name": "Karnage",
-      "description": "Perform 10 Different Brutalities",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/608e5dc1e4e51c511806aa50dba9c2bee69f11b6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "12.3"
-    },
-    "8E211095": {
-      "name": "King Slayer",
-      "description": "Dethrone A King",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/914bc1157f9392b8e7f66c4caf0275a325339d15.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "7.1"
-    },
-    "3860DC56": {
-      "name": "Kollector",
-      "description": "Equip 3 Different Relics",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/c94a3f89e00e535f8ee70e622a004a633bbc4acf.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "10.2"
-    },
-    "A9467ADA": {
-      "name": "Kontender",
-      "description": "Play 5 Kombat League Sets",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/e345de2e988f29ea6840ff6b6ba11ad12419f137.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "14.3"
-    },
-    "C97F8DBD": {
-      "name": "Made It Out Alive",
-      "description": "Komplete A Survival Encounter",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/8366af54e7ba62bc522327eebe55f5451e6b7c0b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "28.5"
-    },
-    "F9F3E277": {
-      "name": "Make Way, I'm Koming Through",
-      "description": "Klear An Obstruction In Invasions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/dfb1338078f7ef9ca936ab0360efeb7302f1eca9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "29.7"
-    },
-    "2E7840DA": {
-      "name": "Making Friends Is Easy",
-      "description": "Use 10 Different Kameo Characters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/a1d1c6d7e2a2fa24b45d0dccc548bf39ee50fc7f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "24.2"
-    },
-    "3F5D5C9C": {
-      "name": "Not So Big Now, Are You??",
-      "description": "Defeat A Mini Boss In Invasions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/70c2dc42d230da9cbaa3ab581fb0c3fe709d680f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "22.5"
-    },
-    "180FA847": {
-      "name": "Puppet Master",
-      "description": "Komplete A Klassic Tower With 5 Different Characters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/8740abdcdf3c5207d0d528e59974c52f968f9943.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "7.3"
-    },
-    "739F481A": {
-      "name": "Quest Master",
-      "description": "Komplete 3 Daily Quests",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/d40836ed59418c1c6136fb5c0f753fb17570bdd2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "30.0"
-    },
-    "B697C705": {
-      "name": "Rollin' With My Krew",
-      "description": "Komplete Mastery With 5 Kameo Characters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/fb3ad04cdd349d7253b2aa8362eef1ac877d831d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.4"
-    },
-    "2D2A1BCC": {
-      "name": "Running On Empty",
-      "description": "Recharge A Talisman",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/e34ebe9a08109e142ead6ea70c0636c431e43a1c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "9.8"
-    },
-    "02BF389A": {
-      "name": "So I Just Kill Stuff??",
-      "description": "Komplete 5 Unique Encounters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/4ab957be62c65a7409671ced140f72efca12b9d9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "37.6"
-    },
-    "C500AC22": {
-      "name": "So Krafty",
-      "description": "Forge A Talisman",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/339703bc01cd08375ebe5d2123f7b0bc0298935d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "23.8"
-    },
-    "AA5B83E5": {
-      "name": "Stop Hiding",
-      "description": "Survive An Ambush",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/2d063e2fb56889ea3323b2df5c66fc6de76e5966.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "21.7"
-    },
-    "A51459F2": {
-      "name": "Take And Deny",
-      "description": "Trade For An Item From An Earthrealm Shop",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/44f7da5eefdd1b8ca68896a6a1e5602da54013b1.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "19.0"
-    },
-    "E9EC214C": {
-      "name": "Talis-Mania",
-      "description": "Use A Talisman 10 Times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/d419dbfd7889767155cdaeff48ba181416ebbafe.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "17.1"
-    },
-    "AD3C819A": {
-      "name": "Test Your Might",
-      "description": "Komplete 5 Unique Test Your Might Encounters",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/44201eecb8b29d20ecbd95eea679cd40427c2bc1.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.0"
-    },
-    "1741C06F": {
-      "name": "Thank You For Being A Fan!!!",
-      "description": "Watch The Kredits",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/a80b6a42f9a75789971ccdb77383cab8618cb058.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "8.9"
-    },
-    "1B67450A": {
-      "name": "The Mighty Have Fallen",
-      "description": "Komplete A Titan Battle",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/f9eab6d068bc6052ea3844411b6932b5561b7185.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "6.3"
-    },
-    "D26A387E": {
-      "name": "There Is No Knowledge That Is Not Power",
-      "description": "Use 10 Konsumables",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/e423b6bc32d0e8839abc068bc6df7d0269fa2fe9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "15.9"
-    },
-    "31F43485": {
-      "name": "Titan",
-      "description": "Deal 10,000 Damage To Opponents",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/eada11e2faaf3113d28cb0a9a2d41ed5ebb6da3d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "61.8"
-    },
-    "3ED79833": {
-      "name": "Total Disrespect",
-      "description": "Perform A Taunt Without Being Interrupted During An Online Match",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/5c7e78e2e3665005b649ef4a51c314c23bfe7886.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "20.4"
-    },
-    "92963123": {
-      "name": "Ultimate Power",
-      "description": "Use A Talisman",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/45fd91e91ff1d7bcfc3dd431c0ef0a90b58145b2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "29.8"
-    },
-    "E5E57ED0": {
-      "name": "Unstoppable",
-      "description": "Reach Invasions Level 10",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/25c3b71096d4d2d401e4595a137c4be99aa8fd44.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "18.5"
-    },
-    "B1DD915B": {
-      "name": "Vanquished",
-      "description": "Defeat The Final Boss Of An Invasions Season",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/c2bc85ee2936c7b24315bd54bfb3bc1efcf55d58.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "8.6"
+      "percent": "42.7"
     },
     "6054139B": {
       "name": "What Just Happened??",
       "description": "Komplete 100% Of Story Mode Part 1",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/62a6b5e8e7c9f4bd4b1bd3049b73847e6349acfd.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/62a6b5e8e7c9f4bd4b1bd3049b73847e6349acfd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "36.8"
     },
-    "7A28A4B6": {
-      "name": "Where's Blanche",
-      "description": "Trade For An Item From An Outworld Shop",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/21682870d8af49143f1c296076c60292a01a2f08.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "16.5"
-    },
-    "F8F2646E": {
-      "name": "Who Da Boss??",
-      "description": "Defeat A Major Boss In Invasions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/e16b3a3cb3415c8b848e7adf24e1e46987a0a45d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "19.4"
-    },
     "5BE04C6D": {
       "name": "Who Was That???",
       "description": "Komplete Chapter 15 Twice",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/5bba793994096221ce7aea99e715ab83ec59b947.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/5bba793994096221ce7aea99e715ab83ec59b947.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "5.3"
     },
-    "6E240A1A": {
-      "name": "Witness Me!!!",
-      "description": "Change Your Kombat Kard Player Module",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/76fb1ea7e759fbf710d1916c5107e7b1dbedff3c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+    "31F43485": {
+      "name": "Titan",
+      "description": "Deal 10,000 Damage To Opponents",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/eada11e2faaf3113d28cb0a9a2d41ed5ebb6da3d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "61.9"
+    },
+    "66FFB3DB": {
+      "name": "Beaten And Broken",
+      "description": "Spill 5,000 Pints Of Blood",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/eb3f6e02cf303677d34599b5268eefa87f136738.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "C7E206E8": {
+      "name": "It Has Begun!!!",
+      "description": "Komplete Cage Mansion Tutorial",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/bcfb5ecb04102027703dd02b56761ffe022d186c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "A9467ADA": {
+      "name": "Kontender",
+      "description": "Play 5 Kombat League Sets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/e345de2e988f29ea6840ff6b6ba11ad12419f137.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "EB0D4578": {
+      "name": "Deadly Assassin",
+      "description": "Perform 20 Different Fatalities",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/7b3774365c1efd51552115d3856d52472c60f056.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "1A4D8C3E": {
+      "name": "Karnage",
+      "description": "Perform 10 Different Brutalities",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/608e5dc1e4e51c511806aa50dba9c2bee69f11b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "EDC10C55": {
+      "name": "Annihilation",
+      "description": "Perform 10 Different Kameo Fatalities",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/f4605a9af2fd21e7addf5b779dfe90887de8026a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "2E7840DA": {
+      "name": "Making Friends Is Easy",
+      "description": "Use 10 Different Kameo Characters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/a1d1c6d7e2a2fa24b45d0dccc548bf39ee50fc7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "180FA847": {
+      "name": "Puppet Master",
+      "description": "Komplete A Klassic Tower With 5 Different Characters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/8740abdcdf3c5207d0d528e59974c52f968f9943.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "20745379": {
+      "name": "Give A Koin",
+      "description": "Spend 10,000 Koins On The Shrine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/132ae58087fb5887a94b3f372d4ef35aedd74b13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "AD3C819A": {
+      "name": "Test Your Might",
+      "description": "Komplete 5 Unique Test Your Might Encounters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/44201eecb8b29d20ecbd95eea679cd40427c2bc1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "02BF389A": {
+      "name": "So I Just Kill Stuff??",
+      "description": "Komplete 5 Unique Encounters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/4ab957be62c65a7409671ced140f72efca12b9d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "4A34C442": {
+      "name": "Adventure Time",
+      "description": "Komplete 25 Unique Encounters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/1f67327be35a092479d58d0f1aa5032cbd941645.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "8E211095": {
+      "name": "King Slayer",
+      "description": "Dethrone A King",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/914bc1157f9392b8e7f66c4caf0275a325339d15.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "5386188E": {
+      "name": "Buddy System",
+      "description": "Komplete Mastery With 1 Kameo Character",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/6c5ce85704748c63ed3c57ce5bf7a0fa3660c596.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "B697C705": {
+      "name": "Rollin' With My Krew",
+      "description": "Komplete Mastery With 5 Kameo Characters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/fb3ad04cdd349d7253b2aa8362eef1ac877d831d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "7A28A4B6": {
+      "name": "Where's Blanche",
+      "description": "Trade For An Item From An Outworld Shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/21682870d8af49143f1c296076c60292a01a2f08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "A51459F2": {
+      "name": "Take And Deny",
+      "description": "Trade For An Item From An Earthrealm Shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/44f7da5eefdd1b8ca68896a6a1e5602da54013b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "92963123": {
+      "name": "Ultimate Power",
+      "description": "Use A Talisman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/45fd91e91ff1d7bcfc3dd431c0ef0a90b58145b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "E9EC214C": {
+      "name": "Talis-Mania",
+      "description": "Use A Talisman 10 Times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/d419dbfd7889767155cdaeff48ba181416ebbafe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "2D2A1BCC": {
+      "name": "Running On Empty",
+      "description": "Recharge A Talisman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/e34ebe9a08109e142ead6ea70c0636c431e43a1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "C500AC22": {
+      "name": "So Krafty",
+      "description": "Forge A Talisman",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/339703bc01cd08375ebe5d2123f7b0bc0298935d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "F0F609FE": {
+      "name": "Feeling Stronger",
+      "description": "Reach Invasions Level 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/c2415bd423c063f2ca70d7c2f4836b302964ded8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "E5E57ED0": {
+      "name": "Unstoppable",
+      "description": "Reach Invasions Level 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/25c3b71096d4d2d401e4595a137c4be99aa8fd44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "DA30DFAB": {
+      "name": "Juggernaut",
+      "description": "Reach Invasions Level 20",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/0de937d798ac316a52197b3ad3dcc3db8654ea75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "3F5D5C9C": {
+      "name": "Not So Big Now, Are You??",
+      "description": "Defeat A Mini Boss In Invasions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/70c2dc42d230da9cbaa3ab581fb0c3fe709d680f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "F8F2646E": {
+      "name": "Who Da Boss??",
+      "description": "Defeat A Major Boss In Invasions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/e16b3a3cb3415c8b848e7adf24e1e46987a0a45d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "B1DD915B": {
+      "name": "Vanquished",
+      "description": "Defeat The Final Boss Of An Invasions Season",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/c2bc85ee2936c7b24315bd54bfb3bc1efcf55d58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "7F452FCB": {
+      "name": "Always Accessorize",
+      "description": "Equip A Relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/5ea64a0549273feaeb26539b4fcea67b954fee6c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "3860DC56": {
+      "name": "Kollector",
+      "description": "Equip 3 Different Relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/c94a3f89e00e535f8ee70e622a004a633bbc4acf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "1B67450A": {
+      "name": "The Mighty Have Fallen",
+      "description": "Komplete A Titan Battle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/f9eab6d068bc6052ea3844411b6932b5561b7185.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "CED753D4": {
+      "name": "ABACABB",
+      "description": "Use A Key",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/b6f97bfce06107f48b651647357080d65475207e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "C97F8DBD": {
+      "name": "Made It Out Alive",
+      "description": "Komplete A Survival Encounter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/8366af54e7ba62bc522327eebe55f5451e6b7c0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "F9F3E277": {
+      "name": "Make Way, I'm Koming Through",
+      "description": "Klear An Obstruction In Invasions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/dfb1338078f7ef9ca936ab0360efeb7302f1eca9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "3BFFE5C8": {
+      "name": "Found You",
+      "description": "Unlock A Secret Fight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/866616383c716af53ec6b20a685ab69c641b67e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "AA5B83E5": {
+      "name": "Stop Hiding",
+      "description": "Survive An Ambush",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/2d063e2fb56889ea3323b2df5c66fc6de76e5966.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "739F481A": {
+      "name": "Quest Master",
+      "description": "Komplete 3 Daily Quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/d40836ed59418c1c6136fb5c0f753fb17570bdd2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
     },
     "6F78FB2F": {
       "name": "Working Overtime",
       "description": "Komplete A Weekly Quest",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/86918b79d07e9993134c1198aa08d050544b39bb.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/86918b79d07e9993134c1198aa08d050544b39bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
+    },
+    "602D8B93": {
+      "name": "High Score, Is That Good?",
+      "description": "Obtain A Total Score Of 5,000,000 In Towers Of Time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/7b242acaad93eb4b6ab5a3f9ff768357cbcabb73.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "D26A387E": {
+      "name": "There Is No Knowledge That Is Not Power",
+      "description": "Use 10 Konsumables",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/e423b6bc32d0e8839abc068bc6df7d0269fa2fe9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "14F35B3B": {
+      "name": "Happy Endings",
+      "description": "Unlock 10 Tower Endings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/92acd4c76bbfab7ccd374b3c80b0e41b8fc0adc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "1E981181": {
+      "name": "Big Spender",
+      "description": "Spend 10,000 Seasonal Kredits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/924acc52cb5c0dd1cb1b3d2f37917f3579b6b573.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "3ED79833": {
+      "name": "Total Disrespect",
+      "description": "Perform A Taunt Without Being Interrupted During An Online Match",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/5c7e78e2e3665005b649ef4a51c314c23bfe7886.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "1741C06F": {
+      "name": "Thank You For Being A Fan!!!",
+      "description": "Watch The Kredits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/a80b6a42f9a75789971ccdb77383cab8618cb058.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "6E240A1A": {
+      "name": "Witness Me!!!",
+      "description": "Change Your Kombat Kard Player Module",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/76fb1ea7e759fbf710d1916c5107e7b1dbedff3c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1971870/415ab18fb24d0687e97aabae6887e5e51b4ada5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.2"
     }
   },
   "platform": null,

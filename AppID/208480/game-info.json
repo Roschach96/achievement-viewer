@@ -3,344 +3,29 @@
   "name": "Assassin’s Creed® III",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208480/header.jpg?t=1747654274",
   "achievements": {
-    "ACreed3_Ach_21": {
-      "name": "A Complete Set",
-      "description": "See all the optional characters settled at the Homestead.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/f33aefe3d0b1b43ba741a356f95478151266b049.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4f846d8e65d7c2d3abce948a737e90e0b3e21f1f.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.7"
-    },
-    "ACreed3_Ach_25": {
-      "name": "All Washed Up",
-      "description": "Complete all Naval Missions aboard the Aquila.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/6e1eebb4ae200e6d83695fda91b476a82260a7c8.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/d444846fb90b7d6a3f9772eaa806cfc0100a0ae3.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.6"
-    },
-    "ACreed3_Ach_18": {
-      "name": "An Extraordinary Man",
-      "description": "Complete the Encyclopedia of the Common Man.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/3c83d88d24c6758082c74bbf4827db9db14604f1.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/9063ee0fff76006438e09bc4afd411504b6679cc.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
-    },
-    "ACreed3_Ach_33": {
-      "name": "Blowing in the Wind",
-      "description": "Retrieve every page for one of Ben Franklin's Almanacs.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/060d107081d9e5945186d087f7782a8b21da2552.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/a729b5bcf1b1dc14918674726833bef73414c4e0.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.8"
-    },
-    "ACreed3_Ach_23": {
-      "name": "Bring Down the House",
-      "description": "Explore Fort Wolcott.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/a8a7c32a2e76a7a36c9fac4f402f31466ed7d7d8.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e3f56cc16b0555026057d742fdc0aa848e34a6fb.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
-    },
-    "ACreed3_Ach_28": {
-      "name": "By Invitation Only",
-      "description": "Be invited to join a Club.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/9629e71b35e63689ae5877110ac08f73370dc517.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e765c781e50c033316f09e68cb35a26ed8c856d1.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.7"
-    },
-    "ACreed3_Ach_12": {
-      "name": "Caged Wolf",
-      "description": "Complete Sequence 8.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e68976b327363905848efbdf6472943dcfb5f570.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4a38f3b5c61409b7dd3e9a51df3e93ed0e6e5723.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.4"
-    },
-    "ACreed3_Ach_37": {
-      "name": "Circus Act",
-      "description": "Kill 15 guards with a single cannon shot.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/8975aee69a75155a9e22318b82d8657c8a9bade9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/233f5f3214e82f11ed849efecfbfcb9666040aaf.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.1"
-    },
-    "ACreed3_Ach_34": {
-      "name": "Completionist",
-      "description": "Complete ALL progress tracker grid entries.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/8a4d9042335d5bba8afa97bb243289e0a63f578b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/ad1306fc27d8d6fd711765a0f77acad7c3511693.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
-    },
-    "ACreed3_Ach_43": {
-      "name": "Coureur des Bois",
-      "description": "Exchange undamaged pelts at all different general stores.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/8f402c0632129d9f1bb2260bb15ba6a992058dbf.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/9e1929b010ac34c8e55ed1b4d6ba15df0c6386fb.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
-    },
-    "ACreed3_Ach_3": {
-      "name": "Criss Cross",
-      "description": "Complete Present - Skyscraper.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/c9dd344a6b5384860d8fa030c3b65441b5566e0b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/f489d0991eebd5d8a0b39947c5f50a5e78bfd9d0.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.7"
-    },
-    "ACreed3_Ach_2": {
-      "name": "Daddy Dearest",
-      "description": "Complete Present - Stadium.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/460e777c78e33ad41f9bd1f747af70f0e496dcb5.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/1596229b76fa7673ae36150f3779fe23d04b184a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.4"
-    },
-    "ACreed3_Ach_15": {
-      "name": "Difficult End",
-      "description": "Complete Sequence 11.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/c1441cdc356b9d3eca41c7dd6aeed233daccda71.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4a86f4ff443c522c774eeb73a2d6bdbe570c0378.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.2"
-    },
-    "ACreed3_Ach_26": {
-      "name": "Entrepreneur, not Pirate!",
-      "description": "Complete all 12 Privateer Contracts.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/d70221d34865819d33e519c74451716d54f43111.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4426c678638e3f8c1d2b5152d951ce6390603661.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.6"
-    },
-    "ACreed3_Ach_44": {
-      "name": "Eye Witness",
-      "description": "Witness a predator killing an enemy.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/2a219c38e742aabed9495022cf6edaf50e4c6f32.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/ca562dc74f31043fd5ba364873f350d83e22ec17.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
-    },
-    "ACreed3_Ach_45": {
-      "name": "Fin",
-      "description": "Complete each of the epilogue missions unlocked after the credits roll.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/473d7a2f275bcc9a64e925dde4b016bd5a4945c4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/93e37be31bf4a2752e8dc027c366d65d2b74586c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.8"
-    },
-    "ACreed3_Ach_14": {
-      "name": "Grim Expectations",
-      "description": "Complete Sequence 10.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/442ca66482c1baff978826fbcc1fb7e3acaf6a8c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/7fdabd40f74a02d0a1e66fd8da86196f97639ff6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.2"
-    },
-    "ACreed3_Ach_8": {
-      "name": "Heroes are Born",
-      "description": "Complete Sequence 4.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/896a578db17e998a8eb3cda9a7b4ac554e6efd09.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4b3ce539ace1a393882d34b44651c77b2f0a82b4.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.7"
-    },
-    "ACreed3_Ach_20": {
-      "name": "House Party",
-      "description": "Recruit any of the Artisans and see them settled on the Homestead.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/5f3bc442b79c13a6c7abb761132d2686259c2366.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/ea84269db40804eca4156406c66be8ff5e6fdf2c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.5"
-    },
-    "ACreed3_Ach_7": {
-      "name": "How D'ya Like Them Apples",
-      "description": "Complete Sequence 3.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/f310b662707790adbf0ff69f3ae21c72e547ce04.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/0d84e9a4806dde235630736d59acd0646a9eaa2b.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.8"
-    },
-    "ACreed3_Ach_29": {
-      "name": "In Good Standing",
-      "description": "Complete all challenges for any of the Clubs.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/9ce84f77578df6ca42459063b5f99fc487f08324.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/6dff55e842b44408f1a4893a6c77204887e90410.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.3"
-    },
-    "ACreed3_Ach_41": {
-      "name": "Jager Bomb",
-      "description": "After becoming fully Notorious, kill 10 Jagers before losing your notoriety.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4eeb829a34bd8b9d10abc55e630da9ab6654aea0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e3b0d48bcf06ebaaaf5503384d8297623f2ef812.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.7"
-    },
-    "ACreed3_Ach_24": {
-      "name": "Kidd Gloves",
-      "description": "Uncover the mystery of Oak Island.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/aa40bb1d71d9c33579a3be6d1e9a983300470a59.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/29ade4eebfd6acc2c4bde5720aef7f77f92abbd5.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.6"
-    },
-    "ACreed3_Ach_42": {
-      "name": "Magna cum Laude",
-      "description": "Have a Trainee reach the Assassin Rank.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/a3a7302bb5b4ea609ab603d2e58cd4fff8fa6810.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/5ce301649b6dd782c5e7e239ce5d25ee62b653d8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.5"
-    },
-    "ACreed3_Ach_30": {
-      "name": "Man of the People",
-      "description": "Liberate all districts in Boston OR New York.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/ff96163694faf34ed3a61e80cbf1a155769b5ffb.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/b79d7e5c02df6adeb21a7c3fd448ec488aaece72.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
-    },
-    "ACreed3_Ach_31": {
-      "name": "Monopoly Man",
-      "description": "Send a convoy to Boston, New York and the Frontier.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/2474884aa55e3509887bf5b88bfbeba57a2d48d4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/55b1f2e96e7a85b9f3d00131636bb13fe10ae909.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.3"
-    },
-    "ACreed3_Ach_35": {
-      "name": "Multitasking",
-      "description": "Complete 50% of the Progress Tracker entries.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e000d1b0589af1584463fe51d2900ef6ac28c85b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/8bbb1d8ae897f3035a2e08070d54421957684970.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.8"
-    },
-    "ACreed3_Ach_6": {
-      "name": "Mystery Guest",
-      "description": "Complete Sequence 1 & 2.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/dc17340fa4994fe4a9f84e235c1503e62bfe0e32.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/c58aa570aa0604e722d004e3c58304051af3c052.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.9"
-    },
-    "ACreed3_Ach_5": {
-      "name": "No Good Deed Goes Unpunished",
-      "description": "Open the Temple Door and learn Desmond's fate.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/9fdb35c2831302f8a8dce95bfc9ec0836075e7d2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/16642be23a6aa3475703e6a4ac5a03aa41f68b8d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.0"
-    },
-    "ACreed3_Ach_22": {
-      "name": "Original Gamer",
-      "description": "Win a game of Fanorona, Morris and Bowls on the Homestead.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/161c24fb1ffb62af3d2ffd03a33d2e2875b9d3d9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/98f7c68cc52fb810125e91324173c88248b550e1.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.1"
-    },
-    "ACreed3_Ach_19": {
-      "name": "Patent Not Pending",
-      "description": "Craft one of Franklin's inventions to decorate your Manor.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/bc633ed512f343067e0f94e0ed896dd9f4ed3846.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/67bf6ccb089dee0c2aef7f57c897eeed951279cb.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.5"
-    },
-    "ACreed3_Ach_17": {
-      "name": "Perfectionist",
-      "description": "Complete 100% of all main mission constraints.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/60ab8fffc17eca9b64524606082fc98d7eb2ed7c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4c6fa199e8e46a48712bb1b7b5a1a2c22d53eca8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.3"
-    },
-    "ACreed3_Ach_38": {
-      "name": "Predator",
-      "description": "Hang 5 enemies by using rope darts.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/8cd4e36d0d94f1676e3ba499ca9ae8cd45adecb0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/ac8ca24729ae6457a7bca918a04e9329c69a9d27.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
-    },
-    "ACreed3_Ach_39": {
-      "name": "Prince of Thieves",
-      "description": "Loot a convoy without killing any of its guards.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/dc15751f82e080bb5907e1e6798ed08442ac11a7.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/32cc8098c8aa7acfb1c55f2c64ab4282eb39b15e.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
-    },
     "ACreed3_Ach_1": {
       "name": "Rude Awakening",
       "description": "Re-Enter the Animus.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/b15270333ecd50313f547c92a280f0d841a02540.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/3ce2ab882f6ac35f1dc8c527a3df4d714b0a27bc.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/b15270333ecd50313f547c92a280f0d841a02540.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/3ce2ab882f6ac35f1dc8c527a3df4d714b0a27bc.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "2.1"
     },
-    "ACreed3_Ach_36": {
-      "name": "Spit Roast",
-      "description": "Perform a double assassination using a musket.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/0f2de02e831d8a07b2f63105d74f9947fa0565d0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4d98426972875d4aa996d524c4366698417da87b.jpg",
+    "ACreed3_Ach_2": {
+      "name": "Daddy Dearest",
+      "description": "Complete Present - Stadium.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/460e777c78e33ad41f9bd1f747af70f0e496dcb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/1596229b76fa7673ae36150f3779fe23d04b184a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "1.4"
     },
-    "ACreed3_Ach_10": {
-      "name": "Tea is for Englishmen",
-      "description": "Complete Sequence 6.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/4aa344874c104066e9779f1f1f9e6a80c11d586f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/e92da4f38d03856ab2ab6e3ceccf995909fd4782.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.5"
-    },
-    "ACreed3_Ach_9": {
-      "name": "The Day the Templars Cried",
-      "description": "Complete Sequence 5.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/94edda5a56eb333310997c0f0a6e7d911047413d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/997e4ccbc732603c352aba4c32b4fac35ad0d3c1.jpg",
+    "ACreed3_Ach_3": {
+      "name": "Criss Cross",
+      "description": "Complete Present - Skyscraper.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/c9dd344a6b5384860d8fa030c3b65441b5566e0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/f489d0991eebd5d8a0b39947c5f50a5e78bfd9d0.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.7"
@@ -348,8 +33,107 @@
     "ACreed3_Ach_4": {
       "name": "The End is Nigh",
       "description": "Complete Present - Abstergo.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/052b81406c6754a12c9863c58d01f987960f2851.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/b7e6e7d3711c8575f71bf399179ed4d1291c29c1.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/052b81406c6754a12c9863c58d01f987960f2851.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/b7e6e7d3711c8575f71bf399179ed4d1291c29c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACreed3_Ach_5": {
+      "name": "No Good Deed Goes Unpunished",
+      "description": "Open the Temple Door and learn Desmond's fate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/9fdb35c2831302f8a8dce95bfc9ec0836075e7d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/16642be23a6aa3475703e6a4ac5a03aa41f68b8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ACreed3_Ach_6": {
+      "name": "Mystery Guest",
+      "description": "Complete Sequence 1 & 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/dc17340fa4994fe4a9f84e235c1503e62bfe0e32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/c58aa570aa0604e722d004e3c58304051af3c052.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACreed3_Ach_7": {
+      "name": "How D'ya Like Them Apples",
+      "description": "Complete Sequence 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/f310b662707790adbf0ff69f3ae21c72e547ce04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/0d84e9a4806dde235630736d59acd0646a9eaa2b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACreed3_Ach_8": {
+      "name": "Heroes are Born",
+      "description": "Complete Sequence 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/896a578db17e998a8eb3cda9a7b4ac554e6efd09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4b3ce539ace1a393882d34b44651c77b2f0a82b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACreed3_Ach_9": {
+      "name": "The Day the Templars Cried",
+      "description": "Complete Sequence 5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/94edda5a56eb333310997c0f0a6e7d911047413d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/997e4ccbc732603c352aba4c32b4fac35ad0d3c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ACreed3_Ach_10": {
+      "name": "Tea is for Englishmen",
+      "description": "Complete Sequence 6.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4aa344874c104066e9779f1f1f9e6a80c11d586f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e92da4f38d03856ab2ab6e3ceccf995909fd4782.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACreed3_Ach_11": {
+      "name": "The Whites of Their Eyes",
+      "description": "Complete Sequence 7.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/962fac767cb298c299232792870c5f5830496590.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/acceeb25823b87c71095c462ac9001566cf84581.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACreed3_Ach_12": {
+      "name": "Caged Wolf",
+      "description": "Complete Sequence 8.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e68976b327363905848efbdf6472943dcfb5f570.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4a38f3b5c61409b7dd3e9a51df3e93ed0e6e5723.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACreed3_Ach_13": {
+      "name": "Two if by Sea",
+      "description": "Complete Sequence 9.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/07ce23c4d0c72422a40f7a7cadaebb8416de3efe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/5bd2a9ea52aaa15d5245b4162efb07bb503288b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "ACreed3_Ach_14": {
+      "name": "Grim Expectations",
+      "description": "Complete Sequence 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/442ca66482c1baff978826fbcc1fb7e3acaf6a8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/7fdabd40f74a02d0a1e66fd8da86196f97639ff6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACreed3_Ach_15": {
+      "name": "Difficult End",
+      "description": "Complete Sequence 11.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/c1441cdc356b9d3eca41c7dd6aeed233daccda71.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4a86f4ff443c522c774eeb73a2d6bdbe570c0378.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.2"
@@ -357,47 +141,263 @@
     "ACreed3_Ach_16": {
       "name": "The Sum of Truth",
       "description": "Complete Sequence 12.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/07bd323a64e46093d5e1de405da0db3677b52872.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/b945e6946ccf75e05a551ad068834acf57442b64.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/07bd323a64e46093d5e1de405da0db3677b52872.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/b945e6946ccf75e05a551ad068834acf57442b64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
-    "ACreed3_Ach_11": {
-      "name": "The Whites of Their Eyes",
-      "description": "Complete Sequence 7.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/962fac767cb298c299232792870c5f5830496590.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/acceeb25823b87c71095c462ac9001566cf84581.jpg",
+    "ACreed3_Ach_17": {
+      "name": "Perfectionist",
+      "description": "Complete 100% of all main mission constraints.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/60ab8fffc17eca9b64524606082fc98d7eb2ed7c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4c6fa199e8e46a48712bb1b7b5a1a2c22d53eca8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "0.3"
+    },
+    "ACreed3_Ach_18": {
+      "name": "An Extraordinary Man",
+      "description": "Complete the Encyclopedia of the Common Man.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/3c83d88d24c6758082c74bbf4827db9db14604f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/9063ee0fff76006438e09bc4afd411504b6679cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACreed3_Ach_19": {
+      "name": "Patent Not Pending",
+      "description": "Craft one of Franklin's inventions to decorate your Manor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/bc633ed512f343067e0f94e0ed896dd9f4ed3846.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/67bf6ccb089dee0c2aef7f57c897eeed951279cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ACreed3_Ach_20": {
+      "name": "House Party",
+      "description": "Recruit any of the Artisans and see them settled on the Homestead.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/5f3bc442b79c13a6c7abb761132d2686259c2366.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/ea84269db40804eca4156406c66be8ff5e6fdf2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACreed3_Ach_21": {
+      "name": "A Complete Set",
+      "description": "See all the optional characters settled at the Homestead.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/f33aefe3d0b1b43ba741a356f95478151266b049.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4f846d8e65d7c2d3abce948a737e90e0b3e21f1f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACreed3_Ach_22": {
+      "name": "Original Gamer",
+      "description": "Win a game of Fanorona, Morris and Bowls on the Homestead.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/161c24fb1ffb62af3d2ffd03a33d2e2875b9d3d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/98f7c68cc52fb810125e91324173c88248b550e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACreed3_Ach_23": {
+      "name": "Bring Down the House",
+      "description": "Explore Fort Wolcott.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/a8a7c32a2e76a7a36c9fac4f402f31466ed7d7d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e3f56cc16b0555026057d742fdc0aa848e34a6fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACreed3_Ach_24": {
+      "name": "Kidd Gloves",
+      "description": "Uncover the mystery of Oak Island.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/aa40bb1d71d9c33579a3be6d1e9a983300470a59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/29ade4eebfd6acc2c4bde5720aef7f77f92abbd5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACreed3_Ach_25": {
+      "name": "All Washed Up",
+      "description": "Complete all Naval Missions aboard the Aquila.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/6e1eebb4ae200e6d83695fda91b476a82260a7c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/d444846fb90b7d6a3f9772eaa806cfc0100a0ae3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACreed3_Ach_26": {
+      "name": "Entrepreneur, not Pirate!",
+      "description": "Complete all 12 Privateer Contracts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/d70221d34865819d33e519c74451716d54f43111.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4426c678638e3f8c1d2b5152d951ce6390603661.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
     },
     "ACreed3_Ach_27": {
       "name": "Tumblehome",
       "description": "Upgrade the Aquila.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/52c2a45e954651fe38fdff2a7b71a9520c769a82.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/3329139981e24f3c78cea1070d1b934a88b2abc7.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/52c2a45e954651fe38fdff2a7b71a9520c769a82.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/3329139981e24f3c78cea1070d1b934a88b2abc7.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.0"
     },
-    "ACreed3_Ach_13": {
-      "name": "Two if by Sea",
-      "description": "Complete Sequence 9.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/07ce23c4d0c72422a40f7a7cadaebb8416de3efe.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/5bd2a9ea52aaa15d5245b4162efb07bb503288b9.jpg",
+    "ACreed3_Ach_28": {
+      "name": "By Invitation Only",
+      "description": "Be invited to join a Club.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/9629e71b35e63689ae5877110ac08f73370dc517.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e765c781e50c033316f09e68cb35a26ed8c856d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.8"
+    },
+    "ACreed3_Ach_29": {
+      "name": "In Good Standing",
+      "description": "Complete all challenges for any of the Clubs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/9ce84f77578df6ca42459063b5f99fc487f08324.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/6dff55e842b44408f1a4893a6c77204887e90410.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACreed3_Ach_30": {
+      "name": "Man of the People",
+      "description": "Liberate all districts in Boston OR New York.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/ff96163694faf34ed3a61e80cbf1a155769b5ffb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/b79d7e5c02df6adeb21a7c3fd448ec488aaece72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACreed3_Ach_31": {
+      "name": "Monopoly Man",
+      "description": "Send a convoy to Boston, New York and the Frontier.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/2474884aa55e3509887bf5b88bfbeba57a2d48d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/55b1f2e96e7a85b9f3d00131636bb13fe10ae909.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACreed3_Ach_33": {
+      "name": "Blowing in the Wind",
+      "description": "Retrieve every page for one of Ben Franklin's Almanacs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/060d107081d9e5945186d087f7782a8b21da2552.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/a729b5bcf1b1dc14918674726833bef73414c4e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACreed3_Ach_34": {
+      "name": "Completionist",
+      "description": "Complete ALL progress tracker grid entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/8a4d9042335d5bba8afa97bb243289e0a63f578b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/ad1306fc27d8d6fd711765a0f77acad7c3511693.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACreed3_Ach_35": {
+      "name": "Multitasking",
+      "description": "Complete 50% of the Progress Tracker entries.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e000d1b0589af1584463fe51d2900ef6ac28c85b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/8bbb1d8ae897f3035a2e08070d54421957684970.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACreed3_Ach_36": {
+      "name": "Spit Roast",
+      "description": "Perform a double assassination using a musket.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/0f2de02e831d8a07b2f63105d74f9947fa0565d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4d98426972875d4aa996d524c4366698417da87b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACreed3_Ach_37": {
+      "name": "Circus Act",
+      "description": "Kill 15 guards with a single cannon shot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/8975aee69a75155a9e22318b82d8657c8a9bade9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/233f5f3214e82f11ed849efecfbfcb9666040aaf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACreed3_Ach_38": {
+      "name": "Predator",
+      "description": "Hang 5 enemies by using rope darts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/8cd4e36d0d94f1676e3ba499ca9ae8cd45adecb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/ac8ca24729ae6457a7bca918a04e9329c69a9d27.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ACreed3_Ach_39": {
+      "name": "Prince of Thieves",
+      "description": "Loot a convoy without killing any of its guards.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/dc15751f82e080bb5907e1e6798ed08442ac11a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/32cc8098c8aa7acfb1c55f2c64ab4282eb39b15e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
     },
     "ACreed3_Ach_40": {
       "name": "Whit's fur ye'll no go by ye!",
       "description": "Block a firing line 5 times by using a human shield.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/354915de0e7a44c57d60e4bb6d3c9271caa91a1f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/208480/5e2298fd09cd4da9c81745841ae5fbc58c0129b7.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/354915de0e7a44c57d60e4bb6d3c9271caa91a1f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/5e2298fd09cd4da9c81745841ae5fbc58c0129b7.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.3"
+    },
+    "ACreed3_Ach_41": {
+      "name": "Jager Bomb",
+      "description": "After becoming fully Notorious, kill 10 Jagers before losing your notoriety.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/4eeb829a34bd8b9d10abc55e630da9ab6654aea0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/e3b0d48bcf06ebaaaf5503384d8297623f2ef812.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACreed3_Ach_42": {
+      "name": "Magna cum Laude",
+      "description": "Have a Trainee reach the Assassin Rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/a3a7302bb5b4ea609ab603d2e58cd4fff8fa6810.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/5ce301649b6dd782c5e7e239ce5d25ee62b653d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ACreed3_Ach_43": {
+      "name": "Coureur des Bois",
+      "description": "Exchange undamaged pelts at all different general stores.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/8f402c0632129d9f1bb2260bb15ba6a992058dbf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/9e1929b010ac34c8e55ed1b4d6ba15df0c6386fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACreed3_Ach_44": {
+      "name": "Eye Witness",
+      "description": "Witness a predator killing an enemy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/2a219c38e742aabed9495022cf6edaf50e4c6f32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/ca562dc74f31043fd5ba364873f350d83e22ec17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACreed3_Ach_45": {
+      "name": "Fin",
+      "description": "Complete each of the epilogue missions unlocked after the credits roll.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/473d7a2f275bcc9a64e925dde4b016bd5a4945c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208480/93e37be31bf4a2752e8dc027c366d65d2b74586c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
     }
   },
   "platform": "Ubisoft",

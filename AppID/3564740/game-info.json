@@ -1,412 +1,412 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1777040051",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/4377dd01d6ae17e313ad27d1f0cd5e1173c1942e/header_alt_assets_4.jpg?t=1777516538",
   "achievements": {
-    "1502009": {
-      "name": "A Fish Out of Water",
-      "description": "A fish atop the tallest tree? In this desert, anything goes.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
+    "all_achievement": {
+      "name": "The Hero is the Voice of the World",
+      "description": "All achievements unlocked. With heroic compassion, we've journeyed thousands of miles together.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/3e1a35daad018526cbde4620fd03522d6a802645.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/261244e396d04a55e2c71d44e240adb8fca725a9.jpg",
       "hidden": false,
-      "group": "Update 1",
+      "group": "Base Game",
       "percent": "0.4"
-    },
-    "1406001": {
-      "name": "A Promise Fulfilled",
-      "description": "Witness the full story of the Granary of Plenty and its grain relief case.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "1.5"
-    },
-    "1505051": {
-      "name": "A Squeak to Remember",
-      "description": "The tiny squeak of a woodchuck sealed your defeat.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
-    "1505021": {
-      "name": "Alone in Chang'an",
-      "description": "Complete Hexi Jianghu Legacy: The Homeward Vow.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "1.4"
-    },
-    "1002062": {
-      "name": "Broken Spear Victory",
-      "description": "Defeat the Nameless General.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/85838fc5ba7f9fefe196ecc3e9e5a59f7ec79fae.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.1"
-    },
-    "1201011": {
-      "name": "Buddha's Afterglow",
-      "description": "Clear Campaign: Halo Peak.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "9.2"
-    },
-    "1501001": {
-      "name": "Cat Fever",
-      "description": "Too much cat petting can be addictive. Everyone's got a little cat fever!",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": true,
-      "group": "Update 1",
-      "percent": "0.5"
-    },
-    "301009": {
-      "name": "Echoes Unbound",
-      "description": "Reach Avg. Enhancement Lv.5.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/29c650e47eb9b45c1a0ace3905e093bba4754926.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "19.6"
-    },
-    "1504019": {
-      "name": "Egg-cellent Luck",
-      "description": "Perform a 10x smash in Wang Quanyou's egg-smashing game.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "0.3"
-    },
-    "1403003": {
-      "name": "Every Inch Covered - Kaifeng",
-      "description": "Collect 40 chests in Kaifeng.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b80a5dc0afd02df5ce3756474b75a2470aa78e7a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.1"
-    },
-    "1404001": {
-      "name": "Feline Riddler - Kaifeng",
-      "description": "Solve 5 Meow Meow Puzzles in Kaifeng.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "10.2"
-    },
-    "301007": {
-      "name": "First Resonance",
-      "description": "Enhance a piece of gear to Lv.2.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "43.5"
     },
     "1204016": {
       "name": "Goose Slayer",
       "description": "Defeat the Demon Goose once.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/db5ac14129e8a17774b8b8186190596f930614fa.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/1b65222c78121b8527d4d57289d6f6483a353295.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/db5ac14129e8a17774b8b8186190596f930614fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/1b65222c78121b8527d4d57289d6f6483a353295.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "2.7"
-    },
-    "401001": {
-      "name": "Healing Hands",
-      "description": "Master the Panacea Fan.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "10.2"
-    },
-    "1501032": {
-      "name": "Hexi: Full Moon Rising",
-      "description": "Unlock all Tales and Echoes in Hexi.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
-    "1504001": {
-      "name": "Hexi: Paws on Point",
-      "description": "Solve 6 Meow Meow Puzzles in Hexi.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "1.6"
-    },
-    "1503002": {
-      "name": "Hexi: Relentless Hunter",
-      "description": "Collect 20 chests of any quality in Hexi.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/07332588cd1ae954b106c534924809323207f87e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "2.7"
-    },
-    "1202003": {
-      "name": "Horizon Seeker",
-      "description": "Reach the highest point in Qinghe: Moonveil Mountain Tower.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/224187d5ff5c54143a2933ab9a54f37fc4523713.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "11.5"
-    },
-    "1405001": {
-      "name": "Jinming Pool Secrets",
-      "description": "Clear Campaign: Jinming Pool.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "7.2"
-    },
-    "1201020": {
-      "name": "Life Goes to Dogs",
-      "description": "Transform into a rural dog once.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "12.4"
-    },
-    "1002039": {
-      "name": "Mighty Wolf Rider",
-      "description": "Defeat Wolf Maiden.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0d22dfe33b7189223198a68728048866e4137ca3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.9"
-    },
-    "1201002": {
-      "name": "Past Secrets Unsung",
-      "description": "Clear Campaign: Palace of Annals.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "14.9"
-    },
-    "1204001": {
-      "name": "Paws on Point - Qinghe",
-      "description": "Solve 10 Meow Meow Puzzles in Qinghe.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/614b009d3c94fdfc4a829bdca1ffe3812f941aec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "14.9"
-    },
-    "1402003": {
-      "name": "Peak of All Arts",
-      "description": "Reach the highest point, East of Beast Reverie, in the Fair Grounds of Kaifeng.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.9"
-    },
-    "301010": {
-      "name": "Perfect Harmony",
-      "description": "Tune an Epic gear to max level.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.3"
-    },
-    "301011": {
-      "name": "Power of Four",
-      "description": "Equip 4 Internal Arts.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "18.3"
-    },
-    "1203005": {
-      "name": "Qinghe · Seeker of Melodies",
-      "description": "Complete 150 peculiar challenges in the Qinghe area.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2a0341fd800a20c92358be45fdc3f248ee583772.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.8"
-    },
-    "1403007": {
-      "name": "Quick on the Uptake - Kaifeng",
-      "description": "Collect 250 Oddities in Kaifeng.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/907236d55d310469b58e1251e28945d8a54edd36.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.4"
-    },
-    "1203003": {
-      "name": "Quick on the Uptake - Qinghe",
-      "description": "Collect 40 chests.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/942754339d52cb19d5f5ecaf0f587a80a7ce46f4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "34.3"
-    },
-    "1401002": {
-      "name": "Quirks of Fate - Kaifeng",
-      "description": "Complete 3 encounters in Southeast Kaifeng.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.9"
-    },
-    "1201005": {
-      "name": "Quirks of Fate - Qinghe",
-      "description": "Complete 3 encounters in Qinghe.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "11.3"
-    },
-    "1501031": {
-      "name": "Reflections of Obsession",
-      "description": "Clear Campaign - Dim Lamp Night.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "0.0"
-    },
-    "1401015": {
-      "name": "Savior of Kaifeng",
-      "description": "Clear Campaign: Heavenfall.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.2"
-    },
-    "301001": {
-      "name": "Skill at Hand",
-      "description": "Upgrade a Martial Style to Lv. 30.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "22.1"
-    },
-    "1201003": {
-      "name": "Source of Still Shore",
-      "description": "Clear Campaign: Still Shore.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "29.9"
-    },
-    "1406003": {
-      "name": "Speedrun in Granary",
-      "description": "Defeat Zheng E within 180s.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.4"
-    },
-    "1501024": {
-      "name": "Swift Annihilation",
-      "description": "Defeat Wucan within 180 seconds.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "0.1"
-    },
-    "1201018": {
-      "name": "The Final Destiny - Qinghe",
-      "description": "Unlock the ending of main story of Qinghe.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d38bd60270f14450f68ba6c763c2b01103ace67d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0fca2521ea38abfd809a97b8205bbd8892a1669d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.2"
-    },
-    "101022": {
-      "name": "The First Finding",
-      "description": "Unlock a Dark Surge story.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7b1e54d51882d8d0a78e8e7009b3992609a61714.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/a91d3a291e8910cfa658b590e62194cd326b1fab.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "15.3"
-    },
-    "401004": {
-      "name": "The Grand Strategist",
-      "description": "Master the Strategic Sword.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.2"
-    },
-    "all_achievement": {
-      "name": "The Hero is the Voice of the World",
-      "description": "All achievements unlocked. With heroic compassion, we've journeyed thousands of miles together.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/3e1a35daad018526cbde4620fd03522d6a802645.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/261244e396d04a55e2c71d44e240adb8fca725a9.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
-    },
-    "1205006": {
-      "name": "The Old Timer Got It",
-      "description": "Get defeated by Elder Gongsun in a Sparring.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/970054b185c9daebabe891fcf624406895e4f66a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c20d8a3ceb27d9e5152918e7b3a08d00bd6f8840.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "11.2"
-    },
-    "9999001": {
-      "name": "The Unspeakable Victory",
-      "description": "The move that renders you unstoppable. A secret best kept silent.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/55f195e04819acf3c55a6a77e5f3715e9f2f5c02.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/5660ec8db1dd56b100d9902b04a5ee602e57d085.jpg",
-      "hidden": true,
-      "group": "Update 2",
-      "percent": "0.1"
     },
     "1201007": {
       "name": "Victory in the Abyss",
       "description": "Defeat ​The Void King within 60s.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "4.2"
     },
+    "1002039": {
+      "name": "Mighty Wolf Rider",
+      "description": "Defeat Wolf Maiden.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0d22dfe33b7189223198a68728048866e4137ca3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "1406003": {
+      "name": "Speedrun in Granary",
+      "description": "Defeat Zheng E within 180s.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "1201002": {
+      "name": "Past Secrets Unsung",
+      "description": "Clear Campaign: Palace of Annals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "1201003": {
+      "name": "Source of Still Shore",
+      "description": "Clear Campaign: Still Shore.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "1405001": {
+      "name": "Jinming Pool Secrets",
+      "description": "Clear Campaign: Jinming Pool.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "1401015": {
+      "name": "Savior of Kaifeng",
+      "description": "Clear Campaign: Heavenfall.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "1002062": {
+      "name": "Broken Spear Victory",
+      "description": "Defeat the Nameless General.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/85838fc5ba7f9fefe196ecc3e9e5a59f7ec79fae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "1403007": {
+      "name": "Quick on the Uptake - Kaifeng",
+      "description": "Collect 250 Oddities in Kaifeng.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/907236d55d310469b58e1251e28945d8a54edd36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "1203005": {
+      "name": "Qinghe · Seeker of Melodies",
+      "description": "Complete 150 peculiar challenges in the Qinghe area.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2a0341fd800a20c92358be45fdc3f248ee583772.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "1203003": {
+      "name": "Quick on the Uptake - Qinghe",
+      "description": "Collect 40 chests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/942754339d52cb19d5f5ecaf0f587a80a7ce46f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "1403003": {
+      "name": "Every Inch Covered - Kaifeng",
+      "description": "Collect 40 chests in Kaifeng.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b80a5dc0afd02df5ce3756474b75a2470aa78e7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "1202003": {
+      "name": "Horizon Seeker",
+      "description": "Reach the highest point in Qinghe: Moonveil Mountain Tower.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/224187d5ff5c54143a2933ab9a54f37fc4523713.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "1402003": {
+      "name": "Peak of All Arts",
+      "description": "Reach the highest point, East of Beast Reverie, in the Fair Grounds of Kaifeng.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "1204001": {
+      "name": "Paws on Point - Qinghe",
+      "description": "Solve 10 Meow Meow Puzzles in Qinghe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/614b009d3c94fdfc4a829bdca1ffe3812f941aec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "1404001": {
+      "name": "Feline Riddler - Kaifeng",
+      "description": "Solve 5 Meow Meow Puzzles in Kaifeng.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "1201020": {
+      "name": "Life Goes to Dogs",
+      "description": "Transform into a rural dog once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "1205006": {
+      "name": "The Old Timer Got It",
+      "description": "Get defeated by Elder Gongsun in a Sparring.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/970054b185c9daebabe891fcf624406895e4f66a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c20d8a3ceb27d9e5152918e7b3a08d00bd6f8840.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "301009": {
+      "name": "Echoes Unbound",
+      "description": "Reach Avg. Enhancement Lv.5.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/29c650e47eb9b45c1a0ace3905e093bba4754926.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/48945f9eccb8d6405bc8e3ba415ef89acb75cc64.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "301011": {
+      "name": "Power of Four",
+      "description": "Equip 4 Internal Arts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "301010": {
+      "name": "Perfect Harmony",
+      "description": "Tune an Epic gear to max level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "301007": {
+      "name": "First Resonance",
+      "description": "Enhance a piece of gear to Lv.2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "301001": {
+      "name": "Skill at Hand",
+      "description": "Upgrade a Martial Style to Lv. 30.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "401001": {
+      "name": "Healing Hands",
+      "description": "Master the Panacea Fan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "401004": {
+      "name": "The Grand Strategist",
+      "description": "Master the Strategic Sword.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/06470c474deb8d3b2771876f5ac14ec1ecfc645c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4096b3ff4df654b303700ab03a0d0a0e7253d37d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "1201018": {
+      "name": "The Final Destiny - Qinghe",
+      "description": "Unlock the ending of main story of Qinghe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/d38bd60270f14450f68ba6c763c2b01103ace67d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0fca2521ea38abfd809a97b8205bbd8892a1669d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "1201011": {
+      "name": "Buddha's Afterglow",
+      "description": "Clear Campaign: Halo Peak.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "101022": {
+      "name": "The First Finding",
+      "description": "Unlock a Dark Surge story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7b1e54d51882d8d0a78e8e7009b3992609a61714.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/a91d3a291e8910cfa658b590e62194cd326b1fab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
     "1401009": {
       "name": "Voice of the Valiant",
       "description": "Chivalrous herald of silence.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "9.3"
+    },
+    "1201005": {
+      "name": "Quirks of Fate - Qinghe",
+      "description": "Complete 3 encounters in Qinghe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "1401002": {
+      "name": "Quirks of Fate - Kaifeng",
+      "description": "Complete 3 encounters in Southeast Kaifeng.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "1406001": {
+      "name": "A Promise Fulfilled",
+      "description": "Witness the full story of the Granary of Plenty and its grain relief case.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "1503002": {
+      "name": "Hexi: Relentless Hunter",
+      "description": "Collect 20 chests of any quality in Hexi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/07332588cd1ae954b106c534924809323207f87e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "1504001": {
+      "name": "Hexi: Paws on Point",
+      "description": "Solve 6 Meow Meow Puzzles in Hexi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "1502009": {
+      "name": "A Fish Out of Water",
+      "description": "A fish atop the tallest tree? In this desert, anything goes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "1501001": {
+      "name": "Cat Fever",
+      "description": "Too much cat petting can be addictive. Everyone's got a little cat fever!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "1501024": {
+      "name": "Swift Annihilation",
+      "description": "Defeat Wucan within 180 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "1504019": {
+      "name": "Egg-cellent Luck",
+      "description": "Perform a 10x smash in Wang Quanyou's egg-smashing game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "1505021": {
+      "name": "Alone in Chang'an",
+      "description": "Complete Hexi Jianghu Legacy: The Homeward Vow.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "1501032": {
+      "name": "Hexi: Full Moon Rising",
+      "description": "Unlock all Tales and Echoes in Hexi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1505051": {
+      "name": "A Squeak to Remember",
+      "description": "The tiny squeak of a woodchuck sealed your defeat.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "1501031": {
+      "name": "Reflections of Obsession",
+      "description": "Clear Campaign - Dim Lamp Night.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "9999001": {
+      "name": "The Unspeakable Victory",
+      "description": "The move that renders you unstoppable. A secret best kept silent.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/55f195e04819acf3c55a6a77e5f3715e9f2f5c02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/5660ec8db1dd56b100d9902b04a5ee602e57d085.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.1"
     }
   },
   "platform": null,
