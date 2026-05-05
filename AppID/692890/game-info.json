@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "DAMAGE_DEALT_SILVER": {
       "name": "Damage Dealer (Silver)",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f4331e1a004eec3595e5df89395148d3e86fc823.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.2"
     },
     "SLIM_POWERCELL": {
       "name": "Spare Some Change?",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b2606e4c1f7993a98120931edd267e33b99ac18f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "WRENCH_GATHER_GOLD": {
       "name": "Wrench Picker (Gold)",

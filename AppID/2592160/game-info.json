@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ba980b938d51ca961ff507132f09a2c26e6020fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "ACH_TRUTH_TOLD": {
       "name": "\"That’s, like, a real superhero.\"",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/8a6c521cb57159eb907cd376f8b772de52a5fc57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_FIRST_SHOT": {
       "name": "\"It smells very chemically in here.\"",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ACH_TRAIN": {
       "name": "Power Trip",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.4"
+      "percent": "84.3"
     },
     "ACH_SCEN_SUCCESS": {
       "name": "Fool's Luck",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.0"
     },
     "ACH_SCEN_PERFECT": {
       "name": "Nailed It",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/339bf3e483c7f95868cee5e075146df299dbe116.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "ACH_HEAL_TWICE": {
       "name": "Phoenixes Down",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
