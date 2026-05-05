@@ -21,7 +21,9 @@
   },
   "A_Bingo": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
   },
   "A_BioweaponMaster": {
     "earned": false,
@@ -76,8 +78,8 @@
     "earned_time": 0
   },
   "A_CompleteNeurax": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778008678
   },
   "A_CompleteParasite": {
     "earned": false,
@@ -185,7 +187,9 @@
   },
   "A_LotteryWinner": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
   },
   "A_MP_BFF": {
     "earned": false,
@@ -229,7 +233,9 @@
   },
   "A_MegabrutalShuffle": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
   },
   "A_NanovirusMaster": {
     "earned": false,
@@ -253,7 +259,9 @@
   },
   "A_NormalShuffle": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
   },
   "A_NotAnotherZombieGame": {
     "earned": false,
@@ -412,8 +420,8 @@
     "earned_time": 0
   },
   "A_WormFood": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778008678
   },
   "A_XenolithAI": {
     "earned": false,
