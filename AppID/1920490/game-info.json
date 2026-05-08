@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ddb1a7f2e32d705c89bf4a5fe44d27636a2a8d89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/95412656720cfd7b0de8e310128d7277f840ccda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "NEW_ACHIEVEMENT_1_20": {
       "name": "Level 30",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/cab500c6972bc498c9ba3219c9c6108aa1c05057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "Jack of All Trades",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Paradise Found",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/5b181b38320c7ac35696b7cb3994df95ff030cad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "NEW_ACHIEVEMENT_2_15": {
       "name": "Sunburn",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/b08862e0dd0f105cbdce13a5164e95ac8359756c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "NEW_ACHIEVEMENT_2_18": {
       "name": "NDA Protocol",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/3860a6c4ba082d9d7ccc2645b5835f18f13a0399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "NEW_ACHIEVEMENT_2_28": {
       "name": "The Rock Or The Hard Place",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/aec35a21fc450535bb7d0efdbdc18028fa940832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     }
   },
   "platform": null,

@@ -1,7 +1,7 @@
 {
   "appid": "246620",
   "name": "Plague Inc: Evolved",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/816a75e7b7a6f2c8bed307f247063f34ad45636b/header_alt_assets_2.jpg?t=1776850604",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/4c67f0dc09d833b843cf5c3834d95bef246ccd49/header.jpg?t=1776850604",
   "achievements": {
     "A_WormFood": {
       "name": "Worm Food",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/39663dc29577535b347ccabfc021d798e0e3834f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "A_NotAnotherZombieGame": {
       "name": "Not Another Zombie Game",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a8f3bbc588ff7e74bf0aeca87a77fb7b714cac7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "A_LongShot": {
       "name": "Long Shot",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7839cccd3cca59fbf53dfaa9ac24262a6a3f8a82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "A_notnecroa": {
       "name": "Not Necroa",
@@ -2134,7 +2134,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/8ffebfc5705a20a82454f3c796a7fd1a396bc53c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.1"
     },
     "A_XenolithWin": {
       "name": "Diamonds Are Forever",
