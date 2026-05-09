@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "FIRST_AXON": {
       "name": "First Axon",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "BACK_TO_LUMIERE": {
       "name": "Back to Lumière",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "WEAPON_FIRST_UPGRADE": {
       "name": "Weapon Upgrade",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/aa9b4191bee77929898ef9803c0ae52f36057a0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "WEAPON_FULL_UPGRADE": {
       "name": "Weapon Mastery",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/2fb6f89282c281f4bc2625aeacebe2bd60d99ae8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.8"
+      "percent": "71.9"
     },
     "LEVEL_33": {
       "name": "Expeditioner",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "LEVEL_66": {
       "name": "Trailbreaker",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/116758b973e6d42226cdb8d69ef63783b9595759.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     }
   },
   "platform": null,

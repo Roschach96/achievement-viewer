@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/e224e830b14428aaffcd87f9e4a8a86c1d0b98ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "ACHIEVEMENT002": {
       "name": "Armor-Clad Faith",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/883d146af2174ad8b1d7af1d6647eb91d72ee629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACHIEVEMENT007": {
       "name": "Battle Ready",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/244a327c460516e4eb04770f5ca692a3aa1096cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "ACHIEVEMENT012": {
       "name": "Begin Assessment of the Target",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "ACHIEVEMENT015": {
       "name": "To the World Outside",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/cae04d0b83ca4418efacf9bd01887c24c8bab2a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "ACHIEVEMENT021": {
       "name": "Destruction and Creation",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/67af1a83fb4a4aa623a77e44359070c52d906f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     }
   },
   "platform": null,

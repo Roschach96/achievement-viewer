@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/37f2f70ec0360b4da35c1889dbbb8a03b192aab8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "ACH_06": {
       "name": "Empty Peace",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/cafb7c46fc9e24d5f14c686a91c552ee2d06e5e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "ACH_11": {
       "name": "Survival",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/9bcff44b83471525c3093449c656f482121ab493.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "ACH_15": {
       "name": "Drunken Angel",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/c98485a11bf5d169b6ace7fe75b39eacd39bc66d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "ACH_22": {
       "name": "Total Recall",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.3"
     }
   },
   "platform": null,
