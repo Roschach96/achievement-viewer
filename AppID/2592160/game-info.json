@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/be595d8b7666b47b80685fd189f8e489e1f568cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.3"
     },
     "ACH_MENTOR_SUCCESS": {
       "name": "\"Sorry, kid.\"",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ACH_TRAIN": {
       "name": "Power Trip",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.4"
+      "percent": "84.3"
     },
     "ACH_SCEN_SUCCESS": {
       "name": "Fool's Luck",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.0"
     },
     "ACH_SCEN_PERFECT": {
       "name": "Nailed It",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",

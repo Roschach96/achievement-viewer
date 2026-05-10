@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/beebf55b6dd3604eac279b2b1cbe6c726407fca8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "BOSS_TAKEDOWN_GOLD": {
       "name": "Boss Punisher (Gold)",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/892885555fbd752d8ab56ed519104b0198860ffa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "ITEMS_EQUIPPED": {
       "name": "Bazaar Best Friend",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",

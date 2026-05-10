@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "SOULFUL": {
       "name": "Soulful",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/1720e3ef2802441c9f6f3d4b3ae62ba05109ec1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "COLLECTOR": {
       "name": "Obsession",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b5ee4828c750bcf90def63aaffe4a1b27f418efd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "DREAM_SOUL_MASTER_DEFEAT": {
       "name": "Mortality",
