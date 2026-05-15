@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "BROBOT_JOIN": {
       "name": "Meet my Brobot",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/880aec919973919ef11a0c86dd13dee4411e3f8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "BROBOT_REBOOTED": {
       "name": "Field Mechanic",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/987cb89717e01d4bb34539f12cc746e4079d3d08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "COMPENDIUM_FULL": {
       "name": "Gotta Catch' Em All",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/42fba3caebfc20aca1e7269f5bf60289ff24a7f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "FIELDS_PORTAL": {
       "name": "Waaaaarp Zone!",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a13dc22e33929f8169f4f224fab7af44e5f5dc2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.2"
     },
     "GADGET_UNLOCK_GOLD": {
       "name": "Inspector Gadget (Gold)",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/2c819ccb985ca5511b45bb10f575f4b2243725e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "GADGET_UNLOCK_SILVER": {
       "name": "Inspector Gadget (Silver)",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4951ca7bdac3f639991b73b04437f1fc6abc636c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "GUARDIAN_HAMMER": {
       "name": "Whack-A-Mole",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1e3e5d448bc179e0333d8c181bc97b44d23430fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "ENDLESS_MUTATOR": {
       "name": "Evolution",
