@@ -1,0 +1,82 @@
+{
+  "appid": "3587610",
+  "name": "The Dark Queen of Mortholme",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587610/53fc20436572df147c0deedf6065f6916c64e7aa/header.jpg?t=1773813531",
+  "achievements": {
+    "UNTIL_NEXT_TIME": {
+      "name": "Until Next Time",
+      "description": "Complete The Dark Queen of Mortholme.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.6"
+    },
+    "PITIFUL": {
+      "name": "Pitiful!",
+      "description": "Slay the Hero once and for all?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.6"
+    },
+    "OUT_OF_TRICKS": {
+      "name": "Out of tricks?",
+      "description": "Use all of the Queen's Attacks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.8"
+    },
+    "OBELISK": {
+      "name": "Obelisk",
+      "description": "View the Credits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.7"
+    },
+    "TRUE_FORM": {
+      "name": "True Form",
+      "description": "Transform the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "93.6"
+    },
+    "PACIFISM": {
+      "name": "Pacifism",
+      "description": "Try a different perspective.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.5"
+    },
+    "PERMANENCE": {
+      "name": "The Permanence of Defeat",
+      "description": "Your erratic, buglike behavior drove the Hero to quit for good.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "PEN_TO_PAPER": {
+      "name": "Pen to Paper",
+      "description": "View the most ghoulish concept art, by the Queen’s command.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
