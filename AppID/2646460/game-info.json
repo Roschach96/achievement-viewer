@@ -1,0 +1,1090 @@
+{
+  "appid": "2646460",
+  "name": "Soulmask",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/23b769b6bc3cbb2fd32aed4ee20e5a3d8e1d0f31/header.jpg?t=1778518505",
+  "achievements": {
+    "BP_ChengJiu_MianJuLevel_10": {
+      "name": "Soulmask",
+      "description": "The fusion of a weak soul and mysterious mask - this is the beginning of eternity, and the origin of all differences: Achieve Awareness Strength 10 to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/dfb3427936178af7e7f5ac7517a2035287f2df85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/48dab8900aa8f667c0c5939439ba7d11ddcd7ef1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.5"
+    },
+    "BP_ChengJiu_MianJuLevel_20": {
+      "name": "It's getting better.",
+      "description": "Nourished by the mask, the ancient mystical knowledge brings a sense of kindness to the terrifying jungle: Achieve Awareness Strength 20 to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0a7a09584625d85ed398e29cd7ed0bd6eb17a075.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/139f688668582753387340b23f39a931e689a3cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.1"
+    },
+    "BP_ChengJiu_MianJuLevel_30": {
+      "name": "More, better, farther",
+      "description": "With more friends, resources, weapons, and armor, you get to eat more and travel further: Achieve Awareness Strength 30 to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ba1035454e438368656cf2be2a4318faad1cac17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/266747ce50ed763316e07c7149da8d45763213ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "BP_ChengJiu_MianJuLevel_40": {
+      "name": "Iron and Blood",
+      "description": "A dull journey is one without obstacles; But if obstacles arise, let iron and blood clear the way: Achieve Awareness Strength 40 to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/27ba1b73d51003101154974c8e2f8887166d4b49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/93c7d5cf7e440e71c8d11023f4f6838e5dab571e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "BP_ChengJiu_MianJuLevel_50": {
+      "name": "Stacked Civilizations",
+      "description": "The past glory vanished into the passage of time, and a new civilization rises above the ruins: Achieve Awareness Strength 50 to unlock Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/64840671d9ce3f411c132c00a6bb213f4c6daeaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b65057c403f1b7e7d5b21c1d96e89c98fd0c6f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "BP_ChengJiu_MianJuLevel_60": {
+      "name": "Do not respond!",
+      "description": "Besides oneself, there are probably no other secrets here: Achieve Awareness Strength 60 to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7f95a1ddbb95f855f1fdfe48e2e9965c880a252a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d0d3d857661e45cdb6f6339fca0b7306b7fdb4d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "BP_ChengJiu_ShiBan_001": {
+      "name": "Ancient Scholar",
+      "description": "Unveil the secrets of all ancient tablets to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/00e4b561de451918cdba6f0f2c8cb67c5123a731.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/eb93b2784a061682b641c61cd116d0bac0b05207.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "BP_ChengJiu_ShiBan_002": {
+      "name": "Saint Scholar",
+      "description": "Unveil the secrets of all divine tablets to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2120e826df242c42e6f6386567cbc1476114825d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d5d05bba5d64e2f632c5aac6ee9d3a21e1da17b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "BP_ChengJiu_TanSUoDian_002": {
+      "name": "Rainforest Hiking",
+      "description": "Discover all exploration points in the rainforest area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6ba64b7a448147b7652ff6f27347d943ed961632.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5aa8f502385b46af1a5387d095fa79d4cfa75490.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "BP_ChengJiu_TanSUoDian_003": {
+      "name": "Hill Hiking",
+      "description": "Discover all exploration points in the hill area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3b6d453d572d8ed040e5ab48f4448ba88df19c76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/590d72acfd9dc812695461039d0b07df0b2c89b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "BP_ChengJiu_TanSUoDian_004": {
+      "name": "Wetland Hiking",
+      "description": "Discover all exploration points in the wetland area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/683863d83f7b76dc2d8cb5be1a051cbbb3f8c9de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c0ddfc4b6f0ce2ac4c5a5475ac17c9cd625c5d0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "BP_ChengJiu_TanSUoDian_005": {
+      "name": "Plateau Hiking",
+      "description": "Discover all exploration points in the plateau area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/bcc2683a213d7262290ceae4fabdaa87f228ba74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/25f437c932ec049ad559039b50c2c0a7d9f8aad9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "BP_ChengJiu_TanSUoDian_006": {
+      "name": "Volcano Hiking",
+      "description": "Discover all exploration points in the volcano area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1b6b4852085779255576fbd6bdedc3017927cb03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0552629a88337f7184d9e2858e5b6fc8ec0e7dc7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "BP_ChengJiu_TanSUoDian_007": {
+      "name": "Snow Mountain Hiking",
+      "description": "Discover all exploration points in the snow mountain area to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4dce2846e97ea13a233668ebe75bfaa5d616564a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0a79ab0fb0fbd269674279cb7a0646f161f2eab7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "BP_ChengJiu_Kill_JianChiHu01": {
+      "name": "Beneath the Claws",
+      "description": "\"Shh! See those cleanly broken giant trees? Watch out for its claws! Roll away quickly to avoid it!\": Defeat Fierce Saber-toothed Predator to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c8c6c29989cb3d7389cc8b8bab7f4afeccc6f69e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1981ef8a2471d8b424172e5d391abd8004c5b0e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "BP_ChengJiu_Kill_JianChiHu02": {
+      "name": "Opponent's Bone Spear and Bone Shield",
+      "description": "\"Are your bones harder than the head of this ferocious cat? Uh… I mean no offense, but you need at least a bronze weapon that is bigger than yourself\": Defeat Berserk Saber-toothed Predator to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b5b83e80a32a90e906bce9e437223a0386022f31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/df231d66fe732b18017ae76488295810f94e1cb1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "BP_ChengJiu_Kill_JianChiHu03": {
+      "name": "Mature Saber-toothed Predator Hunter",
+      "description": "\"CHARGE!\": Defeat Saber-toothed Predator of Doom to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5f70a43fa14a449aa903092a069331cb321c7ef8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/93a7cf1150400010dfca2047519c5f954b139574.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "BP_ChengJiu_Kill_MGW01": {
+      "name": "Don't be poisoned to death",
+      "description": "\"Don't forget to bring anti-poison potions. I don't want to be pulling your fragile skull out of that disgusting pus\": Defeat Poison Fogfrog to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2d6631162e43b022ee8b3ccf644dcf7abdf34e00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7b7c0a3346389368799afd8c3f6b5710c0e289f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "BP_ChengJiu_Kill_MGW02": {
+      "name": "Waterbag Hoglet",
+      "description": "\"What are inflated water bags afraid of? Needles, of course! The little kittens who listened to my advice still have nine lives!\": Defeat Berserk Fogfrog to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/62d392ba90f93de281e4dcac3afddf07115617c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/eef32812e69f3715ce512ec9699110a8be5c2732.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "BP_ChengJiu_Kill_MGW03": {
+      "name": "Mature Fogfrog Hunter",
+      "description": "\"CHARGE!\": Defeat Fogfrog of Doom to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c19dbcebf4d50e9e0e73dd95b8b15951ffc8d69f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2bef5d5d1ebe9b71dc82277da8b3abc5510a936e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "BP_ChengJiu_Kill_JuYuan01": {
+      "name": "Face Off",
+      "description": "\"He is tall, strong, and can jump a jungle. There is no way you can catch up if he runs, but you can win him by having a harder shield than he does!\": Defeat Almighty Vajra Ape to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0b3cc47f407d810d7fa138052106eecf22d95b92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/228acf8b80b190686cb6cfa6047271955b1dbdfa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "BP_ChengJiu_Kill_JuYuan02": {
+      "name": "Protracted War",
+      "description": "\"Plan your stamina well for a chance to get loots. Otherwise, you'll probably be squashed by that beast\": Defeat Berserk Vajra Ape to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/afbb3b41140212c2afc7933b90a06b8902b4c011.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2c05288390ca29e25aa2bf530b4e6e43b5003e02.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "BP_ChengJiu_Kill_JuYuan03": {
+      "name": "Mature Vajra Ape Hunter",
+      "description": "\"CHARGE!\": Defeat Vajra Ape of Doom to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5e49e1553664f739e189c2a890366ea4407a3b81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0ec040063ff477895a93bba251067268a66aae1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "BP_ChengJiu_Kill_JiNiao01": {
+      "name": "Suncover Shadow",
+      "description": "\"Heavy weapons are no use against it, but bows and arrows are extremely effective\": Defeat Sky-shading Tempest Griffin to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/242114d8119bedc16729e0a41e0f43e2479c1d39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6084c7ead0560d54c67712bf753f090a9b3992ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "BP_ChengJiu_Kill_JiNiao02": {
+      "name": "You! Get down here!",
+      "description": "\"I was just shouting for fun, but when the wind stopped, it actually came down! That was scary!\": Defeat Berserk Tempest Griffin to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/613978b49b968ae504e90e95e9d951f15b7f1b56.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/08fdd878abe37b55dadda94a5178e396b4b45d2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "BP_ChengJiu_Kill_JiNiao03": {
+      "name": "Mature Tempest Griffin Hunter",
+      "description": "\"CHARGE!\": Defeat Tempest Griffin of Doom to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2ab1cdb8c34c30860cff37bd83a08ccc6fb1c709.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0cee8f0999dc8daac7c3e03ce7c668a4bdf7af21.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "BP_ChengJiu_Kill_MMX01": {
+      "name": "Stylish Ice Sculpture",
+      "description": "“I-I-I feel really c-c-cold… Did s-s-someone… bring fire…?\": Defeat Titan Mammoth to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d90cb1c18781bf06e07ee0cb05354c6e789e171d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c1a7c2948d07e826062a56bef325971be5ad000d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "BP_ChengJiu_Kill_MMX02": {
+      "name": "Cooling Blood",
+      "description": "\"This darn padded coat is so heavy, I'm going to take it off. What's that in the sky? A colorful alpaca riding and dancing on an ostrich…? Aah… This feels warm...\": Defeat Berserk Mammoth to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f830a52bb565e25369ea6025641fe2b6896e05ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3280efb09b859dbe3fc7884469056ead821967e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "BP_ChengJiu_Kill_MMX03": {
+      "name": "Seasoned Mammoth Hunter",
+      "description": "\"CHARGE!\": Defeat Mammoth of Doom to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/41573b072f5a6bad6148839bc7d0a56f30026d77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6434f43246f49feaf3449fb5326d4eeab671ca6b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "BP_ChengJiu_Kill_ShouLie01": {
+      "name": "1 in 10",
+      "description": "\"This old and worn-out wooden bow is lousy. If I could use chieftain's bow, I'm I'm sure I'd hit the bullseye with one arrow\": Defeat 1 Lv.10 Green Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6ab78d1b90833f3a05dde676e894b4ebbaa1b3bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6eb7d898e37d9deb93c6362b18f701ab31b6e576.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.6"
+    },
+    "BP_ChengJiu_Kill_ShouLie02": {
+      "name": "Fine Pelt",
+      "description": "\"We've been tracking this beast for twenty days and our chance has finally come. See this skin without any arrow holes? That's my masterpiece… Burp.\": Defeat 1 Lv.20 Blue Precious Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/13bc314fb8cc424bc946af4d99a54b8c4f3d4c50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/864a916ae7e8287ae91a233429aae931a8faf060.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "BP_ChengJiu_Kill_ShouLie03": {
+      "name": "An experienced and calculating marksman",
+      "description": "\"The cornmeal will be finished tomorrow. It's also about time that it will be out foraging, what perfect timing\": Defeat 1 Lv.30 Purple Peerless Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a9ecc2ee64280dc3d777cf70a6dc75d8c2c53511.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0ba449997d499e8aea535b5c1dba9a3e92397db3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "BP_ChengJiu_Kill_ShouLie04": {
+      "name": "Uncommon loot",
+      "description": "\"I entered the thick jungle countless times but have only seen such prey several times. I must catch it and hang it beside my fire pit\": Defeat 1 Lv.40 Orange Legendary Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6102b8c94677ef7009e60f035231d4b19c580f08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f957189a10a58720a7576103b0da5d61126358ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.9"
+    },
+    "BP_ChengJiu_Kill_ShouLie05": {
+      "name": "Hunter or Prey?",
+      "description": "\"When I saw it twenty years ago, I lost my brother. When I found it ten years ago, I lost my eyes. This time, we will decide the winner by fighting to our deaths!\": Defeat 1 Lv.50 Red Mythic Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/29f5be795da784a9d1bb6ff6e0b3725629917bc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/44003ebba19d27fffa1e1c19b3330d1cc7d984cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "BP_ChengJiu_Kill_ShouLie06": {
+      "name": "Mythic",
+      "description": "\"As I watch these kids pulling the bow, it reminds me of my eldest son\": Defeat 1 Lv.60 Red Mythic Prey to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5700ddcd8ea07f66c3eff5b7577f8664ef2dc392.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/501c20456999a30bf99aa810248f3c49d7368675.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "BP_ChengJiu_Kill_Zhu_10": {
+      "name": "Galloping Dinner",
+      "description": "These shy, hard-to-near creatures are actually the easiest food to get: Defeat 10 Turkeys to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f7953665251e19948943e19c6c8e8476a58dd685.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/395c59a1f36348c1dcad221aafc97d213bfb401d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "BP_ChengJiu_Kill_Lang_10": {
+      "name": "Lifelong Enemy",
+      "description": "The bloody crisis spreads through the thickets, while a faint green light shimmers in the night: Defeat 10 Jaguars to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/30459f35d58d0fb33bbe6205b297b3d4b7c8bfcd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/17b767d5308705362425d580a7201d9caefa1307.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.1"
+    },
+    "BP_ChengJiu_Kill_DaXiang_10": {
+      "name": "Desperate Porcupine",
+      "description": "Covered in spears, these big creatures are darting about like frantic boars: Defeat 10 Giant Elephants to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3cb3845289415604578b506f7b82976ccc16909e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5de85ef5300731550dd3a61adc1c7bc06d1aa38f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "BP_ChengJiu_Kill_HuangShi_10": {
+      "name": "Remaining Badasses",
+      "description": "In the chilling, starless wilderness lies a feline baring its sharp and merciless claws: Defeat 10 Wild Lions to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/72fca2474dde0c55d4f019533b796884b8e41d12.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d66b89559a5e68eb56323200d7aa9e53eaf05a60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi01": {
+      "name": "Rock Breaker",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Northern Rainforest: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d5e841d9a20fe0e7f5df9d8761aad0a1587570f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a7a389fa5c3f3e49c4fe6a5b4878f11781b9d61e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi02": {
+      "name": "Retroreflector",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Western Rainforest: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0b8be259b0a899f93bde837e573163175b654bde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/781263c91b1eac1fe3c695580b3e072d3ac48ce7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi03": {
+      "name": "Observer",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Mangrove: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/343d65d83d1dbdc55da1051cfbd81685afd6e3ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4e5856e5473b3f78c272acfbb77626ee35c39988.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi04": {
+      "name": "Blood Drinker",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Pit Hill: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/12f1ae0b54abacf1176f4f9e420457093af46acc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/432fe7edebb8edd2b35f5f80017c0b163767d3d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi05": {
+      "name": "Astrologer",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Lakeside Forest: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f5c87b05e95572250d98e2b7f196b8beeb3d6f02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0f8720de4266a157a630923e33f4d15fa6000d6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi06": {
+      "name": "Snake Heart",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Table Mountain: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/64fefeb2e1f1d206d9481c44ca6186a1258bd44d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4855ba0973c87051c2e575f9e37497fe1dfc89c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi07": {
+      "name": "Hardbone",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Great Prairie: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/807ea29d02f73eb19046ddd601106ca073b3ae8d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e4495dafbc11f761a51660b40d7404c658cd8503.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi08": {
+      "name": "Bloodletter",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Giant Wood Forest: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1efaadf30883eacb986acadc2ec179b1a1520c74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b6b9347b8896f5a140e06bd1a7f9d58c9c0c71d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi09": {
+      "name": "Venom",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Southern Wasteland: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f492223fcc1062ffb842d8349b68ac6deedc7fd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8111e6a0ce18426e1af22d93507b2e428501bef2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi10": {
+      "name": "Slayer",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Barren Meadow: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/14750b7b9bd9a6d2f8e8b9e28286656b499d9d25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7a54ab0ac95d1f6105122c2a9add25853d034071.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi11": {
+      "name": "Forester",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Dark Forest: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/34c6998b4bb66038743f6c693d3898238a7e7be1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9cc96372356e1ab08cfd90db3ff08a438b6af725.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi12": {
+      "name": "Butcher",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Frostleaf Grove: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/116a0b2d14ca27acfb83b8300dca4a8091590b20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/754ccaa64fbde0e5459c6751fe34f202611299cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "BP_ChengJiu_Kill_ZhaiZi13": {
+      "name": "Cold Toxin",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Alpine Land: Defeat the Tribal Priest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/bc7343b678693623e47e78549b6bac3bbaf2d3d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c10f02875918b26ddfea65bc73585fce2a7ae0d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "BP_ChengJiu_Kill_DiMianYiJi01": {
+      "name": "Jungle Foes",
+      "description": "The Plunderer Leaders occupying the treasure lands are infamous for their savagery: Defeat any of the 3 Plunderer Leaders in the ground ruins of Western Rainforest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/bf16f49e3f13c0cd2f6533dad837f0e8eb927f70.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8e20a174694d53a8402df4e77436b1e702471006.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "BP_ChengJiu_Kill_DiMianYiJi02": {
+      "name": "Volcanic Forest Secret",
+      "description": "The Plunderer Leaders occupying the treasure lands are infamous for their savagery: Defeat the Plunderer Leader in the ground ruins of Volcanic Forest to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6a676459167017d58a3ab4fb7a2e08c55861f501.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/938d4df001f0b8c051b51acd1f732cc65064061a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "BP_ChengJiu_Kill_DiMianYiJi03": {
+      "name": "Iceblood Savage",
+      "description": "The Plunderer Leaders occupying the treasure lands are infamous for their savagery: Defeat any of the 2 Plunderer Leaders in the ground ruins of Alpine Land to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7034ad058cd0cd5af9f31cf5d39884a53ee807db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7a33d8d15bbd6689a2b550707b3ddf5fef907f25.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong01": {
+      "name": "Hidden Pearl: Rift Valley",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Rift Valley ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a484ce18990cd506e39ef5d5cbeb84f2f5141925.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f49b8b565c3010b3cb1d8c76b7e6e8bd9a3efb4e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong02": {
+      "name": "Hidden Pearl: Jungle Cave",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Jungle Cave ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/aaf0bf1858841927c85edd93a63cee9948b6a9db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/85be27b19c0a19b287facc00756b1f0e5160492c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong03": {
+      "name": "Hidden Pearl: Giant Crater",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Giant Crater ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d840eb974157149d8858608466408825e71bf54f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/82dadd804d6f6c37c54da7f36835f63a8e3516be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong04": {
+      "name": "Hidden Pearl: Scorching Volcano",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Scorching Volcano ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/dcef58aae565c33779486c57fa9ed9e523063fc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/56e1263617ca01dc4aaa10f9551b4551ced11811.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong05": {
+      "name": "Hidden Pearl: Frost Canyon",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Frost Canyon ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e751f737e9a800b37bc2cf4ca70c8bcf8ece7d22.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8d307de36c5e39c0bda42c95a2b5d7e09c541741.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong06": {
+      "name": "Hidden Pearl: River Valley",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the River Valley ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f2b43db91acbd4ee11833c4d973e0c420e19e57c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f84c2aa9293de63dcba3f9ef413e786c4bf2bdab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong07": {
+      "name": "Hidden Pearl: Wetland",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Wetland ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/37c1e9302241e6076a4073bc7b78a0c4ab8357e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7ac8d47e45ba050f151fc20c82df880056e44dc8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong08": {
+      "name": "Hidden Pearl: Northern Wasteland",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Northern Wasteland ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3998b530dfc40639b08e927d587d83d8955becc6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d8d621d8fff665db6902ccdc8225f90aa7a1d74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGong09": {
+      "name": "Hidden Pearl: Dark Forest",
+      "description": "It's as if we're looking at an elusive fragment of a disconnected civilization, with danger and opportunity lay concealed in the dust of antiquity: Defeat the Guardian of the Dark Forest ruins to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7ac14efee61f76708c334f1809f0668038652779.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a55dcc442265634b655d55e8a5cee18b83ebc2ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "BP_ChengJiu_Kill_YiJiDiGongFinal": {
+      "name": "Central Core",
+      "description": "The last Guardian of the disconnected civilization. Defeat the hidden Guardian in the Frost Canyon to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8e898f55fd5cc156e369567383a0aa7cbaf365bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1d6f8a802cfec10423053a8cb62b2ae38355ef46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "BP_ChengJiu_ManRen_zhenShe_2": {
+      "name": "Die, or follow my footsteps.",
+      "description": "Show the mask's power: Deter two dying barbarians to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/40172c3ba6eb4bc60807fc3162dc3125e0c65fb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ef272633c204b493fed68ec91c37026540059e30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.5"
+    },
+    "BP_ChengJiu_ManRen_zhaoMu_3": {
+      "name": "Tribe Prosperity",
+      "description": "Your clan is already prosperous: Recruit 3 tribesmen to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a6832078b5591f6265769ee87e03d576f5677101.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/fa6d83324e8d8221ae431654144751d48f95766f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "BP_ChengJiu_ManRen_zhaoMu_100": {
+      "name": "Different people, different personalities",
+      "description": "People come and go; you see new faces all the time: Recruit 100 tribesmen to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/bc6f372db7680af97797eada62d288a2acbfff87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b73e1d7da44afe2d2942a89b1b2bc9c326b6b0d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "BP_ChengJiu_ManRen_KongZhi": {
+      "name": "Synchronization",
+      "description": "Show the mask's power by syncing thoughts with your tribesmen: Control any tribesman to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f68d5c5a6f54ba2b0a64b66d1aa632f8b16a3447.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/bb5a14569d38e7a63658d63b3b021bf4882e1d7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.1"
+    },
+    "BP_ChengJiu_ManRen_MingLing": {
+      "name": "On My Command",
+      "description": "Command any deployed tribesman to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c6ce84f733b0f584eb2b1ff404ef03ff8f842afb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/387a1c8c620a32915b586a7b359f165349341598.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.7"
+    },
+    "BP_ChengJiu_ManRen_SiWang_3": {
+      "name": "Sacrifice",
+      "description": "Ashes to ashes, dust to dust: Have 3 tribesmen dead to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4f474fd5a7ff5b78fb10cdca2c8ea1af20508115.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b30f9025ccf8c2e32356df730f292753d40bba10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "BP_ChengJiu_ManRen_JingYing": {
+      "name": "Silent yet busy",
+      "description": "Appoint any task to a tribesman to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/46a614c6cff13ed54a9047dcf6b35024a161945c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/57c14a534bd6af351e99941f9d9bb6012723abff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "BP_ChengJiu_ZhiZao_WenMing01": {
+      "name": "Bud of Habitat",
+      "description": "More tribesmen are gathering around the fire, witnessing the emergence of a new tribe: Build a bonfire to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/fb53b183c6abd2e8c6df70d748ad6d434f52f840.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c5ff7e2af08e47ae1ee1d982308a6bc72568e8d0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.2"
+    },
+    "BP_ChengJiu_ZhiZao_WenMing02": {
+      "name": "Charcoal coated gold glitter",
+      "description": "From this moment, the giant tree that withstands the bone axe will collapse, and the Jaguar becomes an easier opponent: Craft a Bronze Ingot to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6c514540198caf74f654b59d1a997bf205bf0a91.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/268b02ec503921dddb04d5b6e9b06302cdc40df5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.5"
+    },
+    "BP_ChengJiu_ZhiZao_WenMing03": {
+      "name": "Flowing Flame",
+      "description": "The skin radiates a crimson glow, while the eyes sparkle with determination. In this moment, the howl of the Wasteland Wolf goes unheeded: Craft an Iron Ingot to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d1fe6cc32af7a6ffe08a626242ee613f107ea75b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4492e100b846c3a4d7e5b7540883b66fd6961c00.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "BP_ChengJiu_ZhiZao_WenMing04": {
+      "name": "Flicker upon collision",
+      "description": "The modern craftsmanship is limited. To get stronger, you need to advance deep into the ruins: Craft a Steel Ingot to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/25e8b11e90e2a1e931460ea66c0528a04c121fcb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ab5adb9d5f378c0656bebc614909d58f70118b00.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "BP_ChengJiu_ZhiZao_PengRen01": {
+      "name": "Enough all you want!",
+      "description": "Make a Cooked Potato to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9b80943df89b1977cb338a6a0549da83f63c7e8d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4ad3a1d3f97c7787a29537ef994c583e004e04e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "BP_ChengJiu_ZhiZao_PengRen02": {
+      "name": "A full belly is a happy belly.",
+      "description": "Cook a Premium Steak to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/695014baa85c808c507890a9b95cb733e9829e7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a371bc688d5d1531168c1e7f9054159f8aa7c7b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "BP_ChengJiu_ZhiZao_PengRen03": {
+      "name": "Table Juice",
+      "description": "Make Tequila to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/44b67bd4c609cda9ae5f07ff031df41cb4a4ba3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/94358617cea140d53bfcf3b00c209fb1c52fdb60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "BP_ChengJiu_ZhiZao_PengRen04": {
+      "name": "Afternoon Dessert",
+      "description": "Make a Fried Pumpkin Ring to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/125c9d0792ee65bf4c18409a003ea8f656e58e86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/faffb53ba6a876d8d1b60d2965034263e2d853f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "BP_ChengJiu_ZhiZao_PengRen05": {
+      "name": "Joy on the Rocks",
+      "description": "Make Iced Cocoa to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ef46a26cf74904c7af413b0ff4b43efb0e6de657.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3aebcce26699d60671357dfeddc85a37550e361c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "BP_ChengJiu_ZhiZao_JianZhu01": {
+      "name": "Building Block Master",
+      "description": "Craft a Wooden Foundation to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/40907a20e85b321b935a7460a776c2de6da60ba9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6529c6d6a2621f30dc3067bda27a677a0714e40a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "BP_ChengJiu_ZhiZao_JianZhu02": {
+      "name": "Certified Architect",
+      "description": "Craft a Stone Foundation to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6adc4cca1f0cb6a3528e7bf3b24c8701537efed6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/448a6f087b40c43e54344def0a5625ad5509e467.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "BP_ChengJiu_ZhiZao_JianZhu03": {
+      "name": "Nameless Pileup Master",
+      "description": "Craft a Blackstone Foundation to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/00deee1a2fb2702ef9af9d6b0b8ef280dc3bf866.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e487536b202ed175a64e6acedc3aeeb2f3e9c1bb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "BP_ChengJiu_ZhiZao_JianZhu04": {
+      "name": "Lumberjack",
+      "description": "Build a Logging Yard to unlock this Trip Milestone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/382e05378ebc4e1d33ab80c8426d56ebeb3946ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/667c975670cf565a34464392afb94732f4185c5e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "BP_ChengJiu_ZhiZao_MianJia01": {
+      "name": "Torch of Eternity",
+      "description": "Unlock Mask - Torch of Eternity to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/62b1b533e23320fb5f41b4d027b3a7558984c06a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e2f3369f37bac90d9df5e662456075a9d0c50953.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "BP_ChengJiu_ZhiZao_MianJia02": {
+      "name": "Shadow Walker",
+      "description": "Unlock Mask - Shadow Walker to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c03d7f6c59343636279f85be57fa8db4b7596d8d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a77f94189f75fa5a57667ec9301a58f4cc2dccbe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "BP_ChengJiu_ZhiZao_MianJia03": {
+      "name": "Wilderness Mark",
+      "description": "Unlock Mask - Wilderness Mark to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1a5570eddbf1de7ba6a7b56d216b9006b1956bab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/47b752aa8d8b1bd80c3b04fa7da168ca7b2ee2f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "BP_ChengJiu_ZhiZao_MianJia04": {
+      "name": "Ironblood Guard",
+      "description": "Unlock Mask - Ironblood Guard to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1fec4a6f66a92ae13dfb603615a2f1a01f37e7d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5d776e2f29650ee74895e68eb43ac7edc9a92a89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "BP_ChengJiu_ZhiZao_MianJia05": {
+      "name": "Tactical Guidance",
+      "description": "Unlock Mask - Tactical Guidance to unlock this Trip Milestone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/cf07b11e9b075f83164aca456d53f5f24c50c234.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a69133a9d3d9e3be4cbb3aa595ccb27ad1614b65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "BP_ChengJiu_Collect_All": {
+      "name": "Immortal Soul",
+      "description": "With consciousness uploaded and soul transcended, you will set forth on an otherwordly journey in search of a fabled paradise, unraveling the cosmic puzzles etched in the annals of time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b13971f2523d0ca294a19ca7f3ddedda07713546.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f603646e9857792f48302686981dbb2a17cb491b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "BP_ChengJiu_Kill_SenLuoE01": {
+      "name": "Fierce Sobek Crocodile",
+      "description": "Defeat the Fierce Sobek Crocodile to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/070499caa61ff666de7c54418f0e1398c120a8d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "BP_ChengJiu_Kill_SenLuoE02": {
+      "name": "Berserk Sobek Crocodile",
+      "description": "Defeat the Berserk Sobek Crocodile to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/070499caa61ff666de7c54418f0e1398c120a8d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "BP_ChengJiu_Kill_SenLuoE03": {
+      "name": "Sobek Crocodile of Doom",
+      "description": "Defeat the Sobek Crocodile of Doom to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/070499caa61ff666de7c54418f0e1398c120a8d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "BP_ChengJiu_Kill_YinHunQuan01": {
+      "name": "Fierce Anubis Hound",
+      "description": "Defeat the Fierce Anubis Hound to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b5fa60eddd7a99189d44ef9520fed397238c20fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/65b213ffbed62981b6d785556efaa91879103ee3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "BP_ChengJiu_Kill_YinHunQuan02": {
+      "name": "Berserk Anubis Hound",
+      "description": "Defeat the Berserk Anubis Hound to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b5fa60eddd7a99189d44ef9520fed397238c20fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/65b213ffbed62981b6d785556efaa91879103ee3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "BP_ChengJiu_Kill_YinHunQuan03": {
+      "name": "Anubis Hound of Doom",
+      "description": "Defeat the Anubis Hound of Doom to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b5fa60eddd7a99189d44ef9520fed397238c20fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/65b213ffbed62981b6d785556efaa91879103ee3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "BP_ChengJiu_Kill_ShengJiaChong01": {
+      "name": "Fierce Onyx Scarab",
+      "description": "Defeat the Fierce Onyx Scarab to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5ac882f1dec004168eb63b9763192bd778186e36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/acd6e700dfd697327a44f073f0831039bfd63010.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "BP_ChengJiu_Kill_ShengJiaChong02": {
+      "name": "Berserk Onyx Scarab",
+      "description": "Defeat the Berserk Onyx Scarab to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5ac882f1dec004168eb63b9763192bd778186e36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/acd6e700dfd697327a44f073f0831039bfd63010.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "BP_ChengJiu_Kill_ShengJiaChong03": {
+      "name": "Onyx Scarab of Doom",
+      "description": "Defeat the Onyx Scarab of Doom to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5ac882f1dec004168eb63b9763192bd778186e36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/acd6e700dfd697327a44f073f0831039bfd63010.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi01": {
+      "name": "Toughbone",
+      "description": "Bare your fangs, showing everyone that you're the true boss of the River Delta: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e8ce5d9d7055ce95f6dc64b33dfbbef29343315e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/fa361bf00663115224d6507d73a84a07de5fa6b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi02": {
+      "name": "Ironfoot",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Moon Bay: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/45c945da57dc124048693bb2fd36d8d65d02fd6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8e0ff2bb4bfc09ece09e71489daeea3bedd77642.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi03": {
+      "name": "Sharpskull",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Rock Lake: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2c6c7645361d31d4e2ee008fd229ca9a7b6026e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/465df26b6457d613969437517faf0ad7f750ded2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi04": {
+      "name": "Moltenpalm",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Darkriver Valley: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5d8c2815c59c57dbe9fcc01974c656309066c4b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5e0d551fb2c9ec29c757c6226a8c4212b27a4268.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi05": {
+      "name": "Stoneclaw",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Three River Junction: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/36f023d20329bb16ebe44256e9d5355148bf05fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/447d9d20ed84f0e9e8d6262eea36db4498170916.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi06": {
+      "name": "Bloodfang",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Rockhenge Desert: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6b85a6be882291309f360dc3f3f9cbd353475964.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7563f43b8f2b796b310c67d42a8f6df76c26b87b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi07": {
+      "name": "Spikebone",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Sandcry Gorge: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/4f3cf4e9d242262d999e97863b26e8e520610fac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a581ed474033b30ac30be0b7287739f21f037d56.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "BP_ChengJiu_Kill_AJ_ZhaiZi08": {
+      "name": "Scareye",
+      "description": "Bare your fangs, showing everyone that you're the true boss of Star Plain: Defeat the Tribal Leader to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6cf7c41298a895c6f113f56566abd308a4995068.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/12bbcc2d1bff33f2851a918301ed3598aacaad5b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong01": {
+      "name": "Transmuter",
+      "description": "Defeat the guardian of the surface ruins in the Coastal Dunes to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/47a11470ff8cf5a618224a2b1777872731229914.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d985f35895693c570e67353749e8dc0dd06ca4a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong02": {
+      "name": "Sandburier",
+      "description": "Defeat the guardian of the surface ruins in the Sunken City to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c1d7b5e2931562f9b5261fb64255b2ec1a092bd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3794ffc85335160ff4d9de05d76eed03b12ebca4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong03": {
+      "name": "King of Red Sand",
+      "description": "Defeat the guardian of the surface ruins in the Red Dunes to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d67057d07c9342659e5a20fc91e5bb38278cdce2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/980bb50036cda7fb5273a54d56472e543ab36e7d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong04": {
+      "name": "King of Wilderness",
+      "description": "Defeat the guardian of the pyramid in the Star Plain to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f5286aee17e6df00444d51fd1b6d05de90918270.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ba07363ccc5eee98557b20f002c8fc87b2576509.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong05": {
+      "name": "King of Fiery Flames",
+      "description": "Defeat the guardian of the pyramid in the Burning Highland to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/de6619b878089294d05ae56f529eef7598ab1585.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2a8abb15c8b466df192e41e3fe3d321a19a2167f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong06": {
+      "name": "Patroller",
+      "description": "Defeat the guardian of the Ancient Ruins Dungeon in the Wind-eroded Dunes to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/c5344d5c533858769c33563bfcddc7f6ba1f9d54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9398367952415942a924d5aab7c0c9d48d7445ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong07": {
+      "name": "Observer",
+      "description": "Defeat the guardian of the Ancient Ruins Dungeon in the Scorching Desert to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/34edb0c6982b9511d32d9ac94f92e28163f3ece7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3ed6295fcad52c322f3bf6086c52905d7236c3e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong08": {
+      "name": "Trailblazer",
+      "description": "Defeat the Guardian in the Blackstone Cliff Ancient Ruins Dungeon to unlock this Trip Milestone. (Requires DLC: Shifting Sands)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9501e3930f600f7fbce082aabc0ee204a9987c1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/cf6fb5df6523c38ec621fda773b0f723fc3c0d82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong09": {
+      "name": "Destroyer",
+      "description": "Defeat the guardian of the Sulfur Pool Holy Ruins to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6619d23f266f55c2ff3d4c0294cc3ef992d6a2fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/16725a9e5e90d725cf76fbd95d57ae72db6ecb7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong10": {
+      "name": "Huntsman",
+      "description": "Defeat the guardian of the Holy Ruins in the Eye of Sands to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0b4ccbbab19fabac6b93d538dcc5059e1b0cf600.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/28a4e11defd307546a0837073e98d07427c8600e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "BP_ChengJiu_Kill_AJ_YiJiDiGong11": {
+      "name": "Divine Punishment",
+      "description": "Defeat the guardian of the Holy Ruins in the Burning Highland to unlock this Trip Milestone (Requires DLC: Shifting Sands).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/247687de8b38ac15d12a362f9d343a50b212e654.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/851f7331cf485a587c922235ec8e22f64acbc62c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "BP_ChengJiu_AJ_Collect_All": {
+      "name": "Rise in the Shifting Sands",
+      "description": "As the sun and moon cycle and the rivers ebb and flow, your name will be sung forever across the Shifting Sands, and your bonfire will burn forever strong and bright.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5e92acf1ddcbc4c627dacf1622497970e6ff9e4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/513ce66b822b0cb86ab774ed1079fcb02486ad46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
