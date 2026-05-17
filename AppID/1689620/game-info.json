@@ -1,0 +1,334 @@
+{
+  "appid": "1689620",
+  "name": "BLEACH Rebirth of Souls",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/header.jpg?t=1765454766",
+  "achievements": {
+    "TROP000": {
+      "name": "BLEACH Rebirth of Souls",
+      "description": "Obtained all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/cd94ddbd4ac9e3d71b458b10e8d084b854ac687f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/9e3fb68438461fc1c431a907439391d39e7ed2d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "TROP001": {
+      "name": "BRAVE: Change the World",
+      "description": "Cleared every secret story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/c1f0680a01cc0101bb02a4916dc221cf42d2f439.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/67c7e39f36556cb51715c77b67b31095ccacbf6c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "TROP002": {
+      "name": "Soul King",
+      "description": "Completed all secret missions and moments in the Story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/7e82d100c39d10be045a8fefa9dfc1f4d3cf715c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/522b4e301e12a541d8dcc970df45f3b1ad675034.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "TROP003": {
+      "name": "Is this all you got?",
+      "description": "Defeated a level ★★★ boss in MISSIONS.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/09e8198fe400281f920192e78382f2b9ab7b6f25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/d4c5ddda04a21f764d620c7c326457ab509fd6af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "TROP004": {
+      "name": "Soul Reaper Academy President",
+      "description": "Reached the maximum Player Level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/d9ae8796590da0bb81452f682ce9095f58b5c156.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/f43f76659e6f3b74909abf83cdb340e9e713aff6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "TROP005": {
+      "name": "Shiju Saimon",
+      "description": "Gathered over 80 types of Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/acff41d14a7d00d2443be12835a45663611e69ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/611fc3ea2e6f0253e7fe05c267fc2f103a70fedf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "TROP006": {
+      "name": "Soul Reaper Academy Graduate",
+      "description": "Reached Player Level 50.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/a732ddbcd9c033866ffe707e30c0b8f1c86a9910.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/2f32e9ec9ccc4d691c522f96b59dc5876a062caf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "TROP007": {
+      "name": "Unfinished July Rain",
+      "description": "Cleared Chapter 1 - The Substitute Arc.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/bc99cc2f7700f23f69cd45c8ac640810629c3df0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/3ea2f12f2d280382119f83da706862a4cadce752.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "TROP008": {
+      "name": "AND THE RAIN LEFT OFF",
+      "description": "Cleared Chapter 2 - The Soul Society Arc.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/89ced65d37551c7638679fc6a3c774f03edbd7da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/d02af189babed858d7f02a694830d04985601efe.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "TROP009": {
+      "name": "goodbye, halcyon days.",
+      "description": "Cleared Chapter 3 - The Visored Arc.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/0c26e9fdb17d7877d3461317139b4e730b92c97e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/663dc1f74564acbebc7997f78655ccf2430b0eb1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "TROP010": {
+      "name": "Leaving the Heart Behind",
+      "description": "Cleared Chapter 4 - The Hueco Mundo Arc.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/24211b0d418383c9abbddb017d9c68936e02dbbf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/4151cad9fcca7952f4cc7fde3db950f7c65d755e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "TROP011": {
+      "name": "the silent victory",
+      "description": "Cleared Chapter 5 - The Battle for Karakura Arc.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/79559fb18ce27547381fa8a755a9422cae96a13c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/70105a1e404604e24e62bdd2d917ccb4c7963ac4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "TROP012": {
+      "name": "Wings of the Phoenix",
+      "description": "Gathered over 10 types of Offense Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/bf7d707f8e3586954b543be8b521f66984761e8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/b063322a64bbf5cc391abb2d0520fc0ceba95400.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "TROP013": {
+      "name": "Shell of the Tortoise",
+      "description": "Gathered over 10 types of Defense Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/8ebf24d129822d70bead9a3835b1c33f3502cbce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/183a3c4272c4e2d3ea1c6697450dd3415cac326a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "TROP014": {
+      "name": "Tail of the Dragon",
+      "description": "Gathered over 10 types of Spiritual Pressure Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/77e1e15a69b198f175382441b972a379f309faf2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/6539f3ccbf71ae2d7746672921cb8955ea0399d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "TROP015": {
+      "name": "Fangs of the Tiger",
+      "description": "Gathered over 10 types of Special Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/44b87678c1a5876f6f0d23cb21f82937a27e16a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/65f63f45ec60f6e8431ba6788561a14633588023.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "TROP016": {
+      "name": "Crazy Crack",
+      "description": "Achieved a 20 Hit Combo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/fce2ba0abae61686ade34874996a1619bc7aac55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/d567dda141b6bce2cde754a2d22e25c7246dc184.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "TROP017": {
+      "name": "Soul Reaper Academy Novice",
+      "description": "Reached Player Level 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/95d40924613b2628585ba23b1f672715725026a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/64786fc46cb923e115d43be9121705e6ce35765e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "TROP018": {
+      "name": "Soul Crystal Collector",
+      "description": "Gathered over 30 types of Soul Crystals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/c83914f3f63a3c066a998939e00feb8efbaef9df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/f0a407c8a9b1681ca081f7ae215062c0527ee3d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "TROP019": {
+      "name": "Soul Talisman Collector",
+      "description": "Gathered over 8 types of Spirit Talismans.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/34be56d21cf9d0417abd00f80c7fd6b20cfc57f5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/52db61b85ed3b81fb44e53f51eada4b767ee577d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "TROP020": {
+      "name": "Konpaku Certificate",
+      "description": "Played MISSIONS for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/d93165aa617a734279d89922fbb2eba9548f614e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/dc15528a8fdc06572642b6b3992a9853ab3c612a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "TROP021": {
+      "name": "Kikon Move",
+      "description": "Cleared the Battle Guide for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/15b6dfeee3381c09062dd5a92c02889430e1a553.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/cf9de40b1f37b5696c13dc258b6aadc925e42bfc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.4"
+    },
+    "TROP022": {
+      "name": "Soul Crystal Power",
+      "description": "Equipped a Soul Crystal for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/230232527b36a28fd0c364c986f07e430f61db5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/e55d09075b693956ccddbf713524cc36698a9940.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "TROP023": {
+      "name": "Self-Polishing",
+      "description": "Enhanced a Soul Crystal for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/495a496d0ac985a65a10a0f1dc4798eb1b80d0f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/45ebad9dba70b81dae93e2f95871b8c3e3725e06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "TROP024": {
+      "name": "Spirit Talisman Power",
+      "description": "Equipped a Spirit Talisman for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/b8b18025aa2c9702b340ea76fdfc98f5ae4caf2f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/47dff522e5d9c5cfed1a26523dc895e63010a35c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "TROP025": {
+      "name": "Perfection means despair.",
+      "description": "Enhanced a Soul Crystal to the highest level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/044bd38aba64e20d3db4c1a1ba33705a7e93c521.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/dbd17f7da738e2bfbda74c1853b69f59e40ce591.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "TROP026": {
+      "name": "Bargains",
+      "description": "Obtained a Great Spirit Talisman.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/f9662965604b6bdbf5808f5c24caadf411bf21b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/2e76d1e60e5e7957807a20b62a3f4149e74b901d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "TROP027": {
+      "name": "Bonus",
+      "description": "Earned over 5000 Soul Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/1c6237c2fdbd3d7b1d2e3c2da6c9b75732dadb44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/ece83d484f6a2476d25377cac78c963f4b3ab302.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.3"
+    },
+    "TROP028": {
+      "name": "I can't lose to you!",
+      "description": "Defeated a level ★★ boss in MISSIONS.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/35c07277ad2b8d07c5ec5eb0eeaafd6b08f3fe7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/817396615cc64899a3bdcb1927bd0945e3724f2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "TROP029": {
+      "name": "...to kill you.",
+      "description": "Defeated a level ★ boss in MISSIONS.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/fb181b282cc8df2efd39dfe6e9ea9569c9efba25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/e59103a153fddd05106697c4f1655d15b2f5ac9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "TROP030": {
+      "name": "How can I help you today?",
+      "description": "Spent more than 300000 points in the Urahara Shop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/98dffdf27804b6959cbd55e11fe013c20187d8d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/62cd3529af833b2049a30ec5c05808b08ced4909.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "TROP031": {
+      "name": "The Story That's Told",
+      "description": "Cleared a character's secret story to the end.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/1d07fdead8ffdaaf0fc9a7e557ac0b707a63dea7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/a094d5e59caac4ece6b308a6dde7fc5f1d62053b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "TROP032": {
+      "name": "Occupation: High School Student/Soul Reaper",
+      "description": "Cleared \"Occupation: High School Student, Shinigami\" in the first story chapter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/ec1681a10fd4ae09dcf08875f9eebe8faa7038c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/b3710f82a28e8e5d956de742ed1f9c582ad46f9f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "TROP033": {
+      "name": "I'd fight the law.",
+      "description": "Cleared the \"Final Duel\" Real Moment in the second story chapter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/366f8dff6dc47d405631373632de10a7fca17d15.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/6a5ab0a181aef52bab6ffac3bcd5ebe50b5e0f03.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "TROP034": {
+      "name": "...is heart.",
+      "description": "Cleared the \"Where the Heart Lies\" Real Moment in the fourth story chapter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/78cba7c720f57665545f6f58ff327008ee42cde0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/e23fd3a37c844262dba78ba1b08f9a03d2076da3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "TROP035": {
+      "name": "Then let me ask you this...",
+      "description": "Cleared \"On One's Sword\" in the fifth story chapter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/ae6032fcf46806964d984183f52aa72bfcb6b0e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/25b4a8c31f13b5c73000663d7010f0ec3fda1466.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
