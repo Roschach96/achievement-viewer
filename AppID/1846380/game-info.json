@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/2fd31803d1d23ecf17760a1437e01e1ab8ce8336.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "Achievement_GOSCC_7": {
       "name": "Hey Lakeshore",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/aa27a1d034df6a3b95fb454eacd626c80b1414f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "Achievement_GOSCC_8": {
       "name": "Adbusting",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/e46383e4d6ebfc924da682185d116d19ad9fab49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "Achievement_GOSCC_12": {
       "name": "Catch My Drift",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/6d5b961fc772183b5f2f4546093d3905cfa11da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "Achievement_GOSCC_16": {
       "name": "Cash Money Millionaire",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/05fc293d9693e8bdfeb7768e5eacb3b9b1aaeb89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "Achievement_GOSCC_20": {
       "name": "Style it Out",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/610dc7949941964e786789e7ed09265528b061b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "Achievement_GOSCC_23": {
       "name": "Public Enemy",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/bef1570b357518c60a02cb07072378b1beb1b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "Achievement_GOSCC_24": {
       "name": "Untouchable",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/dde54e210e678633dbf1818018cb8dae6c702a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "Achievement_GOSCC_25": {
       "name": "Access All Areas",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/c126178415ed0d14684169304b024e825a3886ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "Achievement_GOSCC_28": {
       "name": "Bring Your A Game",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/3156dd0553287580f157bd5534cc7012c9e47769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "Achievement_GOSCC_35": {
       "name": "Hey Speedie!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/07513e76fb6f1237ee465666e7bd2f9c68d7fd90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "Achievement_GOSCC_36": {
       "name": "100 Miles and Runnin'",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/f0f509c08a4e5caa2c5dc4ba7990ae602a40a8bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     },
     "Achievement_GOSCC_40": {
       "name": "Kick it",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/c5abf7fc2f714bf3c9d74d3a48f9751f99cb8c00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     }
   },
   "platform": null,

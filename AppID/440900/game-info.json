@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/7681a5b799671aa63d2942b61c9b6f4606f5c386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.0"
+      "percent": "79.1"
     },
     "ACH_ReachLevel20": {
       "name": "…A Scavenger…",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2cd58873961093859d34b932423772ac17c5b28f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.7"
     },
     "ACH_ReachLevel30": {
       "name": "…A Reaver…",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/ba772ff5f257408f61d90c382b9dfd384aee99f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "ACH_ReachLevel40": {
       "name": "…A Slayer…",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0f7a14d18abc44359e37366ae0c300b578a026f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACH_ReachLevel50": {
       "name": "…A Warrior…",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/9860691ac84a8d2e7742b1895cf21e9af039afe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.6"
+      "percent": "77.7"
     },
     "ACH_VenerateTheGods": {
       "name": "The God in the Bowl",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/c8a59902fd68718439f5ca933225549f84d93dd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "ACH_WheelOfPain": {
       "name": "What do I know of Cultured Ways?",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0ecc3aefdde12355074d7aaa886f97b4b11f34a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "ACH_DefeatUndeadDragon": {
       "name": "The Hour of the Dragon",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/7e2f9bd2700312b2f7e712ccb27edd7176868725.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ACH_DefeatSewerAbomination": {
       "name": "The Haunter of the Pits",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/5c9b4b9db0e10a9775dc06ce5cd6a07257596fc8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "ACH_CloudCity": {
       "name": "Iron Shadows in the Moon",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/8442e7c70ce2ef3bd4d50e8b9649b808b79c1030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "ACH_Siptah_FindVault": {
       "name": "In the Vault",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/b80103ee1e17af7c94dc78ca4bf0c15d8a159b34.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "ACH_Siptah_ObtainGreaterEssence": {
       "name": "The Silver Key",
