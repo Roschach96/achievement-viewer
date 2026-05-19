@@ -1,7 +1,7 @@
 {
   "appid": "246620",
   "name": "Plague Inc: Evolved",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/4c67f0dc09d833b843cf5c3834d95bef246ccd49/header.jpg?t=1776850604",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/4c67f0dc09d833b843cf5c3834d95bef246ccd49/header.jpg?t=1779100239",
   "achievements": {
     "A_WormFood": {
       "name": "Worm Food",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2b5124be9172cfc91f6d1cc31b14ef1789535c69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "A_InsaneBolt": {
       "name": "Insane Bolt",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/cf763d8d532f1fce4df64d5710336b0daf7bc6f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "A_CompleteFungus": {
       "name": "Fungus Victory",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b9830d47786bda715cf334313a613a04d916f17d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "A_BananaSkin": {
       "name": "Banana Skin",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2d1a1afc36bef658802d5a565bcf10cdcc5e9ab3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "A_PatientWho": {
       "name": "Patient Who?",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/da0d66c86e26d8269bca0a7eae4c7571d4ceb54e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "A_PlagueInSpace": {
       "name": "Plague in Space",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e0a9926409173c8fdd08d99b5d531c0e82e0509f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "A_apestogetherstrong": {
       "name": "Apes. Together. Strong.",
@@ -1585,7 +1585,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/eba7084772fd0722f306b9180fec3d7b467ffe62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "A_SoftBrexit": {
       "name": "Soft Brexit",
@@ -2251,7 +2251,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/c10a4fa60e773085894462b738dcc86df5e9cb15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     }
   },
   "platform": null,
