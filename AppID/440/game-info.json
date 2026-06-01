@@ -1684,7 +1684,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2b498b9c45c4d9f60fc9772429c400332d905617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "TF_SNIPER_KILL_CHARGED_MEDIC": {
       "name": "Überectomy",
@@ -2332,7 +2332,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1c5aeed3324fa77c5e7bdac61d4a934baa3f670.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD": {
       "name": "Mutually Assured Destruction",
@@ -2440,7 +2440,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4fdcb1f703c029753e799393d5e9306e88447d1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "TF_SOLDIER_FREEZECAM_GIBS": {
       "name": "Gore-a! Gore-a! Gore-a!",
@@ -3106,7 +3106,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2791206144ce2a2b7f1309de30c189e0cc24120e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET": {
       "name": "Texas Two-Step",
@@ -3718,7 +3718,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_earn_money_bonus_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "TF_MVM_ADVANCED_EARN_ALL_BONUSES": {
       "name": "Frags to Riches",
