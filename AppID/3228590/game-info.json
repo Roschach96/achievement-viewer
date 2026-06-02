@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/88bfcce5e5d1ea69345d013c71fb6d49fdadb494.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.6"
+      "percent": "98.7"
     },
     "ACH_KillAndroids500": {
       "name": "Terminate This",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.5"
+      "percent": "85.6"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.2"
+      "percent": "82.1"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2aea7e9c7ad6961429eb98587ff6de4c52a49c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.8"
+      "percent": "94.9"
     },
     "ACH_TechUpgrades1": {
       "name": "Gaining Power",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     }
   },
   "platform": null,
