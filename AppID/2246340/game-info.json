@@ -1,7 +1,7 @@
 {
   "appid": "2246340",
   "name": "Monster Hunter Wilds",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1771382452",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1780446081",
   "achievements": {
     "MEDAL_000": {
       "name": "Eastward Wings",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/4fc85716e4d250e4feda0e46f8a1315a72f7923e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "MEDAL_029": {
       "name": "Impregnable Defense",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/ef8c1132de4509dee02dc00a0a21f8ab5277fb9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "MEDAL_038": {
       "name": "Miniature Crown Collector",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/603fa8530fa7eacc20ac9ffac14bc6857bfd2577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "MEDAL_039": {
       "name": "Miniature Crown Master",

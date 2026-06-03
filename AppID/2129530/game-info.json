@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/8ef280da906b0b18770b06c4ecddc92f469d5d13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "ReachSandCity": {
       "name": "It's a Trap!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "CompleteOrphanage": {
       "name": "Happy Days",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/1154afc0c2f42bd234b525d82ad18c8c3c5f28f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "ReachVillage": {
       "name": "Home From Home",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.5"
     },
     "CompleteWar": {
       "name": "All is Well",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/07ca071c3efa40e5fb63020ec37d19d7328e1f72.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.9"
     },
     "AllCritters": {
       "name": "Critter Kill Hit",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "BoatTravel": {
       "name": "Lost at Sea",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/90c67d2e9e6cb8ecad7b3fbecd486ae640df4752.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "DLC1Completed": {
       "name": "Complete",
@@ -288,7 +288,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1MercyKill": {
       "name": "Mercy",
@@ -296,7 +297,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1TakePicture": {
       "name": "Take",
@@ -304,7 +306,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1Fire": {
       "name": "Fire",
@@ -312,7 +315,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1CraterView": {
       "name": "View",
@@ -320,7 +324,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1AllPosters": {
       "name": "All",
@@ -328,7 +333,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1Shame": {
       "name": "Shame",
@@ -336,7 +342,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1Suitcases": {
       "name": "Suit",
@@ -344,7 +351,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1Shadows": {
       "name": "Shadows",
@@ -352,7 +360,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "DLC1PetrifiedKids": {
       "name": "Pet",
@@ -360,7 +369,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,
