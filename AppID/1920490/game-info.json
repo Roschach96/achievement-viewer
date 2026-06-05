@@ -1,7 +1,7 @@
 {
   "appid": "1920490",
   "name": "The Outer Worlds: Spacer's Choice Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1780408496",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1780589157",
   "achievements": {
     "NEW_ACHIEVEMENT_1_0": {
       "name": "The Outer Worlds",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/cab500c6972bc498c9ba3219c9c6108aa1c05057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "Jack of All Trades",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/9e6f62963de745f247d0d8cc39344d375ce0c8b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.5"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Something's Fishy",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Paradise Found",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/93d78f0e72e9b55ba1e22b981af98bdaeb38f5de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "NEW_ACHIEVEMENT_2_5": {
       "name": "Pirate Radio",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/09a9702aee0e0714e7de7be09dc0015ef9393292.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "NEW_ACHIEVEMENT_2_8": {
       "name": "Peace in Our Time",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/72ab42d458af3ab849a13a8a10f3008fb106825b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "NEW_ACHIEVEMENT_2_29": {
       "name": "The Mystery's Afoot",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ea26442f89f1bf2413338cadcb6aded9911729af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "NEW_ACHIEVEMENT_3_3": {
       "name": "Mutt And Jeff",

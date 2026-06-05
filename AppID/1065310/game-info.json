@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "ACH_GAME_COMPLETED_HARD": {
       "name": "Expert",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "ACH_KILL_IN_ROW_USING_GAUNTLET": {
       "name": "Mighty Mitten",

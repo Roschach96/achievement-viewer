@@ -1,7 +1,7 @@
 {
   "appid": "692890",
   "name": "Roboquest",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/header.jpg?t=1763992816",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/6a58a633941af70c3813702c55fa23d11b964d7d/header.jpg?t=1780581844",
   "achievements": {
     "ACT1_COMPLETED": {
       "name": "Haven 8",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "ACT3_COMPLETED": {
       "name": "Moonwalker",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.2"
     },
     "CRYSTAL_UNLOCK_GOLD": {
       "name": "Crystal Claimer (Gold)",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/edf6176ffa348a9c234d8210c8b991f712781be6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "ENDLESS_DEATH": {
       "name": "Endless Journey",
