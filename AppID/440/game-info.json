@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "TF_GET_TURRETKILLS": {
       "name": "Sentry Gunner",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TF_MEDIC_HEAL_GRIND": {
       "name": "Chief of Staff",
@@ -1828,7 +1828,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_SNIPER_TAUNT_KILL": {
       "name": "Shafted",
@@ -3160,7 +3160,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6a4c15d2f78ad39c2ec6636bc093a2d4b56aa0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "TF_ENGINEER_REMOVE_SAPPER_LONG_DIST": {
       "name": "Get Along!",
@@ -3448,7 +3448,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/de7469c3e1eeb7d409dbb3bbc463f8539d03386e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_MAPS_FOUNDRY_PLAY_GAME_FRIENDS": {
       "name": "Foundry Force Five",
@@ -3817,7 +3817,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_wave_without_dying_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_MVM_COMPLETE_TOUR": {
       "name": "Raid Array",
@@ -3880,7 +3880,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "TF_MVM_MAX_PLAYER_RESISTANCES": {
       "name": "Maximum Performance",

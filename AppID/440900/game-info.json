@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/b49106f92fc749db3710622258d00eb9576ecaff/header_alt_assets_7.jpg?t=1778144715",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg?t=1778144715",
   "achievements": {
     "ACH_ReachLevel10": {
       "name": "Hither Came the Exile…",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2cd58873961093859d34b932423772ac17c5b28f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "ACH_ReachLevel30": {
       "name": "…A Reaver…",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0f7a14d18abc44359e37366ae0c300b578a026f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "ACH_ReachLevel50": {
       "name": "…A Warrior…",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/9860691ac84a8d2e7742b1895cf21e9af039afe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.9"
     },
     "ACH_VenerateTheGods": {
       "name": "The God in the Bowl",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0ecc3aefdde12355074d7aaa886f97b4b11f34a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "ACH_DefeatUndeadDragon": {
       "name": "The Hour of the Dragon",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/dc9e61b30e7c622ad53cb481af99ebc9f96609d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "ACH_DefeatKingBeneath": {
       "name": "It is the King, or his ghost!",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2bc264a9f812d44c3a79b55fe04811dbee590024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "ACH_DefeatGiantCrocodile": {
       "name": "The Snout in the Dark",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/979daef5f1e6c2bc32b99732d77a21e00a7269dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "ACH_ReachHighlands": {
       "name": "Wolves Beyond the Border",
