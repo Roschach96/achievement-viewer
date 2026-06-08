@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "TF_GET_TURRETKILLS": {
       "name": "Sentry Gunner",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TF_MEDIC_HEAL_GRIND": {
       "name": "Chief of Staff",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "TF_PYRO_KILL_AXE_SMALL": {
       "name": "Lumberjack",
@@ -856,7 +856,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0223ef1859de91775ab25eeb83137ca7e64c7b6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TF_HEAVY_ACHIEVE_PROGRESS2": {
       "name": "Heavy Milestone 2",
@@ -1558,7 +1558,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.9"
     },
     "TF_SNIPER_CAPTURE_FLAG": {
       "name": "Have a Plan",
@@ -1828,7 +1828,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_SNIPER_TAUNT_KILL": {
       "name": "Shafted",
@@ -2224,7 +2224,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -2449,7 +2449,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea83c08b2f20a713c3211932c77479e19d445e7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "TF_SOLDIER_KILL_SPY_KILLER": {
       "name": "War Crime Spybunal",
@@ -2746,7 +2746,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b5bd880b6120319da75bcc593ce6a75c9b49d281.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "TF_DEMOMAN_ACHIEVE_PROGRESS2": {
       "name": "Demoman Milestone 2",
@@ -3160,7 +3160,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6a4c15d2f78ad39c2ec6636bc093a2d4b56aa0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "TF_ENGINEER_REMOVE_SAPPER_LONG_DIST": {
       "name": "Get Along!",
@@ -3169,7 +3169,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cd0617091511b5726b18f422b7cb0355a0f6b37c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_ENGINEER_DESTROY_STICKIES": {
       "name": "How the Pests Was Gunned",
@@ -3448,7 +3448,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/de7469c3e1eeb7d409dbb3bbc463f8539d03386e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_MAPS_FOUNDRY_PLAY_GAME_FRIENDS": {
       "name": "Foundry Force Five",
@@ -3817,7 +3817,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_wave_without_dying_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_MVM_COMPLETE_TOUR": {
       "name": "Raid Array",
@@ -3880,7 +3880,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "TF_MVM_MAX_PLAYER_RESISTANCES": {
       "name": "Maximum Performance",

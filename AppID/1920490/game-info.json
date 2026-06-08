@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ddb1a7f2e32d705c89bf4a5fe44d27636a2a8d89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/b30a2bc92aedbb4dd73562a289ce897b82b74ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Patient N",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/9e6f62963de745f247d0d8cc39344d375ce0c8b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Something's Fishy",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/8a7a89c6eaab0436529516fc0f15fa1c70b123d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/aec35a21fc450535bb7d0efdbdc18028fa940832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     }
   },
   "platform": null,

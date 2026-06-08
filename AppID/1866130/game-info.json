@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.5"
     },
     "KILL_BOSS_B1": {
       "name": "You’re closer",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "KILL_BOSS_B2": {
       "name": "I see you",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "DEVILS_BARGAIN_FIRST_CHOSEN": {
       "name": "Are you sure?",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.7"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.1"
     },
     "UNLOCK_DIFFICULTY_2": {
       "name": "The Cycle Continues",
