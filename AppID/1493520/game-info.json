@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/273fbe9e9fcb2d5d13eeb4eee0b36fbae3510c27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "AchRank1": {
       "name": "Cadet",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "AchGalaxy_CapturePlanets": {
       "name": "Conqueror",
@@ -802,7 +802,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "AchGalaxy_FullScan": {
       "name": "Full Sensor Sweep",
@@ -820,7 +820,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "AchFun_MakeItSnow": {
       "name": "Make it Snow",
