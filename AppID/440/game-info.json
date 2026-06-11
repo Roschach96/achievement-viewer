@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "TF_MEDIC_HEAL_GRIND": {
       "name": "Chief of Staff",
@@ -1828,7 +1828,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "TF_SNIPER_TAUNT_KILL": {
       "name": "Shafted",
@@ -3223,7 +3223,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0f155f86efbb2470901d50fcb07603a9ac693b35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "TF_ENGINEER_BUILDING_CARRY": {
       "name": "Texas Ranger",

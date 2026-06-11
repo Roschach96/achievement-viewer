@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "ACH_CLEAR_CHAPTER_5_1": {
       "name": "Romeo is a Gullible Man",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "ACH_CLEAR_DIFFICULTY": {
       "name": "Romeo is a Tough Man",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "ACH_TALKING": {
       "name": "Romeo is a Friendly Man",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "ACH_SUMMON_BUSTERS": {
       "name": "Romeo is a Lucky Man",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "85.5"
     },
     "ACH_AMATEUR_ATTACK": {
       "name": "Romeo is a Yellow Man",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "ACH_SUPER_ROMEO": {
       "name": "Romeo is a Max Man",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "ACH_UNLOCK_WEAPON": {
       "name": "Romeo is an Armed Man",
