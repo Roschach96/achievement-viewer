@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7a23c9c89871a9517db2708c8abf880557ed216a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "A_TheGloriousDead": {
       "name": "The Glorious Dead",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e4a3cf76362d350ce82e8f5efa11e830c3181ed9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.1"
+      "percent": "90.2"
     },
     "A_Runner": {
       "name": "Runner",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/3d90ea46ae9f8177796712de9861e1696838d9e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "A_TrojanHorse": {
       "name": "Trojan Horse",
@@ -1351,7 +1351,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/6ae82e29a0b254f2c5a4411142b65e96ecbe9e2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "A_twilightlied": {
       "name": "Twilight Lied",
@@ -1900,7 +1900,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/76ccae27f9a05cf7309c328c16aa8997be14941c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "A_bacteriacured": {
       "name": "Bacteria Cured!",
@@ -2143,7 +2143,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b29fd5719e5f2f2d5a8d4ba01d717f6fbff37077.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "A_XenolithAI": {
       "name": "Hello, World!",
@@ -2197,7 +2197,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/7692ac91ffeefb005f690b30ba73d0b3c328bb7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.1"
     },
     "A_coopmode": {
       "name": "Co-Op Mode",
