@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/308d0318a89266b21f901c5d822bb3c226b5097d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "Hard",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/9a4c624d1e1d79fec5c257689cc09f3465f75443.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.2"
     },
     "NEW_ACHIEVEMENT_1_4": {
       "name": "The Harder They Fall",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/71553f1dfff9ba6a5c83bf2f899f701fc04c19a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Got Your Back",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ddb1a7f2e32d705c89bf4a5fe44d27636a2a8d89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/73a797c4748be14b99acb5433af3a832ea3faa8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Everything Must Go",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/8a1286b649f88c5261fd188966d82a158ac363f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "NEW_ACHIEVEMENT_1_22": {
       "name": "Elemental Maelstrom",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/a1d07efe59fb7abd512303c505df49b9733428a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.4"
+      "percent": "94.5"
     },
     "NEW_ACHIEVEMENT_2_0": {
       "name": "Ticket to Anywhere",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/9e6f62963de745f247d0d8cc39344d375ce0c8b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Something's Fishy",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/8a7a89c6eaab0436529516fc0f15fa1c70b123d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/aeb9d16dce55f3ccec41d240691a995a81ada670.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "NEW_ACHIEVEMENT_2_14": {
       "name": "The Cartographer",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/d9550cc1bfef30e456acdd96e9c1af94f43131d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "NEW_ACHIEVEMENT_2_20": {
       "name": "Synthesize This",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/d770d96396bf6e841bfd6431327cd5415bd52523.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Special P.E.T. Benefits",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/c372b464ee8a5af809272c2e1d8b197bd3ac3286.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "NEW_ACHIEVEMENT_2_26": {
       "name": "Murder on Eridanos",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/aec35a21fc450535bb7d0efdbdc18028fa940832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     }
   },
   "platform": null,
