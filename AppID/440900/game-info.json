@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/ba772ff5f257408f61d90c382b9dfd384aee99f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "ACH_ReachLevel40": {
       "name": "…A Slayer…",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2d69198437b84b2b15b0e1663829097c616c4c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "ACH_DefeatKinscourge": {
       "name": "The Devil in Iron",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/20d4c479afed4456c0279efc3899ea405b5b7fcf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ACH_DefeatFrostGiantKing": {
       "name": "Gods of the North",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/7e2f9bd2700312b2f7e712ccb27edd7176868725.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "ACH_DefeatSewerAbomination": {
       "name": "The Haunter of the Pits",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/943729e26c84a9e036849c2c039792fa6d7f8e8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "ACH_ReachVolcano": {
       "name": "Dying Embers",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/8442e7c70ce2ef3bd4d50e8b9649b808b79c1030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     },
     "ACH_Siptah_FindVault": {
       "name": "In the Vault",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/700690f3bbeb1c1184eeab8c40bf9a41cb9217e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ACH_Siptah_SummonTopTierSurge": {
       "name": "The Other Gods",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/4ee875501682c813488672dfa69ee6fd68001958.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     }
   },
   "platform": null,

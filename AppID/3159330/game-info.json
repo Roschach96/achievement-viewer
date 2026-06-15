@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/b946eee2fc66a6f1f5a612815d1a30594182959e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACShadows_Ach_11": {
       "name": "The Warrior Monk",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/ee5f9cf12a07b414808b3f2277273b897d591aa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "ACShadows_Ach_20": {
       "name": "In Case of Trouble",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/f346d3ed56017ce0233a293f632d6796a3f5d64e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "ACShadows_Ach_30": {
       "name": "Unseen",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/81bcc5ffb9190c97a3805f2e4c88b4c1261e128c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACShadows_Ach_72": {
       "name": "All Clear",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/dbd7b6a1fb3091c7ed256252899ffdf6bdfd7f5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     }
   },
   "platform": null,

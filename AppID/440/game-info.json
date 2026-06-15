@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_under_fire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "TF_MEDIC_SIMUL_CHARGE": {
       "name": "Group Health",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "TF_MEDIC_HEAL_GRIND": {
       "name": "Chief of Staff",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c2abd229eb67bf9a0d53d20af094fec4331be9a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "TF_HEAVY_PAYLOAD_CAP_GRIND": {
       "name": "Pushkin the Kart",
@@ -1828,7 +1828,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "TF_SNIPER_TAUNT_KILL": {
       "name": "Shafted",
@@ -1990,7 +1990,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b1679514c39e006dc23d2f0b4e8e99a187f45b23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "TF_SPY_FAST_CAP": {
       "name": "On Her Majesty's Secret Surface",
@@ -2620,7 +2620,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fabf394379fb91d444056cb94f5fae65624f6c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE": {
       "name": "Laddy Macdeth",
@@ -2728,7 +2728,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/151211b70b1efea5b1a1159b608b5da6862598fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "TF_DEMOMAN_DAMAGE_GRIND": {
       "name": "Tartan Spartan",
@@ -2989,7 +2989,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a5a7fb7f90b8b48ffd468e4d7de44865e384944.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "TF_ENGINEER_DISPENSER_EXTINGUISH": {
       "name": "The Extinguished Gentleman",
@@ -3286,7 +3286,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f04f91c667b46c1d2d6cd56afa90acd17b0178.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "TF_HALLOWEEN_COLLECT_GOODY_BAG": {
       "name": "Masked Mann",
@@ -3358,7 +3358,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e8c90b021cb85cc9ffa64b28bbd7b3849b0b7e22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_TIER1": {
       "name": "Home Movie",
@@ -3412,7 +3412,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6bcf1a1c0832ffe817a921569d5a47f8bbfb26b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "TF_HALLOWEEN_EYEBOSS_KILL": {
       "name": "Optical Defusion",
@@ -3430,7 +3430,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/17a6aaac41df6d62a6858f73d52443c96768c618.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "TF_CHRISTMAS_COLLECT_GIFTS": {
       "name": "Gift Grab",
@@ -3952,7 +3952,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_soldier_buff_team_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "TF_MVM_HEAVY_RAGE_PUSH_DEPLOYING_ROBOT": {
       "name": "Heavy Mettle",
