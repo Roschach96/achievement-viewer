@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bfae61170e6eb8c9d7c56c03421ea60ff07e3ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ENEMY_DESTROY_SILVER": {
       "name": "Robo-Regulator (Silver)",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ENGINEER_FINISH_GAME": {
       "name": "Science Above All!",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/02b0fed5e1cb2d15856e45a18669796ea4c36367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "POWERCELL_GATHER_BRONZE": {
       "name": "Powercell Gatherer (Bronze)",
