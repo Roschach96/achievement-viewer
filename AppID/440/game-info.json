@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "TF_GET_HEALED_BYENEMY": {
       "name": "Master of Disguise",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_under_fire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "TF_MEDIC_SIMUL_CHARGE": {
       "name": "Group Health",
@@ -1828,7 +1828,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "TF_SNIPER_TAUNT_KILL": {
       "name": "Shafted",
@@ -2620,7 +2620,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fabf394379fb91d444056cb94f5fae65624f6c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE": {
       "name": "Laddy Macdeth",
@@ -2728,7 +2728,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/151211b70b1efea5b1a1159b608b5da6862598fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "TF_DEMOMAN_DAMAGE_GRIND": {
       "name": "Tartan Spartan",
@@ -2989,7 +2989,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a5a7fb7f90b8b48ffd468e4d7de44865e384944.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "TF_ENGINEER_DISPENSER_EXTINGUISH": {
       "name": "The Extinguished Gentleman",
@@ -3286,7 +3286,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f04f91c667b46c1d2d6cd56afa90acd17b0178.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_HALLOWEEN_COLLECT_GOODY_BAG": {
       "name": "Masked Mann",
@@ -3412,7 +3412,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6bcf1a1c0832ffe817a921569d5a47f8bbfb26b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "TF_HALLOWEEN_EYEBOSS_KILL": {
       "name": "Optical Defusion",
