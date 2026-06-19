@@ -1,7 +1,7 @@
 {
   "appid": "1085660",
   "name": "Destiny 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
   "achievements": {
     "ACH_1": {
       "name": "Long and Winding Road",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/376345433d08a8eee016f15f891fc9dddac0f373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACH_4": {
       "name": "Ikora's Protégé",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/3af62fa2658aa94a5d8f2f2f775dae8ae7638555.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACH_12": {
       "name": "The Prestige",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/300ed21229855e7f616841c162886e7b067bf7d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "ACH_22": {
       "name": "Nothing Left to Say",

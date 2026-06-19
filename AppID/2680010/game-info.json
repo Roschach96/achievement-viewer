@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.0"
     },
     "Boss_03": {
       "name": "Berserk Dragon's General",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "Boss_04": {
       "name": "Fallen Guardian",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "70.8"
     },
     "Boss_05": {
       "name": "Origin of the Mutation",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "Mission_10": {
       "name": "Awakened Ghost",
