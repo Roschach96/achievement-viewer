@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "TF_GET_CONSECUTIVEKILLS_NODEATHS": {
       "name": "Hard to Kill",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_setup_charge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "TF_MEDIC_RAPID_CHARGE": {
       "name": "Trauma Queen",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d41502c62f290dd011d9b00225140ab7e7c58d68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "TF_PYRO_CAMP_TELEPORTERS": {
       "name": "Trailblazer",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ef0aacdcba94d518790230a1b5dcf78481ff7317.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "TF_PYRO_DEFEND_POINTS": {
       "name": "Controlled Burn",
@@ -982,7 +982,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6875f1e7a22b84b21fcfb853ea34f965cb19c4be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "TF_HEAVY_CLEAR_STICKYBOMBS": {
       "name": "0wn the Means of Production",
@@ -1279,7 +1279,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/92b9886e58c1a7cb7667baba924f20620b42d9b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "TF_SCOUT_ACHIEVE_PROGRESS3": {
       "name": "Scout Milestone 3",
@@ -1522,7 +1522,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "TF_SCOUT_TAUNT_KILL": {
       "name": "Out of the Park",
@@ -1612,7 +1612,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e9c9ca8cdb7449590f16f8d110c2cc72c96fdc30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "TF_SNIPER_KILL_MIDAIR_SCOUT": {
       "name": "Dropped Dead",
@@ -1630,7 +1630,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f03bd55e347e74957924d06b8ec152a65bd9ecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "TF_SNIPER_DOMINATE_SNIPER": {
       "name": "Australian Rules",
@@ -1927,7 +1927,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/50b0b7d952355371ab16f6a2a881d2658e8a8f31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "TF_SPY_BACKSTAB_FRIENDS": {
       "name": "Agent Provocateur",
@@ -1972,7 +1972,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f04a9327032259accf0e058daa343bf4d13b5d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "TF_SPY_BREAK_SHIELD_KILL_SNIPER": {
       "name": "Die Another Way",
@@ -2089,7 +2089,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/39fd8b447aab761eb85cd42020add5c0de4a59cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "TF_SPY_BACKSTAB_CAPPING_ENEMIES": {
       "name": "Is It Safe?",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd79ab78ad877534a53c2a1fd3a7cbdf2c4a6347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS2": {
       "name": "Sniper Milestone 2",
@@ -2179,7 +2179,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8768533edd0bbb2e6d7318f7ea5d30b531c86094.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "TF_SPY_ACHIEVE_PROGRESS1": {
       "name": "Spy Milestone 1",
@@ -2368,7 +2368,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/90406d4f9c1931ca0ac918acf1b4bfaa0c14cde7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "TF_SOLDIER_DESTROY_STICKIES": {
       "name": "Bomb Squaddie",
@@ -2917,7 +2917,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7425a70072d0cbce596689d494d41efbb00fbf3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "TF_DEMOMAN_KILLXSAPPINGSPIES": {
       "name": "Spynal Tap",
@@ -3052,7 +3052,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/25f486f24467a067b2f6e296ebae7d995667bdcf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TF_ENGINEER_DESTROY_SAPPERS": {
       "name": "Fistful of Sappers",
@@ -3079,7 +3079,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b020bf0508e9129ad7660be8372e86511e0e7168.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "TF_ENGINEER_SENTRY_AVENGES_YOU": {
       "name": "Frontier Justice",
@@ -3187,7 +3187,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cd6d671071cd156c898083d6e246f499394ebfa4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "TF_ENGINEER_KILL_SNIPERS_SENTRY": {
       "name": "Breaking Morant",
@@ -3196,7 +3196,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/15b31e6bc36c9a11f72ce703919b29e9c97d0c09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TF_ENGINEER_HELP_MANUAL_SENTRY": {
       "name": "Rio Grind",
@@ -3556,7 +3556,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_pop_file_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "TF_MAPS_DOOMSDAY_SOLO_CAPTURE": {
       "name": "Mission Control",
@@ -3646,7 +3646,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/14ce26ce4afda1a62d9672a91a29f0940d07ff2f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "TF_MAPS_DOOMSDAY_DEFEND_CARRIER": {
       "name": "Escape Ferocity",
@@ -3700,7 +3700,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4727b536b170117a30420f948bb659838fcc4a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "TF_PYRO_IGNITE_WITH_RAINBOW": {
       "name": "Full Spectrum Warrior",
@@ -3763,7 +3763,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_play_each_class_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_MVM_DESTROY_TWO_TANKS": {
       "name": "Clockwork Carnage",
@@ -4051,7 +4051,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/47c8906e391d099fb86b12e53d7cab9819b3f643.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "TF_HALLOWEEN_HELLTOWER_ENVIRONMENTAL_KILLS": {
       "name": "Helltower: Mine Games",
@@ -4132,7 +4132,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0723691bdda873d12f05358977b303855586db32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "TF_MAPS_SNAKEWATER_PUSH_BACK_AND_WIN": {
       "name": "Snakebit",
@@ -4222,7 +4222,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3a6074715402a552ca47ab03a80b7ef905fa3675.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "TF_MVM_MAPS_MANNHATTAN_BOMB_BOT_GRIND": {
       "name": "Urban Strike",

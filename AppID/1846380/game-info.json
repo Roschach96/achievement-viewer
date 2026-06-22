@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/2841bee6d9fa9f74001ce8923c12b2dbe0e32949.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "Achievement_GOSCC_4": {
       "name": "Oh, It's On",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/fd2663dd3f03c586ad6e036cb2838b2161c7c151.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "Achievement_GOSCC_5": {
       "name": "Lake Better Watch Out",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/5143c93c7b72e5f6c40d852a5b899ba479d22617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.9"
     },
     "Achievement_GOSCC_17": {
       "name": "Flow Master",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/d85cb98924760e622b4c16604c795a0596201f1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "Achievement_GOSCC_21": {
       "name": "Rydell's Rydes",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/3254dbe9d3dced65a2a5a52bb6320f384af9cecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "Achievement_GOSCC_22": {
       "name": "Escape Artist",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/610dc7949941964e786789e7ed09265528b061b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.7"
     },
     "Achievement_GOSCC_23": {
       "name": "Public Enemy",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/bef1570b357518c60a02cb07072378b1beb1b7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.6"
     },
     "Achievement_GOSCC_24": {
       "name": "Untouchable",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/b9ec82b50a869ec202d16440ea5c9345457523cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "Achievement_GOSCC_29": {
       "name": "Teacher's Pet",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/7efd2586c854b16fc472b768e6c5b54dcd4a1be3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "Achievement_GOSCC_32": {
       "name": "Mixtape",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/a752983da1bec5dfc110e6a2f80d8f815e9eb6cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "Achievement_GOSCC_33": {
       "name": "#Blessed",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/b6112b9a320ef3043bcdd81e309579ceca4d483a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.6"
+      "percent": "72.5"
     },
     "Achievement_GOSCC_39": {
       "name": "Cool Whip",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/f0f509c08a4e5caa2c5dc4ba7990ae602a40a8bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.4"
     },
     "Achievement_GOSCC_40": {
       "name": "Kick it",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/c5abf7fc2f714bf3c9d74d3a48f9751f99cb8c00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.6"
     }
   },
   "platform": null,
