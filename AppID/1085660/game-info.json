@@ -68,7 +68,7 @@
     },
     "ACH_8": {
       "name": "Heart of Darkness",
-      "description": "Complete a Nightfall strike.",
+      "description": "Complete a Vanguard Ops activity on Master difficulty or higher.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/feacf3708386388730de45cf538e96cd90e5ec5e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/bdad30492e87acfcf49025cea32a3d5ed33de8ba.jpg",
       "hidden": false,
@@ -95,7 +95,7 @@
     },
     "ACH_11": {
       "name": "Belly Of The Beast",
-      "description": "Complete a Portal Ops activity on Master difficulty or higher.",
+      "description": "Complete an Ops Activity on Master difficulty or higher.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/930efb81487e3b2e2482b3ea7385c8697579f24b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/3af62fa2658aa94a5d8f2f2f775dae8ae7638555.jpg",
       "hidden": false,
@@ -104,7 +104,7 @@
     },
     "ACH_12": {
       "name": "The Prestige",
-      "description": "Complete a Portal Ops activity on Grandmaster difficulty.",
+      "description": "Complete an Ops Activity on Grandmaster difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/e9ce8a6dae6e12e71fafaa3f15116461d61e7a5b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/cbf21e91fd5ff769caf02ad8b6d54b69829e5bba.jpg",
       "hidden": false,
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/37a0f233f0845d25d58ea5443da6117614b108af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "ACH_14": {
       "name": "Legends Grow",
@@ -185,7 +185,7 @@
     },
     "ACH_21": {
       "name": "Darkness Falls",
-      "description": "Defeat a Forsaken Nightfall Boss.",
+      "description": "Complete \"The Corrupted\" or \"Warden of Nothing\" on Master difficulty or higher.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/02b3bf2ec43a90f60eb0d29c49a8ae79aa68360c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1085660/300ed21229855e7f616841c162886e7b067bf7d9.jpg",
       "hidden": false,

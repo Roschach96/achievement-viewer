@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/319c3881caf214de65205382620e745d9fae4347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "FunGuy": {
       "name": "Fun Guy",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/41911909e0795ceef59935093d893ef712b8a177.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "BarsTended": {
       "name": "Bars Tended",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/79d9c4b7d4d7cac1e77ffd3a888b59b451468a9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "BringTheGlandsBacktoMe": {
       "name": "Bring the Glands Back to Me",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/15fa865a35ecca4757df26ec9e7e43826078e1ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "FadedTheFire": {
       "name": "Faded the Fire",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/b2b4e6b8c98f075a9a40fa6ae54c2dbb1f3c1b50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "NailedIt": {
       "name": "Nailed It",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/0493a3edbf557805753eb18c5fdafa31b605c1ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     }
   },
   "platform": null,
