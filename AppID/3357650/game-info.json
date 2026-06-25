@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/c30f7939ad688cdfd2412dc96356eaf39e186788.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "4": {
       "name": "Another Pragmata",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/481c1e281a3823c7c2e7b553394ae0a3f6b6b698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "5": {
       "name": "Entrusted Memory",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/cdd0cdaeeafc7e1419f22cf4905232a3003580b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "7": {
       "name": "Awakening",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/eb8ca1a48ec91198f3ee9c37a2be8690b595ad64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "12": {
       "name": "Small Talk",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9cb435cad95a6fd4bfd28869444829fedaeff303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "14": {
       "name": "Peekaboo",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/72c6017ee747383b9728629a2b7e956ab2b34ee9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "20": {
       "name": "Red-Zoned and Loving It",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7b8194b5774801607fd046ac2da07bffc005576c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.3"
     },
     "26": {
       "name": "Can't Stop, Won't Stop",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/896de323e7676e48a475d5d42ba725a04879e017.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "27": {
       "name": "Cradle Surveyor",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/d4d010aae921d092878604a74ecb4258dad13c47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "30": {
       "name": "Round 'Em Up",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7896c6f11f7b408671e28e3cc832266e24ffd47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "31": {
       "name": "Courage in Desperation",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/864c5d2994498943753c3ec99e8d1a84534989a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "32": {
       "name": "Can I Borrow That?",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     }
   },
   "platform": null,

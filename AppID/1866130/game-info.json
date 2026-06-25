@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.0"
     },
     "KILL_BOSS_B1": {
       "name": "You’re closer",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "KILL_BOSS_B2": {
       "name": "I see you",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "PICKUP_FIRST_LORECODEX": {
       "name": "That’s the first chapter",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.1"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "UNLOCK_DIFFICULTY_2": {
       "name": "The Cycle Continues",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.2"
     }
   },
   "platform": null,
