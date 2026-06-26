@@ -1,7 +1,7 @@
 {
   "appid": "365590",
   "name": "Tom Clancy’s The Division™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/e36fd6a73af2b20d6286633ee3a089acf53397ff/header.jpg?t=1770141394",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/e36fd6a73af2b20d6286633ee3a089acf53397ff/header.jpg?t=1782421726",
   "achievements": {
     "Division_Ach_1": {
       "name": "Activated",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365590/781f34e9f53519c8c35289deeec726a235997ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "Division_Ach_15": {
       "name": "United We Stand",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/365590/45fbbd5ea0f5793e6d1385bb9787e5789a289bda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "Division_Ach_45": {
       "name": "Mass Extraction",
