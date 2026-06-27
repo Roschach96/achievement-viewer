@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1466ad014bebea5662c2ee499204e5166d8f7427.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "ACH_DigNoDeeper": {
       "name": "Dig No Deeper",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     }
   },
   "platform": null,

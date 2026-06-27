@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/7efcac2138aa7b582d3965b3079861a84c6c1f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "Achievement10": {
       "name": "An Inquisitive Mind",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/63acb232633b4f16f54ae60e24b0882db75a43f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "Achievement12": {
       "name": "Step into the Arena",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/1522041314900ef961d2e0621ebc481f96a30309.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "Achievement26": {
       "name": "Power is Everything",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/e8776e40460508bfab6643ee4c59bcc97ebd19f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "Achievement28": {
       "name": "First Friends",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/5b845945c8c63d3e073f5a9769d378de16a77b6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "Achievement30": {
       "name": "Monster Ph.D.",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/5adbe4f7bd30b4cc6c231b25d5e2aef4b4cfa771.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "Achievement52": {
       "name": "Time to Get Serious",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/143abe19eb6bcb85c3f3d176fec4e037d408fd0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "Achievement60": {
       "name": "Insatiable Investigator",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/d3e8b27c08a2aff81166628146df2774cd58f242.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "Achievement64": {
       "name": "Clutch Claw Neophyte",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/91e48cc88b274bd411dfbfa2d0f9f666a08454a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "Achievement65": {
       "name": "Golden Gleam",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/b8c50715e4941a267ac14fcaa400f8b7f45b59b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "Achievement77": {
       "name": "Fledgling Collector",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/4948093f4a512083dfa47e12d38920601ff97b42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "Achievement84": {
       "name": "Skilled Steamworker",
