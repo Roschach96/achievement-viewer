@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "BROBOT_JOIN": {
       "name": "Meet my Brobot",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3290ae972f4b21516e4b4ee4dca992ee59fadcb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.2"
     },
     "DAMAGE_DEALT_GOLD": {
       "name": "Damage Dealer (Gold)",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.9"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4565d67072a2c032bd4189ae4de4c796980a81fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "ENGINEER_SUMMON": {
       "name": "For the Swarm!",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.7"
+      "percent": "76.6"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "MOVESPEED_MAX": {
       "name": "Faster Than Light",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bb14c9c1c4e04b1c08d3a17eb5ff308c3698daff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "WONKABAR_TRIGGER": {
       "name": "Master Gambler",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e388e8d9d8b5aa0eafb917534cf4d2199993c7fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "SUPERBOT_FINISH_GAME": {
       "name": "Revenge",

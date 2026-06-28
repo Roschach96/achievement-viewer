@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/27ef549df371d1e016c455bd2974b4c77bf3572d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACH_BATTERY_DROP_HEAD": {
       "name": "Battered by a battery",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/df9a9349047d759aaaba5765c948f505d194fff1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.9"
     },
     "ACH_CATCH_SELF": {
       "name": "Caught in the act!",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/d355412e145e025d1c84e615faafe96a480e319c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "ACH_COMPLETELEVELFAST": {
       "name": "Speed Demon",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "ACH_DRAWINGUSEGREEN": {
       "name": "Green is not a creative colour",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a79e4dd52e82c62c25f03f956199618f31d27d33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACH_DUSTINBLUEPRINTALL": {
       "name": "Liberate the Dustins!",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/bfbb2838062fceb5f54162feab390638edad9cc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACH_DUSTINSLICED": {
       "name": "You monster",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "ACH_PROG_OPT_ALL": {
       "name": "I didn’t realise they were optional",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",
