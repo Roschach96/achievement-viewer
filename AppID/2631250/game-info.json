@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/37f2f70ec0360b4da35c1889dbbb8a03b192aab8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH_06": {
       "name": "Empty Peace",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/4921630be4b19d55a4d7b33b0ee811d6548377fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACH_19": {
       "name": "Friend of the Fairy",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/94ed8cdbef0d4c5bd35890b395912e28bccd57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACH_20": {
       "name": "Masquerade",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/ab6f8445d13f78420699de050a338ca25a7c8450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "ACH_26": {
       "name": "Technique Enthusiast",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/be32d4a76934a698696d5690c9953bb18326cfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACH_28": {
       "name": "Technique Master",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/b01912309fa2460043e2e7e9b02d28d24c0fb336.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "ACH_29": {
       "name": "Focused",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/3d0adfeecc1e78e6f99e4b5b6684228ee94afc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.5"
     },
     "ACH_36": {
       "name": "Jack of All Blood",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/56c970967c4f2ff6972fc74cdf0d7dce1b25ca8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACH_37": {
       "name": "Command of All Techniques",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/80fd80faa694a476eed9963fcd872221ac4b6601.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACH_38": {
       "name": "Force Majeure",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/fe8f8303e119a0e297562100d5363fa143a08e84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_39": {
       "name": "Lion Among Wolves",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/407c1074f439284507ee5b48c5922c039749df9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "ACH_41": {
       "name": "Crimson Abyss",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     }
   },
   "platform": null,
