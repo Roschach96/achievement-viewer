@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d0d3d857661e45cdb6f6339fca0b7306b7fdb4d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "BP_ChengJiu_ShiBan_001": {
       "name": "Ancient Scholar",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0552629a88337f7184d9e2858e5b6fc8ec0e7dc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "BP_ChengJiu_TanSUoDian_007": {
       "name": "Snow Mountain Hiking",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/0a79ab0fb0fbd269674279cb7a0646f161f2eab7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "BP_ChengJiu_Kill_JianChiHu01": {
       "name": "Beneath the Claws",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7a33d8d15bbd6689a2b550707b3ddf5fef907f25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "BP_ChengJiu_Kill_YiJiDiGong01": {
       "name": "Hidden Pearl: Rift Valley",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f49b8b565c3010b3cb1d8c76b7e6e8bd9a3efb4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "BP_ChengJiu_Kill_YiJiDiGong02": {
       "name": "Hidden Pearl: Jungle Cave",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1d6f8a802cfec10423053a8cb62b2ae38355ef46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "BP_ChengJiu_ManRen_zhenShe_2": {
       "name": "Die, or follow my footsteps.",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6529c6d6a2621f30dc3067bda27a677a0714e40a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "BP_ChengJiu_ZhiZao_JianZhu02": {
       "name": "Certified Architect",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "BP_ChengJiu_Kill_SenLuoE02": {
       "name": "Berserk Sobek Crocodile",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "BP_ChengJiu_Kill_SenLuoE03": {
       "name": "Sobek Crocodile of Doom",
@@ -856,7 +856,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/65b213ffbed62981b6d785556efaa91879103ee3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "BP_ChengJiu_Kill_YinHunQuan02": {
       "name": "Berserk Anubis Hound",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/465df26b6457d613969437517faf0ad7f750ded2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi04": {
       "name": "Moltenpalm",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5e0d551fb2c9ec29c757c6226a8c4212b27a4268.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi05": {
       "name": "Stoneclaw",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/447d9d20ed84f0e9e8d6262eea36db4498170916.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi06": {
       "name": "Bloodfang",
@@ -955,7 +955,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7563f43b8f2b796b310c67d42a8f6df76c26b87b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi07": {
       "name": "Spikebone",
@@ -964,7 +964,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a581ed474033b30ac30be0b7287739f21f037d56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi08": {
       "name": "Scareye",
@@ -982,7 +982,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d985f35895693c570e67353749e8dc0dd06ca4a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong02": {
       "name": "Sandburier",
@@ -1000,7 +1000,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/980bb50036cda7fb5273a54d56472e543ab36e7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong04": {
       "name": "King of Wilderness",
@@ -1045,7 +1045,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/cf6fb5df6523c38ec621fda773b0f723fc3c0d82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong09": {
       "name": "Destroyer",

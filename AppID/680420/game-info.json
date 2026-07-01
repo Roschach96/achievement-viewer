@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/307a5118d0b138d090426d2de24831f9507f3283.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.4"
     },
     "ach_story_6": {
       "name": "Breaking the Seal",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/f88d8745d4fdea729fe391203dc13ff103e4fe7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.3"
     },
     "ach_collector": {
       "name": "Patron of the Past",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c287c08bf715aa9141f89934ad644a63272bcc59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "ach_item_trade": {
       "name": "Hard Bargainer",

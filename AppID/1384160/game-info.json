@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/9d00decc8276f6454a560559004321cb92411540.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "ACHIEVEMENT003": {
       "name": "Heart is Blazing",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/883d146af2174ad8b1d7af1d6647eb91d72ee629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ACHIEVEMENT007": {
       "name": "Battle Ready",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/244a327c460516e4eb04770f5ca692a3aa1096cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.7"
+      "percent": "59.6"
     },
     "ACHIEVEMENT012": {
       "name": "Begin Assessment of the Target",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/71bbdfa9fae8448ae3ab91b5113fe65e715438ea.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "ACHIEVEMENT014": {
       "name": "Gateway to the Tower",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "ACHIEVEMENT015": {
       "name": "To the World Outside",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/52bab7e2f2d17aea0b2c5fd8dcf7eaaaa41ec8a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "ACHIEVEMENT029": {
       "name": "Extraordinary Defensive Instinct",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/3e7d9dc14ec4635c075f748f98ec7f829a45831e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "ACHIEVEMENT031": {
       "name": "I'm Overflowing with Power",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/c2ed4aac8b688041196bf645a9caf1a57b3d4c5f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "ACHIEVEMENT036": {
       "name": "No Return, High Risk",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/d8a750eb652f50445b534adb76e30154ff0b9857.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "ACHIEVEMENT037": {
       "name": "Behold the Power of My Lightning",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/67af1a83fb4a4aa623a77e44359070c52d906f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     }
   },
   "platform": null,
