@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/36f24c393d869cdeb65145cf6bbb7f55dff865c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "ACH_BILE_A_TANK": {
       "name": "SEPTIC TANK",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/7b5d3f04d803da4bbfc581d60a4e7b1f17a9211b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ACH_VS_JOCKEY_TWO_PLAYERS": {
       "name": "BACK IN THE SADDLE",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/429faf4b747738e71b46e0d352e9683dad019f33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "ACH_VS_JOCKEY_INTO_ACID": {
       "name": "RODE HARD, PUT AWAY WET",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/70ce71c534ae0575e1a3737c47bbbef016a40770.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "ACH_COMPLETE_THE_SACRIFICE": {
       "name": "SUPREME SACRIFICE",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/4f56a3e9550c8097c51fa3e55daa4628bbb79a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "69.0"
     }
   },
   "platform": null,
