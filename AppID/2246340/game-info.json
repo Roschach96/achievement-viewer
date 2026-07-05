@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/6785ea433d6b40c856910be0249925ad29d28552.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.5"
     },
     "MEDAL_004": {
       "name": "Bringer of Harmony",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/0883da80c5d15101884671831f2f87d3d4e9ad39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.8"
+      "percent": "68.9"
     },
     "MEDAL_007": {
       "name": "Beyond the Black Wings",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/8307c401238c82426842096298c9f39adf988d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "MEDAL_008": {
       "name": "One Corner of the World",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/5bf4bebc16451c8b3c70eab409bd77e3725a8e62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "MEDAL_011": {
       "name": "The Hunt Is On!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/ccbc7133215dee5901153e2830dddb0f003a6605.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.2"
+      "percent": "76.3"
     },
     "MEDAL_013": {
       "name": "East to West, A Hunter Never Rests",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/f90f06d2ec9baefdb503559e8c19643050268a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "MEDAL_016": {
       "name": "Was It a Meal to Remember?",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/f20257acd512d6e461492c81357cca57a0fd4db8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "MEDAL_019": {
       "name": "Hit 'Em Where It Hurts!",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/5ad81772be7e6081283054e0054d16998631af51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "69.0"
     },
     "MEDAL_028": {
       "name": "Established Hunter",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/fef975a2c30348f1cd0200a46b6f9e01221c51dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "MEDAL_030": {
       "name": "Power Is Everything",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/052f951b040d30efbf486c89bf2ec9b9b3dbe31c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "MEDAL_033": {
       "name": "Bourgeois Hunter",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/b6002a1fd001522c62b5af34200d17d28f545ad4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "MEDAL_036": {
       "name": "Seasoned Hunter",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/a5173f0418c7b31b8eb4adc48208360edd544f87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.6"
     },
     "MEDAL_048": {
       "name": "Gossip Hunter",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/c5c52fc35410261a5e5a7acc79904ac4896a95da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     }
   },
   "platform": null,
