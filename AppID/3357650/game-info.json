@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b9148bbe2545a36a7de493f73ead9451a7dd181e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "8": {
       "name": "Sentinel Breach",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/41aea8b0ce78b83224ad22b8b3fd2749b770c700.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "9": {
       "name": "Our Promise",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/070660e75c58978f83bb2dbb490e4eb539069afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "10": {
       "name": "The Right Man for the Job",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3ae49581d7a6e97cd2591c37367ed62e8d1960f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "11": {
       "name": "Lunar Supremacy",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3d4be638d80556519d8e425c4bf0f57a8673893f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     },
     "17": {
       "name": "Blackout!",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/754841a6762f4b6144847e9e3f2e0e89ef63d26a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.0"
     },
     "24": {
       "name": "Mini-Hunter Supreme",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf6703a7293e07e39f4e03378b6fee3c2f0b19a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "29": {
       "name": "A Lunar Challenge",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     }
   },
   "platform": null,

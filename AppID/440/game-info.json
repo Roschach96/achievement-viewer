@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_achiever_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "TF_MEDIC_ASSIST_SOLDIER": {
       "name": "Blast Assist",
@@ -1117,7 +1117,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d7e01ff5e6f3896fa362aa1701fa7d068eeaa6af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "TF_HEAVY_DEFEND_CONTROL_POINT": {
       "name": "Gorky Parked",
@@ -1639,7 +1639,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a32d9810f95dbf1bb455f7a7a514ee8efadb34dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "TF_SNIPER_KILL_SPIES_MELEE": {
       "name": "Kook the Spook",
@@ -1846,7 +1846,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/93c4680560e79c724e330465709201ece6de74ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "TF_SPY_BACKSTAB_SNIPERS": {
       "name": "Triplecrossed",
@@ -2719,7 +2719,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a26af89a8d51b22f1d7665e5fc4163fc23f8904.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "TF_DEMOMAN_DECAPITATE_NEMESIS": {
       "name": "There Can Be Only One",
@@ -3781,7 +3781,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_tank_while_deploying_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_MVM_DESTROY_TANK_QUICKLY": {
       "name": "Clockwork Conqueror",

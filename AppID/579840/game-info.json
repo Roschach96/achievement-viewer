@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/075f30d7443ef553934a545e91a38db9c7ae4988.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "worldmap_reached_desert": {
       "name": "Welcome to the heat!",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/58685154f0d9edf7b6ee1decb8b3c574b663c45f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.2"
     },
     "collect_first_coin": {
       "name": "One of many",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/f0ad50b0cdffe843ec05f3c9072de33039e62004.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "02_desert_secret": {
       "name": "Risky drop",
