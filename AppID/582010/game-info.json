@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/44fd2b57a002ae2a0e695307c8e091832df56a62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "Achievement3": {
       "name": "Defender of Astera",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/d92415ba82280471fc4827937ecbdc352edebcf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "Achievement4": {
       "name": "Into the Deep",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/0e081a4e6395c9ed7b3609a932be794d7be6e519.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "Achievement5": {
       "name": "Death Begets Life",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ff6f6f2afdfa60defa2c491911727498f1b797c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "Achievement6": {
       "name": "The Empress of the Highlands",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/f717a6d37079ce66e07b68056e599db79f14c41a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "Achievement7": {
       "name": "One Shall Stand, One Shall Fall",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/599373a44af0f8bdb72c8b13ced48cb712c2d9b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.5"
     },
     "Achievement9": {
       "name": "The Hunters Life for Me",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/8aa456e843a330c94b4a6efda6ee646ed0f178b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "Achievement11": {
       "name": "The Franchise Hunter",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/200da6e7f45c297a90d11f0d2546205ec6fbd587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "Achievement15": {
       "name": "The Art of Camouflage",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/7466f53e23dc2fd57432a4ec56fe19f80b169f93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "Achievement17": {
       "name": "Mmm, So Tasty!",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ebe2e175cf6dfc7db2f7d238efbe40dddfc1c9c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "Achievement18": {
       "name": "The Bigger They Are...",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/c2fb677be7db22e6b975b2a175d66319b2bb4bff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "Achievement23": {
       "name": "Commissioned Work",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/e8776e40460508bfab6643ee4c59bcc97ebd19f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "Achievement28": {
       "name": "First Friends",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/a07cf40eeb16b371a1ed208c0c296b076ce62a6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "Achievement31": {
       "name": "Temper Temper",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/5135d6ea3b06f26c9ac74b1f96c0ad3fae288d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "Achievement34": {
       "name": "Miniature Crown Collector",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/8255bd56850b7c9809c7b9fb917eecd47c18caa6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "Achievement37": {
       "name": "Giant Crown Collector",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/9a5e40075e51c0d74912e1eb512210aa8358c618.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "Achievement38": {
       "name": "Giant Crown Master",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/a32b6c2469a32889465a6ed4cad6a093042d82ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "Achievement41": {
       "name": "Elderslayer",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/9f964e79e2b0029223e5dbb517b3041476ab7fdf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "Achievement43": {
       "name": "Monster Hunter",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/0a13acb24482f30997864808d5d591014f488fa8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "Achievement44": {
       "name": "HELP!",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/581783129ce56bb8d93abcf27f876b1da75e14ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "Achievement45": {
       "name": "I Am the Reinforcements",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/667ef144f47b859fb19c809357a20411d29f9f5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "Achievement47": {
       "name": "Hunters United Forever",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/44fdf6c1270a6ca9ce779d8b7c020158df8bfa6e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "Achievement62": {
       "name": "Master Explorer",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/91e48cc88b274bd411dfbfa2d0f9f666a08454a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "Achievement65": {
       "name": "Golden Gleam",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/99bb753f8f771ec998e51fc4cd50c7c10be285d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "Achievement66": {
       "name": "Friendly Pointer",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/93154711f3a3a4a3c82134dc8ee0818c0dbb2ee6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "Achievement68": {
       "name": "Submerged Mystery",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ed77ddd68eb5c2f60a0923a2e30b0436afccb5a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "Achievement81": {
       "name": "Interior Decorator",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/b21cb3587b26d19ded1447901961d64df1fcaf0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "Achievement82": {
       "name": "Architectural Artist",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/f8d0929f59ca5e502bef19de5e7d95d0ce30c766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "Achievement87": {
       "name": "Fledgling Observer",
@@ -874,7 +874,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/4ebdf0236d2ec53ec66e54268c4d1fa0b59c3e6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "Achievement97": {
       "name": "Master Slayer",

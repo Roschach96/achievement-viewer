@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/9e3fb68438461fc1c431a907439391d39e7ed2d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "TROP001": {
       "name": "BRAVE: Change the World",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/67c7e39f36556cb51715c77b67b31095ccacbf6c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "2.9"
     },
     "TROP002": {
       "name": "Soul King",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/663dc1f74564acbebc7997f78655ccf2430b0eb1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "TROP010": {
       "name": "Leaving the Heart Behind",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/52db61b85ed3b81fb44e53f51eada4b767ee577d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "TROP020": {
       "name": "Konpaku Certificate",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/dc15528a8fdc06572642b6b3992a9853ab3c612a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "TROP021": {
       "name": "Kikon Move",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/e23fd3a37c844262dba78ba1b08f9a03d2076da3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TROP035": {
       "name": "Then let me ask you this...",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/25b4a8c31f13b5c73000663d7010f0ec3fda1466.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     }
   },
   "platform": null,
