@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/cdd0cdaeeafc7e1419f22cf4905232a3003580b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "7": {
       "name": "Awakening",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/070660e75c58978f83bb2dbb490e4eb539069afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "10": {
       "name": "The Right Man for the Job",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9cb435cad95a6fd4bfd28869444829fedaeff303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "14": {
       "name": "Peekaboo",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/f19928d0730d1891ec248d64808c0d96b246d582.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "18": {
       "name": "Mister Simulator",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     }
   },
   "platform": null,

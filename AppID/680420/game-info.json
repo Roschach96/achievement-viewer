@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/e5ad13eb4966367c74e86d3c3f9573cefeebad9d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.2"
+      "percent": "91.3"
     },
     "ach_story_2": {
       "name": "In Rode A Hero",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/1d18879af94b4f4c61391c8648052d9b7802cc63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.1"
+      "percent": "89.2"
     },
     "ach_story_3": {
       "name": "Wavelengths and Wishes",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/d4ce4e43ef37d245f83f2ba2b2e786981b54dbe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "ach_bounty_hunter": {
       "name": "Hand of Death",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/29b22f54f66ed16ac71eb1a8d01216df218eb1b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "ach_melee_milestone": {
       "name": "Fistbump",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/65fe395c972fe0c7a3fa1c60241f0fc598b8b56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ach_character_level_1": {
       "name": "Fortune Favors the Bold",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/08aabc15012ba9e7b6c3a5dfcf82e3d5999853dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "ach_class_tree_any": {
       "name": "A Gathering Storm",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/6c555e1fe265a5c7edfab6b241c4916216602ff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "ach_item_scrap": {
       "name": "One Man's Junk...",

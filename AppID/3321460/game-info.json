@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/732775acff20d36fe99c965fb1278ad4d6cadc3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "GreatWeaponMaster": {
       "name": "Master of Two-Handed Weapons",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/16bfb51317e195c8e7cf349b4e20588b2bf3194b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "SiegeMaster": {
       "name": "Master of Artillery",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d86a7c061ec0618a129719c6862084b1e1d0c698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "PailuneseGuardian": {
       "name": "Protector of Pailune",

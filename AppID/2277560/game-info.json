@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e72702a5c75f127e717db052b5f69ac2ca6dae70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ACH_SILVER_05_F": {
       "name": "Legendary Collector",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3142c047734dde2b4f2eb37e464d487958f6ffb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "ACH_SILVER_06_F": {
       "name": "Pendant Gatherer",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6afea0ddcb8a623b59cc53653b1592631dd5ce01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.1"
     },
     "ACH_SILVER_12_F": {
       "name": "Feathery Ambition - Xuanyangzi",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6fc823b16d40238d837f838a3e4e6538772df77a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "ACH_COPPER_04_F": {
       "name": "Well Met, Divines",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ec8655c6a06c65b85105d24dc29e26bb30bf6832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.3"
     },
     "ACH_COPPER_14_F": {
       "name": "Blightweaver - Great Centipede",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACH_COPPER_24_F": {
       "name": "Bo Magus",
