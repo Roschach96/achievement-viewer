@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/ce3e486770249d317f47c8277de5e7047d175cb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.4"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "46.8"
     },
     "BROKEN_VESSEL": {
       "name": "Release",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "DREAM_BROKEN_VESSEL": {
       "name": "Peace",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/1b88bf9ae2b7d4b90ea3ad86470c98df618a8229.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "GRUBFRIEND": {
       "name": "Grubfriend",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "MOURNER": {
       "name": "Solace",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "48.9"
     },
     "STAG_STATION_ALL": {
       "name": "Hope",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "SPEEDRUN_1": {
       "name": "Speedrun 1",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6efa8b82b7062070451e05e3569356d0a871dce3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "STEELSOUL": {
       "name": "Steel Soul",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.5"
     },
     "NIGHTMARE_GRIMM": {
       "name": "Ritual",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/817c85e5f17fcab76b7d08979b0b076afbae509d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     }
   },
   "platform": null,
