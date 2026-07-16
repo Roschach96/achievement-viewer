@@ -1,7 +1,7 @@
 {
   "appid": "359550",
   "name": "Tom Clancy's Rainbow Six Siege",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/cd31c5a197317624687ad580af592e6404d13581/header.jpg?t=1783011073",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/159d232dac26cee77cf57e32ec0545ac91c09dbc/header_alt_assets_24.jpg?t=1784137517",
   "achievements": {
     "RB6X_Ach_1": {
       "name": "Back in the Day ATK",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/b19e52d9f89c726e50ade31c27e7fce8cde31494.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "RB6X_Ach_2": {
       "name": "First Class Defense",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/a16878a67a86aba41d39e28dd0b41a391d8109d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "RB6X_Ach_8": {
       "name": "Collector",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/d600981ceba0e5ce892a2bb62b95e83283061be2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "RB6X_Ach_9": {
       "name": "Just Getting Started",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/56bd9904a4b47fbafa4f718911a812161484a580.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "RB6X_Ach_16": {
       "name": "Can't Breach This",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/5bbf6f1fee7fda1eb26a2cb8f1918109323c24f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "RB6X_Ach_22": {
       "name": "Drone Destruction",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/8e481b615ae084dd984c256df9efe4d7685226fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "RB6X_Ach_31": {
       "name": "That Was Close",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/d5abd7507d234ada5540f355be4b6bf4df189e0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "RB6X_Ach_35": {
       "name": "Ride Shotgun",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/60658d76504a8dbd3e74a8fa2ec7a697fe03c8a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "RB6X_Ach_36": {
       "name": "Full Auto",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/0511890dd3c4f5316bd40dc0eec262267188ec3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "RB6X_Ach_37": {
       "name": "Greaser",
