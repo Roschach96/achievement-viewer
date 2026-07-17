@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5223377856b0dd13cbba899f6f842fc274b42008.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "ACHIEVEMENT_3": {
       "name": "Blade Mastery I",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/2674bdcd8b2e2db963eb4fedcc2834dbeab161e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_8": {
       "name": "Blade Proficiency III",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/eecc0b82bd2d30f7466fbfa0a4c3acf3fdb12e42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACHIEVEMENT_13": {
       "name": "Bow Proficiency II",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/c06452a0d6189244b9cdfcc8237a1b325019ba90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "ACHIEVEMENT_32": {
       "name": "Nestegg",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/06980a7f80a695414e7b210fd7d04635f51e6b95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "ACHIEVEMENT_35": {
       "name": "Secrets of the Orokin",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/d68bd3e9b3bde9fdfcccbbde87cdae9232e5ce57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "ACHIEVEMENT_39": {
       "name": "Greater Than the Sum",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/6ed751bd9578523f7df0a219b1f339b185f558ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "ACHIEVEMENT_40": {
       "name": "Heavy Weapon Mastery I",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e165899a6f6d553aa273a0fc3a275320bc61a359.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "ACHIEVEMENT_44": {
       "name": "Heavy Weapon Proficiency II",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/74bbb9f5b621744900678c421bac3d1b208bdf64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACHIEVEMENT_50": {
       "name": "Each Tool with Its Own Purpose",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/c4e2d3366a6e58ee17b0e3414f45c101f74f2ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "ACHIEVEMENT_61": {
       "name": "Silver Initiate",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/d83fcd3be717ad44b77678a3af5124a360414bf2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACHIEVEMENT_65": {
       "name": "Gold Novice",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/3db2b0c71c281a1f2ecc0e16239c006df82034ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACHIEVEMENT_67": {
       "name": "Silver Disciple",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/ed2d0854e1787eb2ffa67350b7f250df3dc490ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ACHIEVEMENT_73": {
       "name": "Silver Hunter",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/112692cfcf01b1d9241d6bc8f6643791f66cc68e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "ACHIEVEMENT_76": {
       "name": "Silver Eagle",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/03c25e81ea02014f01aebd13cb7696b7ee42b51c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ACHIEVEMENT_93": {
       "name": "Pole Weapon Proficiency I",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/880862325b89127d5936c9613b5db3eec81f5f7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACHIEVEMENT_94": {
       "name": "Pole Weapon Proficiency II",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/4df02c00af34033a40305af0744995082f5b561c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "ACHIEVEMENT_119": {
       "name": "Shotgun Proficiency III",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/dfbf331557205f72409a650d06fc2782701926df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "ACHIEVEMENT_121": {
       "name": "Shuriken Mastery II",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e866b278f702c2d14a443fed0e49cec14d44f6a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "ACHIEVEMENT_131": {
       "name": "No Longer a Rookie",
@@ -1387,7 +1387,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/63f90fc755ecbbd837466ef16d6d41c72b4fed5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "ACHIEVEMENT_155": {
       "name": "The 8-fold Path",
@@ -1405,7 +1405,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/1fde43f178ca1b254a5a82f1c37d53281dc62832.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ACHIEVEMENT_157": {
       "name": "The Sword Alone",
@@ -1540,7 +1540,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/7c56ba67aa38ae3ba783db4cde7b23a362885ab8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "ACHIEVEMENT_173": {
       "name": "Tomb Looter",
