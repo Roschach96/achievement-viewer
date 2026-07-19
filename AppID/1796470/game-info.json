@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/1b61226dd2791f67f785891bd8aa70c6111afcc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "60.0"
     },
     "ACH_05": {
       "name": "Shard 4",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/10903e5a8f699a7ae4e545c9eb6263a95602e4b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "ACH_09": {
       "name": "Shard 8",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/b7d60d4cb1d25496c5c5d6dc42332132130fab72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ACH_11": {
       "name": "The End Of Everything",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/5c9d976fd1070b5d6179599df943e1837474ac09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "ACH_18": {
       "name": "Ultramarathon",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/2d00b4dc8700bd74a5ab5e76c26f83c9ee9692f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "ACH_19": {
       "name": "Megamarathon",
