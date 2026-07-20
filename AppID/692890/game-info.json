@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4f2726106bfc6e3422bcd7ccad8429a6e687785e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "ACT3_COMPLETED": {
       "name": "Moonwalker",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c7778ea6bde292f50441c811b93ac7ee06404d61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "BOSS_TAKEDOWN_BRONZE": {
       "name": "Boss Punisher (Bronze)",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "CRYSTAL_UNLOCK_GOLD": {
       "name": "Crystal Claimer (Gold)",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3290ae972f4b21516e4b4ee4dca992ee59fadcb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.4"
     },
     "DAMAGE_DEALT_GOLD": {
       "name": "Damage Dealer (Gold)",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f2104ebcf4c733347a826c961e464ef975f85987.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "ENEMY_DESTROY_BRONZE": {
       "name": "Robo-Regulator (Bronze)",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bfae61170e6eb8c9d7c56c03421ea60ff07e3ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ENEMY_DESTROY_SILVER": {
       "name": "Robo-Regulator (Silver)",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ENGINEER_FINISH_GAME": {
       "name": "Science Above All!",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/92df480cd334f33d8e716ee2718164efc04a6e2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "ENGINEER_UNLOCK": {
       "name": "Engineer",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7824af0ff5c71d7911736b1db5e5d50e589c4335.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "GADGET_UNLOCK_BRONZE": {
       "name": "Inspector Gadget (Bronze)",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a13dc22e33929f8169f4f224fab7af44e5f5dc2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "GADGET_UNLOCK_GOLD": {
       "name": "Inspector Gadget (Gold)",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/2c819ccb985ca5511b45bb10f575f4b2243725e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "GADGET_UNLOCK_SILVER": {
       "name": "Inspector Gadget (Silver)",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/ca951d071aaf4717c5f1d82c6f7a5797ae0eb7bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "GUARDIAN_AMMO": {
       "name": "Ammo Belt",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7beec116e3c143bfbc81b05be230cec02567f1d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "GUARDIAN_FINISH_GAME": {
       "name": "The Last Bastion",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a00cc37e6ad1a2ea1ca7e8b8501968e772443b73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "LANGUAGE_FRENCH": {
       "name": "Confrérie du Croissant",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3e9934afeee09b797eeae2aed0ce93610218151a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "LOG_UNLOCK_BRONZE": {
       "name": "Log Collector (Bronze)",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7e08def21a2f3b15b431cbb91efd86d630877780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "LOOT_BUDDYBOT": {
       "name": "My Little Buddy",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4f31d62e8a6cb6cd31075aec65931c178034a9e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "MAGUS_METEOR_DAMAGE": {
       "name": "Final Flash",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "MOVESPEED_MAX": {
       "name": "Faster Than Light",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/02b0fed5e1cb2d15856e45a18669796ea4c36367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "POWERCELL_GATHER_BRONZE": {
       "name": "Powercell Gatherer (Bronze)",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f0d18740453f3be37a3ab4d2ad34ee83a1d3300f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "RECON_UNLOCK": {
       "name": "Recon",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/db2cd288b28687dfeba62c06f4361e31961f1e92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "SENTINEL_FINISH_GAME": {
       "name": "The Long Hunt",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/435e253cdc0635af27339e85dc87d797065b0a56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "SENTINEL_JAVELIN_DAMAGE": {
       "name": "Bot Skewer",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f4331e1a004eec3595e5df89395148d3e86fc823.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "SLIM_POWERCELL": {
       "name": "Spare Some Change?",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7b53879ebe2151ae0a4257ec7403bd13d12cf658.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ENDLESS_PERKS": {
       "name": "Overperked",
