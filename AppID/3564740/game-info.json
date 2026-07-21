@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1784257976",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1784540953",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "1404145": {
       "name": "Strength of Character",
@@ -461,6 +461,86 @@
       "hidden": true,
       "group": "Base Game",
       "percent": "0.3"
+    },
+    "1601006": {
+      "name": "A Heart in Ruins",
+      "description": "Some wounds are not carved in flesh, but in the soul itself.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1601004": {
+      "name": "Heart of Gold",
+      "description": "Every story needs an ending. You chose to make this one gentle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1604007": {
+      "name": "Boop the Snoot",
+      "description": "Just one little boop. What could go wrong?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1604026": {
+      "name": "No Mountain High Enough",
+      "description": "I ask every mountain here: which of you dares stand taller?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4618f52fea43e5af8057cc59736a835d6d1d0aa9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0de8f8e99f4959facdd412c24cdd271ed18d0a23.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1404095": {
+      "name": "A Flawed Ascension",
+      "description": "Complete Hidden Mountain Campaign - Skyward City Ruins",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1404107": {
+      "name": "High Spirits",
+      "description": "Never fly a bird while drunk, unless you're in a dream.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1404092": {
+      "name": "Sky's the Limit",
+      "description": "Always strive to fly higher, no matter the time or place.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4618f52fea43e5af8057cc59736a835d6d1d0aa9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0de8f8e99f4959facdd412c24cdd271ed18d0a23.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1604093": {
+      "name": "My Domain, My Rules",
+      "description": "Allow no one to sleep peacefully in your domain.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/88aa609768306702f2b1102c35b2d0a4e318d285.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f0559c9a2d158d6b8a7856e6e4fb19b5e507b4f9.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1404123": {
+      "name": "Mountain of Skulls",
+      "description": "Add your enemies' heads to the macabre monument.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/3f52387f063c6e971964a5247a7b3b48cff54a33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/e444f1f99402b7e18df042f8c0d04425dc5a9ee1.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "1404076": {
+      "name": "Undercover Boss",
+      "description": "Enter Derndale for the first time while wearing the Infinite Truths mask.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4618f52fea43e5af8057cc59736a835d6d1d0aa9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0de8f8e99f4959facdd412c24cdd271ed18d0a23.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": null,
