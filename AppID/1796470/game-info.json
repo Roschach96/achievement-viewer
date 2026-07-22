@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/798987b3fc49420661398c3e192376818f3a1024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.2"
+      "percent": "84.1"
     },
     "ACH_03": {
       "name": "Shard 2",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/d29d21ec5aab7fa43df2e24b7ef987cb923b5768.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.6"
     },
     "ACH_04": {
       "name": "Shard 3",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/7ca145fe33f33f3dd86bc956846ad92410351354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "ACH_06": {
       "name": "Shard 5",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/9fa04b2d65ca73d718e44f7e91e08cb90cd4471a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.2"
     },
     "ACH_07": {
       "name": "Shard 6",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/382ccd57fda746de0dea79cb003151f97c513b81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACH_12": {
       "name": "Perfect Landing",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/f33e43416e2b721185630c7018259cb6c379a652.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACH_13": {
       "name": "Perfect Landing Master",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/2e12904571a275ab7f0df023de9da6021a98b9b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "ACH_23": {
       "name": "Veteran",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/26a75369623773d66af921dd6a291d77d9e13294.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "23.9"
     },
     "ACH_25": {
       "name": " Legendary Overload",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/a11f5f9bd766b85d340263065e4f2156e7a5c7d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ACH_27": {
       "name": "Untouchable",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/1dd67d9f32dbb9741ebd2811bb8a133ca1e03390.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     }
   },
   "platform": null,

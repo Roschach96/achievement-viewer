@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.7"
+      "percent": "88.8"
     },
     "TRUE_FORM": {
       "name": "True Form",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "PEN_TO_PAPER": {
       "name": "Pen to Paper",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.7"
     }
   },
   "platform": null,
