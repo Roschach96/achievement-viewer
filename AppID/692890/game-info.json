@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "BROBOT_JOIN": {
       "name": "Meet my Brobot",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.9"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e84937a244bf84064064edc9a9cc55004e9d1eaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.6"
     },
     "ENEMY_DESTROY_GOLD": {
       "name": "Robo-Regulator (Gold)",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bfae61170e6eb8c9d7c56c03421ea60ff07e3ca5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ENEMY_DESTROY_SILVER": {
       "name": "Robo-Regulator (Silver)",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e164384feae9ac1a26a5ef6a6ad7420b0045efb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "FINISH_GAME": {
       "name": "Reboot",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8a8877d824864015e14d1368c34d1ddc70e63d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "FINISH_GAME_BUDDYBOT": {
       "name": "Best Buddy Forever",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a00cc37e6ad1a2ea1ca7e8b8501968e772443b73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "LANGUAGE_FRENCH": {
       "name": "Confrérie du Croissant",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7e08def21a2f3b15b431cbb91efd86d630877780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "LOOT_BUDDYBOT": {
       "name": "My Little Buddy",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b7e15ec2ad938368357ccd6fae51763c9a8dc697.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "MAGUS_FINISH_GAME": {
       "name": "Elementary",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4f31d62e8a6cb6cd31075aec65931c178034a9e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "MAGUS_METEOR_DAMAGE": {
       "name": "Final Flash",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "MOVESPEED_MAX": {
       "name": "Faster Than Light",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f0d18740453f3be37a3ab4d2ad34ee83a1d3300f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "RECON_UNLOCK": {
       "name": "Recon",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/f4331e1a004eec3595e5df89395148d3e86fc823.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "SLIM_POWERCELL": {
       "name": "Spare Some Change?",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/201ce964fd7c6dec9444ae4205f62f9c2983ce31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.2"
     },
     "UNTOUCHED_BOSS": {
       "name": "Easy Peasy",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b2606e4c1f7993a98120931edd267e33b99ac18f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.3"
     },
     "WRENCH_GATHER_GOLD": {
       "name": "Wrench Picker (Gold)",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/aed0a66d9abf76a067510cea47d7e46052ecc06c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "WRENCH_GATHER_SILVER": {
       "name": "Wrench Picker (Silver)",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/cad9810acd232c5153f6ddc97b75c7865d977bf3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ENDLESS_UNLOCK": {
       "name": "Portal Online!",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7b53879ebe2151ae0a4257ec7403bd13d12cf658.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ENDLESS_PERKS": {
       "name": "Overperked",

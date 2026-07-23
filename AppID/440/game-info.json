@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "TF_HEAVY_DEFEND_MEDIC": {
       "name": "Party Loyalty",
@@ -1297,7 +1297,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81d9a28f9d8888f6e2a79a2dd584200d98b4539b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "TF_SCOUT_ASSIST_MEDIC": {
       "name": "Doctoring the Ball",
@@ -1945,7 +1945,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e988dacc553a3ec3224a5ace6e770558b436d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -3106,7 +3106,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2791206144ce2a2b7f1309de30c189e0cc24120e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET": {
       "name": "Texas Two-Step",
@@ -3439,7 +3439,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY": {
       "name": "Cap Trap",
@@ -3808,7 +3808,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "TF_MVM_COMPLETE_WAVE_WITHOUT_DYING": {
       "name": "Deus Ex Machina",
@@ -4294,7 +4294,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c2a4908d840d9eb5ed0e3a8bbe1042b303e9f1e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "TF_PARACHUTE_KILL_GRIND": {
       "name": "Nose Dive",
