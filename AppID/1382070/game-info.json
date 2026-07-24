@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "ACH_BATTERYMAX": {
       "name": "Battery of Batteries",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/d54c6765f9834799f7f1dfa5ac5d6c8a54895051.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACH_BREAK_TELEPORTER": {
       "name": "No way out!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a1782d4975cb6bdba69759a3a13d81d96be6de05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.1"
     },
     "ACH_CAT_PET": {
       "name": "Pet the Cait",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/3cc0150f0f8e0d7ee97d0d80bac1bd7937200137.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "ACH_FARPHOTOSPLACED": {
       "name": "Recursion excursion",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/aae8236ce7b0be378d6a1e2fa2a10a72e22a15c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ACH_MELONSLICE": {
       "name": "Michelangelo",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "ACH_PROG_END": {
       "name": "Viewfound",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/af3004df63077daa71ea553a0376c56ee6577ccb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "ACH_PROG_HUB5_ARRIVE": {
       "name": "End of the line",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "ACH_PROG_OPT_ALL": {
       "name": "I didn’t realise they were optional",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",

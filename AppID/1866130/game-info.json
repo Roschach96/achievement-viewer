@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.4"
     },
     "FIRST_CORPORA_EQUIPPED": {
       "name": "Be stronger",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "50.0"
     },
     "KILL_BOSS_B1": {
       "name": "You’re closer",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "KILL_BOSS_B2": {
       "name": "I see you",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "OPERATOR_TRIALS_FIRST_SUCESS": {
       "name": "He will never know",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "STYLE_RANK_SSS": {
       "name": "So stylish",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.6"
+      "percent": "76.7"
     },
     "CHAR_UNLOCK_VEKTA": {
       "name": "And three",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.8"
     },
     "PICKUP_FIRST_LORECODEX": {
       "name": "That’s the first chapter",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "SUBBIOME_B1_ENTERED": {
       "name": "Sunken Grounds",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.5"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.3"
     },
     "UNLOCK_DIFFICULTY_2": {
       "name": "The Cycle Continues",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "UNLOCK_DIFFICULTY_3": {
       "name": "You show potential",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "ITERATIONS_1": {
       "name": "So it Begins",
@@ -171,7 +171,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/baf20bf8085c7e7f2314fd03e5c5cabce03167af.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_2": {
       "name": "Fail and Repeat",
@@ -179,7 +180,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/e1b0cc427c7d23190a3d82b35fb33e5fdde892e4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_3": {
       "name": "Rule of Three",
@@ -187,7 +189,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/07bc841e372c5c7a80146252c1d8da81e7b2f126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_5": {
       "name": "5 in a Row",
@@ -195,7 +198,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/12c62f251035e24925970cee0ec1e1edfedd5625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_10": {
       "name": "Cant get enough",
@@ -203,7 +207,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f92872eca0b75d30c2bf36abf9e649f806d19c00.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_25": {
       "name": "Okay, nice",
@@ -211,7 +216,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/eb71092865d75d43f04776a94f0d8b72d5b4360a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_50": {
       "name": "Maybe you should rest",
@@ -219,7 +225,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/e2932fd40b6163721683ec371c9a03ed7a9ace30.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ITERATIONS_100": {
       "name": "Touch some Grass",
@@ -227,7 +234,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/88667213d77a9aeb94ca6e72f47b62bdd60c441d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "EARLY_ACCESS": {
       "name": "Early Supporter",
@@ -235,7 +243,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/387e2f81a48eb3577bc5c12b1b84ce4e65958dc1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "VOID_NEXUS_UNLOCK_HALF": {
       "name": "Almost There",
@@ -243,7 +252,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/bdfaa4aeb6f4c339b19e77e103fef60e93216db0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "VOID_NEXUS_UNLOCK_FULL": {
       "name": "Full Potential",
@@ -251,7 +261,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/c11475decfa4a5332ebd7d478d147f6785f8e12e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "CORPORA_UNLOCK_FULL": {
       "name": "Everyday Trinkets",
@@ -259,7 +270,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/c11475decfa4a5332ebd7d478d147f6785f8e12e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,

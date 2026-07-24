@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/fda737acbefe3ed0dbe80fbe586ab757706d2409.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.8"
     },
     "ACH_Defeat_Necromancer": {
       "name": "Creature of the Old World",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/0fb5036eac5005b9271fea6fab030dd6a572fb75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "ACH_Defeat_LordAuberon": {
       "name": "Blood Spilled, But Not Wasted",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e9ec86f4ff0ad680aeb584ad0f3040e21a78089f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "ACH_Defeat_TomeMistress": {
       "name": "Knowledge is Power",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/607b4e3ca05b381c07a3e9e253eb2e66479a0645.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "ACH_Defeat_QueenSmiles": {
       "name": "All Smiles",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/1532ad29514cc1dfac4599bef862e7ecde9b0eef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACH_Defeat_EntropicWyrm": {
       "name": "To Right a Wrong",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/90641a471bda8a6e89de929cc1cbde36ffe13fc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "ACH_Defeat_MatronLayla": {
       "name": "The Cult of the Lamb",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/99e0f5ffea4d352194cfa35a7f6cb32bd482b425.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ACH_Defeat_Sleepwalker": {
       "name": "A Dream within a Dream",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/6a456455083ded6ab319fea92a83c6f50c5bf501.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "ACH_Defeat_Inquisitors": {
       "name": "Revenge",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/3e6f86547637b00fe681e5ebc4dde084b999f70b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "ACH_Defeat_KingPriest": {
       "name": "The Betrayal",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/63ae8ea65369a1abe252e9c515c6d9803f7d22c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACH_Defeat_Miniboss": {
       "name": "Monster Slayer",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/b5fb93b59c14ba3d2f170e4b38282a1e258a4fe5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "ACH_Defeat_Vermins": {
       "name": "Exterminator",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/a7852837bd620389e258f6662b4e9c08159648b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "ACH_Defeat_Stalkers": {
       "name": "Tremors",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/2ae242fc93d27db4754425d456800eb053238aeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "ACH_Defeat_Giants": {
       "name": "Bigfoot",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/d665f5887042cd8618f8a89c9cc3d08431e1fb57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "ACH_Defeat_Wraiths": {
       "name": "Exorcist",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/dd48bc11ef1470a00901f761c6f481d124a7bfb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "ACH_Defeat_Bloodfiends": {
       "name": "Drain the Blood",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/04702fda0ccf7c8632fb9d9b23ba9d0f107cf2cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "ACH_Defeat_Paleweavers": {
       "name": "Arachnophobia",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/cc81bd88624a85253637f2eeeebedf13b53b0c4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ACH_Defeat_BanditCaptain": {
       "name": "No Match",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8facfd7bd161eee185069cf4aadb8f9adb3ea0e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     },
     "ACH_Defeat_CourtMagician": {
       "name": "Court Affairs",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8fa2a6a03239fb8cff1c166bf70cc2e1c945fd40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "ACH_Kill100": {
       "name": "Warmup",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/35baddab20383b4621fd2c67b2912e7f2e5d6e38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "ACH_Gold100K": {
       "name": "Thanks again, Travis!",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/81c105f0ad0c020862346e4d00f7ee5991a56bff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "ACH_Level10": {
       "name": "Initiate",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/016f539f88a0891e0521c6d10356a60df7d429ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACH_Level100": {
       "name": "Grand Master",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/edadfe530306f0548be05e0de8d8b0437b016d63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "ACH_Craft50": {
       "name": "Master Craftsman",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/028e7bfd84b2dbb8a871a00d51ab948050674bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "ACH_EnchantWeapon": {
       "name": "Novice",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e5c4bd832df6b30a4b8f6d26264db878c49fc609.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.6"
     },
     "ACH_EnchantArmor20": {
       "name": "Armorer",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e688e5e93bc682d353a4140f9b8dd08a6af7e989.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "ACH_Parry": {
       "name": "Can't Touch Me",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/0720c14d12f2cb628d1f1fbaa3c992335234ebeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "ACH_DiscoverEntropy": {
       "name": "Dust to Dust",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/6a79f607074dff9834eaaa73032fa221ce8d6454.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ACH_Learn": {
       "name": "Good Student",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/7f70c20debf2bb73d0fa6e5880b0bc8166da4b6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "ACH_LearnChaos": {
       "name": "Master Spellbinder",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/c3f624564c89f1637436d1a07bdd27a58067708b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "ACH_LearnFire": {
       "name": "Master Flameweaver",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e2038549fba6496203cb5d0a9920092da8c075c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH_Skilled": {
       "name": "Skilled!",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8beb588be388ec18d0be0efb8aa3265476da20da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "ACH_Jokes": {
       "name": "Wasn't Funny",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8ce98f41e42161a26abb068fcb3a464329125fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACH_Tailor": {
       "name": "Master Tailor",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/76e686e22da22b1e036427fef2f7a9f8dc54dfc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACH_Blacksmith": {
       "name": "Master Blacksmith",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/196e9cb1fdd8db7b19e2928a0de84a5218e9b312.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ACH_Alchemist": {
       "name": "Master Alchemist",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/d5c62f9635b18624916c5ce1f18e61e3a4f21608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACH_Occultist": {
       "name": "Master Occultist",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/ce42c6863c88e608ac4a67da91c01b1007c3caa2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "ACH_Goldsmith": {
       "name": "Master Goldsmith",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/2b26f82c25c2e9218f91c975ca4187b9ba921d18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH_Wainwright": {
       "name": "Wainwright",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/50e23c7856735e7ea33a40bd4b6f0680bb2c8279.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "ACH_NoSecret": {
       "name": "No Secret Anymore",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/26e7bf65265cdb01d62f02660096c994454d3744.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "ACH_1049": {
       "name": "One Thousand and Forty-Nine",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/4ecb344ce448183307c12cf390e32f4de78a4342.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "ACH_GrandExplorer": {
       "name": "Grand Explorer",
@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/5b74f6c5f77dc75f96d608c8b681439008220278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ACH_EndEra": {
       "name": "End of an Era",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8a1a86e21d74cddad861d9ca82a7c141d662e530.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACH_AllWeapons": {
       "name": "Armed to the Teeth",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/267337ae20f8f19164cb05b25f44aeeeeae3d35b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "ACH_MeetAgain": {
       "name": "We'll Meet Again",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/110b67578457b0b005458d3d7c02859e29906c73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     }
   },
   "platform": null,
