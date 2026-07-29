@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "TF_MEDIC_KILL_HEALED_SPY": {
       "name": "Hypocritical Oath",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d970ef038c5ca4c0a362280d85794bad680b890c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "TF_HEAVY_KILL_MEDIC_PAIR": {
       "name": "Class Struggle",
@@ -1594,7 +1594,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c1b7dd76132857fa069345bd181d754297db9b58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "TF_SNIPER_DESTROY_SENTRYGUNS": {
       "name": "De-sentry-lized",
@@ -2170,7 +2170,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/339adad051074993ab2f42a1cf7eeb23d80d57c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS3": {
       "name": "Sniper Milestone 3",
@@ -3088,7 +3088,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/865ad655982c8250bfab81ba8193910596d04bdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "TF_ENGINEER_FREEZECAM_TAUNT": {
       "name": "Six-String Stinger",

@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/ba611697d58fd536910dc2431d68fb40e4163d70/header_alt_assets_7.jpg?t=1784771395",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/e78afb6db40bf0c0d4ed31df8f6ce65fa89f741d/header_alt_assets_8.jpg?t=1785224697",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "1604007": {
       "name": "Boop the Snoot",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "1604026": {
       "name": "No Mountain High Enough",
