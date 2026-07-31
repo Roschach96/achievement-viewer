@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TF_MEDIC_KILL_HEALED_SPY": {
       "name": "Hypocritical Oath",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/318fc6217afafaabb74481236f15ce98cc1bae07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "TF_PYRO_KILL_TEAMWORK": {
       "name": "Second Degree Burn",
@@ -820,7 +820,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec6f89035a26a2799163c9f99c6198633790591e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "TF_PYRO_ACHIEVE_PROGRESS1": {
       "name": "Pyro Milestone 1",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d970ef038c5ca4c0a362280d85794bad680b890c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "TF_HEAVY_KILL_MEDIC_PAIR": {
       "name": "Class Struggle",
@@ -1594,7 +1594,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c1b7dd76132857fa069345bd181d754297db9b58.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TF_SNIPER_DESTROY_SENTRYGUNS": {
       "name": "De-sentry-lized",
@@ -1711,7 +1711,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4c9c2837648df928a14dc150098830c7323ea760.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "TF_SNIPER_HEADSHOT_POST_INVULN": {
       "name": "Parting Shot",
@@ -2170,7 +2170,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/339adad051074993ab2f42a1cf7eeb23d80d57c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS3": {
       "name": "Sniper Milestone 3",
@@ -2872,7 +2872,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cdd45ac32d401c55ee14887800af6fd87ca96e7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "TF_DEMOMAN_FREEZECAM_RUMP": {
       "name": "Second Eye",
@@ -3088,7 +3088,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/865ad655982c8250bfab81ba8193910596d04bdb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "TF_ENGINEER_FREEZECAM_TAUNT": {
       "name": "Six-String Stinger",
@@ -3610,7 +3610,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6c028b10fad1d8d5bb584598f87cef10b2cdf4c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TF_MAPS_DOOMSDAY_KILL_CARRIERS": {
       "name": "Best Case Scenario",
@@ -3979,7 +3979,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_demo_group_kill_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "TF_MVM_SCOUT_MARK_FOR_DEATH": {
       "name": "Do Androids Dream?",

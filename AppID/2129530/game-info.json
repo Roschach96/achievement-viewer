@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/453ca3b901933c8333cf1da007d54662211ddafb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "CompleteOrphanage": {
       "name": "Happy Days",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/057fc108e9fac37b7beb268155c563312b28770f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "ReachWar": {
       "name": "Into the Abyss",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/93d1443d9d36f1d498764f14eebcdd8d244961ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "40.0"
     },
     "CompleteWar": {
       "name": "All is Well",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/71f2d78c03542990f5985ee80a5cce61b07483bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "PushChair": {
       "name": "Dark Tourism",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/bab00ff9314a2cf5f3692fbfe1cbaf04e1fb01d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "FailToSave": {
       "name": "Survival Instinct",
@@ -280,11 +280,11 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/90c67d2e9e6cb8ecad7b3fbecd486ae640df4752.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "DLC1Completed": {
       "name": "Complete",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_15_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -293,7 +293,7 @@
     },
     "DLC1MercyKill": {
       "name": "Mercy",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_16_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -302,7 +302,7 @@
     },
     "DLC1TakePicture": {
       "name": "Take",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_17_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -311,7 +311,7 @@
     },
     "DLC1Fire": {
       "name": "Fire",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_18_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -320,7 +320,7 @@
     },
     "DLC1CraterView": {
       "name": "View",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_19_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -329,7 +329,7 @@
     },
     "DLC1AllPosters": {
       "name": "All",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_20_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -338,7 +338,7 @@
     },
     "DLC1Shame": {
       "name": "Shame",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_21_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -347,7 +347,7 @@
     },
     "DLC1Suitcases": {
       "name": "Suit",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_22_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -356,7 +356,7 @@
     },
     "DLC1Shadows": {
       "name": "Shadows",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_23_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,
@@ -365,7 +365,7 @@
     },
     "DLC1PetrifiedKids": {
       "name": "Pet",
-      "description": "",
+      "description": "NEW_ACHIEVEMENT_17_24_DESC",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
       "hidden": true,

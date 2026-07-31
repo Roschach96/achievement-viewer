@@ -1,7 +1,7 @@
 {
   "appid": "1449850",
   "name": "Yu-Gi-Oh! Master Duel",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/6ad0cd0c355a0072e2492c3c4d17e615ac085c02/header.jpg?t=1782230436",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1785465152",
   "achievements": {
     "jp.konami.masterduel.ach.001": {
       "name": "Welcome to MASTER DUEL",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449850/cfc8e8dbc8621116fadc92c655dc7a473ce0dccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "jp.konami.masterduel.ach.004": {
       "name": "Chain Blazer",
