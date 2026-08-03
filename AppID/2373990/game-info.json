@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/cb00f72f2fb3838e0237e01fb34701a47f794f97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "SOLO_ACHIEVEMENT_1_6": {
       "name": "Roooar?!",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/bd8393b613d70edfc5c2a130dd524bb2bb89405b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "SOLO_ACHIEVEMENT_1_14": {
       "name": "Ally",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/4f3249a2f205fa7293901b3dfb750ccfd3b91386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "SOLO_ACHIEVEMENT_1_16": {
       "name": "Formidable Presence",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/f8025bb11a80beb164be0d6c1987574e6b0e1051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "SOLO_ACHIEVEMENT_1_17": {
       "name": "Durable Stuff",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/3690107ba337c50890e0be034e5088df4b1e7cf0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "SOLO_ACHIEVEMENT_1_23": {
       "name": "Alchemist",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/5ba85ffc09c4862edf8052329e7a33dde9ce033a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "SOLO_ACHIEVEMENT_1_24": {
       "name": "Realm of Mystery",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/f9b75a2c68fb9f0f4c55cd66e8a8c29f56d16f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "SOLO_ACHIEVEMENT_1_26": {
       "name": "Account Saver",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/5197606339448bcff042e944de3b57522952a9d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "SOLO_ACHIEVEMENT_1_27": {
       "name": "Carefree Life",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/c682c265e4a31d60cf7b69d12095d4757e8e5fb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "SOLO_ACHIEVEMENT_1_36": {
       "name": "Graceful Movement",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/df194ba3b5e39d7e180a8f53aa5e7cbddc1a17ae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "SOLO_ACHIEVEMENT_1_39": {
       "name": "High Five!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/57bcb41bd7155793c09e997a89e471a78b712fb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "SOLO_ACHIEVEMENT_1_45": {
       "name": "Snake Hunting",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/6a4cb61e0c7cf9cf81a8f5a312b81b6a36b86ded.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.3"
+      "percent": "91.4"
     },
     "SOLO_ACHIEVEMENT_1_46": {
       "name": "Punishment for the Cowardly",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/94016859ee95d5515b4b119a4d4712c6c7d52698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "SOLO_ACHIEVEMENT_1_53": {
       "name": "Twelve Songs",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/abd4f53a7337bfb9336b6276d2647816e7bb3973.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     }
   },
   "platform": null,

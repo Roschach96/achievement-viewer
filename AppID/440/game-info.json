@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_switch_to_medic_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "TF_MEDIC_SAVE_TEAMMATE": {
       "name": "Triage",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f61da5ee7db3f110e692f282623b9d17604282dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "TF_PYRO_FREEZECAM_TAUNTS": {
       "name": "Freezer Burn",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8c3ea159df7f2f94581443bcf74c982b6ad130c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "TF_PYRO_BURN_MEDICPAIR": {
       "name": "Next of Kindling",
@@ -1342,7 +1342,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d755485e5f744e44ef39daed625a9c59bc67887.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TF_SCOUT_FLAG_CAP_GRIND": {
       "name": "Round-Tripper",
@@ -1585,7 +1585,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9d38f32c1ecf8ff90f2eca095f8bb1d152f20937.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "TF_SNIPER_HEADSHOT_SNIPERS": {
       "name": "Self-destruct Sequence",
@@ -1657,7 +1657,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7b164c64b67d20dfdb4b5d5046956dbdc31c6a3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "TF_SNIPER_KILL_RJER": {
       "name": "Jumper Stumper",
@@ -1675,7 +1675,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d252cb2d1483c2ff2351881e152efa93bdcf17e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_SNIPER_KILL_UNSCOPED": {
       "name": "Trust Your Feelings",
@@ -1810,7 +1810,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6dce0b2156ebd8a4aa4ff6efc539d68065218752.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "TF_SNIPER_JARATE_ASSISTS": {
       "name": "Number One Assistant",
@@ -3898,7 +3898,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_no_alarms_in_final_wave_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "TF_MVM_KILL_MEDICS_CHARGED": {
       "name": "Negative Charge",
