@@ -1,7 +1,7 @@
 {
   "appid": "2246340",
   "name": "Monster Hunter Wilds",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1785802810",
   "achievements": {
     "MEDAL_000": {
       "name": "Eastward Wings",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/d6da61ea446e15565114e18864428b3836d86431.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.2"
     },
     "MEDAL_002": {
       "name": "Shadow in the Downpour",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/6e0d6bb38bad3d8376adbac08258261c1b8f955a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "67.8"
     },
     "MEDAL_010": {
       "name": "Let the Investigations Begin!",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/d7f2d8bfdc55d5c8b48d4f4d24c371f2d6197b4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "MEDAL_020": {
       "name": "A Prize Held High",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/c4afd395d932230d1dfc7e0fa9d993b84eb35b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "MEDAL_031": {
       "name": "Someone Worth Following",
