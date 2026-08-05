@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/bae6def963ca0dbf5ee4b7768f3fcc0e99458380/header_alt_assets_8.jpg?t=1784642443",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/710f42dec831fa88bcf736d0715152822231505f/header.jpg?t=1784642443",
   "achievements": {
     "ACH_ReachLevel10": {
       "name": "Hither Came the Exile…",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2cd58873961093859d34b932423772ac17c5b28f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "ACH_ReachLevel30": {
       "name": "…A Reaver…",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/ba772ff5f257408f61d90c382b9dfd384aee99f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "ACH_ReachLevel40": {
       "name": "…A Slayer…",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0ecc3aefdde12355074d7aaa886f97b4b11f34a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACH_DefeatUndeadDragon": {
       "name": "The Hour of the Dragon",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2d69198437b84b2b15b0e1663829097c616c4c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "ACH_DefeatKinscourge": {
       "name": "The Devil in Iron",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/bf1267760e79f1b77e9b703f6cbcf9b688356259.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACH_Siptah_CraftEldariumItem": {
       "name": "The Shadow Out of Time",
