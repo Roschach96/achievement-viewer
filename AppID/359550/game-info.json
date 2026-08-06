@@ -1,7 +1,7 @@
 {
   "appid": "359550",
   "name": "Tom Clancy's Rainbow Six Siege",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/159d232dac26cee77cf57e32ec0545ac91c09dbc/header_alt_assets_24.jpg?t=1784137517",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/cd31c5a197317624687ad580af592e6404d13581/header.jpg?t=1784137517",
   "achievements": {
     "RB6X_Ach_1": {
       "name": "Back in the Day ATK",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/d600981ceba0e5ce892a2bb62b95e83283061be2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "RB6X_Ach_9": {
       "name": "Just Getting Started",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/5720a3c68822a338bfac0d1f17caf945d8e010ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "RB6X_Ach_41": {
       "name": "That Was Fast!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359550/cbb219d64b590e64eb3e021e8b3ea9b89ce316fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "RB6X_Ach_45": {
       "name": "Perimeter Secured",
