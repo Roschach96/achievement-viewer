@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/4305fe5064792619cccade09d891ab789c1d9694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "ach_story_5": {
       "name": "Malpractice",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0092b3f0e694005fd25123c05062226644e88990.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "ach_story_end": {
       "name": "One Last Chance",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0992e334829cd6873106a2427382a5839ab390e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ach_hatch": {
       "name": "The Burdens We Bear",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0cc457efefb956a28073915acfd801a73adb4c80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "ach_sidequests_all": {
       "name": "Squaretasking",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/08aabc15012ba9e7b6c3a5dfcf82e3d5999853dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.0"
     },
     "ach_class_tree_any": {
       "name": "A Gathering Storm",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/5354a2ee635ee5931e507e2206f28e0ca4e63a79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.4"
+      "percent": "89.3"
     },
     "ach_class_tree_branch": {
       "name": "Surpassing the Tempest",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/9cba0a72dc368cee65861a58a6ba5e230a6c40f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "ach_mod_unlock_milestone": {
       "name": "Inventor's Almanac",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/6c4784379e85be492913c14a43d8c76e5e05478e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.1"
     },
     "ach_harvest_locations": {
       "name": "Prospector",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/5896bc27392059f7e6dcfa1977ed46de3cddab43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ach_accolades_class_2": {
       "name": "Outrider, First Class",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/d2cfd1e0adf1652b3a55ee3e6fd43bb4340dd5e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "ach_ae_complete": {
       "name": "Just Take the Pod",
