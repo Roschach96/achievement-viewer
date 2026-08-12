@@ -1,7 +1,7 @@
 {
   "appid": "2646460",
   "name": "Soulmask",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/0871f08237fc0829756f0e6de4c8b8f0eed2181d/header.jpg?t=1784927000",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/eea9002ad10e3ab4050a2d6bfeab143406c1e886/header_alt_assets_13.jpg?t=1786451877",
   "achievements": {
     "BP_ChengJiu_MianJuLevel_10": {
       "name": "Soulmask",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7b7c0a3346389368799afd8c3f6b5710c0e289f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "BP_ChengJiu_Kill_MGW02": {
       "name": "Waterbag Hoglet",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f957189a10a58720a7576103b0da5d61126358ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "BP_ChengJiu_Kill_ShouLie05": {
       "name": "Hunter or Prey?",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e4495dafbc11f761a51660b40d7404c658cd8503.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "BP_ChengJiu_Kill_ZhaiZi08": {
       "name": "Bloodletter",
@@ -1027,7 +1027,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9398367952415942a924d5aab7c0c9d48d7445ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong07": {
       "name": "Observer",
