@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/bf928baa4470807f00367b05419cb07b68706fc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.2"
     },
     "DLC1MercyKill": {
       "name": "Into the Dark",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/9780abb40e5d8c5548a00b47082c1b96d80705e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "DLC1TakePicture": {
       "name": "Smile for the Camera",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/394fd476d582ae8e0c3872a046ddd53044c38907.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "DLC1Fire": {
       "name": "Warm Bodies",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cf636e24c59a17e092950e0b218a309d19c3d431.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "DLC1CraterView": {
       "name": "Remains of the Day",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/3f1a0dd96b53d9d3b6c88e050d56b92ce135821a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "DLC1AllPosters": {
       "name": "Super Fly Poster",
