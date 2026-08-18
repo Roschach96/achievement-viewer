@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/136b24949208469460c7fccfc4444a8995bb4e65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "ACH_10": {
       "name": "The Way of Roses",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/5f31c678c1b40b9fc2a6f6c0bd00bca61cb6a2e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.7"
     },
     "ACH_13": {
       "name": "Penance",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/82119f86be47b3194afdc61f0a400114c08d88b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "ACH_14": {
       "name": "Blood Ties",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/85acbf05bd3dd52d18d90f021e7ef87b7c032ce2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "ACH_20": {
       "name": "Curiosities hunter",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/27c3d10dcf91f79dcce181e2029aee81313da479.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACH_22": {
       "name": "Big sister",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/422691d509468bcae0615a6bbc84f8ce7c0e5118.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "ACH_26": {
       "name": "Resource sharing",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/85b383927cb92ca4a7e2419549ef658789464a56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "ACH_28": {
       "name": "Feeding the hungry",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/c0295d1fe2e64bdec05fb29962a0e2541d0cc457.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ACH_33": {
       "name": "Merciful",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/752590/94658f9a4defaca4c2bbc886dffec50495d70c80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     }
   },
   "platform": null,
