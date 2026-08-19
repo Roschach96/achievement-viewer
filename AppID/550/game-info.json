@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e0629618e6c3a477592d641ebaf5a5667e1e3e4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ACH_COLLECT_CEDA_VIALS": {
       "name": "ROBBED ZOMBIE",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1afe2388653842e1439978f753d05c76c1105cb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACH_COLLECT_GOLDEN_CROWBARS": {
       "name": "GOLDEN FREEMAN",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/4f56a3e9550c8097c51fa3e55daa4628bbb79a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     }
   },
   "platform": null,
