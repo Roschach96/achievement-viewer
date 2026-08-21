@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/827904d24d57fde343b660b7052719c06cc46c97.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "ACH_Defeat_Fang": {
       "name": "Executioner-executioner",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/1cdd5efde6eaeee89dcdff7f2c0b85c4dcc344f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "ACH_Defeat_RiftBoss": {
       "name": "Interdimensional Threat",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/c84627dfe1f05c1d6550ea8dc34941509a8be10d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "ACH_Defeat_Ferryman": {
       "name": "The Ferryman",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/99e0f5ffea4d352194cfa35a7f6cb32bd482b425.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "ACH_Defeat_Sleepwalker": {
       "name": "A Dream within a Dream",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/6a456455083ded6ab319fea92a83c6f50c5bf501.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_Defeat_Inquisitors": {
       "name": "Revenge",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/726addf6112243f091212de4a1bf2073b978bb95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.9"
+      "percent": "80.8"
     },
     "ACH_Defeat_Caretakers": {
       "name": "Taking Care",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/cc81bd88624a85253637f2eeeebedf13b53b0c4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "ACH_Defeat_BanditCaptain": {
       "name": "No Match",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8facfd7bd161eee185069cf4aadb8f9adb3ea0e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.4"
     },
     "ACH_Defeat_CourtMagician": {
       "name": "Court Affairs",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8fa2a6a03239fb8cff1c166bf70cc2e1c945fd40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "ACH_Kill100": {
       "name": "Warmup",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/81c105f0ad0c020862346e4d00f7ee5991a56bff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.7"
     },
     "ACH_Level10": {
       "name": "Initiate",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/2594d08fd291145b951a39ac8703ba43963052cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.7"
     },
     "ACH_Level25": {
       "name": "Journeyman",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/78f52e383158c97bdbc6cee67df26d01264f5bea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "ACH_Level50": {
       "name": "Master",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/016f539f88a0891e0521c6d10356a60df7d429ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "ACH_Level100": {
       "name": "Grand Master",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/2f13bc39465916ced6831a7b4e13311a43299a65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.4"
     },
     "ACH_Kill1KEntropy": {
       "name": "Reaver of Entropy",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/dee4a57febe498bb8750fbb1ed969a3b01849456.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "ACH_LearnAssassin": {
       "name": "Master Nightshade",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/c3f624564c89f1637436d1a07bdd27a58067708b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "ACH_LearnFire": {
       "name": "Master Flameweaver",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e2038549fba6496203cb5d0a9920092da8c075c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "ACH_Skilled": {
       "name": "Skilled!",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/a9799867b858e561284bc912fd8baaaa975c9737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "ACH_Loremaster": {
       "name": "Loremaster",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8ce98f41e42161a26abb068fcb3a464329125fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACH_Tailor": {
       "name": "Master Tailor",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/4ecb344ce448183307c12cf390e32f4de78a4342.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "ACH_GrandExplorer": {
       "name": "Grand Explorer",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8a1a86e21d74cddad861d9ca82a7c141d662e530.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "ACH_AllWeapons": {
       "name": "Armed to the Teeth",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/267337ae20f8f19164cb05b25f44aeeeeae3d35b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "ACH_MeetAgain": {
       "name": "We'll Meet Again",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/110b67578457b0b005458d3d7c02859e29906c73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     }
   },
   "platform": null,

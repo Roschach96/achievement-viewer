@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "CounterGravityTraversal": {
       "name": "Counter-Gravity Traversal",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "DontLetThemMerge": {
       "name": "Don't Let Them Merge",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "DownWithTheSickness": {
       "name": "Down With The Sickness",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "MayItServeYouFaultFree": {
       "name": "May It Serve You Fault-Free",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "TemporalDestinationReached": {
       "name": "Temporal Destination Reached",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     }
   },
   "platform": null,
