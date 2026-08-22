@@ -1,5 +1,5 @@
 {
-  "last_updated": 1787365792,
+  "last_updated": 1787432959,
   "total_games": 122,
   "games": [
     {
@@ -13289,7 +13289,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/e8360ad346eaa2c1c779795d8b60ae2b2a4e8357.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "88.8"
+            "percent": "88.7"
           },
           "16": {
             "name": "Replicating Extraordinaire!",
@@ -13460,7 +13460,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9600c34602fef0a0b1172d7fc2488fb61fbf5be0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.4"
+            "percent": "48.3"
           },
           "35": {
             "name": "Who Needs Guns!?",
@@ -13594,12 +13594,12 @@
           "earned_time": 0
         },
         "4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1787401243
         },
         "5": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1787415601
         },
         "6": {
           "earned": false,
