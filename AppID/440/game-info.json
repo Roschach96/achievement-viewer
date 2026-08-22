@@ -865,7 +865,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1a1602da1aaf5f5aed8d78da87f85ce355b44b17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "TF_HEAVY_ACHIEVE_PROGRESS3": {
       "name": "Heavy Milestone 3",
@@ -2548,7 +2548,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/072b37de8d734970cceb0ab15126284b4a91c377.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "TF_SOLDIER_FREEZECAM_TAUNT": {
       "name": "Worth a Thousand Words",
@@ -3124,7 +3124,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/46a0cd5d52e26827759d4458af6c09855c64e481.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "TF_ENGINEER_SENTRY_KILL_CAPS": {
       "name": "No Man's Land",
@@ -3322,7 +3322,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e12de0fc44fdd08d7e1ae74db805b68d326a2ff3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "TF_REPLAY_PERFORMANCE_MODE": {
       "name": "We Can Fix It In Post",
@@ -4258,7 +4258,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec2921ad12c6f41430a58023b7eecb84359934e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "TF_MVM_MEDIC_SHIELD_BLOCK_DAMAGE": {
       "name": "Wall of Pain",
