@@ -1,7 +1,7 @@
 {
   "appid": "2246340",
   "name": "Monster Hunter Wilds",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1786607644",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
   "achievements": {
     "MEDAL_000": {
       "name": "Eastward Wings",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/c70d7780fe1bb8ae50e9e051e64c7d20c23847b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.4"
+      "percent": "83.5"
     },
     "MEDAL_003": {
       "name": "Guardians of the Forge",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/8307c401238c82426842096298c9f39adf988d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.8"
     },
     "MEDAL_008": {
       "name": "One Corner of the World",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/112661e8da6815076bf791b50996e4938e71e709.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.8"
     },
     "MEDAL_009": {
       "name": "A True Hunter Is Never Satisfied",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/fef975a2c30348f1cd0200a46b6f9e01221c51dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "MEDAL_030": {
       "name": "Power Is Everything",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/36d8f5cae3bd53a2476caefbd5708f9a0488e0d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "MEDAL_034": {
       "name": "Explorer of the Eastlands",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/510e000175d6a08881aea61b24b1c4a1edafac25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "MEDAL_037": {
       "name": "Miniature Crown",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/ef8c1132de4509dee02dc00a0a21f8ab5277fb9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "MEDAL_038": {
       "name": "Miniature Crown Collector",

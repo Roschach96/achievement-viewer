@@ -1378,7 +1378,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c54422d29d44e810e3e57848c2883cb9f543e110.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "TF_SCOUT_KILL_STUNNED": {
       "name": "Strike Zone",
@@ -1621,7 +1621,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7be50a6e7c96737b1a719153f73cd018858a49af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "TF_SNIPER_FREEZECAM_WAVE": {
       "name": "The Last Wave",
@@ -2071,7 +2071,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b743baad26760f8bf4489ff6db233432889725ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TF_SPY_SAPPER_TEAMWORK": {
       "name": "Joint Operation",
@@ -2098,7 +2098,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/63c3d8fc77d2f3baaf99dff42d67e44915c347ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO": {
       "name": "Slash and Burn",
@@ -2350,7 +2350,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa3d7f36172be1c248b6fb5ee56c611bcfd872ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "TF_SOLDIER_KILL_ENGY": {
       "name": "Engineer to Eternity",
@@ -2926,7 +2926,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/496309efd41704f0ba517f48a74814a4f2f0aa38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS": {
       "name": "Sticky Thump",
@@ -2998,7 +2998,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4df5063bc0df9792a9f63c7ca03ae57f6bdbf248.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL": {
       "name": "Search Engine",
@@ -3133,7 +3133,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d397c5ff28f9598865f4759022a7eb59e5e89132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TF_ENGINEER_KILL_FLAG_CARRIERS": {
       "name": "Trade Secrets",

@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.4"
     },
     "ACH_BATTERYMAX": {
       "name": "Battery of Batteries",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/91c7effb07a360bb966db293cb780c926d7ddf80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACH_COLLECTION_DUCKS": {
       "name": "Get your ducks in a row",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/17826121e74790554c80f11e7c845975a092c7dd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH_JUMPBOOSTLARGE": {
       "name": "Low orbit",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ACH_PROG_END": {
       "name": "Viewfound",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "ACH_PROG_OPT_ALL": {
       "name": "I didn’t realise they were optional",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",

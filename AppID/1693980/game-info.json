@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/8882e70d7ee1a200174faf5bab65cbd3abf3ff7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "ach04": {
       "name": "Cannon Fodder",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/ebd67c7d792ccf294b397ff0bc0b7b23e3315961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "ach11": {
       "name": "Betrayed",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/2643860ed1f4e61e97e0d49e31dc6002a9041f82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ach16": {
       "name": "Untouchable",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/76bd157b0dc1b8a11ad24777c70d9f49ab5cea21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "ach22": {
       "name": "A Cut Above",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/0c7036fcd1dd8cebda7ab07177b07aad09f29b50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "ach24": {
       "name": "Eviscerator",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/78517f01efc7380828f3e7f4eda0f40995fa5f0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ach25": {
       "name": "Full Contact",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/ad34d62757704d54c8508d0a44807487cda775de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ach29": {
       "name": "Legend Teller",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/b93f0b232dde5c0e00914f38676999657bdb2fa9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ach31": {
       "name": "Marksman",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/66c70af47d850e7575d487f535dc3aecaecf76a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "ach42": {
       "name": "Brute Force",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/68979dacd5f0676199fe6eb4883923d327bdc326.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ach45": {
       "name": "Mindless Prey",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/c728703c146ca7f8a2487b6eb13104d8b2f052ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     }
   },
   "platform": null,
