@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/f7e9431088401c5ac147c6e64e50654997116bfe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "Achievement_GOSCC_6": {
       "name": "Found Family",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/5143c93c7b72e5f6c40d852a5b899ba479d22617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "Achievement_GOSCC_17": {
       "name": "Flow Master",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1846380/c5abf7fc2f714bf3c9d74d3a48f9751f99cb8c00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.4"
     }
   },
   "platform": null,

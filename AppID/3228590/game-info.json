@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.4"
     },
     "ACH_CollectTech100": {
       "name": "Tech Enthusiast",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "ACH_StartMission": {
       "name": "Who the Hell am I?",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "ACH_CompleteMission_Hard": {
       "name": "Hardcore",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.7"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",

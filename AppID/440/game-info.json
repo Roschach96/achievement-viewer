@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.4"
     },
     "TF_GET_HEALED_BYENEMY": {
       "name": "Master of Disguise",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_healed_byenemy_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "TF_PLAY_GAME_FRIENDSONLY": {
       "name": "With Friends Like these...",
@@ -1378,7 +1378,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c54422d29d44e810e3e57848c2883cb9f543e110.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "TF_SCOUT_KILL_STUNNED": {
       "name": "Strike Zone",
@@ -1468,7 +1468,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3a2507203fc37035f19d102b20f5b358d115fb84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "TF_SCOUT_FAST_CAP": {
       "name": "Stealing Home",
@@ -1567,7 +1567,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6448065d60f0be17e5adc7105db6abfd1484144a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "TF_SNIPER_KILL_GRIND": {
       "name": "Kill Everyone You Meet",
@@ -1621,7 +1621,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7be50a6e7c96737b1a719153f73cd018858a49af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "TF_SNIPER_FREEZECAM_WAVE": {
       "name": "The Last Wave",
@@ -1882,7 +1882,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1e7d4f7bc1f4caa42e4a3ce050d81114a6fbcc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "TF_SPY_TAUNT_KILL": {
       "name": "The Man from P.U.N.C.T.U.R.E.",
@@ -2071,7 +2071,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b743baad26760f8bf4489ff6db233432889725ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "TF_SPY_SAPPER_TEAMWORK": {
       "name": "Joint Operation",
@@ -2098,7 +2098,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/63c3d8fc77d2f3baaf99dff42d67e44915c347ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO": {
       "name": "Slash and Burn",
@@ -2251,7 +2251,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/89d0ada548faa8bb391137a577f53f36a8218f13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "TF_SOLDIER_ACHIEVE_PROGRESS1": {
       "name": "Soldier Milestone 1",
@@ -2350,7 +2350,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa3d7f36172be1c248b6fb5ee56c611bcfd872ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "TF_SOLDIER_KILL_ENGY": {
       "name": "Engineer to Eternity",
@@ -2458,7 +2458,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c86b046c0f68b79553e87293c77a9bd5d9096695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES": {
       "name": "Hamburger Hill",
@@ -2926,7 +2926,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/496309efd41704f0ba517f48a74814a4f2f0aa38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS": {
       "name": "Sticky Thump",
@@ -2998,7 +2998,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4df5063bc0df9792a9f63c7ca03ae57f6bdbf248.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL": {
       "name": "Search Engine",
@@ -3124,7 +3124,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/46a0cd5d52e26827759d4458af6c09855c64e481.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "TF_ENGINEER_SENTRY_KILL_CAPS": {
       "name": "No Man's Land",
@@ -3133,7 +3133,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d397c5ff28f9598865f4759022a7eb59e5e89132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TF_ENGINEER_KILL_FLAG_CARRIERS": {
       "name": "Trade Secrets",
@@ -3538,7 +3538,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3cc1bedeffd471e83a8e528081af2cff47ff31da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "TF_MAPS_FOUNDRY_ACHIEVE_PROGRESS1": {
       "name": "Foundry Milestone",
@@ -4213,7 +4213,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6b409262970981edc73f24971051a9833e7104b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_MVM_MAPS_MANNHATTAN_STUN_RADIOWAVE": {
       "name": "Software Downgrade",
