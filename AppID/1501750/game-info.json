@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "TLOTF_ACHIEVEMENT_003": {
       "name": "Lost and Found",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "TLOTF_ACHIEVEMENT_004": {
       "name": "Weapon Collector",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "TLOTF_ACHIEVEMENT_016": {
       "name": "Rune Novice",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "TLOTF_ACHIEVEMENT_017": {
       "name": "Rune Master",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "TLOTF_ACHIEVEMENT_018": {
       "name": "Carving Out Victory",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "TLOTF_ACHIEVEMENT_020": {
       "name": "Comrades",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.4"
     },
     "TLOTF_ACHIEVEMENT_023": {
       "name": "No Mercy",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "TLOTF_ACHIEVEMENT_028": {
       "name": "Rise and Fall",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "TLOTF_ACHIEVEMENT_029": {
       "name": "Together in Death",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "TLOTF_ACHIEVEMENT_030": {
       "name": "Burying the Past",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.1"
     },
     "TLOTF_ACHIEVEMENT_031": {
       "name": "Unwanted",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "TLOTF_ACHIEVEMENT_032": {
       "name": "Unbroken to the End",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "TLOTF_ACHIEVEMENT_033": {
       "name": "Wings of Grief",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "TLOTF_ACHIEVEMENT_034": {
       "name": "Twin Faces of Sin",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "TLOTF_ACHIEVEMENT_036": {
       "name": "Hunt's End",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "TLOTF_ACHIEVEMENT_037": {
       "name": "The King is Dead",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "TLOTF_ACHIEVEMENT_040": {
       "name": "None Shall be Spared",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "TLOTF_ACHIEVEMENT_044": {
       "name": "Moving On",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "TLOTF_ACHIEVEMENT_045": {
       "name": "Hero Worship",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "TLOTF_ACHIEVEMENT_054": {
       "name": "Back to the Void",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "TLOTF_ACHIEVEMENT_057": {
       "name": "Thriving in Darkness",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "62.8"
     },
     "TLOTF_ACHIEVEMENT_058": {
       "name": "Seasoned",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "TLOTF_ACHIEVEMENT_059": {
       "name": "Lord of The Fallen",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "TLOTF_ACHIEVEMENT_061": {
       "name": "Lingering Moments",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "TLOTF_ACHIEVEMENT_063": {
       "name": "A Trace of Venom",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "TLOTF_ACHIEVEMENT_076": {
       "name": "Indomitable",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "TLOTF_ACHIEVEMENT_083": {
       "name": "The Worm Stirs",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "TLOTF_ACHIEVEMENT_084": {
       "name": "Promise Kept",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     }
   },
   "platform": null,
