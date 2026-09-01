@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403640/84bc447e4ddb0d55d281036912de3632f7d9434e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "ACH_24": {
       "name": "Gazebo",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403640/c4dbe120e9f0f352e8d9d82c011b2f52bf32ed81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     }
   },
   "platform": null,

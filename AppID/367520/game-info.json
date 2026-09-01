@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "VOID": {
       "name": "Void",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6efa8b82b7062070451e05e3569356d0a871dce3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "STEELSOUL": {
       "name": "Steel Soul",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "GREY_PRINCE": {
       "name": "Dark Romance",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "BANISHMENT": {
       "name": "Banishment",

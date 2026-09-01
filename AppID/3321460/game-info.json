@@ -1,7 +1,7 @@
 {
   "appid": "3321460",
   "name": "Crimson Desert Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1787909144",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788226529",
   "achievements": {
     "NoviceAdventurer": {
       "name": "Novice Adventurer",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "76.9"
     },
     "MasterCamper": {
       "name": "Master Camper",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/93d03a8d684ee0a2aa55cae660b209da11418a78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "57.8"
     },
     "MazeHunter": {
       "name": "Maze Pathfinder",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/2a7e919ca92781c9e048f5e483a0a1522b11994c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "Shieldmaster": {
       "name": "Master of Shields",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/61ebe974b3648d3ff41d250feb72fb164a600239.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "RapierMaster": {
       "name": "Master of Rapiers",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "UltimateWeaponCollector": {
       "name": "Grand Collector of Arms",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "27.9"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/b927c724860f9aebd5bc3ee0cc03356ee61fe881.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "TheUltimateWarrior": {
       "name": "Unvanquished Strategist",

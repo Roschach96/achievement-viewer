@@ -1,7 +1,7 @@
 {
   "appid": "2646460",
   "name": "Soulmask",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/eea9002ad10e3ab4050a2d6bfeab143406c1e886/header_alt_assets_13.jpg?t=1787057248",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1788175255",
   "achievements": {
     "BP_ChengJiu_MianJuLevel_10": {
       "name": "Soulmask",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d0d3d857661e45cdb6f6339fca0b7306b7fdb4d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "BP_ChengJiu_ShiBan_001": {
       "name": "Ancient Scholar",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6434f43246f49feaf3449fb5326d4eeab671ca6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "BP_ChengJiu_Kill_ShouLie01": {
       "name": "1 in 10",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d66b89559a5e68eb56323200d7aa9e53eaf05a60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "BP_ChengJiu_Kill_ZhaiZi01": {
       "name": "Rock Breaker",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ef272633c204b493fed68ec91c37026540059e30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "70.8"
     },
     "BP_ChengJiu_ManRen_zhaoMu_3": {
       "name": "Tribe Prosperity",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ab5adb9d5f378c0656bebc614909d58f70118b00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "BP_ChengJiu_ZhiZao_PengRen01": {
       "name": "Enough all you want!",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/5e0d551fb2c9ec29c757c6226a8c4212b27a4268.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi05": {
       "name": "Stoneclaw",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/447d9d20ed84f0e9e8d6262eea36db4498170916.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi06": {
       "name": "Bloodfang",
@@ -955,7 +955,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/7563f43b8f2b796b310c67d42a8f6df76c26b87b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi07": {
       "name": "Spikebone",
@@ -964,7 +964,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a581ed474033b30ac30be0b7287739f21f037d56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi08": {
       "name": "Scareye",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/12bbcc2d1bff33f2851a918301ed3598aacaad5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong01": {
       "name": "Transmuter",
@@ -1089,8 +1089,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/247687de8b38ac15d12a362f9d343a50b212e654.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/851f7331cf485a587c922235ec8e22f64acbc62c.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     }
   },
   "platform": null,

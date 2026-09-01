@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ab13fd5fbf467d4e5618c35f8dd315c827e8dd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.3"
+      "percent": "85.4"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.9"
     },
     "ACH_CompleteStory2": {
       "name": "Stay Frosty",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "ACH_CompleteMission_Hard": {
       "name": "Hardcore",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "ACH_CompleteMission_Expert": {
       "name": "Express Elevator to Hell",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "ACH_CompleteMission_Nightmare": {
       "name": "Bad Dreams",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.3"
+      "percent": "83.2"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.2"
     },
     "ACH_CompleteMission_Undamaged": {
       "name": "Invincible",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "ACH_LoadoutLegendary": {
       "name": "Blinged Out",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "ACH_Sanctify1": {
       "name": "Gunpowder Piety",
