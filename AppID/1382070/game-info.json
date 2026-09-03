@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/d355412e145e025d1c84e615faafe96a480e319c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_COMPLETELEVELFAST": {
       "name": "Speed Demon",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/32bd011dc9f2e25d492ed79b42888689aeeb3862.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACH_MURALTRICKEDTWICE": {
       "name": "Fool me twice",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/4103a33c0db8776553edcf703664cc281ea0a495.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "ACH_RIDEBALLOON": {
       "name": "Hitching a ride",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/5654f6b19e6e8d57646d595d29050f79c8ac6c14.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "ACH_TIMER_JUST": {
       "name": "Impeccable timing",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/2d56a8562747d32a749bc3867db3000a0423d30e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACH_WINDMILLBREAK": {
       "name": "Breaking wind",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/e401a7363619bc83689c6c5852b14be8a9e90ab7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     }
   },
   "platform": null,

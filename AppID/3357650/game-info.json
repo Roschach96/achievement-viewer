@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/c30f7939ad688cdfd2412dc96356eaf39e186788.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.6"
     },
     "4": {
       "name": "Another Pragmata",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/481c1e281a3823c7c2e7b553394ae0a3f6b6b698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "5": {
       "name": "Entrusted Memory",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b9148bbe2545a36a7de493f73ead9451a7dd181e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "8": {
       "name": "Sentinel Breach",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/41aea8b0ce78b83224ad22b8b3fd2749b770c700.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "9": {
       "name": "Our Promise",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf8e0cdcf0d2046c1e5f379ea29f56c749653cf9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "15": {
       "name": "For Me?",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7b8194b5774801607fd046ac2da07bffc005576c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "26": {
       "name": "Can't Stop, Won't Stop",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf6703a7293e07e39f4e03378b6fee3c2f0b19a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "29": {
       "name": "A Lunar Challenge",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7896c6f11f7b408671e28e3cc832266e24ffd47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.9"
     },
     "31": {
       "name": "Courage in Desperation",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/8a5e60734f2847bccd51c3e8c3bb6214d7d1c03e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "33": {
       "name": "Clean Up on Aisle Three",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.7"
     }
   },
   "platform": null,
