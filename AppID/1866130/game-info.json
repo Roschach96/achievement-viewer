@@ -272,6 +272,174 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "1.1"
+    },
+    "NOVICE_DEFENDER": {
+      "name": "Novice Defender",
+      "description": "Get the first Reward in the \"Defend the Base\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96f783b234564959daceb0e85092d9a8906e4446.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EXPERT_DEFENDER": {
+      "name": "Expert Defender",
+      "description": "Get the Second Reward in the \"Defend the Base\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4e025a9529e870f14e60f302aec1cd61cf072b01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "MASTER_DEFENDER": {
+      "name": "Master Defender",
+      "description": "Get the Third Reward in the \"Defend the Base\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6e4a9d8e22470d7ce8ec8980b074316422a5c467.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "FLUX_NOVICE": {
+      "name": "Flux Novice",
+      "description": "Kill 50 Enemies with Flux",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a92a870921564dd44405de9f89c5dc9d9ebb9082.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "NOVICE_ENGINEER": {
+      "name": "Novice Engineer",
+      "description": "Get the First Reward in the \"Kill all Turrets\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2ca5e572f2de7b678a389d2c06446acec9f69e1f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EXPERT_ENGINEER": {
+      "name": "Expert Engineer",
+      "description": "Get the Second Reward in the \"Kill all Turrets\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4bc723d8b1525a0db3b7afc9cafebf3f0723abfb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "MASTER_ENGINEER": {
+      "name": "Master Engineer",
+      "description": "Get the Third Reward in the \"Kill all Turrets\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6dcb3178fcfdf125cf20ce81fe5ffd93465781a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "FLUX_EXPERT": {
+      "name": "Flux Expert",
+      "description": "Kill 250 Enemies with Flux",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a72aa8f2205c2583843737ff2635cb1e476e6a1e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "NOVICE_SLAYER": {
+      "name": "Novice Slayer",
+      "description": "Get the First Reward in the \"Time Trial\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/7145b1773e26abac31183287cb54eafe91e33464.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EXPERT_SLAYER": {
+      "name": "Expert Slayer",
+      "description": "Get the Second Reward in the \"Time Trial\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/890843f0cbb1bb219663afb8276816a549741007.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "MASTER_SLAYER": {
+      "name": "Master Slayer",
+      "description": "Get the Third Reward in the \"Time Trial\" Game mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3fc5396103a3606ce15702432dc3090135a2bd6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "FLUX_MASTER": {
+      "name": "Flux Master",
+      "description": "Kill 500 Enemies with Flux",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/44a4801d142fcf6b075eabc70aeb0ed3a18a97dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EKKU_NOVICE": {
+      "name": "Ekku Novice",
+      "description": "Kill 50 Enemies with Ekku",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/39a2b09a1452838cb4e956f84d7199cf11452ef8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EKKU_EXPERT": {
+      "name": "Ekku Expert",
+      "description": "Kill 250 Enemies with Ekku",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ac6c971f4ebc44887c197b61836d853dca98a0d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EKKU_MASTER": {
+      "name": "Ekku Master",
+      "description": "Kill 500 Enemies with Ekku",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b4d228b315eaa60f7c3a9444b934d60feaea1373.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "FLUX_UNLEASHED": {
+      "name": "Flux Unleashed",
+      "description": "Kill 1000 Enemies with Flux",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/1d39ec6ce18d9951684bfc30fdc356204b039485.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EKKU_UNLEASHED": {
+      "name": "Ekku Unleashed",
+      "description": "Kill 1000 Enemies with Ekku",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/330fe8e240e12a1f821c740abc951a5e161dafd5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "VEKTA_NOVICE": {
+      "name": "Vekta Novice",
+      "description": "Kill 50 Enemies with Vekta ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ce3563cdb672adc95fa1db62c4fa427952ee4277.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "VEKTA_EXPERT": {
+      "name": "Vekta Expert",
+      "description": "Kill 250 Enemies with Vekta ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2b991546319936648ee495dc92a2bbb8ff16b54a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "VEKTA_MASTER": {
+      "name": "Vekta Master",
+      "description": "Kill 500 Enemies with Vekta ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3eed59da47c3870d846a6123b65a6f65a74c4e1a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "VEKTA_UNLEASHED": {
+      "name": "Vekta Unleashed",
+      "description": "Kill 1000 Enemies with Vekta ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/bd08817f1f957aa3877d9af0c654ae9baf6127e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": null,
