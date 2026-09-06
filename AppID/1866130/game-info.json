@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.4"
+      "percent": "96.5"
     },
     "FIRST_UPGRADE_NEXUSNODE": {
       "name": "Your path has just begun",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "KILL_BOSS_B1": {
       "name": "You’re closer",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "DEVILS_BARGAIN_FIRST_CHOSEN": {
       "name": "Are you sure?",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "CHAR_UNLOCK_EKKU": {
       "name": "Now you’re two",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "77.1"
     },
     "CHAR_UNLOCK_VEKTA": {
       "name": "And three",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "SUBBIOME_B1_ENTERED": {
       "name": "Sunken Grounds",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "UNLOCK_DIFFICULTY_2": {
       "name": "The Cycle Continues",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "UNLOCK_DIFFICULTY_3": {
       "name": "You show potential",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.5"
     },
     "ITERATIONS_2": {
       "name": "Fail and Repeat",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.9"
     },
     "ITERATIONS_3": {
       "name": "Rule of Three",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.5"
     },
     "ITERATIONS_5": {
       "name": "5 in a Row",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.5"
     },
     "ITERATIONS_10": {
       "name": "Cant get enough",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.7"
     },
     "ITERATIONS_25": {
       "name": "Okay, nice",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ITERATIONS_50": {
       "name": "Maybe you should rest",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ITERATIONS_100": {
       "name": "Touch some Grass",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "EARLY_ACCESS": {
       "name": "Early Supporter",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "20.0"
     },
     "VOID_NEXUS_UNLOCK_HALF": {
       "name": "Almost There",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "VOID_NEXUS_UNLOCK_FULL": {
       "name": "Full Potential",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "CORPORA_UNLOCK_FULL": {
       "name": "Everyday Trinkets",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "NOVICE_DEFENDER": {
       "name": "Novice Defender",
@@ -279,7 +279,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96f783b234564959daceb0e85092d9a8906e4446.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "EXPERT_DEFENDER": {
       "name": "Expert Defender",
@@ -287,7 +288,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4e025a9529e870f14e60f302aec1cd61cf072b01.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.2"
     },
     "MASTER_DEFENDER": {
       "name": "Master Defender",
@@ -295,7 +297,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6e4a9d8e22470d7ce8ec8980b074316422a5c467.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.2"
     },
     "FLUX_NOVICE": {
       "name": "Flux Novice",
@@ -303,7 +306,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a92a870921564dd44405de9f89c5dc9d9ebb9082.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.4"
     },
     "NOVICE_ENGINEER": {
       "name": "Novice Engineer",
@@ -311,7 +315,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2ca5e572f2de7b678a389d2c06446acec9f69e1f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "EXPERT_ENGINEER": {
       "name": "Expert Engineer",
@@ -319,7 +324,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4bc723d8b1525a0db3b7afc9cafebf3f0723abfb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "MASTER_ENGINEER": {
       "name": "Master Engineer",
@@ -327,7 +333,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6dcb3178fcfdf125cf20ce81fe5ffd93465781a8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.1"
     },
     "FLUX_EXPERT": {
       "name": "Flux Expert",
@@ -335,7 +342,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a72aa8f2205c2583843737ff2635cb1e476e6a1e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.1"
     },
     "NOVICE_SLAYER": {
       "name": "Novice Slayer",
@@ -343,7 +351,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/7145b1773e26abac31183287cb54eafe91e33464.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "EXPERT_SLAYER": {
       "name": "Expert Slayer",
@@ -351,7 +360,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/890843f0cbb1bb219663afb8276816a549741007.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "MASTER_SLAYER": {
       "name": "Master Slayer",
@@ -359,7 +369,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3fc5396103a3606ce15702432dc3090135a2bd6e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.2"
     },
     "FLUX_MASTER": {
       "name": "Flux Master",
@@ -367,7 +378,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/44a4801d142fcf6b075eabc70aeb0ed3a18a97dd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "EKKU_NOVICE": {
       "name": "Ekku Novice",
@@ -375,7 +387,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/39a2b09a1452838cb4e956f84d7199cf11452ef8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.3"
     },
     "EKKU_EXPERT": {
       "name": "Ekku Expert",
@@ -383,7 +396,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ac6c971f4ebc44887c197b61836d853dca98a0d0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "EKKU_MASTER": {
       "name": "Ekku Master",
@@ -391,7 +405,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b4d228b315eaa60f7c3a9444b934d60feaea1373.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "FLUX_UNLEASHED": {
       "name": "Flux Unleashed",
@@ -399,7 +414,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/1d39ec6ce18d9951684bfc30fdc356204b039485.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "EKKU_UNLEASHED": {
       "name": "Ekku Unleashed",
@@ -407,7 +423,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/330fe8e240e12a1f821c740abc951a5e161dafd5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "VEKTA_NOVICE": {
       "name": "Vekta Novice",
@@ -415,7 +432,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ce3563cdb672adc95fa1db62c4fa427952ee4277.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.1"
     },
     "VEKTA_EXPERT": {
       "name": "Vekta Expert",
@@ -423,7 +441,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2b991546319936648ee495dc92a2bbb8ff16b54a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "VEKTA_MASTER": {
       "name": "Vekta Master",
@@ -431,7 +450,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3eed59da47c3870d846a6123b65a6f65a74c4e1a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "VEKTA_UNLEASHED": {
       "name": "Vekta Unleashed",
@@ -439,7 +459,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/bd08817f1f957aa3877d9af0c654ae9baf6127e1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,

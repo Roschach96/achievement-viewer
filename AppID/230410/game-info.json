@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/7bd2a21d08043798480249f1d01d3ff52102184c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "ACHIEVEMENT_7": {
       "name": "Blade Proficiency II",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/1153bce25e5c4c310f55ce41b882fe02e3b8f937.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "ACHIEVEMENT_10": {
       "name": "Bow Mastery II",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/579a12bb4ed1ddbc14d66e2a1577e996b2f2b9e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "ACHIEVEMENT_37": {
       "name": "Collector",
@@ -1630,7 +1630,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/6af59787cccefa97aa2b5e9f086f3f6ba38c2a27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "ACHIEVEMENT_183": {
       "name": "K-Driven",
@@ -1738,7 +1738,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/7b0fdb798f14ea6d0b417cd7b502480fa7b56dab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     }
   },
   "platform": null,
