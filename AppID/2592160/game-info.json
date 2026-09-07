@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.7"
     },
     "ACH_MERCY": {
       "name": "\"I can confirm he’s a bad ass.\"",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/f82f676f25cbb0d461789d236e6e790e11ec1f74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_VENGEANCE": {
       "name": "\"Muuuuurrrdaaaaah!\"",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3d39877b880191d545b67756ddbfcf29c25ae8b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ba980b938d51ca961ff507132f09a2c26e6020fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "ACH_TRUTH_TOLD": {
       "name": "\"That’s, like, a real superhero.\"",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/f116d0045c5f4a6f6dc562d1c3f3f503334ee64c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.8"
+      "percent": "70.7"
     },
     "ACH_HACK_ALL": {
       "name": "H4ck3d by R0b3rt",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/9abc489901baf9bf88bcc11c6d0df85894960c5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "ACH_VIRUS": {
       "name": "Anti-Antivirus Club",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "ACH_TRAIN": {
       "name": "Power Trip",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/1151d73c5d28faf958910066a46f9690ed973ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.5"
+      "percent": "82.4"
     },
     "ACH_DONUT": {
       "name": "\"Love ‘em from my mouth to my butt.\"",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/a87b237764917ecbb47bacd874bba8a504524fd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.3"
+      "percent": "90.2"
     },
     "ACH_PERFECT": {
       "name": "Shift Was Lit",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.5"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",

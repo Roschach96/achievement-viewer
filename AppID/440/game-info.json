@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7fb6255772cef4c1d852a7fd0548f033d4b3c777.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "TF_PYRO_FORCE_WATERJUMP": {
       "name": "Baptism by Fire",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "TF_PYRO_KILL_AXE_SMALL": {
       "name": "Lumberjack",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2a9bbe4b39680be1b2720d8ee2b441d234603084.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_PYRO_KILL_AXE_LARGE": {
       "name": "Clearcutter",
@@ -1459,7 +1459,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/88bedf28e017457209b7a4deaaa3777507a24b2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "TF_SCOUT_CAPTURE_THREE_POINTS": {
       "name": "Triple Play",
@@ -2224,7 +2224,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -3097,7 +3097,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a26a7cf65d7146dd26494670816b6ebbbf7b0cf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_ENGINEER_FREEZECAM_SENTRY": {
       "name": "Uncivil Engineer",
@@ -3466,7 +3466,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1fb30be7b7bfe5992ccabf2180e9abe7fe80af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "TF_MAPS_FOUNDRY_WIN_ROUNDS": {
       "name": "The Crucible",
@@ -4096,7 +4096,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/62f10a4f07c5b6393a399688c93a1643f18b6445.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TF_HALLOWEEN_HELLTOWER_KILL_BROTHERS": {
       "name": "Helltower: Hell on Wheels",
@@ -4564,7 +4564,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ed4812006a13f76aa9e4a8f963e12085c3950cfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "TF_HALLOWEEN_DOOMSDAY_COLLECT_DUCKS": {
       "name": "Carnival of Carnage: Up All Night To Get Ducky",
