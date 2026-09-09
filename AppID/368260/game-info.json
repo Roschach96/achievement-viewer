@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "66.1"
     },
     "CODA_ACHIEVEMENT_006": {
       "name": "A Light Extinguished",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "CODA_ACHIEVEMENT_010": {
       "name": "Big Mad",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "CODA_ACHIEVEMENT_025": {
       "name": "Fire Burn and Cauldron Bubble",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "CODA_ACHIEVEMENT_037": {
       "name": "T.H.R.E.A.T. Eliminated",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "CODA_ACHIEVEMENT_042": {
       "name": "The Keymaster",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "CODA_ACHIEVEMENT_056": {
       "name": "Dream Team",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "CODA_ACHIEVEMENT_058": {
       "name": "Kitchen Sink",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "CODA_ACHIEVEMENT_062": {
       "name": "Needful Things",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "CODA_DLC_ACHIEVEMENT_017": {
       "name": "Elemental Teachings",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "CODA_DLC_ACHIEVEMENT_018": {
       "name": "Blessings of the Goddess",
