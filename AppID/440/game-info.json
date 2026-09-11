@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "TF_GET_CONSECUTIVEKILLS_NODEATHS": {
       "name": "Hard to Kill",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_spy_callers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_MEDIC_CHARGE_FRIENDS": {
       "name": "Family Practice",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7fb6255772cef4c1d852a7fd0548f033d4b3c777.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "TF_PYRO_FORCE_WATERJUMP": {
       "name": "Baptism by Fire",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a5ae389e2515af73030fdd231a8399aef91a71bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "TF_PYRO_KILL_SPIES": {
       "name": "Firewall",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "TF_PYRO_KILL_AXE_SMALL": {
       "name": "Lumberjack",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2a9bbe4b39680be1b2720d8ee2b441d234603084.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_PYRO_KILL_AXE_LARGE": {
       "name": "Clearcutter",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c89aaf25155ab8a78d436e935823b8b17c147660.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "TF_PYRO_KILL_TAUNTERS": {
       "name": "Dance Dance Immolation",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "TF_PYRO_KILL_FROM_BEHIND": {
       "name": "Hot on Your Heels",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60dc06b26a1a5427dc5ca04c598c342ee0ede797.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "TF_PYRO_ACHIEVE_PROGRESS3": {
       "name": "Pyro Milestone 3",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e4fab565b0063e29b474897f9690b73374b6cbfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "TF_HEAVY_KILL_TAUNT": {
       "name": "Show Trial",
@@ -1459,7 +1459,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/88bedf28e017457209b7a4deaaa3777507a24b2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "TF_SCOUT_CAPTURE_THREE_POINTS": {
       "name": "Triple Play",
@@ -1522,7 +1522,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "TF_SCOUT_TAUNT_KILL": {
       "name": "Out of the Park",
@@ -1558,7 +1558,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "TF_SNIPER_CAPTURE_FLAG": {
       "name": "Have a Plan",
@@ -1954,7 +1954,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/034e9b3305abccb1b69af2e0b577f32931171bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "TF_SPY_KILL_SPY_WITH_KNIFE": {
       "name": "A Cut Above",
@@ -2134,7 +2134,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9b309256e37710553532324e4e6a90091f4f3bb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "TF_SPY_AMBASSADOR_SCOUT_GRIND": {
       "name": "Who's Your Daddy?",
@@ -2224,7 +2224,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -2773,7 +2773,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9cece99e1e51f957f02069ce79a8ec25e94c8630.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_DEMOMAN_KILL_X_CAPPING_ONEDET": {
       "name": "Scotch Guard",
@@ -2800,7 +2800,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4b64df1114aed1b3c5af2828da787ee737c9f2ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET": {
       "name": "The Stickening",
@@ -2962,7 +2962,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fa96727c44f9c48100e626e83d3b77540c3c1866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS2": {
       "name": "Engineer Milestone 2",
@@ -3070,7 +3070,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0b9b564280d30525353f1710a98bbf9bc0d17b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND": {
       "name": "Best Little Slaughterhouse in Texas",
@@ -3097,7 +3097,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a26a7cf65d7146dd26494670816b6ebbbf7b0cf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_ENGINEER_FREEZECAM_SENTRY": {
       "name": "Uncivil Engineer",
@@ -3106,7 +3106,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2791206144ce2a2b7f1309de30c189e0cc24120e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET": {
       "name": "Texas Two-Step",
@@ -3151,7 +3151,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ef3f43570c99d4a4768f43a9e37d9f93063ab316.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TF_ENGINEER_HELP_BUILD_STRUCTURE": {
       "name": "Land Grab",
@@ -3241,7 +3241,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7c07bb62a45b959b851bea81895f0100a36646b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "TF_ENGINEER_DISPENSER_HEAL_GRIND": {
       "name": "Drugstore Cowboy",
@@ -3421,7 +3421,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a61057fa2f2799d4549884b2748b7bf7d4d0de71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "TF_HALLOWEEN_LOOT_ISLAND": {
       "name": "Dive Into a Good Book",
@@ -3466,7 +3466,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1fb30be7b7bfe5992ccabf2180e9abe7fe80af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "TF_MAPS_FOUNDRY_WIN_ROUNDS": {
       "name": "The Crucible",
@@ -3736,7 +3736,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_pickup_money_about_to_expire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TF_MVM_COLLECT_MONEY_GRIND": {
       "name": "T-1000000",
@@ -3772,7 +3772,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_two_tanks_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "TF_MVM_DESTROY_TANK_WHILE_DEPLOYING": {
       "name": "Balls-E",
@@ -3934,7 +3934,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_sentry_buster_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "TF_MVM_SPY_SAP_ROBOTS": {
       "name": "Sly Voltage",
@@ -3943,7 +3943,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_spy_sap_robots_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "TF_MVM_SOLDIER_BUFF_TEAM": {
       "name": "Turbocharger",
@@ -4096,7 +4096,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/62f10a4f07c5b6393a399688c93a1643f18b6445.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "TF_HALLOWEEN_HELLTOWER_KILL_BROTHERS": {
       "name": "Helltower: Hell on Wheels",
@@ -4564,7 +4564,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ed4812006a13f76aa9e4a8f963e12085c3950cfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "TF_HALLOWEEN_DOOMSDAY_COLLECT_DUCKS": {
       "name": "Carnival of Carnage: Up All Night To Get Ducky",

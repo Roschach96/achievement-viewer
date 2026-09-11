@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "CODA_ACHIEVEMENT_006": {
       "name": "A Light Extinguished",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "CODA_ACHIEVEMENT_010": {
       "name": "Big Mad",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "CODA_ACHIEVEMENT_016": {
       "name": "Did We Just Become Best Friends?",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "CODA_ACHIEVEMENT_017": {
       "name": "Friendship is Magic",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "CODA_ACHIEVEMENT_024": {
       "name": "Might Need Pockets",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "CODA_ACHIEVEMENT_025": {
       "name": "Fire Burn and Cauldron Bubble",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "CODA_ACHIEVEMENT_027": {
       "name": "You Absolute Legend",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "CODA_ACHIEVEMENT_028": {
       "name": "Fully Operational",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "CODA_ACHIEVEMENT_037": {
       "name": "T.H.R.E.A.T. Eliminated",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "CODA_ACHIEVEMENT_039": {
       "name": "Atum's Call",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "CODA_ACHIEVEMENT_040": {
       "name": "Hyppus' Aid",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "CODA_ACHIEVEMENT_042": {
       "name": "The Keymaster",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "CODA_ACHIEVEMENT_043": {
       "name": "Wisdom of the Woods",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "CODA_ACHIEVEMENT_047": {
       "name": "A Growing Darkness",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "CODA_ACHIEVEMENT_056": {
       "name": "Dream Team",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "CODA_ACHIEVEMENT_058": {
       "name": "Kitchen Sink",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "CODA_ACHIEVEMENT_059": {
       "name": "Wilhelm Scream",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "CODA_ACHIEVEMENT_060": {
       "name": "Not a Scratch",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "CODA_ACHIEVEMENT_062": {
       "name": "Needful Things",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "CODA_ACHIEVEMENT_064": {
       "name": "Big Guns",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "CODA_DLC_ACHIEVEMENT_008": {
       "name": "Lethal Protector",

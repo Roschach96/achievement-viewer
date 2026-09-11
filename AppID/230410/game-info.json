@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5223377856b0dd13cbba899f6f842fc274b42008.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "ACHIEVEMENT_3": {
       "name": "Blade Mastery I",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/aaa26cd30dfae1103a89724005c2be977e431137.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACHIEVEMENT_18": {
       "name": "Brawler Proficiency I",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e34029d676e73d0b81f9a23d8f70b3f5b5002b30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ACHIEVEMENT_21": {
       "name": "Weaponsmith",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/ad2aa6564e964cf37cacdb916e64bc42f732efb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACHIEVEMENT_26": {
       "name": "Dagger Mastery II",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/b7eb3c60c1854237fce2bbb920c9514d41d3c8c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ACHIEVEMENT_30": {
       "name": "Dagger Proficiency III",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/8fd80ada476f4fbc782db2899949f58959f0c314.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "ACHIEVEMENT_33": {
       "name": "Where Credit is Due",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5d238e6b2fac1fb8dd23ac20ff9420f757e14855.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "ACHIEVEMENT_47": {
       "name": "A Watchful Eye",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/07ef25cfd053974f901b6062ab80f4712b0381fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "32.1"
     },
     "ACHIEVEMENT_55": {
       "name": "Pistol Proficiency II",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e56ea9b2155726669030b88394bcad27697a8427.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ACHIEVEMENT_57": {
       "name": "Hooked",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/05da5b280021b8f8bb247e9af5067c58443bacc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACHIEVEMENT_62": {
       "name": "Gold Initiate",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5a72810746ce6a5c72818a659727e7c7b362b2bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.9"
     },
     "ACHIEVEMENT_64": {
       "name": "Silver Novice",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/3db2b0c71c281a1f2ecc0e16239c006df82034ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACHIEVEMENT_67": {
       "name": "Silver Disciple",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/136c46b774b0693b7a092ae2a02b2a2ce6ea1a7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ACHIEVEMENT_77": {
       "name": "Gold Eagle",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/2bf460c0d542ffffb7ec417e9e9f0b8ed7be820a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_78": {
       "name": "Tiger",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/7ea5d1e5780b8ce6736aab906eb0781607362cb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ACHIEVEMENT_83": {
       "name": "Gold Dragon",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e66575098e59366d38e536234b725e1f7709554d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "ACHIEVEMENT_89": {
       "name": "True Master",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/03c25e81ea02014f01aebd13cb7696b7ee42b51c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "ACHIEVEMENT_93": {
       "name": "Pole Weapon Proficiency I",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/282d7491632960b066ec2b9531aa7b5052716b25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACHIEVEMENT_104": {
       "name": "Rifle Proficiency II",
@@ -955,7 +955,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/05bec3f93f7c20febcfeaf1bc64b7a9a0861ada1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "ACHIEVEMENT_107": {
       "name": "Merchant",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/4df02c00af34033a40305af0744995082f5b561c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ACHIEVEMENT_119": {
       "name": "Shotgun Proficiency III",
@@ -1108,7 +1108,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/52e766d4d6010e11c7ee7596c132afd59a87ba9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "ACHIEVEMENT_124": {
       "name": "Shuriken Proficiency II",
@@ -1144,7 +1144,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/d8380dd94482c256d53b1bd766ddffd3cb5ccfb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.7"
     },
     "ACHIEVEMENT_128": {
       "name": "Operative",
@@ -1180,7 +1180,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/45de05674395bb6d5ee366aaebbdf591d9657b0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.3"
     },
     "ACHIEVEMENT_132": {
       "name": "Practice Makes Perfect",
@@ -1189,7 +1189,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/957f082d67d47f250f13b630a7331c72bf501f3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "ACHIEVEMENT_133": {
       "name": "Alchemist",
@@ -1261,7 +1261,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/9dc775e6997dec71bcf69f36f1cab04f59701caa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "ACHIEVEMENT_141": {
       "name": "KABOOM!",
@@ -1378,7 +1378,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/fcf5d57710b7fe3b209b8048e56e847ba52811f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACHIEVEMENT_154": {
       "name": "Tenno of all Trades",
@@ -1432,7 +1432,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/0223c641a94b42d947226551d0643f23e52cfef1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "ACHIEVEMENT_160": {
       "name": "What a Nightmare",
@@ -1531,7 +1531,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/deca9ad093d6f347489d0aab1892a6429dd94bb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACHIEVEMENT_172": {
       "name": "Plains Prospector",
@@ -1657,7 +1657,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/f87ff06ed3a1cba937b144951033da3d096ff0fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "ACHIEVEMENT_186": {
       "name": "Vallis Spelunker",
@@ -1720,7 +1720,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/ab15e5f88b328c4cd1ed788fa51204425a498385.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACHIEVEMENT_193": {
       "name": "From out of the Sun",

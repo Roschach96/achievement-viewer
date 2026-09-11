@@ -1,7 +1,7 @@
 {
   "appid": "3321460",
   "name": "Crimson Desert Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788450739",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1789020763",
   "achievements": {
     "NoviceAdventurer": {
       "name": "Novice Adventurer",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/9c663d35bef6c1851a0646efc4c8ff69d2f43ff9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.7"
+      "percent": "76.8"
     },
     "MasterCamper": {
       "name": "Master Camper",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/0f09859166f36be64e8ce5354ff6d931225f600d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "BeastButcherer": {
       "name": "Beast Slayer",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d86a7c061ec0618a129719c6862084b1e1d0c698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "PailuneseGuardian": {
       "name": "Protector of Pailune",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d9e572150d4f2ab25a6d47f32abc4034a60158f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     }
   },
   "platform": null,
