@@ -237,42 +237,6 @@
       "group": "Base Game",
       "percent": "0.2"
     },
-    "EARLY_ACCESS": {
-      "name": "Early Supporter",
-      "description": "Play the Early Access version of Morbid Metal.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/387e2f81a48eb3577bc5c12b1b84ce4e65958dc1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "21.2"
-    },
-    "VOID_NEXUS_UNLOCK_HALF": {
-      "name": "Almost There",
-      "description": "Complete half of the Void Nexus",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/bdfaa4aeb6f4c339b19e77e103fef60e93216db0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "3.0"
-    },
-    "VOID_NEXUS_UNLOCK_FULL": {
-      "name": "Full Potential",
-      "description": "Complete the Void Nexus",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/c11475decfa4a5332ebd7d478d147f6785f8e12e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.1"
-    },
-    "CORPORA_UNLOCK_FULL": {
-      "name": "Everyday Trinkets",
-      "description": "Unlock all Corpora",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96c6af691346a74d25ce38cd69034f2a5bcc179b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.3"
-    },
     "NOVICE_DEFENDER": {
       "name": "Novice Defender",
       "description": "Get the first Reward in the \"Defend the Base\" Game mode",
