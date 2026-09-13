@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.7"
     },
     "ACH_CollectTech100": {
       "name": "Tech Enthusiast",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ab13fd5fbf467d4e5618c35f8dd315c827e8dd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "64.1"
     },
     "ACH_StartMission": {
       "name": "Who the Hell am I?",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ae8cdad5e46d16e66a325693acc4922fbf1e7e98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.0"
+      "percent": "84.1"
     },
     "ACH_CompleteZone1": {
       "name": "This Bug Hunt Got Complicated",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "ACH_CompleteMission_Expert": {
       "name": "Express Elevator to Hell",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/de62665ea3c2efece0b138f0fc4d6a089e9f88c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACH_CompleteMission_All_Expert": {
       "name": "Death Incarnate",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     }
   },
   "platform": null,

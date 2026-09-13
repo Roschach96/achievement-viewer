@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/0b454c7ac3594c8c06d95361c63703410a2df321.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "SOLO_ACHIEVEMENT_1_5": {
       "name": "You're Tank!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/cb00f72f2fb3838e0237e01fb34701a47f794f97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "SOLO_ACHIEVEMENT_1_6": {
       "name": "Roooar?!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/8fdb2ddabeeb8787c32e48e7c5ea7d4a48264571.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "SOLO_ACHIEVEMENT_1_11": {
       "name": "A New Technique",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/56177ceeacd7d56c594b1a67cd75a599ed59efbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "SOLO_ACHIEVEMENT_1_19": {
       "name": "Resale",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/f9b75a2c68fb9f0f4c55cd66e8a8c29f56d16f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "SOLO_ACHIEVEMENT_1_26": {
       "name": "Account Saver",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/6673a407e615e3eb71c0ded04d5c39795aca1c03.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "SOLO_ACHIEVEMENT_1_28": {
       "name": "Hello!",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/d17cddee26189f1e14ad39e0f5aac8a07159fae6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "SOLO_ACHIEVEMENT_1_30": {
       "name": "Reliable Ally!",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/2ecaf26cb757bb98678d8e0bd937bacf5cf4ca32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.3"
+      "percent": "96.4"
     },
     "SOLO_ACHIEVEMENT_1_37": {
       "name": "Too Slow",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/558d3c9d9f5661bbb67f4bb94f31b5b8375b79b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.1"
+      "percent": "96.2"
     },
     "SOLO_ACHIEVEMENT_1_40": {
       "name": "Parry Master",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/b09a9786b8c665abb0a35c6446da819a30fd1345.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.4"
     },
     "SOLO_ACHIEVEMENT_1_47": {
       "name": "Beware of Dog!",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/5943471ac7dd62a5c029486dcd5b9885f8809c23.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.5"
     },
     "SOLO_ACHIEVEMENT_1_49": {
       "name": "Guardian of the Empty Throne",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/3ba5e62b472bf749d411398d5a546934e5d5057a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "SOLO_ACHIEVEMENT_1_50": {
       "name": "Sword Over Snow",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/8cbe969d5c7d5142a27baefc3a7983863f489259.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "SOLO_ACHIEVEMENT_1_52": {
       "name": "Master Undertaker",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/94016859ee95d5515b4b119a4d4712c6c7d52698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "SOLO_ACHIEVEMENT_1_53": {
       "name": "Twelve Songs",

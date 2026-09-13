@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "TF_GET_CONSECUTIVEKILLS_NODEATHS": {
       "name": "Hard to Kill",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "TF_PYRO_KILL_FROM_BEHIND": {
       "name": "Hot on Your Heels",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60dc06b26a1a5427dc5ca04c598c342ee0ede797.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "TF_PYRO_ACHIEVE_PROGRESS3": {
       "name": "Pyro Milestone 3",
@@ -1558,7 +1558,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "TF_SNIPER_CAPTURE_FLAG": {
       "name": "Have a Plan",
@@ -2962,7 +2962,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fa96727c44f9c48100e626e83d3b77540c3c1866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS2": {
       "name": "Engineer Milestone 2",

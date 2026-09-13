@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/b3e2c18c0e06ab81e3a824849cde3887d6afbdcc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "ACH_CONVOY": {
       "name": "\"All gas no brakes baby.\"",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/2b0496de99d4c26cb047a8bc9d290649591eea31.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACH_STRETCHER": {
       "name": "\"I'm a bleeder.\"",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/da03fcb8a60937b593a831925aaf7df228861ed3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.5"
+      "percent": "71.6"
     },
     "ACH_TRUTH_HID": {
       "name": "\"I’m the guy behind the desk.\"",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "ACH_SYNERGY": {
       "name": "Work Spouse",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.2"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
