@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/11f603c73f1d01ffcb6fc3179d7e59f5b65366d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "charliesierra_1": {
       "name": "Sewer Rats",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/99ba40fa72772a083dd47fcab643f1d2a5212cde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "gage2_1": {
       "name": "Doctor Miserable",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ff53fecd28488933b2bd12973676d1b303196cfc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "gage2_8": {
       "name": "HOLY SHI-",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/af5d0a96c1eb3c565e8c26801de78d6708bd0d71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "deer_2": {
       "name": "Stealing Christmas",
@@ -2683,7 +2683,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/66562c63f651b6c93a4c2562f63285f5e68698ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "fort_1": {
       "name": "High Octane",
@@ -2863,7 +2863,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/55adda309df91fac8f1b7e47cea4c48408208996.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "kenaz_2": {
       "name": "Blind Eye in the Sky",
@@ -3079,7 +3079,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ada87d89f79146c07784a059591cbe680968b8bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "farm_3": {
       "name": "Making a Statement",
@@ -5680,7 +5680,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9e216cb3f3047595b8bd90275410b626feb1b5ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "trk_mc_3": {
       "name": "Like a Bull in a China Shop",
@@ -7030,7 +7030,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3c226b9ff8a5e75772fe41125cd2f9aabedc6edd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "trk_pn_2": {
       "name": "Jailhouse Rock",
@@ -8236,7 +8236,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf21b78229ddcdbdd782e4edbc6161814c6b8e5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "rvd_9": {
       "name": "Get Off My Property",
@@ -10000,7 +10000,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/532825c8128e87efb1010825dd9cb27fcbbe2f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "vit_3": {
       "name": "You Can't Vote Twice",
@@ -10621,7 +10621,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3a8b11f2884636ce1086954ab386ba9df2a75d66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "skm_21": {
       "name": "Hide Them in the Vault",
@@ -11656,7 +11656,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4436f724cf1aad5ec6faee681d0d34dc75dca1f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "trai_6": {
       "name": "The Payday Express",
@@ -11961,7 +11961,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_2": {
       "name": "Shows glimpses of a heist unknown",
@@ -11969,7 +11970,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_3": {
       "name": "A thief's hidden fortune whole",
@@ -11977,7 +11979,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_4": {
       "name": "Sent his family on a hunt",
@@ -11985,7 +11988,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_5": {
       "name": "For a treasure not even his own",
@@ -11993,7 +11997,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_6": {
       "name": "Time goes on",
@@ -12001,7 +12006,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_7": {
       "name": "Riches unclaimed",
@@ -12009,7 +12015,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_8": {
       "name": "The family finds fortunes none",
@@ -12017,7 +12024,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_9": {
       "name": "But then a new seeker joins in",
@@ -12025,7 +12033,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_10": {
       "name": "Finds the missing link",
@@ -12033,7 +12042,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_11": {
       "name": "A clue that eluded all",
@@ -12041,7 +12051,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_12": {
       "name": "Something hidden near sand and sunshine",
@@ -12049,7 +12060,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_13": {
       "name": "Between glass and wood",
@@ -12057,7 +12069,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_14": {
       "name": "Waiting to be unearthed",
@@ -12065,7 +12078,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,
