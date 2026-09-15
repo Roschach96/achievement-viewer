@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_top_scoreboard_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "TF_MEDIC_HEAL_UNDER_FIRE": {
       "name": "Quadruple Bypass",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/96d465c06a625bc80e92289066fde1fc77de96ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "TF_PYRO_KILL_GRIND": {
       "name": "Firefighter",
@@ -1720,7 +1720,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "TF_SNIPER_TOP_SCOREBOARD_GRIND": {
       "name": "My Brilliant Career",
@@ -2062,7 +2062,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f6caa0cbdf04d4bb6986d1ea4955628e48f944.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "TF_SPY_SAPPER_GRIND": {
       "name": "Sap Auteur",
@@ -2476,7 +2476,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/24367d919acc6b5a6d21f0dde53235e63015a6c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "TF_SOLDIER_RJ_EQUALIZER_KILL": {
       "name": "Duty Bound",
@@ -2521,7 +2521,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/778964920d54f0893404aeb547c6b14fbff1ed33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT": {
       "name": "Near Death Experience",
@@ -3718,7 +3718,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_earn_money_bonus_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "TF_MVM_ADVANCED_EARN_ALL_BONUSES": {
       "name": "Frags to Riches",
@@ -4123,7 +4123,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9113dc11e180a18d2fe36907e9da41e1b6ced612.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "TF_MAPS_SNAKEWATER_WIN_ROUNDS": {
       "name": "Snakewater Salesman",
