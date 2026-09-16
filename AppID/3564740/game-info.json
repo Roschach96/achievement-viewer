@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/640329dbc0083cb8d529340137c80963d87f97e0/header.jpg?t=1789029858",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/8037109e6216ecadf744146d36f2b8425f028257/header_alt_assets_9.jpg?t=1789528633",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c20d8a3ceb27d9e5152918e7b3a08d00bd6f8840.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "301009": {
       "name": "Echoes Unbound",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "1501032": {
       "name": "Hexi: Full Moon Rising",

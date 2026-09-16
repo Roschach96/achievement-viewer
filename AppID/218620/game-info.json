@@ -1,7 +1,7 @@
 {
   "appid": "218620",
   "name": "PAYDAY 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1786626315",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789477803",
   "achievements": {
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7df49f4ccef109d2f57853ce6798610e2359f010.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "charliesierra_5": {
       "name": "All Eggs in One Basket",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/99ba40fa72772a083dd47fcab643f1d2a5212cde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "gage2_1": {
       "name": "Doctor Miserable",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ff53fecd28488933b2bd12973676d1b303196cfc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "gage2_8": {
       "name": "HOLY SHI-",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ed1d77d23f4d6a8a55b16349274f439ec73d11ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "death_3": {
       "name": "Becoming a Regular",
@@ -1990,7 +1990,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bde5c6a478a2c4ab859bede3599392a09382d74f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "eagle_4": {
       "name": "So Uncivilized",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/af5d0a96c1eb3c565e8c26801de78d6708bd0d71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "deer_2": {
       "name": "Stealing Christmas",
@@ -2683,7 +2683,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/66562c63f651b6c93a4c2562f63285f5e68698ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "fort_1": {
       "name": "High Octane",
@@ -2710,7 +2710,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d1f2826772ca91772aa35889720c21f23e19c651.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "grill_2": {
       "name": "Stick a Fork in Me, I'm Done",
@@ -2863,7 +2863,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/55adda309df91fac8f1b7e47cea4c48408208996.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "kenaz_2": {
       "name": "Blind Eye in the Sky",
@@ -3079,7 +3079,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ada87d89f79146c07784a059591cbe680968b8bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "farm_3": {
       "name": "Making a Statement",
@@ -3191,7 +3191,7 @@
     },
     "berry_2": {
       "name": "Clean House",
-      "description": "In the Beneath the Mountain job, secure all of the loot from the vaults and mountain-top in the escape helicopter. ",
+      "description": "In the Beneath the Mountain job, secure all of the loot from the vaults and mountain-top in the escape helicopter. Unlocks the \"Tawhiri\" mask, \"Flow\" material and \"Sun Avatar\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3dbb6d7705b9ab434012da54a9a168f9bbf39b35.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c2fb531bed63885933dfe9d573208e3cfd85e8b6.jpg",
       "hidden": false,
@@ -3218,7 +3218,7 @@
     },
     "berry_5": {
       "name": "No Scope",
-      "description": "Kill 10 enemies in a row by shooting them in the head with a Sniper Rifle while not aiming down the sights. ",
+      "description": "Kill 10 enemies in a row by shooting them in the head with the Platypus 70 Sniper Rifle while not aiming down the sights. Unlocks the \"Tane\" mask, \"Sancti\" material and \"Tribal Face\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/56083ddc5e9e829b7aa9f973503abe08ed821883.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/36a97973d03f4f090d1d2e375336a15cc7024d65.jpg",
       "hidden": false,
@@ -3245,7 +3245,7 @@
     },
     "jerry_3": {
       "name": "No Blood on the Carpet",
-      "description": "In the Birth of Sky job, release the money without having any player take health damage on the OVERKILL difficulty or above. ",
+      "description": "In the Birth of Sky job, release the money without having any player take health damage on the OVERKILL difficulty or above. Unlocks the \"Oro\" mask, \"Glade\" material and \"Tribal Wave\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/84a31338ff9261d433caea70cee5afb045fe5ac5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/989b13387085bbfff31f5429a763c863effe6733.jpg",
       "hidden": false,
@@ -3254,7 +3254,7 @@
     },
     "jerry_4": {
       "name": "1... 2... 3... JUMP!",
-      "description": "In the Birth of Sky job, have the entire crew jump out of the airplane within 1 minute and 23 seconds on the OVERKILL difficulty or above. ",
+      "description": "In the Birth of Sky job, have the entire crew jump out of the airplane within 1 minute and 23 seconds on the OVERKILL difficulty or above. Unlocks the \"Maui\" mask, \"Wade\" material and \"Ornamental Crown\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f54817a939eb9f63cff76909d9c51205c33a9401.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3b9a12478a6b52bc720c58d2bfc1960fabcc61da.jpg",
       "hidden": false,
@@ -3317,7 +3317,7 @@
     },
     "flake_1": {
       "name": "We Do It Live!",
-      "description": "Complete the Framing Frame job on the OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding Sniper Rifles and Judge shotguns. ",
+      "description": "Complete the Framing Frame job on the OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding Platypus 70 sniper rifles and Judge shotguns. ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/41af5e94a20d3eaba5b547640acf4d7305a183d5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5afa9a33f523ab5c75c9e53230067fad43a90121.jpg",
       "hidden": false,
@@ -4730,7 +4730,7 @@
     },
     "pim_1": {
       "name": "Nothing Personal",
-      "description": "Kill 30 snipers with any Sniper Rifle on the OVERKILL difficulty or above. ",
+      "description": "Kill 30 snipers with the Desertfox Sniper Rifle on the OVERKILL difficulty or above. Unlocks the \"Mustang\" mask, \"Tire\" material and \"One Shot\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/59dcfa845fe6258a678f33f367e05cdbb8bb2f2e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/be4527c6785194bb0bd22addebb8dbab7a38994c.jpg",
       "hidden": false,
@@ -4739,7 +4739,7 @@
     },
     "pim_2": {
       "name": "Crouched and Hidden, Flying Dagger",
-      "description": "Kill 8 guards with a Throwing Weapon while crouching on the Murky Station job. The heist must be completed for any kills to count. ",
+      "description": "Kill 8 guards with the Throwing Knife while crouching on the Murky Station job. The heist must be completed for any kills to count. Unlocks the \"Hotelier\" mask, \"Club Lights\" material and \"Piety\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/550a8544ebbebbd68b1ad609c91103f7fce84978.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/baeedd7f97305f82942cd705e1ced1e97c1228c6.jpg",
       "hidden": false,
@@ -4748,7 +4748,7 @@
     },
     "pim_3": {
       "name": "UMP for Me, UMP for You",
-      "description": "Kill 45 Russian specials on the Boiling Point job with any Submachine Gun on the OVERKILL difficulty or above. ",
+      "description": "Kill 45 Russian specials on the Boiling Point job with the Jackal Submachine Gun on the OVERKILL difficulty or above. Unlocks the \"Zashchita\" mask, \"Mist\" material and \"Battle Wounds\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d33ca9b102d3ffa14e6da8dceed49d3b785bd75c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1bc77e4d60f4fec3e0855c9015ca5773c0ae2424.jpg",
       "hidden": false,
@@ -4757,7 +4757,7 @@
     },
     "pim_4": {
       "name": "For Daisy",
-      "description": "Complete the Firestarter job on the OVERKILL difficulty or above with your crew using only Pistols. ",
+      "description": "Complete the Firestarter job on the OVERKILL difficulty or above with your crew using only the Contractor Pistol. Unlocks the \"Daisy\" mask, \"Dog Fur\" material and \"Daisies\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c26b0239103909cd8200852c37b8f70eb8c1339e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/213f69f848cb5a5c8869b8e9eaac5d9717360500.jpg",
       "hidden": false,
@@ -4937,7 +4937,7 @@
     },
     "friend_4": {
       "name": "Say Hello to My Big Friend",
-      "description": "On the Scarface Mansion job, kill the boss on the OVERKILL difficulty and above. Unlocks the \"Panthera Tigris\" mask, \"Black Marble\" material and \"Diablada\" pattern.",
+      "description": "On the Scarface Mansion job, kill the boss with the Commando 101 Rocket Launcher on the OVERKILL difficulty and above. Unlocks the \"Panthera Tigris\" mask, \"Black Marble\" material and \"Diablada\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6efa406f492dce5709d3fb3e79d4ec56f9f5484b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d7445ee4e8c18f3b0f28861bcae28beef7f6545c.jpg",
       "hidden": false,
@@ -5000,7 +5000,7 @@
     },
     "spa_5": {
       "name": "A Rendezvous With Destiny",
-      "description": "On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. ",
+      "description": "On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the \"Lady Liberty\" mask, \"Underground Neon\" material and \"Baba Yaga\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/252234b69f526c68268f6925827cfe596e45cf0a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8a954165967eb28b90f718a9b87ecf234632b8b0.jpg",
       "hidden": false,
@@ -5009,7 +5009,7 @@
     },
     "spa_6": {
       "name": "Pass the Ammo",
-      "description": "Complete the Brooklyn 10-10 job from start, after deploying 8 ammo bags in the ammo cage on the OVERKILL difficulty or above. ",
+      "description": "Complete the Brooklyn 10-10 job from start, after deploying 8 ammo bags in the ammo cage on the OVERKILL difficulty or above. Unlocks the \"Bird of Prey\" mask, \"Carbon Fiber Weave\" material and \"Hood Stripes\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e8f9197903f6cd88f193ece53bdfab68c9467e05.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/82e006922cc73ea54bce5531328e3a218d60a73c.jpg",
       "hidden": false,
@@ -5054,7 +5054,7 @@
     },
     "fish_5": {
       "name": "Pacifish",
-      "description": "Complete The Yacht Heist without killing anyone. ",
+      "description": "Complete The Yacht Heist without killing anyone. Unlocks the \"Sailor\" mask, \"Neon Blue\" material and \"Hotel Pattern\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/854a490575c2b27138085beed4a593314ec0c0d1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/126da21ca02585e6d33af56c797f5086eb2f48dd.jpg",
       "hidden": false,
@@ -5063,7 +5063,7 @@
     },
     "fish_6": {
       "name": "Blood in the Water",
-      "description": "Complete The Yacht Heist after having killed every security guard on the boat. ",
+      "description": "Complete The Yacht Heist after having killed every security guard on the boat. Unlocks the \"Captain\" mask, \"Black Suede\" material and \"Continental\" pattern.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5ee9ccd9549b8ed53167753a0bf36725fb437662.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/537f98b3d04d991523cf528ecc31856701b31c9d.jpg",
       "hidden": false,
@@ -7030,7 +7030,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3c226b9ff8a5e75772fe41125cd2f9aabedc6edd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "trk_pn_2": {
       "name": "Jailhouse Rock",
@@ -8231,12 +8231,12 @@
     },
     "rvd_8": {
       "name": "United We Heist",
-      "description": "Complete the Reservoir Dogs job on the OVERKILL difficulty or above using only an Assault Rifle. ",
+      "description": "Complete the Reservoir Dogs job on the OVERKILL difficulty or above using only the Union 5.56 Rifle. ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a1c81e52ae4fd5f93aaf21c76c714d8db05a1046.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf21b78229ddcdbdd782e4edbc6161814c6b8e5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "rvd_9": {
       "name": "Get Off My Property",
@@ -8267,7 +8267,7 @@
     },
     "rvd_12": {
       "name": "Close Shave",
-      "description": "On the Reservoir Dogs job, kill 92 special enemies with a Melee Weapon on the OVERKILL difficulty or above. ",
+      "description": "On the Reservoir Dogs job, kill 92 special enemies with the Alabama Razor on the OVERKILL difficulty or above. ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/68458122ec61b6d725380e33a3978ae7d4c788a7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/1e9474d936e142a77c2bcf21e82333614ee3251f.jpg",
       "hidden": false,
@@ -10000,7 +10000,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/532825c8128e87efb1010825dd9cb27fcbbe2f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "vit_3": {
       "name": "You Can't Vote Twice",
@@ -11161,7 +11161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cab86a2729c0452b9c1222d78e398107c59da773.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "sand_6": {
       "name": "Container Cracker",
@@ -11840,7 +11840,7 @@
     },
     "deep_2": {
       "name": "Midnight Oil",
-      "description": "Complete the Crude Awakening job on the Hard difficulty or above. ",
+      "description": "Complete the Crude Awakening job on the Hard difficulty or above ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e0b913daffe407414bf6a42e0e388ce9ede8fc1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/efab8f31941adf68e5cf1c1188c861be4beed25e.jpg",
       "hidden": false,
@@ -11849,7 +11849,7 @@
     },
     "deep_3": {
       "name": "Up In Flames",
-      "description": "Complete the Crude Awakening job on the Very Hard difficulty or above. ",
+      "description": "Complete the Crude Awakening job on the Very Hard difficulty or above ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6c225161416db21c7db56e760811625c8dd7942d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6bcbadacfa126a608c34e754afab3e14a364c445.jpg",
       "hidden": false,
@@ -11858,7 +11858,7 @@
     },
     "deep_4": {
       "name": "SERA Needs A Medic Bag",
-      "description": "Complete the Crude Awakening job on the OVERKILL difficulty or above. ",
+      "description": "Complete the Crude Awakening job on the Overkill difficulty or above ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/244e6452654472eefa5360dad1595aacef16ed20.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/00507b6e78a7f7c6907afb53502046ed90f33256.jpg",
       "hidden": false,
@@ -11867,7 +11867,7 @@
     },
     "deep_5": {
       "name": "Black Gold Burning",
-      "description": "Complete the Crude Awakening job on the Mayhem difficulty or above. ",
+      "description": "Complete the Crude Awakening job on the Mayhem difficulty or above ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/224ec2978ee9ba7b439765778b291232c32c9d1d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/dfa2beabe2615eda0855a975417eb8d77e3b8100.jpg",
       "hidden": false,
@@ -11876,7 +11876,7 @@
     },
     "deep_6": {
       "name": "The Drill Is Down",
-      "description": "Complete the Crude Awakening job on the Death Wish difficulty or above. ",
+      "description": "Complete the Crude Awakening job on the Death Wish difficulty or above ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a8ca9879db7d6b3a4e0496a0c57980750427ebef.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a7604dc2a1e55eb8146fc38f096476e2a0a48fd5.jpg",
       "hidden": false,
@@ -11956,116 +11956,130 @@
       "percent": "0.6"
     },
     "auc_1": {
-      "name": "An art magazine in a closed off room",
-      "description": "An art magazine in a closed off room",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Opening Bid",
+      "description": "Complete the Under the Hammer job on the Normal difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bef166d8f28c6c55049ccf964289a82b4ae4c212.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c6d310b55728835b40ecaa7616eec68e86ada837.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_2": {
-      "name": "Shows glimpses of a heist unknown",
-      "description": "Shows glimpses of a heist unknown",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Buy-In Price",
+      "description": "Complete the Under the Hammer job on the Hard difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e3549c586bcc81891761c2905c535f88cf031891.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/19b29b6725eeba40317e43503485608d12b63925.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_3": {
-      "name": "A thief's hidden fortune whole",
-      "description": "A thief's hidden fortune whole",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Inside Value",
+      "description": "Complete the Under the Hammer job on the Very Hard difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/510405a211c606adba4265a1cd768fbc217216f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a7b561e2507106b4f11ee4118c011d391dbbf662.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_4": {
-      "name": "Sent his family on a hunt",
-      "description": "Sent his family on a hunt",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Bookkeeping",
+      "description": "Complete the Under the Hammer job on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ad29350f0bcdeac5fd1194fcd4714f2855a64664.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/89c4e5bb4d715f799ea4df8d1b7f0ed654af7a57.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_5": {
-      "name": "For a treasure not even his own",
-      "description": "For a treasure not even his own",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Collection, Collected",
+      "description": "Complete the Under the Hammer job on the Mayhem difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf469ea1f75b6c52a95b1b125e4d503337625c60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5478685f57cda54e8ed6dabc339b2fa43dc9a005.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_6": {
-      "name": "Time goes on",
-      "description": "Time goes on",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Bidding War",
+      "description": "Complete the Under the Hammer job on the Death Wish difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/736de0869c3e8287e50f278233f8141a7c8ef871.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30b3a4df31408d9dc4c8cb686b1b9bb7294f2097.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_7": {
-      "name": "Riches unclaimed",
-      "description": "Riches unclaimed",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "White Glove Sale",
+      "description": "Complete the Under the Hammer job on the Death Sentence difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/57fb06137b182ce45d596d3b1a3a7f2d891e3abe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9aa6c56840cd86b1f9bd04e181e3067fa1441bd7.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_8": {
-      "name": "The family finds fortunes none",
-      "description": "The family finds fortunes none",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Going twice...",
+      "description": "Complete the Under the Hammer job on the Death Sentence difficulty with the One Down mechanic activated.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/64b3a8270384abff091f9f4abcef66ad4e7419c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c391dc1d8ed0b42c9710183dbc32bf95604263d1.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_9": {
-      "name": "But then a new seeker joins in",
-      "description": "But then a new seeker joins in",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Deal of The Day",
+      "description": "In the Under the Hammer job, secure all additional auction items on OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c1b0dddbbb7e13da7e5986201a8a2d317ff9f59f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b85edb869ffb7a2b7942685642b9ddc3395828d2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_10": {
-      "name": "Finds the missing link",
-      "description": "Finds the missing link",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Flash Auction",
+      "description": "Complete the Under the Hammer job in stealth within 6 minutes without using any ECM jammers on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a4e706657f6f9806ef61dc9a4385b9d09e55bd63.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a07129cc11f26f361d641732d665a6ff92d9df88.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_11": {
-      "name": "A clue that eluded all",
-      "description": "A clue that eluded all",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Curated Crew",
+      "description": "Complete the Under the Hammer job without raising the alarm, killing or dominating anyone on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8474fd464d79cecdfc31092dcbea45c27650a0e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/46842f71e481551dce6e79b574923a4ebd2e18ed.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_12": {
-      "name": "Something hidden near sand and sunshine",
-      "description": "Something hidden near sand and sunshine",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Doppelganger",
+      "description": "In the Under the Hammer job, kill the auctioneer in loud while having The Tragedy or The Comedy mask and the Karussell Revolving Shotgun equipped.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/12091c26be9191712581bce2fd222c87bfa7e4b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/33a1343fc5dea43d9db51a68aeacd0f666f51915.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_13": {
-      "name": "Between glass and wood",
-      "description": "Between glass and wood",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "BFD Junior",
+      "description": "In the Under the Hammer job, don't let the cops stop the Apollonius Cutter on the OVERKILL difficulty or above. Unlocks the \"Vintage Sight\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/398f72217a2e18b9579466038128bce7034193eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/00a008a5e68b2eea747c78726eb83b38be8db1bb.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_14": {
-      "name": "Waiting to be unearthed",
-      "description": "Waiting to be unearthed",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Sun Tan",
+      "description": "Complete Under the Hammer job on the OVERKILL difficulty or above while Captain Winters is still present on the level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/eaff0a1dd3d7a3618b2560ed0dc94743ffbfd5a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a30016db4a233bed44736f17ed2ab39aa3000f83.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,
