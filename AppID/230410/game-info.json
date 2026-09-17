@@ -1,6 +1,6 @@
 {
   "appid": "230410",
-  "name": "Warframe",
+  "name": "Warframe 星际战甲",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1786540562",
   "achievements": {
     "ACHIEVEMENT_1": {
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/eecc0b82bd2d30f7466fbfa0a4c3acf3fdb12e42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "ACHIEVEMENT_13": {
       "name": "Bow Proficiency II",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/857183ecf3200765dbb3773fcbb2535581e93275.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "ACHIEVEMENT_46": {
       "name": "Angel of Death",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/c4e2d3366a6e58ee17b0e3414f45c101f74f2ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "ACHIEVEMENT_61": {
       "name": "Silver Initiate",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/ed2d0854e1787eb2ffa67350b7f250df3dc490ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ACHIEVEMENT_73": {
       "name": "Silver Hunter",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/68a0d657ec0663f23e048563155b982d830e1462.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "ACHIEVEMENT_106": {
       "name": "Entrepreneur",
@@ -1036,7 +1036,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/0c82e6db08a6f551468b581eddd4914548d917c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "ACHIEVEMENT_116": {
       "name": "Shotgun Mastery III",
@@ -1225,7 +1225,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/298a99d97fd857117c2bd4731cc867aab825be06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "ACHIEVEMENT_137": {
       "name": "Egg Timer",
@@ -1333,7 +1333,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/24ce8fbf64944314feef0f977be7b080046382f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "ACHIEVEMENT_149": {
       "name": "Saviour of Venus",
@@ -1387,7 +1387,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/63f90fc755ecbbd837466ef16d6d41c72b4fed5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACHIEVEMENT_155": {
       "name": "The 8-fold Path",
@@ -1441,7 +1441,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/fdf50df4521d3cbc2359ee22cdfb51a2ca5fe144.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "ACHIEVEMENT_161": {
       "name": "Without a Hitch",
@@ -1495,7 +1495,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/a6fe00c68c1140b4bc8bf762f19e4e08c94cd0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACHIEVEMENT_167": {
       "name": "Sleds of Sunshine",
@@ -1567,7 +1567,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e1fdded226085cacc34d0736c09276cd6068b24f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACHIEVEMENT_176": {
       "name": "The Sacrifice",
