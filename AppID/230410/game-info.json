@@ -1,6 +1,6 @@
 {
   "appid": "230410",
-  "name": "Warframe 星际战甲",
+  "name": "Warframe",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1786540562",
   "achievements": {
     "ACHIEVEMENT_1": {
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/8d29f616aa6ba73ab228da3da271e1c26ef68e5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACHIEVEMENT_79": {
       "name": "Silver Tiger",

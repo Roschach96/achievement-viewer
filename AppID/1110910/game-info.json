@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/072e219a371a2c0b8d296d24621af3ed9b794238.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "BrigandLife": {
       "name": "Brigand Life",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/a73f20a3c870e806ac61750fd96f3e59e621e1dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "DifferentKindsOfGrisha": {
       "name": "Different Kinds of Grisha",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/5fabdd5da31e9a048ca753af9d649393c69d5068.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "TheNihilist": {
       "name": "The Nihilist",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1110910/0493a3edbf557805753eb18c5fdafa31b605c1ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     }
   },
   "platform": null,

@@ -1,7 +1,7 @@
 {
   "appid": "2129530",
   "name": "REANIMAL",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1786129496",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1789656473",
   "achievements": {
     "CompletePelicanQuest": {
       "name": "Tarred and Feathered",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/bf928baa4470807f00367b05419cb07b68706fc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "DLC1MercyKill": {
       "name": "Into the Dark",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/9780abb40e5d8c5548a00b47082c1b96d80705e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "DLC1TakePicture": {
       "name": "Smile for the Camera",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/394fd476d582ae8e0c3872a046ddd53044c38907.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "DLC1Fire": {
       "name": "Warm Bodies",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cf636e24c59a17e092950e0b218a309d19c3d431.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "DLC1CraterView": {
       "name": "Remains of the Day",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/3f1a0dd96b53d9d3b6c88e050d56b92ce135821a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "DLC1AllPosters": {
       "name": "Super Fly Poster",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/42d1555e8f02027bca21148bbf27234865f970d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     }
   },
   "platform": null,

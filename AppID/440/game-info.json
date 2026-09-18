@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "TF_GET_TURRETKILLS": {
       "name": "Sentry Gunner",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_multiplekills_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "TF_GET_HEADSHOTS": {
       "name": "Grey Matter",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_rapid_charge_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "TF_MEDIC_COUNTER_CHARGE": {
       "name": "Double Blind Trial",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_save_teammate_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_MEDIC_CHARGE_BLOCKER": {
       "name": "Preventive Medicine",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_capturer_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TF_MEDIC_HEAL_CALLERS": {
       "name": "Grand Rounds",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_charge_friends_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "TF_MEDIC_INVITE_JOIN_CHARGE": {
       "name": "House Call",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_achiever_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "TF_MEDIC_ASSIST_SOLDIER": {
       "name": "Blast Assist",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ccb2d441db3aad0269459d012e7996d9814b03aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "TF_PYRO_KILL_HEAVIES": {
       "name": "Makin' Bacon",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "TF_HEAVY_DEFEND_MEDIC": {
       "name": "Party Loyalty",
@@ -1009,7 +1009,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e949e6a19ae901836ec243adcf4f925a0ef1240.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "TF_HEAVY_KILL_DOMINATED": {
       "name": "Icing on the Cake",
@@ -1036,7 +1036,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a527a3a25c699011befc0aa9aa4d44b3e7fd43f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "TF_HEAVY_UNCOVER_SPIES": {
       "name": "Spyalectical Materialism",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/354f14a8e7368be6e5a014d53a2b88a0b19f46a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_HEAVY_KILL_CRIT_PUNCH": {
       "name": "Communist Mani-Fisto",
@@ -1198,7 +1198,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4e5c0c8b26d39662541a8df12ac8412eef2ca8c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_SCOUT_FIRST_BLOOD_KILL": {
       "name": "First Blood, Part 2",
@@ -1243,7 +1243,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f9d2d22263a4dda1d18889e609b1ccd313e84133.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT": {
       "name": "If You Build It",
@@ -1288,7 +1288,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/821f74eb3fd94e240902aa924d40d9238eeef074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "TF_SCOUT_DOUBLE_JUMPS": {
       "name": "Batter Up",
@@ -1324,7 +1324,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f60c7d1d5ecb4f3eb51179670ab054b37b49ed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "TF_SCOUT_SURVIVE_DAMAGE": {
       "name": "I'm Bat Man",
@@ -1666,7 +1666,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/945822b6a900b095d0bfd82c211f738d379e3357.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "TF_SNIPER_KILL_OBJECTIVES": {
       "name": "Not a Crazed Gunman, Dad",
@@ -1747,7 +1747,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/595ddd70a81f537ef82cd4ada176f1359cf00c2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "TF_SNIPER_JARATE_MEDIC_PAIR": {
       "name": "Rain on Their Parade",
@@ -1963,7 +1963,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1658425c1a3221b4efdc17dbd8f8b25ba5eac726.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "TF_SPY_SURVIVE_BURNING": {
       "name": "Burn Notice",
@@ -2080,7 +2080,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d18ab18da476e864677065144a441294ef755e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_SPY_BACKSTAB_MEDIC_CHARGED": {
       "name": "Dr. Nooooo",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd79ab78ad877534a53c2a1fd3a7cbdf2c4a6347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS2": {
       "name": "Sniper Milestone 2",
@@ -2188,7 +2188,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3611c5090d5f7b0a3195019288660c88f0d7bb42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "TF_SPY_ACHIEVE_PROGRESS2": {
       "name": "Spy Milestone 2",
@@ -2206,7 +2206,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8768533edd0bbb2e6d7318f7ea5d30b531c86094.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "TF_HALLOWEEN_COLLECT_PUMPKINS": {
       "name": "Candy Coroner",
@@ -2485,7 +2485,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/55d8815e53e56c2cc8c0ff1d7ae5be048d2f3cfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "TF_SOLDIER_BUFF_TEAMMATES": {
       "name": "The Boostie Boys",
@@ -2566,7 +2566,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/44b1edda49d7c60e7de7e4c8f6f5381f3407a986.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "TF_SOLDIER_MVP": {
       "name": "Medals of Honor",
@@ -2755,7 +2755,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa25334e5e5f36ee7c924b7e9e19a81db76a5c76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "TF_DEMOMAN_ACHIEVE_PROGRESS3": {
       "name": "Demoman Milestone 3",
@@ -2791,7 +2791,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e7575d20ab56b9296e1c3fb3cd2fb3268a51933c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_DEMOMAN_DESTROY_BUILDINGS_GRIND": {
       "name": "Cry Some Moor!",
@@ -2944,7 +2944,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fe4a46212c5c8d2e193e95627326b1257c8f4820.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE": {
       "name": "Pownd on the Range",
@@ -2980,7 +2980,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8e4bb3fed8bd6c096764e8db7813909baf684327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "TF_ENGINEER_TELEPORT_GRIND": {
       "name": "Battle Rustler",
@@ -3043,7 +3043,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/956c92f32263fcec910a64964b99023b3b8e58d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "TF_ENGINEER_UPGRADE_BUILDINGS": {
       "name": "Silent Pardner",
@@ -3313,7 +3313,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/21b1bf1f9de7df7b61241b1335088043a4c1c5ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_REPLAY_SAVE_REPLAY": {
       "name": "That's a Wrap",
@@ -3340,7 +3340,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/508d140e153b2db2b456d6e0a989625fb35a21fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "TF_COMPLETE_TRAINING": {
       "name": "Ready for Duty",
@@ -3367,7 +3367,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7e2420baaaf729be954daf5df4a4e9ac52c3ecc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_TIER2": {
       "name": "Local Cinema Star",
@@ -3601,7 +3601,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8175a4b6ab6a8eb21521d90150a6b46e9d76b16b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TF_MAPS_DOOMSDAY_PUSH_BACK_AND_WIN": {
       "name": "Rocket Booster",
@@ -3700,7 +3700,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4727b536b170117a30420f948bb659838fcc4a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "TF_PYRO_IGNITE_WITH_RAINBOW": {
       "name": "Full Spectrum Warrior",
@@ -3844,7 +3844,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_crit_bottle_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "TF_MVM_USE_UBER_BOTTLE": {
       "name": "German Engineering",
@@ -3961,7 +3961,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_heavy_rage_push_deploying_robot_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "TF_MVM_MEDIC_SHARE_BOTTLES": {
       "name": "Vial Sharing",
@@ -4276,7 +4276,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/72b32b6a7e546343ea7fff67b328d1d2ed4837a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "TF_MVM_ROCKET_SPECIALIST_KILL_GRIND": {
       "name": "Robot Flush",
@@ -4645,7 +4645,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5553401df6683d55f0339bdd6e341e01f76d738a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "TF_MAPS_POWERHOUSE_KILL_CAPPING_PLAYER": {
       "name": "Power Down",
