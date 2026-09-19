@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0f7a14d18abc44359e37366ae0c300b578a026f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ACH_ReachLevel50": {
       "name": "…A Warrior…",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/3bdc60a193e3d01ec06f7d71aaaf7de6075f926a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.9"
     },
     "ACH_ReachLevel60": {
       "name": "…A Champion…",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2d69198437b84b2b15b0e1663829097c616c4c16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "ACH_DefeatKinscourge": {
       "name": "The Devil in Iron",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/979daef5f1e6c2bc32b99732d77a21e00a7269dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.7"
     },
     "ACH_ReachHighlands": {
       "name": "Wolves Beyond the Border",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/b1305469f5f5cd783e0ec31801e84c75152eb798.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "ACH_Siptah_EnterTheMaelstrom": {
       "name": "Beyond the Wall of Sleep",

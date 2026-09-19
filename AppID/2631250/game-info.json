@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/112c5ffcd92d312708f08dc3a9064e115148eb42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "ACH_03": {
       "name": "Loss of Causality",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/f124c20ca71e8893f38efc5b143ce1a0365d5d23.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACH_08": {
       "name": "Just One Consequence",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/6d5885147cedfd26a7d2a978cdfd143ec6443b4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "ACH_09": {
       "name": "Timeline Collapse",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/cafb7c46fc9e24d5f14c686a91c552ee2d06e5e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "ACH_11": {
       "name": "Survival",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/1f5613c432b8b55aabb8a380130924b1e6cc7ee9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.0"
+      "percent": "84.1"
     },
     "ACH_13": {
       "name": "The Black Rider",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/4921630be4b19d55a4d7b33b0ee811d6548377fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACH_19": {
       "name": "Friend of the Fairy",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/94ed8cdbef0d4c5bd35890b395912e28bccd57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "ACH_20": {
       "name": "Masquerade",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/ab6f8445d13f78420699de050a338ca25a7c8450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "ACH_26": {
       "name": "Technique Enthusiast",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/d009d9b84ca799274d6e1ced9eaf2c446174ab40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "ACH_27": {
       "name": "Technique Expert",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/ab234831c99a74f252b92224a4196a621f77d0f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "ACH_30": {
       "name": "Composed",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/3d0adfeecc1e78e6f99e4b5b6684228ee94afc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.3"
     },
     "ACH_36": {
       "name": "Jack of All Blood",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/56c970967c4f2ff6972fc74cdf0d7dce1b25ca8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "ACH_37": {
       "name": "Command of All Techniques",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/fe8f8303e119a0e297562100d5363fa143a08e84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_39": {
       "name": "Lion Among Wolves",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     }
   },
   "platform": null,

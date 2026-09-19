@@ -413,7 +413,7 @@
       "description": "Kill Saru on Beginner difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/36c55bfa12891b621053cc8617816ba7a16b7243.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_2_KILL_SARU": {
@@ -421,7 +421,7 @@
       "description": "Kill Saru on Regular difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/71193bdeea344db967e8c58b220f5494ee349e2e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_3_KILL_SARU": {
@@ -429,7 +429,7 @@
       "description": "Kill Saru on Advanced difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/dc74f5b9ddd65741eae4ec8c9fa1b3b6bbb27676.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_4_KILL_SARU": {
@@ -437,7 +437,7 @@
       "description": "Kill Saru on Expert difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/84b6c3252d6e354b5abc2d9d1de8f6cee269e7e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_5_KILL_SARU": {
@@ -445,7 +445,7 @@
       "description": "Kill Saru on Morbid difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/120978ac92ccc1ddaccf622fb79948e9b3d74edf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_1_KILL_PROPHET": {
@@ -453,7 +453,7 @@
       "description": "Kill Prophet on Beginner difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/41e849eb5ff047fd6debb182bd68d0c151fb7464.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_2_KILL_PROPHET": {
@@ -461,7 +461,7 @@
       "description": "Kill Prophet on Regular difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f6b3e843646a22d3f08e837a01591e033df6e91d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_3_KILL_PROPHET": {
@@ -469,7 +469,7 @@
       "description": "Kill Prophet on Advanced difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3ae66396b550dd8f000ccbec3d924223623cd4b1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_4_KILL_PROPHET": {
@@ -477,7 +477,7 @@
       "description": "Kill Prophet on Expert difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2d58d94c0743c5603afc8396dac2ab338775fd24.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     },
     "DIFFICULTY_5_KILL_PROPHET": {
@@ -485,7 +485,7 @@
       "description": "Kill Prophet on the Morbid difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b3bc3fcb32ca96839eadfaf5add21d399971cb55.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game"
     }
   },
