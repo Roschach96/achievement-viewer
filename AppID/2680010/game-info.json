@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "Boss_08": {
       "name": "No Turning Back",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "Boss_12": {
       "name": "Bloodthirsty Fiend",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "Sub_03": {
       "name": "The Hidden Laboratory",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.7"
     },
     "Mission_03": {
       "name": "Blacksmith's Resolve",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.8"
+      "percent": "81.7"
     },
     "Mission_12": {
       "name": "Danjin's Jars",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     }
   },
   "platform": null,

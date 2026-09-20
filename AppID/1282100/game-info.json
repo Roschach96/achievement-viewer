@@ -1,6 +1,6 @@
 {
   "appid": "1282100",
-  "name": "REMNANT II®",
+  "name": "遗迹2",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
   "achievements": {
     "Meet_Nimue": {
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "DLC2_Obtain_Archetype": {
       "name": "Master of Elements",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "DLC3_Complete": {
       "name": "The Ultimate Doom",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "DLC3_Obtain_Archetype": {
       "name": "Master of Technology",

@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "ACH_BATTERYMAX": {
       "name": "Battery of Batteries",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/e92750681fc131fe1baf6d9eccc3755cd051d806.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "ACH_BEHINDWATERFALL": {
       "name": "That’s something I can get behind!",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/d54c6765f9834799f7f1dfa5ac5d6c8a54895051.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACH_BREAK_TELEPORTER": {
       "name": "No way out!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/ab2e6a4591bdca619e880bfb60dcfe2aed1d95ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "ACH_COLLECTION_MAGNETS": {
       "name": "I stuck with it",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "ACH_DRAWINGUSEGREEN": {
       "name": "Green is not a creative colour",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/8957b05931f44d85f924c621ea5df826d14dd98a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "70.9"
     },
     "ACH_DROPDUSTIN": {
       "name": "Dustin? More like Dust-off!",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/205c3cc84489254b39c4ebe593883d0546631ad0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "ACH_PROG_END": {
       "name": "Viewfound",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "ACH_PROG_OPT_ALL": {
       "name": "I didn’t realise they were optional",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "ACH_REWIND_LONG": {
       "name": "Time traveller",
