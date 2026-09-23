@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_kill_healed_spy_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "TF_MEDIC_SAVE_FALLING_TEAMMATE": {
       "name": "Medical Intervention",
@@ -1117,7 +1117,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d7e01ff5e6f3896fa362aa1701fa7d068eeaa6af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "TF_HEAVY_DEFEND_CONTROL_POINT": {
       "name": "Gorky Parked",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dafdac19dd04083d76cd68adfaffbdcb6415efa5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "TF_HEAVY_KILL_SCOUTS": {
       "name": "Don't Touch Sandvich",
@@ -1486,7 +1486,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2cdabc20afddf3b3a82205702e3e06e1d6d5ba68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TF_SCOUT_BLOCK_CAPS": {
       "name": "Block the Plate",
@@ -1504,7 +1504,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d70ea11c19702c4bf175dbd32e94b2c10cb536ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING": {
       "name": "No-Hitter",
@@ -1648,7 +1648,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a0f62037e8e803d22a0f2eeaf35ddc5d3c03bfea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "TF_SNIPER_HEADSHOT_DEMOMAN": {
       "name": "Socket to Him",
@@ -1855,7 +1855,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/58321326ca99feb93923104622c8315d80286fa6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "TF_SPY_FREEZECAM_FLICK": {
       "name": "For Your Eyes Only",
@@ -1873,7 +1873,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8e5d2e7506435723314046bffc20f995a006aeb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TF_SPY_BACKSTAB_DISGUISE_TARGET": {
       "name": "Identity Theft",
@@ -2026,7 +2026,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/699f4f245df64217cf52aac9665d94551f92779c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "TF_SPY_REVENGE_WITH_BACKSTAB": {
       "name": "Come in from the Cold",
@@ -2242,7 +2242,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fd22e17cbc3e30e5d20b6ad1a37a804b9c3047fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_HALLOWEEN_DISGUISED_SPY_KILL": {
       "name": "Costume Contest",
@@ -2386,7 +2386,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9f1da6531750a1b9c3b0b08a8077590788947a3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "TF_SOLDIER_BUFF_FRIENDS": {
       "name": "Banner of Brothers",
@@ -2710,7 +2710,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6cd117cb51f539e2bb41e00e2ba5c862466d5c0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "TF_DEMOMAN_BOUNCE_AND_KILL": {
       "name": "Caber Toss",
@@ -2719,7 +2719,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a26af89a8d51b22f1d7665e5fc4163fc23f8904.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "TF_DEMOMAN_DECAPITATE_NEMESIS": {
       "name": "There Can Be Only One",
@@ -2845,7 +2845,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bc2d414b1e427aa0afdfab59014e62a6bc079031.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_DEMOMAN_AIR_BURST_KILLS": {
       "name": "Something Stickied This Way Comes",
@@ -2971,7 +2971,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5c5fbf78c3b23c22542d7b841dbd7a9d3e84c719.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS3": {
       "name": "Engineer Milestone 3",
@@ -3025,7 +3025,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81b71b7fbedf4cd1d2182c20bc3b691033f08964.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "TF_ENGINEER_KILL_SPY_TWO_SAPPERS": {
       "name": "Quick Draw",
@@ -3160,7 +3160,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6a4c15d2f78ad39c2ec6636bc093a2d4b56aa0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "TF_ENGINEER_REMOVE_SAPPER_LONG_DIST": {
       "name": "Get Along!",
@@ -3268,7 +3268,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/59587c34180f590ef4360ea841e38e25e233eed2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "TF_ENGINEER_HEAVY_ASSIST": {
       "name": "(Not So) Lonely Are the Brave",
@@ -3358,7 +3358,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e8c90b021cb85cc9ffa64b28bbd7b3849b0b7e22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_TIER1": {
       "name": "Home Movie",
@@ -3790,7 +3790,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_tank_quickly_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "TF_MVM_DEFEND_CAP": {
       "name": "Spam Blocker",
@@ -4033,7 +4033,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aad49d1b90be81205e0cbd2e232fa20fe18c3c1e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "TF_HALLOWEEN_HELLTOWER_RARE_SPELL": {
       "name": "Helltower: Hell's Spells",
@@ -4231,7 +4231,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9cbe1e62ed39f59bf46b95a3beb845cdf1fb0c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "TF_MVM_SENTRY_BUSTER_FRIENDLY_FIRE": {
       "name": "Bot-Buster",
@@ -4267,7 +4267,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fcfa60d000ad3004d8f5fe5e5bbdca6be588536.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "TF_MVM_MEDIC_REVIVE_TEAMMATES": {
       "name": "Reanimator 2",
@@ -4465,7 +4465,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_spy_kill_backscatter_scout_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "TF_SOLDIER_AIRSTRIKE_MAX_CLIP": {
       "name": "Maximum Potential",
@@ -4519,7 +4519,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_rps_rock_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "TF_TAUNT_RPS_SCISSORS": {
       "name": "Running With Scissors",
