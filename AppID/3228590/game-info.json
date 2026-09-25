@@ -1,7 +1,7 @@
 {
   "appid": "3228590",
-  "name": "Deadzone: Rogue",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg?t=1784756793",
+  "name": "Game 3228590",
+  "icon": "",
   "achievements": {
     "ACH_CollectScrap500": {
       "name": "Scrappy",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "ACH_LoadoutLegendary": {
       "name": "Blinged Out",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1466ad014bebea5662c2ee499204e5166d8f7427.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "ACH_DigNoDeeper": {
       "name": "Dig No Deeper",

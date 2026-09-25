@@ -1,7 +1,7 @@
 {
   "appid": "881020",
-  "name": "Granblue Fantasy: Relink",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1787889010",
+  "name": "Game 881020",
+  "icon": "",
   "achievements": {
     "0000": {
       "name": "Platinum Sky",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.0"
     },
     "0033": {
       "name": "Field Medic",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/827b3ce67fa1b52752841d39f325577db95a4c68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "0074": {
       "name": "Welcome to the Club",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0002d788a245219b829e8e5a9dd5078378099d8c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "0093": {
       "name": "Where the Wee Pincers Are",

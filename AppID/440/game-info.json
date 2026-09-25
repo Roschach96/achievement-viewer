@@ -1,7 +1,7 @@
 {
   "appid": "440",
-  "name": "Team Fortress 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+  "name": "Game 440",
+  "icon": "",
   "achievements": {
     "TF_PLAY_GAME_EVERYCLASS": {
       "name": "Head of the Class",
@@ -1315,7 +1315,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c3417b6fdaf258f35a8484bceb10607c0995884e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "TF_SCOUT_KILL_CHARGED_MEDICS": {
       "name": "Batting the Doctor",

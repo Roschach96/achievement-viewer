@@ -1,7 +1,7 @@
 {
   "appid": "1859430",
-  "name": "Shadow Labyrinth",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859430/header.jpg?t=1766479566",
+  "name": "Game 1859430",
+  "icon": "",
   "achievements": {
     "SHIMEI": {
       "name": "Duty",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1859430/32764c4a23ae5c3259a2a815928f739a451527ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "TANREN": {
       "name": "Training",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1859430/4cb95f82339d4ad9f7647f3f6239cd89a73aeb61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "KAIGAN": {
       "name": "Awakening",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1859430/28f65ea0f0dda0ffbec923e60c6df7f9f318e0d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "GIKO": {
       "name": "Finesse",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1859430/c64bc13af52ec63b39c476d5f9e2e1fd75731943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "KATTO": {
       "name": "Turmoil",

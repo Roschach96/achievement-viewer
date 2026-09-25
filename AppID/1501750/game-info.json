@@ -1,7 +1,7 @@
 {
   "appid": "1501750",
-  "name": "Lords of the Fallen",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1786951564",
+  "name": "Game 1501750",
+  "icon": "",
   "achievements": {
     "TLOTF_ACHIEVEMENT_001": {
       "name": "Wayfarer",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "TLOTF_ACHIEVEMENT_015": {
       "name": "Honed to Perfection",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.9"
     },
     "TLOTF_ACHIEVEMENT_023": {
       "name": "No Mercy",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "TLOTF_ACHIEVEMENT_087": {
       "name": "Conqueror of Hardships",

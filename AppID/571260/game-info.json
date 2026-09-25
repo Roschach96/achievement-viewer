@@ -1,7 +1,7 @@
 {
   "appid": "571260",
-  "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571260/header.jpg?t=1727160512",
+  "name": "Game 571260",
+  "icon": "",
   "achievements": {
     "ACHIEVMENT_LOG_000": {
       "name": "THE KING OF FIGHTERS",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/571260/22384818471ca35ba2cfe7c5d56b4c0edb9bfb20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.5"
     },
     "ACHIEVMENT_LOG_022": {
       "name": "Title Collector",

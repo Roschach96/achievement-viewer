@@ -1,7 +1,7 @@
 {
   "appid": "379720",
-  "name": "DOOM",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
+  "name": "Game 379720",
+  "icon": "",
   "achievements": {
     "ach_1": {
       "name": "Shoot it Until it Dies",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/3befa119faf94dcb7479293256a951e24cbaa67f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "ach_13": {
       "name": "Timing is Everything",

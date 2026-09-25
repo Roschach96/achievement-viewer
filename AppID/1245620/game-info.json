@@ -1,7 +1,7 @@
 {
   "appid": "1245620",
-  "name": "ELDEN RING",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/f0b19c231f86fa0e633ff88a1a63459443017728/header_alt_assets_3.jpg?t=1790188359",
+  "name": "Game 1245620",
+  "icon": "",
   "achievements": {
     "ACH00": {
       "name": "Elden Ring",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACH14": {
       "name": "Legendary Armaments",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "ACH15": {
       "name": "Legendary Ashen Remains",

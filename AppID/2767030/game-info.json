@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
-  "name": "Marvel Rivals",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/088fc787d8513a6f9782d03968e5ac1a01840087/header.jpg?t=1789119923",
+  "name": "Game 2767030",
+  "icon": "",
   "achievements": {
     "10000004": {
       "name": "Thumbs Up",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/3c59b3bba565a704c1e6d58fd1d6222088a8e892.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.4"
     },
     "20000013": {
       "name": "Vicious Vines",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/469196a868bc7bc124c72d61a8c07cb86441a7e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "20000017": {
       "name": "\"Ahhh, those tiny claws!\"",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/a7d45e2abef025d7c93da912367a9e59150809bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "20000024": {
       "name": "Divine Justice",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/0857dc4b9b261e304867dc4317f621e2e76369b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "20000071": {
       "name": "Lady of the House",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "20000079": {
       "name": "Old Haunts",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/6a67c1e841f27aec6be5547745902d40c570f071.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "20000083": {
       "name": "Hand of Heven",

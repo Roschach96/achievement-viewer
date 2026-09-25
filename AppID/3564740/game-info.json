@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
-  "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/8037109e6216ecadf744146d36f2b8425f028257/header_alt_assets_9.jpg?t=1789631126",
+  "name": "Game 3564740",
+  "icon": "",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "1504001": {
       "name": "Hexi: Paws on Point",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0de8f8e99f4959facdd412c24cdd271ed18d0a23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     }
   },
   "platform": null,

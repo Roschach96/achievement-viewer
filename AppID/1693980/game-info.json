@@ -1,7 +1,7 @@
 {
   "appid": "1693980",
-  "name": "Dead Space",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
+  "name": "Game 1693980",
+  "icon": "",
   "achievements": {
     "ach01": {
       "name": "Welcome Aboard",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/9af88cadaf444d7158baab80050e9b936035b1d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "ach13": {
       "name": "Final Regeneration",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/ac493191bf266c6a7de6c46e2f1a438faa24c56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ach19": {
       "name": "Built To Order",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/19a9b9a56ec11cd8bc8594cfbc91c5acc1e7b4e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ach47": {
       "name": "Reunion",

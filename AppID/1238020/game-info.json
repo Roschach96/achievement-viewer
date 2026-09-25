@@ -1,7 +1,7 @@
 {
   "appid": "1238020",
-  "name": "Mass Effect™ 3 N7 Digital Deluxe Edition (2012)",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238020/header.jpg?t=1779987586",
+  "name": "Game 1238020",
+  "icon": "",
   "achievements": {
     "Achievement_GOSCC_102": {
       "name": "Driven",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238020/4475a0d88e6ca2ad1195907dc6f9b9ce249d7d2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "Achievement_GOSCC_137": {
       "name": "Pyromaniac",

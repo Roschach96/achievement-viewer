@@ -1,7 +1,7 @@
 {
   "appid": "606280",
-  "name": "Darksiders III",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606280/header.jpg?t=1754079090",
+  "name": "Game 606280",
+  "icon": "",
   "achievements": {
     "Kill_Sin_Envy": {
       "name": "Green with Envy",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/7df68a38fd0c16267848284406c36d094675da27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "Collect_Artifact_Angel_50": {
       "name": "Holy Keeper",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/4021ec46425e8cba893bc7fd86118b6df9abdbff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "Game_CompleteNGPlus": {
       "name": "Proceed on your way to Armageddon",

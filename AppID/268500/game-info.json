@@ -1,7 +1,7 @@
 {
   "appid": "268500",
-  "name": "XCOM® 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1772813016",
+  "name": "Game 268500",
+  "icon": "",
   "achievements": {
     "Achievement_0": {
       "name": "Earth Avenged",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "Achievement_24": {
       "name": "Breathing Room",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "Achievement_28": {
       "name": "Bring It Down",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "Achievement_54": {
       "name": "Archon Annihilator",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "Achievement_57": {
       "name": "Now I Am The Master",

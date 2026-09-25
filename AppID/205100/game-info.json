@@ -1,7 +1,7 @@
 {
   "appid": "205100",
-  "name": "Dishonored",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg?t=1789050056",
+  "name": "Game 205100",
+  "icon": "",
   "achievements": {
     "ACHIEVEMENT_0": {
       "name": "Thief",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205100/c4a8e280d9ffec8ec718ac594aaffa01b39e5f12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "ACHIEVEMENT_62": {
       "name": "Well Connected",

@@ -1,7 +1,7 @@
 {
   "appid": "495420",
-  "name": "State of Decay 2: Juggernaut Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg?t=1741378867",
+  "name": "Game 495420",
+  "icon": "",
   "achievements": {
     "XBL_10": {
       "name": "Puppies and Kittens",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.7"
     },
     "XBL_42": {
       "name": "Knowing is Half the Battle",
@@ -1117,7 +1117,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/98d4f344f752c32114262531b7e4b2fe246e554f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "XBL_187": {
       "name": "The Desperate Husband",
@@ -1360,7 +1360,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/ef91bb70ebfd229e514afb6326a94ceb23675554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "XBL_214": {
       "name": "Lily, We're Home",

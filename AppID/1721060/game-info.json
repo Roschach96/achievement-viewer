@@ -1,7 +1,7 @@
 {
   "appid": "1721060",
-  "name": "Mandragora: Whispers of the Witch Tree",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721060/6b32b6cb65442613c9f2a5bed21e76b31f2107ac/header.jpg?t=1786452629",
+  "name": "Game 1721060",
+  "icon": "",
   "achievements": {
     "ACH_Defeat_Warg": {
       "name": "Bigger Than a Wolf",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/64374615043c5fd25713389a00435000cc707fd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACH_Defeat_Marionettes": {
       "name": "The Play",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/cc81bd88624a85253637f2eeeebedf13b53b0c4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ACH_Defeat_BanditCaptain": {
       "name": "No Match",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/81c105f0ad0c020862346e4d00f7ee5991a56bff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "ACH_Level10": {
       "name": "Initiate",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/c3f624564c89f1637436d1a07bdd27a58067708b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "ACH_LearnFire": {
       "name": "Master Flameweaver",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8ce98f41e42161a26abb068fcb3a464329125fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "ACH_Tailor": {
       "name": "Master Tailor",
