@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/ce047890391db74bf88cee609fe8dbdc03dd7369.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.1"
     },
     "Achievement19": {
       "name": "A Living Fossil",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/1522041314900ef961d2e0621ebc481f96a30309.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.1"
     },
     "Achievement26": {
       "name": "Power is Everything",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/3927ec9d7007ba4b76504597051e9be8416a8cec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "55.8"
     },
     "Achievement40": {
       "name": "Capture Pro",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/cda13554252055efd3115f0527c8b6a4259699d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "Achievement56": {
       "name": "An End and a Beginning",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/41a4c84c7614673650a52ee47961e740f6a2bc14.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "Achievement61": {
       "name": "Fate's Conclusion",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/b21cb3587b26d19ded1447901961d64df1fcaf0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "Achievement82": {
       "name": "Architectural Artist",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/4948093f4a512083dfa47e12d38920601ff97b42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "Achievement84": {
       "name": "Skilled Steamworker",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/5c8048dceeb326da92cb0952470ac64e470b3a80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "Achievement99": {
       "name": "Seen It All",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/a3dba2f69834f1332e5b47f1a490450d8bb60d3c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     }
   },
   "platform": null,
