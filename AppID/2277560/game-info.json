@@ -1,7 +1,7 @@
 {
   "appid": "2277560",
-  "name": "Game 2277560",
-  "icon": "",
+  "name": "WUCHANG: Fallen Feathers",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277560/7dbbe47ac51463eb1627581f5c048b94ef856d5c/header.jpg?t=1784896573",
   "achievements": {
     "ACH_PLATINUM_01_F": {
       "name": "Fallen Feathers",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/130fc52efed859b39734f8742510c8bca1720722.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACH_SILVER_02_F": {
       "name": "Bound by Fate's Threads",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f8fc8695173ebeb5fd3f8ecfd2d23de3237eb3ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH_SILVER_11_F": {
       "name": "Dragon Emperor - Zhu Youjian's Obsession",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6afea0ddcb8a623b59cc53653b1592631dd5ce01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ACH_SILVER_12_F": {
       "name": "Feathery Ambition - Xuanyangzi",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3c94ba421dc78f6a091a8e731282e054845daf52.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "ACH_COPPER_01_F": {
       "name": "Overflowing Manna",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/084220f7f36f21e792a1911212d984bb155e3521.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.3"
     },
     "ACH_COPPER_15_F": {
       "name": "Gluttonous Monstrosity - Lu Hongliu",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c78b92c52b37310585735ef52e141f44c5fecd18.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "ACH_COPPER_22_F": {
       "name": "Bo Sorcerer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/68fff81615d8280c62aa0908776dce798af4ec47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "ACH_COPPER_23_F": {
       "name": "Vermilion Feathers - Honglan",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f335ab6dfebb0f8c2483d45049d9b1d2fdd863c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "ACH_COPPER_33_F": {
       "name": "Discerning Eye",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f9c22c0ffa59ec723c1c16a3c9b99f2e89c4d10e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "ACH_COPPER_34_F": {
       "name": "Well Traveled",

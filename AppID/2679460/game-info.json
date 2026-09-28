@@ -1,7 +1,7 @@
 {
   "appid": "2679460",
-  "name": "Game 2679460",
-  "icon": "",
+  "name": "Metaphor: ReFantazio",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?t=1764776325",
   "achievements": {
     "ACHIEVEMENT_1": {
       "name": "The Traveller",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "ACHIEVEMENT_3": {
       "name": "Allies United",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.5"
     },
     "ACHIEVEMENT_7": {
       "name": "On Knife's Edge",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.7"
+      "percent": "53.6"
     },
     "ACHIEVEMENT_8": {
       "name": "History Untold",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "ACHIEVEMENT_9": {
       "name": "Mission Accomplished",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "ACHIEVEMENT_10": {
       "name": "Skybound Hope",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "ACHIEVEMENT_11": {
       "name": "Closing the Book",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "ACHIEVEMENT_14": {
       "name": "Archetype Hero",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ACHIEVEMENT_15": {
       "name": "His Majesty",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.2"
     },
     "ACHIEVEMENT_19": {
       "name": "Summon Mask Time",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "ACHIEVEMENT_23": {
       "name": "Money is Power",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.8"
+      "percent": "86.7"
     },
     "ACHIEVEMENT_29": {
       "name": "Hearts as One",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "ACHIEVEMENT_32": {
       "name": "Help Anyone in Need",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_33": {
       "name": "Blessed Power",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "ACHIEVEMENT_35": {
       "name": "Globetrotter",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "ACHIEVEMENT_42": {
       "name": "Entrusted",

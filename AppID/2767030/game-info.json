@@ -1,7 +1,7 @@
 {
   "appid": "2767030",
-  "name": "Game 2767030",
-  "icon": "",
+  "name": "Marvel Rivals",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/088fc787d8513a6f9782d03968e5ac1a01840087/header.jpg?t=1789119923",
   "achievements": {
     "10000004": {
       "name": "Thumbs Up",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "10000010": {
       "name": "Assemble!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/3a404b86aefe500a57550f2939c239c4f090f950.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "20000006": {
       "name": "Victory in Bloom",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/51ec56e76749f61a8200de95323bf2acad924c37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "20000073": {
       "name": "What Time Is It?",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/f7ceced45f6d9769095edf13e933a4dad5cfea16.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "20000081": {
       "name": "Wish Upon a Phoenix",

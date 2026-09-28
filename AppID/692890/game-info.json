@@ -1,7 +1,7 @@
 {
   "appid": "692890",
-  "name": "Game 692890",
-  "icon": "",
+  "name": "Roboquest",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/6a58a633941af70c3813702c55fa23d11b964d7d/header.jpg?t=1780581844",
   "achievements": {
     "ACT1_COMPLETED": {
       "name": "Haven 8",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/880213ef3c80ca92584b557106bab50929fdcb06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "ARMOR_MAX": {
       "name": "Iron Maiden",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/987cb89717e01d4bb34539f12cc746e4079d3d08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.2"
     },
     "COMPENDIUM_FULL": {
       "name": "Gotta Catch' Em All",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8a8877d824864015e14d1368c34d1ddc70e63d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     },
     "FINISH_GAME_BUDDYBOT": {
       "name": "Best Buddy Forever",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/ca951d071aaf4717c5f1d82c6f7a5797ae0eb7bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "GUARDIAN_AMMO": {
       "name": "Ammo Belt",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a00cc37e6ad1a2ea1ca7e8b8501968e772443b73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "LANGUAGE_FRENCH": {
       "name": "Confrérie du Croissant",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/7e08def21a2f3b15b431cbb91efd86d630877780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "LOOT_BUDDYBOT": {
       "name": "My Little Buddy",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b7e15ec2ad938368357ccd6fae51763c9a8dc697.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "MAGUS_FINISH_GAME": {
       "name": "Elementary",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bb14c9c1c4e04b1c08d3a17eb5ff308c3698daff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "WONKABAR_TRIGGER": {
       "name": "Master Gambler",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/aed0a66d9abf76a067510cea47d7e46052ecc06c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "WRENCH_GATHER_SILVER": {
       "name": "Wrench Picker (Silver)",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6a3dc607144538493e4bf234ba2357f41852e640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "SUPERBOT_UNLOCK": {
       "name": "Superbot",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/a2ba09d715802a606ac554a5a4d950715a051ef3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ENDLESS_UPGRADE": {
       "name": "BOOSTER!",

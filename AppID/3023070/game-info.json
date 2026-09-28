@@ -1,7 +1,7 @@
 {
   "appid": "3023070",
-  "name": "Game 3023070",
-  "icon": "",
+  "name": "BEYBLADE X XONE",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023070/header.jpg?t=1784852847",
   "achievements": {
     "ACHIEVEMENT_00": {
       "name": "I'm gonna show you something X-traordinary!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/243127d80e518a1c9709803195130275d58e2714.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "ACHIEVEMENT_02": {
       "name": "Cleared the 90th floor of The X!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f6faae08cc07160546bda211b01f006ed937d49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "ACHIEVEMENT_06": {
       "name": "Cleared the 50th floor of The X!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "ACHIEVEMENT_07": {
       "name": "Cleared the 40th floor of The X!",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ACHIEVEMENT_08": {
       "name": "Cleared the 30th floor of The X!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.6"
     },
     "ACHIEVEMENT_09": {
       "name": "Cleared the 20th floor of The X!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "ACHIEVEMENT_10": {
       "name": "Cleared the 10th floor of The X!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/57a7f767de0fb00c2e21dedbd57ee4bce40416d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.1"
     },
     "ACHIEVEMENT_11": {
       "name": "Amateur Blader",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9e9d2e83ed6050b5c8d87f5640005ab102d1a487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "ACHIEVEMENT_15": {
       "name": "Bey Collector",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "ACHIEVEMENT_18": {
       "name": "Counter Master",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ac1a566761a8599dcbeb18a5ce159b74c17c6671.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACHIEVEMENT_19": {
       "name": "Xtreme Dash Master",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.9"
+      "percent": "56.8"
     },
     "ACHIEVEMENT_20": {
       "name": "XONE",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/614baf38d4f40d2906d0b1049d75352dd0f22022.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "ACHIEVEMENT_21": {
       "name": "Attack-type Master",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a6defebd107f3d75b8349e9f4e1bc20bdf6f3635.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "ACHIEVEMENT_22": {
       "name": "Stamina-type Master",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d771ea367cd462092a1d95add9226483fa286db6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "ACHIEVEMENT_26": {
       "name": "Bonding with Masato",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.2"
+      "percent": "84.3"
     },
     "ACHIEVEMENT_31": {
       "name": "Xtreme Dash Double",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/cda67bc79e65dc9ce6d83226ea014072b32457f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "ACHIEVEMENT_46": {
       "name": "Blue Fang",

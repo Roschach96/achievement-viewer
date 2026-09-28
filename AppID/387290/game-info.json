@@ -1,7 +1,7 @@
 {
   "appid": "387290",
-  "name": "Game 387290",
-  "icon": "",
+  "name": "Ori and the Blind Forest: Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
   "achievements": {
     "completePrologue": {
       "name": "The Journey Begins",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/c721a74e9d75dd221de36a3a10891a2e08d54769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "restoreFire": {
       "name": "Rekindle",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/666e9d24370a7893b8b47c6ffd6a78e4e92e75b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "activateFirstSkill": {
       "name": "Choices Choices",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/dff290cc6f5079c7c7dcbacf5a3ae9550332d6ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "findAllSecrets": {
       "name": "No Stone Unturned",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/7a6e9fb18c89ff26aba87b05485884265ce7ff81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "bashEnemyALotInARow": {
       "name": "Bash Master",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/52a74733be480eb7222905cbbbc0ffb3da56d5f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "completeLostGrove": {
       "name": "The Cycle",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/484a357310dff937c2f4168b4a39048be7c29e6e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "kill50EnemiesWithGrenade": {
       "name": "Light Burst Master",

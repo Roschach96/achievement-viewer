@@ -1,7 +1,7 @@
 {
   "appid": "1384160",
-  "name": "Game 1384160",
-  "icon": "",
+  "name": "GUILTY GEAR -STRIVE-",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1788400087",
   "achievements": {
     "ACHIEVEMENT000": {
       "name": "STRIVE",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "57.9"
     },
     "ACHIEVEMENT015": {
       "name": "To the World Outside",

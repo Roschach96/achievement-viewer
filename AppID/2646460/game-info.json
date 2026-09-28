@@ -1,7 +1,7 @@
 {
   "appid": "2646460",
-  "name": "Game 2646460",
-  "icon": "",
+  "name": "Soulmask",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1788247913",
   "achievements": {
     "BP_ChengJiu_MianJuLevel_10": {
       "name": "Soulmask",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b65057c403f1b7e7d5b21c1d96e89c98fd0c6f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "BP_ChengJiu_MianJuLevel_60": {
       "name": "Do not respond!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/d0d3d857661e45cdb6f6339fca0b7306b7fdb4d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "BP_ChengJiu_ShiBan_001": {
       "name": "Ancient Scholar",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1981ef8a2471d8b424172e5d391abd8004c5b0e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "BP_ChengJiu_Kill_JianChiHu02": {
       "name": "Opponent's Bone Spear and Bone Shield",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/2bef5d5d1ebe9b71dc82277da8b3abc5510a936e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "BP_ChengJiu_Kill_JuYuan01": {
       "name": "Face Off",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/3280efb09b859dbe3fc7884469056ead821967e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "BP_ChengJiu_Kill_MMX03": {
       "name": "Seasoned Mammoth Hunter",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/44003ebba19d27fffa1e1c19b3330d1cc7d984cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "BP_ChengJiu_Kill_ShouLie06": {
       "name": "Mythic",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/432fe7edebb8edd2b35f5f80017c0b163767d3d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "BP_ChengJiu_Kill_ZhaiZi05": {
       "name": "Astrologer",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b6b9347b8896f5a140e06bd1a7f9d58c9c0c71d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "BP_ChengJiu_Kill_ZhaiZi09": {
       "name": "Venom",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/938d4df001f0b8c051b51acd1f732cc65064061a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "BP_ChengJiu_Kill_DiMianYiJi03": {
       "name": "Iceblood Savage",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/8d307de36c5e39c0bda42c95a2b5d7e09c541741.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "BP_ChengJiu_Kill_YiJiDiGong06": {
       "name": "Hidden Pearl: River Valley",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/b30f9025ccf8c2e32356df730f292753d40bba10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "BP_ChengJiu_ManRen_JingYing": {
       "name": "Silent yet busy",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/57c14a534bd6af351e99941f9d9bb6012723abff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.7"
     },
     "BP_ChengJiu_ZhiZao_WenMing01": {
       "name": "Bud of Habitat",
@@ -775,7 +775,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/e2f3369f37bac90d9df5e662456075a9d0c50953.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "BP_ChengJiu_ZhiZao_MianJia02": {
       "name": "Shadow Walker",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "BP_ChengJiu_Kill_SenLuoE03": {
       "name": "Sobek Crocodile of Doom",
@@ -847,7 +847,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "BP_ChengJiu_Kill_YinHunQuan01": {
       "name": "Fierce Anubis Hound",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/fa361bf00663115224d6507d73a84a07de5fa6b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "BP_ChengJiu_Kill_AJ_ZhaiZi02": {
       "name": "Ironfoot",
@@ -1072,7 +1072,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/851f7331cf485a587c922235ec8e22f64acbc62c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "BP_ChengJiu_AJ_Collect_All": {
       "name": "Rise in the Shifting Sands",

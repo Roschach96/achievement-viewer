@@ -1,7 +1,7 @@
 {
   "appid": "2373990",
-  "name": "Game 2373990",
-  "icon": "",
+  "name": "Solo Leveling: ARISE OVERDRIVE",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1781758887",
   "achievements": {
     "SOLO_ACHIEVEMENT_1_0": {
       "name": "A Hunter's Duty",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/c806a89d5978d4c29c048ebe8ac22c95665f1866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "SOLO_ACHIEVEMENT_1_10": {
       "name": "Behold My Army",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/8fdb2ddabeeb8787c32e48e7c5ea7d4a48264571.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "SOLO_ACHIEVEMENT_1_11": {
       "name": "A New Technique",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/b50aff4caafe848aebfb707a9c97dc26e1e6b8b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "SOLO_ACHIEVEMENT_1_42": {
       "name": "Transformation!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/57bcb41bd7155793c09e997a89e471a78b712fb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "SOLO_ACHIEVEMENT_1_45": {
       "name": "Snake Hunting",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/4e53cfa41d3c6e6dc8a8bf30f8e71571cd06019e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.9"
+      "percent": "95.0"
     },
     "SOLO_ACHIEVEMENT_1_57": {
       "name": "Penalty Zone",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/abd4f53a7337bfb9336b6276d2647816e7bb3973.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     }
   },
   "platform": null,

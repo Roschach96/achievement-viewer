@@ -1,7 +1,7 @@
 {
   "appid": "1859430",
-  "name": "Game 1859430",
-  "icon": "",
+  "name": "Shadow Labyrinth",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859430/header.jpg?t=1766479566",
   "achievements": {
     "SHIMEI": {
       "name": "Duty",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1859430/52bda70203126062a69981673848286aab708cfc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "SENKI": {
       "name": "War Chronicles",
