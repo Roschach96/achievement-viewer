@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/1cdd5efde6eaeee89dcdff7f2c0b85c4dcc344f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "55.8"
     },
     "ACH_Defeat_RiftBoss": {
       "name": "Interdimensional Threat",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/625dcebadb6029eeed543ee234075856a534791b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.0"
     },
     "ACH_Craft20": {
       "name": "Craftsman",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/028e7bfd84b2dbb8a871a00d51ab948050674bbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "ACH_EnchantWeapon": {
       "name": "Novice",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/76e686e22da22b1e036427fef2f7a9f8dc54dfc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ACH_Blacksmith": {
       "name": "Master Blacksmith",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/50e23c7856735e7ea33a40bd4b6f0680bb2c8279.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "ACH_NoSecret": {
       "name": "No Secret Anymore",
