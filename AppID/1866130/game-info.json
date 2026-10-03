@@ -1,7 +1,7 @@
 {
   "appid": "1866130",
   "name": "Morbid Metal",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/b92703e64b423aeb709605a4d67ae005791b8485/header.jpg?t=1790777574",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/8eef61883f0abcb5ff5d0415fff7f23b71563360/header_alt_assets_0.jpg?t=1790777574",
   "achievements": {
     "FINISH_TUTORIAL": {
       "name": "Calibration complete",
@@ -413,7 +413,7 @@
       "description": "Kill Saru on Beginner difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/36c55bfa12891b621053cc8617816ba7a16b7243.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.1"
     },
@@ -422,7 +422,7 @@
       "description": "Kill Saru on Regular difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/71193bdeea344db967e8c58b220f5494ee349e2e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.1"
     },
@@ -431,7 +431,7 @@
       "description": "Kill Saru on Advanced difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/dc74f5b9ddd65741eae4ec8c9fa1b3b6bbb27676.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -440,7 +440,7 @@
       "description": "Kill Saru on Expert difficulty level",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/84b6c3252d6e354b5abc2d9d1de8f6cee269e7e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -449,7 +449,7 @@
       "description": "Kill Saru on Morbid difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/120978ac92ccc1ddaccf622fb79948e9b3d74edf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -458,7 +458,7 @@
       "description": "Kill Prophet on Beginner difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/41e849eb5ff047fd6debb182bd68d0c151fb7464.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -467,7 +467,7 @@
       "description": "Kill Prophet on Regular difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f6b3e843646a22d3f08e837a01591e033df6e91d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -476,7 +476,7 @@
       "description": "Kill Prophet on Advanced difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3ae66396b550dd8f000ccbec3d924223623cd4b1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -485,7 +485,7 @@
       "description": "Kill Prophet on Expert difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2d58d94c0743c5603afc8396dac2ab338775fd24.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
@@ -494,9 +494,41 @@
       "description": "Kill Prophet on the Morbid difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b3bc3fcb32ca96839eadfaf5add21d399971cb55.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
+    },
+    "KAIZU_NOVICE": {
+      "name": "Kaizu Novice",
+      "description": "Kill 50 Enemies with Kaizu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b875bee4ec0fe54e469f52d3c210ecfc7c5000a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "KAIZU_EXPERT": {
+      "name": "Kaizu Expert",
+      "description": "Kill 250 Enemies with Kaizu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f27a28ea591075f49822b9172d3890706996f926.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "KAIZU_MASTER": {
+      "name": "Kaizu Master",
+      "description": "Kill 500 Enemies with Kaizu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96b6c8609ddde873d0c9554d99e4e635f1875f13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "KAIZU_UNLEASHED": {
+      "name": "Kaizu Unleashed",
+      "description": "Kill 1000 Enemies with Kaizu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/877db5666347276f3d4e2462849307bda2baaacb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": null,
