@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "ACH_DEFEAT_BAT": {
       "name": "The Hanged Queen",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "ACH_DEFEAT_CORVUS": {
       "name": "Corvus",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "ACH_COMPLETE_LEVEL_FORTRESS": {
       "name": "Hermes Fortress",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.1"
+      "percent": "92.0"
     },
     "ACH_FIRST_REACH_BEACON": {
       "name": "Take a break",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACH_COLLECT_EVERYTHING": {
       "name": "The Great Collector",
