@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/0fb176648926d966a9913ed4ad46830256c9de98.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "ACHIEVEMENT004": {
       "name": "Messiah Will Not Come",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/c75b1bc5faa43633c0c67840beea123c5e514d2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "ACHIEVEMENT006": {
       "name": "I'll have a Little of Your Time",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/244a327c460516e4eb04770f5ca692a3aa1096cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "ACHIEVEMENT012": {
       "name": "Begin Assessment of the Target",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/9d6452ea64872e8097ad04ea485e62d72dc435d8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "ACHIEVEMENT015": {
       "name": "To the World Outside",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/e787bec062b492831ef07008999a0f7d060636e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "ACHIEVEMENT020": {
       "name": "Everlasting Thirst",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/d3f26ab74c130d9780395c71011b193a2bb52d0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "ACHIEVEMENT025": {
       "name": "In the Blink of an Eye",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/52bab7e2f2d17aea0b2c5fd8dcf7eaaaa41ec8a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "ACHIEVEMENT029": {
       "name": "Extraordinary Defensive Instinct",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/ea1eb05e5e9e74b2b901b5fbde89c2b1e811b371.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "72.9"
     },
     "ACHIEVEMENT032": {
       "name": "Give It My All",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1384160/67af1a83fb4a4aa623a77e44359070c52d906f78.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     }
   },
   "platform": null,

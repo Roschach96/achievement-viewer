@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_healpoints_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "TF_BURN_PLAYERSINMINIMUMTIME": {
       "name": "Flamethrower",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "TF_GET_HEALED_BYENEMY": {
       "name": "Master of Disguise",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_under_fire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "TF_MEDIC_SIMUL_CHARGE": {
       "name": "Group Health",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_switch_to_medic_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "TF_MEDIC_SAVE_TEAMMATE": {
       "name": "Triage",
@@ -811,7 +811,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8d9c7d2f598a62de7775c95338ee5570d79268c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "TF_PYRO_DOUBLE_KO": {
       "name": "Dead Heat",
@@ -1009,7 +1009,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e949e6a19ae901836ec243adcf4f925a0ef1240.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "TF_HEAVY_KILL_DOMINATED": {
       "name": "Icing on the Cake",
@@ -1432,7 +1432,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1f5c5a08da3827ed4bd16c967c77274ccd7f6c04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_SCOUT_KILL_IN_DODGE_COOLDOWN": {
       "name": "Retire the Runner",
@@ -1603,7 +1603,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/02f3042d0d29116050bc630e51583704d68b6d84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "TF_SNIPER_KILL_INVIS_SPY": {
       "name": "Shoot the Breeze",
@@ -1630,7 +1630,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f03bd55e347e74957924d06b8ec152a65bd9ecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_SNIPER_DOMINATE_SNIPER": {
       "name": "Australian Rules",
@@ -1837,7 +1837,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/422b5700e779ba6b8e748a499a1ad69617345e45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "TF_SNIPER_BOW_KILL_WHILEDEAD": {
       "name": "Dead Reckoning",
@@ -1882,7 +1882,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1e7d4f7bc1f4caa42e4a3ce050d81114a6fbcc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "TF_SPY_TAUNT_KILL": {
       "name": "The Man from P.U.N.C.T.U.R.E.",
@@ -2053,7 +2053,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fbcb7b80e90bffb8f549bb6b3288c32697ddea0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "TF_SPY_BACKSTAB_GRIND": {
       "name": "Spymaster",
@@ -2143,7 +2143,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/23b85fdfb3aa4054545d674495755265c5ef5512.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_SPY_CAMP_POSITION": {
       "name": "Deep Undercover",
@@ -2350,7 +2350,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa3d7f36172be1c248b6fb5ee56c611bcfd872ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "TF_SOLDIER_KILL_ENGY": {
       "name": "Engineer to Eternity",
@@ -2638,7 +2638,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/504da86f77eab338366d9acbf865760f02aecece.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "TF_DEMOMAN_DECAPITATE_PLAYERS_FAST": {
       "name": "Left 4 Heads",
@@ -3007,7 +3007,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/564d0a9e3b16f82183c544fe06bca846bf30370b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG": {
       "name": "Building Block",
@@ -3034,7 +3034,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3dbcca6ddb26beea5bad87138d0b674c7e888bbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_ENGINEER_KILL_DISGUISED_SPY": {
       "name": "The Wrench Connection",
@@ -3115,7 +3115,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d3c7c1b592257eaa09e575f469bb6c20029e9922.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_ENGINEER_DISPENSER_HEAL_GROUP": {
       "name": "Doc Holiday",
@@ -3286,7 +3286,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f04f91c667b46c1d2d6cd56afa90acd17b0178.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "TF_HALLOWEEN_COLLECT_GOODY_BAG": {
       "name": "Masked Mann",
@@ -3331,7 +3331,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b4c61dee9777c41d409a9f0fb131a73dfbbc927f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_REPLAY_BROWSE_REPLAYS": {
       "name": "Time For Your Close-Up, Mr. Hale",
@@ -3655,7 +3655,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/885f68c511c221413306aeb879eacd877dcee108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "TF_MAPS_DOOMSDAY_ACHIEVE_PROGRESS1": {
       "name": "Doomsday Milestone",
@@ -4438,7 +4438,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_kill_player_you_didnt_see_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TF_DEMOMAN_QUICK_KILLS": {
       "name": "Chain Reaction",
