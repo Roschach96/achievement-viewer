@@ -1,7 +1,7 @@
 {
   "appid": "387290",
-  "name": "Ori and the Blind Forest: Definitive Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
+  "name": "Game 387290",
+  "icon": "",
   "achievements": {
     "completePrologue": {
       "name": "The Journey Begins",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/65266b65ae3df4373862c07b4785f6574191514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.2"
     },
     "enterGinsoTree": {
       "name": "Rotten Inside",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/c3db5dd63b4d59389ba3cf324e1e1bc15ea13700.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "restoreWind": {
       "name": "Solid Ground",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/299eccdf2d29d9f838adc3f6b113105da6fb6b1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "killManyWithBashRedirect": {
       "name": "Deadly Deflection",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/67f56aa808cfaf833eae7a057e0a6749356f538f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "collectAllEnergyCells": {
       "name": "Powerhouse ",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/ef83d986380054db16a8653d8e071536380fffc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "killFiftyEnemiesWithStomp": {
       "name": "Stomp Master",
