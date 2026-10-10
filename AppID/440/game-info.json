@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f61da5ee7db3f110e692f282623b9d17604282dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "TF_PYRO_FREEZECAM_TAUNTS": {
       "name": "Freezer Burn",
@@ -1117,7 +1117,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d7e01ff5e6f3896fa362aa1701fa7d068eeaa6af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "TF_HEAVY_DEFEND_CONTROL_POINT": {
       "name": "Gorky Parked",
@@ -2215,7 +2215,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e0a08c4a19a93f352f7b9f83ca28bc853c3dceb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "TF_HALLOWEEN_DOMINATE_FOR_HAT": {
       "name": "Ghastly Gibus Grab",
@@ -3007,7 +3007,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/564d0a9e3b16f82183c544fe06bca846bf30370b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG": {
       "name": "Building Block",
@@ -3115,7 +3115,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d3c7c1b592257eaa09e575f469bb6c20029e9922.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_ENGINEER_DISPENSER_HEAL_GROUP": {
       "name": "Doc Holiday",
@@ -3529,7 +3529,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e5d69c353384a86e1659cd3a415adbd544abeed0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TF_MAPS_FOUNDRY_BACK_AND_FORTH_BATTLE": {
       "name": "Dead Heat",
@@ -3700,7 +3700,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4727b536b170117a30420f948bb659838fcc4a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "TF_PYRO_IGNITE_WITH_RAINBOW": {
       "name": "Full Spectrum Warrior",
@@ -3916,7 +3916,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "TF_MVM_KILL_ROBOT_MEGA_GRIND": {
       "name": "Metal Massacre",
@@ -4060,7 +4060,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/02ab21fbd300b7ec2cf75f57d9ea1015f6943503.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_HALLOWEEN_HELLTOWER_SKELETON_GRIND": {
       "name": "Helltower: Skeleton Coup",
@@ -4510,7 +4510,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_conga_line_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TF_TAUNT_RPS_ROCK": {
       "name": "On The Rocks",

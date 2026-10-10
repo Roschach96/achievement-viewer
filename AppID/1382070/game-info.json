@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/b5ec69ebfdb0627e143279b4343b508220077f32.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "ACH_BATTERYMAX": {
       "name": "Battery of Batteries",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/df9a9349047d759aaaba5765c948f505d194fff1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "71.8"
     },
     "ACH_CATCH_SELF": {
       "name": "Caught in the act!",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "ACH_DRAWINGUSEGREEN": {
       "name": "Green is not a creative colour",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.0"
     },
     "ACH_PROG_HUB3_CAMERA": {
       "name": "Viewfinder",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/393882e0dacde352295d795e2df6f1577e4c341b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "ACH_PROG_OPT_ALL": {
       "name": "I didn’t realise they were optional",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/fc92c404d8684c707b4a0f147277754564a199c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACH_PROG_WEC": {
       "name": "Under the illusion",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/e401a7363619bc83689c6c5852b14be8a9e90ab7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     }
   },
   "platform": null,

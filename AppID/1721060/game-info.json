@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/fda737acbefe3ed0dbe80fbe586ab757706d2409.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.5"
     },
     "ACH_Defeat_Necromancer": {
       "name": "Creature of the Old World",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/c84627dfe1f05c1d6550ea8dc34941509a8be10d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "ACH_Defeat_Ferryman": {
       "name": "The Ferryman",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e9ec86f4ff0ad680aeb584ad0f3040e21a78089f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "ACH_Defeat_TomeMistress": {
       "name": "Knowledge is Power",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/99e0f5ffea4d352194cfa35a7f6cb32bd482b425.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACH_Defeat_Sleepwalker": {
       "name": "A Dream within a Dream",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/6a456455083ded6ab319fea92a83c6f50c5bf501.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "ACH_Defeat_Inquisitors": {
       "name": "Revenge",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/726addf6112243f091212de4a1bf2073b978bb95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.5"
     },
     "ACH_Defeat_Caretakers": {
       "name": "Taking Care",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/d665f5887042cd8618f8a89c9cc3d08431e1fb57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ACH_Defeat_Wraiths": {
       "name": "Exorcist",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/cc81bd88624a85253637f2eeeebedf13b53b0c4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "ACH_Defeat_BanditCaptain": {
       "name": "No Match",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8facfd7bd161eee185069cf4aadb8f9adb3ea0e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "ACH_Defeat_CourtMagician": {
       "name": "Court Affairs",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/80fb5b3b474e007e36254209033717e11113730b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.5"
+      "percent": "78.4"
     },
     "ACH_Kill1K": {
       "name": "Fighting",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/e5c4bd832df6b30a4b8f6d26264db878c49fc609.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.2"
     },
     "ACH_EnchantArmor20": {
       "name": "Armorer",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/8beb588be388ec18d0be0efb8aa3265476da20da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "ACH_Jokes": {
       "name": "Wasn't Funny",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/55f5748a1b82c49da63a563bc324123da2c69f8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.5"
+      "percent": "78.4"
     },
     "ACH_ChestOpenGold": {
       "name": "Shiny Baubles",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/d5c62f9635b18624916c5ce1f18e61e3a4f21608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ACH_Occultist": {
       "name": "Master Occultist",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721060/f8629b5ce3c575d2093da7c18c90698f52f7ac93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ACH_LearningCurve": {
       "name": "Learning Curve",
