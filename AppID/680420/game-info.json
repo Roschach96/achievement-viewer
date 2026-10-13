@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0e9ee18865ea5404198e0f9487ba261ab3c0768c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "ach_story_4": {
       "name": "One Way Ride",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/4305fe5064792619cccade09d891ab789c1d9694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "ach_story_5": {
       "name": "Malpractice",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/f88d8745d4fdea729fe391203dc13ff103e4fe7c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "ach_collector": {
       "name": "Patron of the Past",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/11f45c9bd744f80226b8ae49ccba7970daa3cd0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "68.8"
     },
     "ach_kill_with_statuses": {
       "name": "Coup de Grâce",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/71634d3dcef9863cc7a292ff7a37d72ae8258855.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ach_enhanced_skill": {
       "name": "Ace in the Hole",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/65fe395c972fe0c7a3fa1c60241f0fc598b8b56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "ach_character_level_1": {
       "name": "Fortune Favors the Bold",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/a7aa15bbe08f5f447886d9c16f8d980010f43f53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.5"
+      "percent": "83.4"
     },
     "ach_character_level_2": {
       "name": "Leave Humanity Behind",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c287c08bf715aa9141f89934ad644a63272bcc59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "ach_item_trade": {
       "name": "Hard Bargainer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/64f03219febad9f16ca4950e7cb5619b06e4b56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.0"
     },
     "ach_crafting_improve": {
       "name": "True Potential",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/b299b19e97d99a3c5d18da42431a7bfa86f049ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "ach_collectibles_2": {
       "name": "One for the Books",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c61c6543816425ca81591d366912b3bdee864b78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ach_accolades_1": {
       "name": "Been There, Done That...",

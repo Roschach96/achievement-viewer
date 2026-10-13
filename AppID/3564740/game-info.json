@@ -1,7 +1,7 @@
 {
   "appid": "3564740",
   "name": "Where Winds Meet",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/640329dbc0083cb8d529340137c80963d87f97e0/header.jpg?t=1790514845",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/640329dbc0083cb8d529340137c80963d87f97e0/header.jpg?t=1791798646",
   "achievements": {
     "all_achievement": {
       "name": "The Hero is the Voice of the World",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "1202003": {
       "name": "Horizon Seeker",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "401001": {
       "name": "Healing Hands",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "1404107": {
       "name": "High Spirits",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "1404092": {
       "name": "Sky's the Limit",
@@ -551,6 +551,60 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.5"
+    },
+    "2003007": {
+      "name": "Qingzhou: Six-Art Savvy",
+      "description": "Solve all Meow Meow puzzles in Penglai.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/1183a11d91b8907c2452a61323045a7bab0af9e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/a6c1ab1ed4ed651dbda1666b227c68420dec9873.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1002157": {
+      "name": "Feathered Finesse",
+      "description": "Feathers dance as every gaze turns to the sky.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0d22dfe33b7189223198a68728048866e4137ca3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1701002": {
+      "name": "Flock-Solid Run",
+      "description": "Achieve a perfect run in Sea Shepherd.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1701006": {
+      "name": "Grave Research",
+      "description": "Fresh from the crypt. Jot them down fast!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1701008": {
+      "name": "A Song of Tides",
+      "description": "The tide races for the open sea. Defeat the Tidewatcher.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/3f52387f063c6e971964a5247a7b3b48cff54a33.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/939260bb0577ff464d82a0f2d39754b61ec4b37d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "2004010": {
+      "name": "Shocking Epiphany",
+      "description": "Chop a tree on Mount Tai and get struck by lightning.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/4618f52fea43e5af8057cc59736a835d6d1d0aa9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0de8f8e99f4959facdd412c24cdd271ed18d0a23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,
