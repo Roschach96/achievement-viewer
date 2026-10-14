@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "Defeat_Corrupted_Ravager": {
       "name": "Chaos",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "Defeat_Abberations_A": {
       "name": "Am I Seeing This?",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "40.8"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "Defeat_Cube": {
       "name": "Gleaming the Cube",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "Defeat_Many_Faces": {
       "name": "The God Gambit",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "Discover_Blood_Moon_Room": {
       "name": "Red Room",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "Obtain_Melee_Weapons_B": {
       "name": "Cutting Edge",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "Obtain_Archetype_Secret": {
       "name": "Shhh...It's a Secret",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "Obtain_Traits_C": {
       "name": "Proving Grounds",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "Craft_Weapon_Mod_A": {
       "name": "Expanding Horizons",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "Upgrade_Traits_B": {
       "name": "Maxed Out!",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "Upgrade_Standard_Weapon_A": {
       "name": "Good, but Could be Better!",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "Upgrade_Standard_Weapon_B": {
       "name": "No One Should Have All That Power",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "DLC1_Defeat_OneTrueKing": {
       "name": "Regicide",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "DLC1_Discover_True_Ending": {
       "name": "Succession",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "DLC3_Obtain_Archetype": {
       "name": "Master of Technology",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     }
   },
   "platform": null,

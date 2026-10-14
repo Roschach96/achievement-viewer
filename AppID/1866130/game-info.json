@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "VOID_RIFT_FIRST_INTERACTED": {
       "name": "Welcome to the Void",
@@ -73,16 +73,16 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "77.1"
     },
     "CHAR_UNLOCK_VEKTA": {
-      "name": "And three",
+      "name": "All under control",
       "description": "Unlock Vekta",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/9cb38f88e54d4b4a6295936f1ed99d565034d564.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/43320b06718ae2f4094c6048abe542e81f2c1991.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "PICKUP_FIRST_LORECODEX": {
       "name": "That’s the first chapter",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "SUBBIOME_B1_ENTERED": {
       "name": "Sunken Grounds",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ITERATIONS_2": {
       "name": "Fail and Repeat",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "ITERATIONS_3": {
       "name": "Rule of Three",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "ITERATIONS_5": {
       "name": "5 in a Row",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ITERATIONS_10": {
       "name": "Cant get enough",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ITERATIONS_25": {
       "name": "Okay, nice",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "EXPERT_DEFENDER": {
       "name": "Expert Defender",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "MASTER_DEFENDER": {
       "name": "Master Defender",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "NOVICE_ENGINEER": {
       "name": "Novice Engineer",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "EXPERT_ENGINEER": {
       "name": "Expert Engineer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "FLUX_EXPERT": {
       "name": "Flux Expert",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "NOVICE_SLAYER": {
       "name": "Novice Slayer",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "EXPERT_SLAYER": {
       "name": "Expert Slayer",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "MASTER_SLAYER": {
       "name": "Master Slayer",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "FLUX_MASTER": {
       "name": "Flux Master",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "VEKTA_EXPERT": {
       "name": "Vekta Expert",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "DIFFICULTY_2_KILL_SARU": {
       "name": "Saru II",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "DIFFICULTY_5_KILL_SARU": {
       "name": "Saru V",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "DIFFICULTY_1_KILL_PROPHET": {
       "name": "Prophet I",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "DIFFICULTY_2_KILL_PROPHET": {
       "name": "Prophet II",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "KAIZU_EXPERT": {
       "name": "Kaizu Expert",
@@ -533,6 +533,15 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
+    },
+    "CHAR_UNLOCK_KAIZU": {
+      "name": "Liberated",
+      "description": "Unlock Kaizu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/8254149ab00fca5d391e670684975b20c9a6a7c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
     }
   },
   "platform": null,
