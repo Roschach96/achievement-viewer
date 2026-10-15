@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/d54c6765f9834799f7f1dfa5ac5d6c8a54895051.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACH_BREAK_TELEPORTER": {
       "name": "No way out!",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/7c8e1ab69e8bdbd5dcc60e5d7a007d2f49ff704a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ACH_COUNT_PHOTO_100": {
       "name": "Professional Photographer",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/22a28192fd72540686087227cfe01f519bb88b96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.9"
     },
     "ACH_NOBATTERYPICKUP": {
       "name": "Contactless",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a5241dc6804d93f3412b7d3c34f38e3909d5e646.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.0"
     },
     "ACH_PROG_HUB3_CAMERA": {
       "name": "Viewfinder",
