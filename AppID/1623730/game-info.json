@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/9f7102af4f5879490be0522395ee28ce22902aca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "Pal_Achievement_15": {
       "name": "Exceptional Pal Tamer",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/0077337de364b6014c6af7a6a9e285eba6565ff2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "Pal_Achievement_18": {
       "name": "Legendary Celestial Dragon",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/21bc52a62bf88b0e71a8eefbd15534a3f7d1d1f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "Pal_Achievement_24": {
       "name": "All for One",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/7c92ae4fc331c3b84f07bec2080e7f339bebbf50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "Pal_Achievement_32": {
       "name": "Feybreak Sovereign",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/5ab2e6e4d945f3126f55bd016aedf773823549ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "Pal_Achievement_35": {
       "name": "Pal Labor Student",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/4124fff11c2a8d6bce6cb85a856ca294b3795a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "Pal_Achievement_40": {
       "name": "Freshman Surveyor",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3456010dd838ccc1d1bad3c3625f1339a72f5f0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "Pal_Achievement_42": {
       "name": "Senior Surveyor",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/4aeab3f0f08ef4263560ec6cec21c451bfdaf887.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "Pal_Achievement_47": {
       "name": "Veteran Angler",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/49116e896a43e0ebaa0492654531026e048fca82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "Pal_Achievement_60": {
       "name": "Desert Guru",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/5fbac3112f44610fee251ca2f891fbc256ec0efb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "Pal_Achievement_61": {
       "name": "Snowy Mountain Guru",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/72e56182ab97a9373e5f0365c47a4dab5eccce8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "Pal_Achievement_71": {
       "name": "Arena Legend",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/75b5b2a31b0d8ae26bba6013c1cc96080c31c71e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "Pal_Achievement_75": {
       "name": "Savior of Palpagos",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3c6a825793b02c9013d698e4e266b34f271eab0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     }
   },
   "platform": null,
