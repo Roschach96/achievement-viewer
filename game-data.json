@@ -1,5 +1,5 @@
 {
-  "last_updated": 1792125702,
+  "last_updated": 1792211522,
   "total_games": 123,
   "games": [
     {
@@ -7,7 +7,7 @@
       "info": {
         "appid": "2767030",
         "name": "Marvel Rivals",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c61f65c5968af5d85b0393005991ecee0184fcaf/header.jpg?t=1791536405",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c61f65c5968af5d85b0393005991ecee0184fcaf/header.jpg?t=1792140776",
         "achievements": {
           "10000004": {
             "name": "Thumbs Up",
@@ -19478,7 +19478,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582010/63acb232633b4f16f54ae60e24b0882db75a43f2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.1"
+            "percent": "19.0"
           },
           "Achievement12": {
             "name": "Step into the Arena",
@@ -49639,7 +49639,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.4"
+            "percent": "51.3"
           },
           "OPTIONAL_CAMP": {
             "name": "Curious",
@@ -50689,7 +50689,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.9"
+            "percent": "16.0"
           },
           "trophy_06_level6_complete": {
             "name": "Godslayer",
@@ -50725,7 +50725,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "17.6"
+            "percent": "17.7"
           },
           "trophy_10_all_weapons": {
             "name": "Trinity",
@@ -50986,7 +50986,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.3"
+            "percent": "8.4"
           }
         },
         "platform": null,
@@ -53107,7 +53107,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/d94ca62ff284d87de6bdfe922ac871936acdcc32.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.2"
+            "percent": "7.3"
           },
           "WELCOME": {
             "name": "Welcome to Touge Shakai",
@@ -53116,7 +53116,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2113900/5818af4ef0d01e6ff6685b3b10d81afd589dd8d7.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "76.7"
+            "percent": "76.8"
           }
         },
         "platform": null,
@@ -53160,7 +53160,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/be595d8b7666b47b80685fd189f8e489e1f568cc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.9"
+            "percent": "32.0"
           },
           "ACH_MENTOR_SUCCESS": {
             "name": "\"Sorry, kid.\"",
@@ -53241,7 +53241,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/8a6c521cb57159eb907cd376f8b772de52a5fc57.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.1"
+            "percent": "20.2"
           },
           "ACH_FIRST_SHOT": {
             "name": "\"It smells very chemically in here.\"",
@@ -53268,7 +53268,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/817da6824201a3b1a267c5ffe55375894d1277a3.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "41.1"
+            "percent": "41.2"
           },
           "ACH_KNIFE": {
             "name": "\"But I cheered for Invisigal...\"",
@@ -53295,7 +53295,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.5"
+            "percent": "3.6"
           },
           "ACH_SYNERGY": {
             "name": "Work Spouse",
@@ -53313,7 +53313,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.3"
+            "percent": "49.4"
           },
           "ACH_TRAIN": {
             "name": "Power Trip",
@@ -53331,7 +53331,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/4ad7dc43a4e528268ed93a60bd19854aaeed7210.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.1"
+            "percent": "37.2"
           },
           "ACH_STORE": {
             "name": "\"There. You happy now?\"",
@@ -53358,7 +53358,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/a87b237764917ecbb47bacd874bba8a504524fd7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "90.1"
+            "percent": "90.2"
           },
           "ACH_PERFECT": {
             "name": "Shift Was Lit",
@@ -53385,7 +53385,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/7f92dbf38ecc83e437c72d7a16f296a14693f36b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.8"
+            "percent": "16.9"
           },
           "ACH_SCEN_FAIL": {
             "name": "Snake Eyes",
@@ -53394,7 +53394,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.7"
+            "percent": "72.8"
           },
           "ACH_SCEN_PERFECT": {
             "name": "Nailed It",
@@ -53914,7 +53914,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220240/941ab6fbe811de92f1e5683e027218113d712ad6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.4"
+            "percent": "15.5"
           },
           "FarCry3_Ach_3": {
             "name": "Worst Date Ever",
@@ -53941,7 +53941,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220240/33bdf0611fe2cf7627107775a9758e5ba828e24a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.5"
           },
           "FarCry3_Ach_6": {
             "name": "Retake Wall Street",
@@ -54004,7 +54004,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220240/171f6275b2ef69c96f0bef71bb6bde83ba48548d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.2"
+            "percent": "7.3"
           },
           "FarCry3_Ach_13": {
             "name": "Free Fall",
@@ -54175,7 +54175,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/220240/c8d258ea0475b4badb3f45b50a69b8f059a5693e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.2"
+            "percent": "16.3"
           },
           "FarCry3_Ach_32": {
             "name": "Poacher",
@@ -60422,7 +60422,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/debb35fb04fb5f7bdfd112ff7f01cef57542f796.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.5"
+            "percent": "19.4"
           },
           "PFA_30": {
             "name": "A Talent for Spending",
@@ -60431,7 +60431,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/3ede5cd4d4e8e217a239bbd4ce0078862730597f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.9"
+            "percent": "60.8"
           },
           "PFA_31": {
             "name": "Savvy Spender",
@@ -60476,7 +60476,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/22b6e534eac3b5e9363fb56e137245c5abe3657a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "45.5"
+            "percent": "45.4"
           },
           "PFA_36": {
             "name": "Rise to the Challenges",
@@ -60512,7 +60512,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/5f09e979c3509ad591f73fb246907e8ad98f03f1.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "33.4"
+            "percent": "33.3"
           },
           "PFA_40": {
             "name": "Demiguise Dread",
@@ -79138,7 +79138,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/7681a5b799671aa63d2942b61c9b6f4606f5c386.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "79.3"
+            "percent": "79.4"
           },
           "ACH_ReachLevel20": {
             "name": "…A Scavenger…",
@@ -79174,7 +79174,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/3bdc60a193e3d01ec06f7d71aaaf7de6075f926a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.9"
+            "percent": "44.8"
           },
           "ACH_ReachLevel60": {
             "name": "…A Champion…",
@@ -90206,7 +90206,7 @@
       "info": {
         "appid": "3564740",
         "name": "Where Winds Meet",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/37c210bd0264534f3c1db9085d3321de037fe038/header_alt_assets_10.jpg?t=1792042200",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6083e91454cf6ad67242a0799c4fc7d0dd3f8bde/header.jpg?t=1792161543",
         "achievements": {
           "all_achievement": {
             "name": "The Hero is the Voice of the World",
@@ -106320,7 +106320,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e720e32c3454cf2259f3aa4c9a54109438d28ba4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.4"
+            "percent": "5.5"
           },
           "ACH_CONCERT_FINALE_DONT_LEAVE_STAGE": {
             "name": "THE MAIN ATTRACTION",
@@ -107852,7 +107852,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/285900/94b8b06ac74545ef73913c6152ab9b7d62755d56.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.3"
+            "percent": "23.4"
           },
           "ACHIEVEMENT_WELCOME_TO_BEEF_CITY": {
             "name": "Welcome to Beef City",
