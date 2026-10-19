@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/905f8d39fd06c9627faf6bf426557352ab902ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TF_PYRO_KILL_POSTDEATH": {
       "name": "Fire and Forget",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7306eac0fdcba244b9084879f82c89fed7fc3ae1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_PYRO_BURN_SNIPERS_ZOOMED": {
       "name": "Firewatch",
@@ -775,7 +775,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2408a0f972953a591a1134751cbd9ad9283da723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "TF_PYRO_REFLECT_CROCKET_KILL": {
       "name": "Hotshot",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/073fc2c96d32b08d87540bb47981da0398278c13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_PYRO_ACHIEVE_PROGRESS2": {
       "name": "Pyro Milestone 2",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "TF_HEAVY_DEFEND_MEDIC": {
       "name": "Party Loyalty",
@@ -1072,7 +1072,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d0b1c10ece49201fbac2ee35cece320d75b517ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "TF_HEAVY_HEAL_MEDIKITS": {
       "name": "Redistribution of Health",
@@ -1387,7 +1387,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9d0c04bbea075c47ba430852b18c09a124442f23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_SCOUT_STUN_INTO_TRAIN": {
       "name": "Foul Territory",
@@ -1477,7 +1477,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7b88631dd679b5e41074024c00e310ddc28e4d19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "TF_SCOUT_START_AND_FINISH_CAP": {
       "name": "Set the Table",
@@ -1630,7 +1630,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f03bd55e347e74957924d06b8ec152a65bd9ecf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_SNIPER_DOMINATE_SNIPER": {
       "name": "Australian Rules",
@@ -1945,7 +1945,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e988dacc553a3ec3224a5ace6e770558b436d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -2089,7 +2089,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/39fd8b447aab761eb85cd42020add5c0de4a59cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "TF_SPY_BACKSTAB_CAPPING_ENEMIES": {
       "name": "Is It Safe?",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd79ab78ad877534a53c2a1fd3a7cbdf2c4a6347.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "TF_SNIPER_ACHIEVE_PROGRESS2": {
       "name": "Sniper Milestone 2",
@@ -2188,7 +2188,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3611c5090d5f7b0a3195019288660c88f0d7bb42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "TF_SPY_ACHIEVE_PROGRESS2": {
       "name": "Spy Milestone 2",
@@ -2197,7 +2197,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/eccef2e4337ae705848c4728ea546501bd0cf17b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "TF_SPY_ACHIEVE_PROGRESS3": {
       "name": "Spy Milestone 3",
@@ -2269,7 +2269,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5b47d0b78a4ab4f866cbbbe2758e255bfe979676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "TF_SOLDIER_ACHIEVE_PROGRESS3": {
       "name": "Soldier Milestone 3",
@@ -2458,7 +2458,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c86b046c0f68b79553e87293c77a9bd5d9096695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES": {
       "name": "Hamburger Hill",
@@ -2512,7 +2512,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b4ad937b5565a6d9f8ccfb75bbdf8260f9285e71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "TF_SOLDIER_EQUALIZER_STREAK": {
       "name": "Ain't Got Time to Bleed",
@@ -2665,7 +2665,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e87c12edfc2f063368d37c5b2b77e8b3e5c2219a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING": {
       "name": "The Scottish Play",
@@ -2836,7 +2836,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a734669ee35d76e6f5aecbb00f59f034c80b077e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "TF_DEMOMAN_CRIT_SWORD_KILL": {
       "name": "Beat Me Up, Scotty",
@@ -2962,7 +2962,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fa96727c44f9c48100e626e83d3b77540c3c1866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS2": {
       "name": "Engineer Milestone 2",
@@ -3007,7 +3007,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/564d0a9e3b16f82183c544fe06bca846bf30370b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG": {
       "name": "Building Block",
@@ -3160,7 +3160,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6a4c15d2f78ad39c2ec6636bc093a2d4b56aa0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "TF_ENGINEER_REMOVE_SAPPER_LONG_DIST": {
       "name": "Get Along!",
@@ -3232,7 +3232,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4b2c8fe6580693cbfa29e5a49121b291e1df6ec9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "TF_ENGINEER_KILL_ASSIST": {
       "name": "Deputized",
@@ -3241,7 +3241,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7c07bb62a45b959b851bea81895f0100a36646b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "TF_ENGINEER_DISPENSER_HEAL_GRIND": {
       "name": "Drugstore Cowboy",
@@ -3358,7 +3358,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e8c90b021cb85cc9ffa64b28bbd7b3849b0b7e22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_TIER1": {
       "name": "Home Movie",
@@ -3574,7 +3574,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1f53730196c0571f3244e19282e11fc0e4a17e6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "TF_MAPS_DOOMSDAY_WIN_ROUNDS": {
       "name": "The Fight Stuff",
@@ -3682,7 +3682,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f788a1e1b63a8221fca2cb9744f090409348ec0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_TEAM_PYROVISION": {
       "name": "Mass Hysteria",
@@ -3718,7 +3718,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_earn_money_bonus_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "TF_MVM_ADVANCED_EARN_ALL_BONUSES": {
       "name": "Frags to Riches",
@@ -3736,7 +3736,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_pickup_money_about_to_expire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "TF_MVM_COLLECT_MONEY_GRIND": {
       "name": "T-1000000",
@@ -3799,7 +3799,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_defend_cap_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "TF_MVM_KILL_BOMB_CARRIERS": {
       "name": ".executioner",
@@ -3871,7 +3871,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_ammo_bottle_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TF_MVM_MAX_PRIMARY_UPGRADES": {
       "name": "System Upgrade",
@@ -3880,7 +3880,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "TF_MVM_MAX_PLAYER_RESISTANCES": {
       "name": "Maximum Performance",
@@ -3925,7 +3925,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_mega_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "TF_MVM_KILL_SENTRY_BUSTER": {
       "name": "Ctrl + Assault + Delete",
@@ -4024,7 +4024,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b6303af8203ce5148035a2cacf6bd33b0c61bb62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "TF_HALLOWEEN_MERASMUS_KILL": {
       "name": "Wizards Never Prosper",
@@ -4492,7 +4492,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_sniper_parachute_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "TF_TAUNT_CONGA_KILL": {
       "name": "Party Crasher",
@@ -4501,7 +4501,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_conga_kill_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "TF_TAUNT_CONGA_LINE": {
       "name": "Conga Line",
@@ -4528,7 +4528,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_rps_scissors_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "TF_TAUNT_DOSIDO_MELLE_KILL": {
       "name": "May I Cut In, Too?",
