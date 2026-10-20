@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/51d530b8badd6b8eea76cfd8930ab41f4152000e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "Craft_Enhancement_Balanced_5": {
       "name": "Balance in all things",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/89cce7356397b07d7bd5f612cc0e157f4afdbdf7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "Save_Humans_1": {
       "name": "Helping Hand",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/edfcb2321a8aa22ec5789b444194ab4051acde49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "Game_CompleteNormal": {
       "name": "Path of the Horseman",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/d3f527afd3aafa5fdbb5f6ab3b80c9f73e3b10ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "Keeper_Kill_Flame": {
       "name": "Keeper of the Bonfire",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606280/3f96e69e5b14669b910fb78dca8a0ed774752a4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     }
   },
   "platform": null,
