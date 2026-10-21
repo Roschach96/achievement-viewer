@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_achiever_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "TF_MEDIC_ASSIST_SOLDIER": {
       "name": "Blast Assist",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/905f8d39fd06c9627faf6bf426557352ab902ed7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TF_PYRO_KILL_POSTDEATH": {
       "name": "Fire and Forget",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "TF_PYRO_KILL_AXE_SMALL": {
       "name": "Lumberjack",
@@ -820,7 +820,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec6f89035a26a2799163c9f99c6198633790591e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "TF_PYRO_ACHIEVE_PROGRESS1": {
       "name": "Pyro Milestone 1",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e4fab565b0063e29b474897f9690b73374b6cbfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "TF_HEAVY_KILL_TAUNT": {
       "name": "Show Trial",
@@ -982,7 +982,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6875f1e7a22b84b21fcfb853ea34f965cb19c4be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_HEAVY_CLEAR_STICKYBOMBS": {
       "name": "0wn the Means of Production",
@@ -1459,7 +1459,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/88bedf28e017457209b7a4deaaa3777507a24b2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "TF_SCOUT_CAPTURE_THREE_POINTS": {
       "name": "Triple Play",
@@ -1495,7 +1495,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/00dada32c0ddecdfd0ed8e951588c02b1b6c5c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "TF_SCOUT_CARRIER_KILL_CARRIER": {
       "name": "Belittled Beleaguer",
@@ -1522,7 +1522,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "TF_SCOUT_TAUNT_KILL": {
       "name": "Out of the Park",
@@ -1810,7 +1810,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6dce0b2156ebd8a4aa4ff6efc539d68065218752.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "TF_SNIPER_JARATE_ASSISTS": {
       "name": "Number One Assistant",
@@ -1900,7 +1900,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4fba389318e8be6ad05d9db524c4b5a85aa595d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_SPY_BACKSTAB_ENGY_SAP_BUILDING": {
       "name": "The Man with the Broken Guns",
@@ -1945,7 +1945,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e988dacc553a3ec3224a5ace6e770558b436d1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "TF_SPY_BUMP_CLOAKED_SPY": {
       "name": "Spies Like Us",
@@ -2305,7 +2305,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2e78aab3f49f51812bea351f137a2ba686d1210d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "TF_SOLDIER_DEFEND_MEDIC": {
       "name": "War Crime and Punishment",
@@ -2332,7 +2332,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1c5aeed3324fa77c5e7bdac61d4a934baa3f670.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD": {
       "name": "Mutually Assured Destruction",
@@ -2341,7 +2341,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/231974b99702af192a5f2011c3c9add376a16a51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE": {
       "name": "Wings of Glory",
@@ -2359,7 +2359,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c663b0fb1feaf726460dfd1eb3c976a8467ef2d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "TF_SOLDIER_NEMESIS_SHOVEL_KILL": {
       "name": "Trench Warfare",
@@ -2512,7 +2512,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b4ad937b5565a6d9f8ccfb75bbdf8260f9285e71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "TF_SOLDIER_EQUALIZER_STREAK": {
       "name": "Ain't Got Time to Bleed",
@@ -2593,7 +2593,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bcb88c7f6fa435aa5faca9006168b102fe4a5d42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "TF_DEMOMAN_KILL_SOLDIER_GRIND": {
       "name": "Kilt in Action",
@@ -2620,7 +2620,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fabf394379fb91d444056cb94f5fae65624f6c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE": {
       "name": "Laddy Macdeth",
@@ -2629,7 +2629,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ce6de25c93d3a37de7ba4fbe3e98bb1636ba9095.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "TF_DEMOMAN_DECAPITATE_PLAYERS": {
       "name": "Brainspotting",
@@ -2827,7 +2827,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b3b89f3630c9a9767e162d974dd57b648c0c8cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "TF_DEMOMAN_CHARGE_KILL": {
       "name": "The Targe Charge",
@@ -2890,7 +2890,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9a81eac808a46e2dfec9f7f3dd810c9d4fe1d6d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "TF_DEMOMAN_DESTROY_X_STICKYBOMBS": {
       "name": "Robbed Royal",
@@ -3070,7 +3070,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0b9b564280d30525353f1710a98bbf9bc0d17b63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND": {
       "name": "Best Little Slaughterhouse in Texas",
@@ -3124,7 +3124,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/46a0cd5d52e26827759d4458af6c09855c64e481.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "TF_ENGINEER_SENTRY_KILL_CAPS": {
       "name": "No Man's Land",
@@ -3565,7 +3565,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b266a392bcf36b58fbdb2ff5ba4a99d1e16fc9fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "TF_MAPS_DOOMSDAY_PLAY_GAME_FRIENDS": {
       "name": "Flight Crew",
@@ -3871,7 +3871,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_ammo_bottle_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "TF_MVM_MAX_PRIMARY_UPGRADES": {
       "name": "System Upgrade",
@@ -3925,7 +3925,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_mega_grind_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "TF_MVM_KILL_SENTRY_BUSTER": {
       "name": "Ctrl + Assault + Delete",
@@ -4591,7 +4591,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1c191786b06c27911ecdf6e5bc8876811ab5b6e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "TF_HALLOWEEN_DOOMSDAY_TINY_SMASHER": {
       "name": "Carnival of Carnage: Arms Reduction",
@@ -4600,7 +4600,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cef76ca1b96ca5bc3788cf1881af57d33af9b279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TF_HALLOWEEN_DOOMSDAY_MILESTONE": {
       "name": "Carnival of Carnage: Step Right Up",

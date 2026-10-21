@@ -1,7 +1,7 @@
 {
   "appid": "2646460",
   "name": "Soulmask",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1792245198",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1792502420",
   "achievements": {
     "BP_ChengJiu_MianJuLevel_10": {
       "name": "Soulmask",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/48dab8900aa8f667c0c5939439ba7d11ddcd7ef1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.9"
+      "percent": "85.8"
     },
     "BP_ChengJiu_MianJuLevel_20": {
       "name": "It's getting better.",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/df231d66fe732b18017ae76488295810f94e1cb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "BP_ChengJiu_Kill_JianChiHu03": {
       "name": "Mature Saber-toothed Predator Hunter",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/228acf8b80b190686cb6cfa6047271955b1dbdfa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "BP_ChengJiu_Kill_JuYuan02": {
       "name": "Protracted War",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/f84c2aa9293de63dcba3f9ef413e786c4bf2bdab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "BP_ChengJiu_Kill_YiJiDiGong07": {
       "name": "Hidden Pearl: Wetland",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/1d6f8a802cfec10423053a8cb62b2ae38355ef46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "BP_ChengJiu_ManRen_zhenShe_2": {
       "name": "Die, or follow my footsteps.",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/a371bc688d5d1531168c1e7f9054159f8aa7c7b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "BP_ChengJiu_ZhiZao_PengRen03": {
       "name": "Table Juice",

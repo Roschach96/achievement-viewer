@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0092b3f0e694005fd25123c05062226644e88990.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "ach_story_end": {
       "name": "One Last Chance",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/805d4de07dc3f03f14173f9ff47c0cf5b658b885.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "ach_monster_hunter": {
       "name": "Big Game Hunter",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/e2ed68f21455286c16e6e60d7fde910a4752bd4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "34.8"
     },
     "ach_sidequests_any": {
       "name": "Urgent Task",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/0cc457efefb956a28073915acfd801a73adb4c80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "ach_sidequests_all": {
       "name": "Squaretasking",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/c9b4bf26e2fc5d05c4ff3ce2277698b2aed7996d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ach_total_damage": {
       "name": "Snap of the Fingers",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/80fd8efa694f4c03a259c5be80476f7adc068366.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ach_collectibles_1": {
       "name": "Knowledge is Power",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/5896bc27392059f7e6dcfa1977ed46de3cddab43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "ach_accolades_class_2": {
       "name": "Outrider, First Class",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/a9a230b85846adc664114031ebc03f6f098da4c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.7"
     },
     "ach_accolades_2": {
       "name": "Been Everywhere, Done It All",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/d2cfd1e0adf1652b3a55ee3e6fd43bb4340dd5e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "ach_ae_complete": {
       "name": "Just Take the Pod",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/680420/ac40045f4d207631c2f4418f3636fcf4429891af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ach_gauss_dungeon_introductory": {
       "name": "Empire of Thorns",
