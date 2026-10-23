@@ -1,7 +1,7 @@
 {
   "appid": "2646460",
   "name": "Soulmask",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1792502420",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1792653046",
   "achievements": {
     "BP_ChengJiu_MianJuLevel_10": {
       "name": "Soulmask",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/57c14a534bd6af351e99941f9d9bb6012723abff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.7"
+      "percent": "75.6"
     },
     "BP_ChengJiu_ZhiZao_WenMing01": {
       "name": "Bud of Habitat",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/ab5adb9d5f378c0656bebc614909d58f70118b00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "BP_ChengJiu_ZhiZao_PengRen01": {
       "name": "Enough all you want!",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6529c6d6a2621f30dc3067bda27a677a0714e40a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "BP_ChengJiu_ZhiZao_JianZhu02": {
       "name": "Certified Architect",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/6d9e93b1b1fcc59a2f78f1a0b0d17037481deea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "BP_ChengJiu_Kill_SenLuoE03": {
       "name": "Sobek Crocodile of Doom",
@@ -1027,7 +1027,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2646460/9398367952415942a924d5aab7c0c9d48d7445ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "BP_ChengJiu_Kill_AJ_YiJiDiGong07": {
       "name": "Observer",
