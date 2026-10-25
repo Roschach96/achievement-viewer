@@ -1,7 +1,7 @@
 {
   "appid": "3321460",
-  "name": "紅の砂漠 Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60c0c01e230db86558e019517c5ae51a8ac09675/header_japanese.jpg?t=1792637341",
+  "name": "Crimson Desert Enhanced",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1792637341",
   "achievements": {
     "NoviceAdventurer": {
       "name": "Novice Adventurer",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/1c02a4dd34c24b2995f38fb8bcfaab0cf668ca2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     },
     "TowerBreaker": {
       "name": "Conqueror of Spires",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/532674601897d1273817bacba77238970e46efc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "LightLeader": {
       "name": "Lightbringer",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "UltimateWeaponCollector": {
       "name": "Grand Collector of Arms",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/878c303574325644e763f1f89e7ddf6d0475f17d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "ExpertStoryteller": {
       "name": "Expert Storyteller",
