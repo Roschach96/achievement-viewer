@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/c0c623301b92d3b51bdc7ac904d85003377fc58c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "Achievement_GOSCC_6": {
       "name": "Card Collector",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/0d16b3528fe57c8ec7a6d840a7f03c3698c97f39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "Achievement_GOSCC_11": {
       "name": "Go Fetch!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/9e9987b3d91f3b15239d3774180266886c1d7642.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "Achievement_GOSCC_19": {
       "name": "Bern, Baby, Bern",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/b6573f05fd2a423b718f386d0387e71508f68896.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     }
   },
   "platform": null,
