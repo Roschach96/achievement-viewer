@@ -1,7 +1,7 @@
 {
   "appid": "1449850",
   "name": "Yu-Gi-Oh! Master Duel",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1788064919",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/c3f87e2374fab93f9f05661493bdf4e43ea70776/header.jpg?t=1793252158",
   "achievements": {
     "jp.konami.masterduel.ach.001": {
       "name": "Welcome to MASTER DUEL",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449850/cfc8e8dbc8621116fadc92c655dc7a473ce0dccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "jp.konami.masterduel.ach.003": {
       "name": "Master of Special Summoning",

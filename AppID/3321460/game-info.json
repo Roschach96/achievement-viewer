@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/056bbeaaf533a2e1dabc673c38f430a144838f14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "Spearmaster": {
       "name": "Master of Spears",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -308,6 +308,69 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.6"
+    },
+    "35": {
+      "name": "Dawn Politician",
+      "description": "Complete the “From the Ashes\" quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/438eb62a1e3d50927128a39f3cd52586d2d517bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d60a7958aa75e93ed58f0568c622fd5995fcc169.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "36": {
+      "name": "Charter",
+      "description": "Complete the \"Beyond the Margins\" quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/cf856470d8db9599808cdd2d868b92ee828558c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/44e1be01ce7df7ae309421e372f84f253c060bb7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "37": {
+      "name": "Forger of Tomorrow",
+      "description": "Complete the “Forged Resolve\" quest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/0045b0ccc9a9662d39e453c52a826e7343ca6c9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/51546cb699cf9bec7de64a69b2d57f66767d0a75.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "38": {
+      "name": "Over the Horizon",
+      "description": "Complete all voyage challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/b0d6d06caf7d14cf8e2aede29cfbc050c7fba961.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/dc9fc2f3b21e6f9d4fc18419648bc8056c397c2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "39": {
+      "name": "Deep-sea Wanderer",
+      "description": "Complete all swimming challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/e9a0a05a0e61f02a30a43ada504ee7b12c4b66ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/eddcb7d0c43dc6a4cd7e4b8d8482fc618115e55a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "40": {
+      "name": "Management Tycoon",
+      "description": "Complete all management challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/c1e8f4babbdef950cd3924bfe44201959e59034e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/3d62d5501793408eb52e222f588b41859ff3518c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "41": {
+      "name": "Trial by Flower",
+      "description": "Complete all garden of trials challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/17ae88e0e0a2d393b2a4b389ebb51466673dc046.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/6a57eb41523e510e72433a7e858038b2b29d1468.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,
