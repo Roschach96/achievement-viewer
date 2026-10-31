@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/18fd38df3b32380aae784715f5dcd63528cfbffb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "StarpathNavigator": {
       "name": "Navigator of the Stars",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/056bbeaaf533a2e1dabc673c38f430a144838f14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "Spearmaster": {
       "name": "Master of Spears",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/a0862858bc4dd1d655ddfbdf79ee6afa278f77ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "ShadowRuler": {
       "name": "Shadowlord",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/501e9286d71c9e43f0cd64a635b3283f5a6e3151.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "UltimateWeaponCollector": {
       "name": "Grand Collector of Arms",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d86a7c061ec0618a129719c6862084b1e1d0c698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "PailuneseGuardian": {
       "name": "Protector of Pailune",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/40334f1caf8253b49bc393c9829124179419713f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "ConqueroroftheAbysses": {
       "name": "Conqueror of the Abysses",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/84c2fa89c144fc147e3a0da1f342e588c351aa48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ExpertExplorer": {
       "name": "Expert Explorer",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d9e572150d4f2ab25a6d47f32abc4034a60158f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.5"
     },
     "35": {
       "name": "Dawn Politician",
@@ -315,8 +315,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/438eb62a1e3d50927128a39f3cd52586d2d517bb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/d60a7958aa75e93ed58f0568c622fd5995fcc169.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "36": {
       "name": "Charter",
@@ -324,8 +323,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/cf856470d8db9599808cdd2d868b92ee828558c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/44e1be01ce7df7ae309421e372f84f253c060bb7.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "37": {
       "name": "Forger of Tomorrow",
@@ -333,8 +331,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/0045b0ccc9a9662d39e453c52a826e7343ca6c9a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/51546cb699cf9bec7de64a69b2d57f66767d0a75.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "38": {
       "name": "Over the Horizon",
@@ -342,8 +339,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/b0d6d06caf7d14cf8e2aede29cfbc050c7fba961.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/dc9fc2f3b21e6f9d4fc18419648bc8056c397c2d.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "39": {
       "name": "Deep-sea Wanderer",
@@ -351,8 +347,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/e9a0a05a0e61f02a30a43ada504ee7b12c4b66ec.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/eddcb7d0c43dc6a4cd7e4b8d8482fc618115e55a.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "40": {
       "name": "Management Tycoon",
@@ -360,8 +355,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/c1e8f4babbdef950cd3924bfe44201959e59034e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/3d62d5501793408eb52e222f588b41859ff3518c.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "41": {
       "name": "Trial by Flower",
@@ -369,8 +363,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/17ae88e0e0a2d393b2a4b389ebb51466673dc046.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/6a57eb41523e510e72433a7e858038b2b29d1468.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     }
   },
   "platform": null,

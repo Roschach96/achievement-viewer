@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "TF_GET_CONSECUTIVEKILLS_NODEATHS": {
       "name": "Hard to Kill",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_headshots_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "TF_MEDIC_TOP_SCOREBOARD": {
       "name": "First Do No Harm",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81a0db8106bb2bb04f7a01218d50a01878c46b5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "TF_PYRO_BURN_RJ_SOLDIER": {
       "name": "Pilot Light",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1b745b2cee5f4bc9a6a661f37a2f1c23d09a48e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "TF_PYRO_KILL_GRIND_LARGE": {
       "name": "Fire Chief",
@@ -1927,7 +1927,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/50b0b7d952355371ab16f6a2a881d2658e8a8f31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "TF_SPY_BACKSTAB_FRIENDS": {
       "name": "Agent Provocateur",
@@ -2035,7 +2035,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/954fd99a184f083df200f1d32796ee4f0599b0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "TF_SPY_KNIFE_KILL_WHILE_JARATED": {
       "name": "Wetwork",
@@ -2224,7 +2224,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -3250,7 +3250,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/04fad49ba726ed455f34b64577b7c97595b03e03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "TF_ENGINEER_REPAIR_TEAM_GRIND": {
       "name": "Circle the Wagons",
@@ -3511,7 +3511,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/87199f19271434e12f1d67ec8577c040a3b68ce6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "TF_MAPS_FOUNDRY_PLAY_EACH_CLASS": {
       "name": "Classassin",
@@ -3808,7 +3808,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "TF_MVM_COMPLETE_WAVE_WITHOUT_DYING": {
       "name": "Deus Ex Machina",
@@ -3970,7 +3970,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_medic_share_bottles_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "TF_MVM_DEMO_GROUP_KILL": {
       "name": "Tech Wrecker",
@@ -4150,7 +4150,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/720ad447a439aa9d42d54c821f3a8a38d327f240.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "TF_MAPS_SNAKEWATER_DOUBLE_AIR_DEATHS": {
       "name": "Mutually Air-Sured-Destruction",
@@ -4312,7 +4312,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_melee_kill_classic_rifle_sniper_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "TF_KILL_CHARGING_DEMO": {
       "name": "Emergency Brake",
@@ -4582,7 +4582,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ee8ae9092026448c306e9b1446a899e5a4ae1bad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "TF_HALLOWEEN_DOOMSDAY_RESPAWN_TEAMMATES": {
       "name": "Carnival of Carnage: ReinKartnation",
