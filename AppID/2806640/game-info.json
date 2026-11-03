@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/0dda1615a67b2abd9e04c3009b66a481e6f63cb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "AGoodListener": {
       "name": "A Good Listener",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/be0d79501d6a41a513865bb5ff8636ff9d0b5d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "First": {
       "name": "First!",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/1f4a5e43b4937bb08d8a2efea70c2fc33010814b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "LogicCheckSuccess": {
       "name": "Logic check... OK",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/25726b378a9de309e6b60f197826926eebece562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.5"
     },
     "NotACube": {
       "name": "Not a Cube",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/a1e7243c34cb20a78ac9f9b14690fc5a6df70d77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.9"
     },
     "OffTheRadar": {
       "name": "Off The Radar",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/c185f97448b38b51259a8b03041f6e1133a65ba9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "OnTheEdge": {
       "name": "On The Edge",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/2260238f6aeb061c54fee152ff932c312c8c13a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "OnTopOfThings": {
       "name": "On Top of Things",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/7f29c97ed1486e4b5fd2ea50708e3213c345388f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "QRReader": {
       "name": "QR Reader",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/664ae1930df251d9b690fe58ad32cbb8ce33ee2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "SacredGrounds": {
       "name": "Sacred Grounds",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/35567bcc3ef4897b07e7d35710096b2e1393b909.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "SigilsAreNotEnough": {
       "name": "Sigils Are Not Enough",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/8640ab2d848770e764fac32823f28fbd06f6f47f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "SoFarSoGood": {
       "name": "So Far, So Good",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/fa39c76dd9d478d53cadb7be5ef04bdf854abdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.2"
     },
     "WelcomeToGehenna": {
       "name": "Welcome to Gehenna",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/eb1dcf68a1035d0c71187c398441bf0ed802d2c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     }
   },
   "platform": null,
