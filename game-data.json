@@ -1,5 +1,5 @@
 {
-  "last_updated": 1793773226,
+  "last_updated": 1793835310,
   "total_games": 123,
   "games": [
     {
@@ -86673,7 +86673,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/c70d7780fe1bb8ae50e9e051e64c7d20c23847b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "83.3"
+            "percent": "83.2"
           },
           "MEDAL_003": {
             "name": "Guardians of the Forge",
@@ -86682,7 +86682,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/6785ea433d6b40c856910be0249925ad29d28552.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "78.0"
+            "percent": "77.9"
           },
           "MEDAL_004": {
             "name": "Bringer of Harmony",
@@ -86718,7 +86718,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/8307c401238c82426842096298c9f39adf988d1b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.6"
+            "percent": "62.5"
           },
           "MEDAL_008": {
             "name": "One Corner of the World",
@@ -86754,7 +86754,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/57f14b889026155d85655d15f0406d0fa5fd8738.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "82.1"
+            "percent": "82.0"
           },
           "MEDAL_012": {
             "name": "A Step Toward Mutual Understanding",
@@ -86799,7 +86799,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/11f00641552023a9fa270840dc2ba2ef05c5a6ee.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.8"
+            "percent": "81.7"
           },
           "MEDAL_017": {
             "name": "The Bigger They Are...",
@@ -86817,7 +86817,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/f20257acd512d6e461492c81357cca57a0fd4db8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.9"
+            "percent": "69.8"
           },
           "MEDAL_019": {
             "name": "Hit 'Em Where It Hurts!",
@@ -86835,7 +86835,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/7a16fa794c94366ead1c92e89af7bcde59e1a7b9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.1"
+            "percent": "27.0"
           },
           "MEDAL_021": {
             "name": "I Caught a Shooting Star!",
@@ -86871,7 +86871,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/06f9f9e48b9898935b5e9d2561aac530494c125b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.8"
+            "percent": "60.7"
           },
           "MEDAL_025": {
             "name": "Glamper",
@@ -86898,7 +86898,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/5ad81772be7e6081283054e0054d16998631af51.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.5"
+            "percent": "68.4"
           },
           "MEDAL_028": {
             "name": "Established Hunter",
@@ -86916,7 +86916,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/fef975a2c30348f1cd0200a46b6f9e01221c51dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.3"
+            "percent": "56.2"
           },
           "MEDAL_030": {
             "name": "Power Is Everything",
@@ -86970,7 +86970,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/b6002a1fd001522c62b5af34200d17d28f545ad4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "53.7"
+            "percent": "53.6"
           },
           "MEDAL_036": {
             "name": "Seasoned Hunter",
@@ -87060,7 +87060,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/c1f9ce9ff4245ee1396a57c2fb21b017b5aa7a62.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.3"
+            "percent": "16.4"
           },
           "MEDAL_046": {
             "name": "Hunters United",
@@ -87069,7 +87069,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2246340/4f20c0f50f0687fd0c3b7a76b8a836bbd1bb2b61.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "78.9"
+            "percent": "78.8"
           },
           "MEDAL_047": {
             "name": "Hunters United Forever",
@@ -87133,20 +87133,20 @@
           "earned_time": 1793395377
         },
         "MEDAL_007": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793734493
         },
         "MEDAL_008": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793742342
         },
         "MEDAL_009": {
           "earned": true,
           "earned_time": 1793225139
         },
         "MEDAL_010": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793454644
         },
         "MEDAL_011": {
           "earned": true,
@@ -87213,16 +87213,16 @@
           "earned_time": 0
         },
         "MEDAL_027": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793740960
         },
         "MEDAL_028": {
           "earned": false,
           "earned_time": 0
         },
         "MEDAL_029": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793530006
         },
         "MEDAL_030": {
           "earned": false,
@@ -87245,8 +87245,8 @@
           "earned_time": 0
         },
         "MEDAL_035": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793823975
         },
         "MEDAL_036": {
           "earned": false,
@@ -87281,8 +87281,8 @@
           "earned_time": 0
         },
         "MEDAL_044": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1793567271
         },
         "MEDAL_045": {
           "earned": false,
