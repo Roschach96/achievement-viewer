@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.7"
     },
     "TF_GET_CONSECUTIVEKILLS_NODEATHS": {
       "name": "Hard to Kill",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "TF_GET_HEALED_BYENEMY": {
       "name": "Master of Disguise",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_headshots_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "TF_MEDIC_TOP_SCOREBOARD": {
       "name": "First Do No Harm",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "TF_MEDIC_ASSIST_HEAVY_LONG": {
       "name": "Big Pharma",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_2fort_noenemycaps_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "TF_WIN_WELL_MINIMUMTIME": {
       "name": "Lightning Offense",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_extinguish_teammates_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "TF_MEDIC_ASSIST_VS_NEMESES": {
       "name": "Doctor Assisted Homicide",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a5ae389e2515af73030fdd231a8399aef91a71bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "TF_PYRO_KILL_SPIES": {
       "name": "Firewall",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "TF_PYRO_KILL_FROM_BEHIND": {
       "name": "Hot on Your Heels",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60dc06b26a1a5427dc5ca04c598c342ee0ede797.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "TF_PYRO_ACHIEVE_PROGRESS3": {
       "name": "Pyro Milestone 3",
@@ -1297,7 +1297,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81d9a28f9d8888f6e2a79a2dd584200d98b4539b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "TF_SCOUT_ASSIST_MEDIC": {
       "name": "Doctoring the Ball",
@@ -1612,7 +1612,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e9c9ca8cdb7449590f16f8d110c2cc72c96fdc30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "TF_SNIPER_KILL_MIDAIR_SCOUT": {
       "name": "Dropped Dead",
@@ -1927,7 +1927,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/50b0b7d952355371ab16f6a2a881d2658e8a8f31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "TF_SPY_BACKSTAB_FRIENDS": {
       "name": "Agent Provocateur",
@@ -1972,7 +1972,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f04a9327032259accf0e058daa343bf4d13b5d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "TF_SPY_BREAK_SHIELD_KILL_SNIPER": {
       "name": "Die Another Way",
@@ -2035,7 +2035,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/954fd99a184f083df200f1d32796ee4f0599b0b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "TF_SPY_KNIFE_KILL_WHILE_JARATED": {
       "name": "Wetwork",
@@ -2224,7 +2224,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "TF_HALLOWEEN_KILL_SCARED_PLAYER": {
       "name": "Scared Stiff",
@@ -2314,7 +2314,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/51468bf80f7c23a7dbcf9e5b98954097fec9ec31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "TF_SOLDIER_KILL_TAUNT": {
       "name": "Spray of Defeat",
@@ -2728,7 +2728,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/151211b70b1efea5b1a1159b608b5da6862598fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "TF_DEMOMAN_DAMAGE_GRIND": {
       "name": "Tartan Spartan",
@@ -2809,7 +2809,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a325be4fb1bd5d1c3177a9dc680edc12fcbf3045.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "TF_DEMOMAN_KILL_X_SCOUTS_PYROS": {
       "name": "Glasg0wned",
@@ -3223,7 +3223,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0f155f86efbb2470901d50fcb07603a9ac693b35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_ENGINEER_BUILDING_CARRY": {
       "name": "Texas Ranger",
@@ -3952,7 +3952,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_soldier_buff_team_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TF_MVM_HEAVY_RAGE_PUSH_DEPLOYING_ROBOT": {
       "name": "Heavy Mettle",
@@ -4654,7 +4654,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3183a32c9e208e69d5407c6cc33f50ff65018eaf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "TF_MAPS_POWERHOUSE_KILL_ENEMY_IN_WATER": {
       "name": "Wet Work",
