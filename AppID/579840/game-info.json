@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/52e25c74f77e716bcf26b15b9a24bafadb720ce2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "worldmap_reached_cave": {
       "name": "Welcome to the depths!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/874185953ae643630818f64ea5c0791a1615e2f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "worldmap_reveal_last": {
       "name": "Hidden below",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/c0d584e8000ee9208e75bfbf579c7c0c08191577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "06_mnt_coin": {
       "name": "Water path",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/8ef5d4a246dac02a4673b681a34b7c378f519808.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "02_cave_secret": {
       "name": "Just in case",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/277e215473ba24772fd82d5b69ee892a9f23d405.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "complete_no_death_three": {
       "name": "All 9 left",
