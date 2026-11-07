@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACHIEVEMENT_01": {
       "name": "My First Vanguard",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACHIEVEMENT_13": {
       "name": "Rookie",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "ACHIEVEMENT_15": {
       "name": "The Dark Lord of Chaos",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "ACHIEVEMENT_21": {
       "name": "Skilled Fight Master",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.3"
+      "percent": "96.4"
     },
     "ACHIEVEMENT_28": {
       "name": "Card Collector",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "ACHIEVEMENT_31": {
       "name": "The Collector",

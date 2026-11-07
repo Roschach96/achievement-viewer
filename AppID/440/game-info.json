@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "TF_MEDIC_ASSIST_HEAVY_LONG": {
       "name": "Big Pharma",
@@ -3223,7 +3223,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0f155f86efbb2470901d50fcb07603a9ac693b35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "TF_ENGINEER_BUILDING_CARRY": {
       "name": "Texas Ranger",
@@ -3952,7 +3952,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_soldier_buff_team_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "TF_MVM_HEAVY_RAGE_PUSH_DEPLOYING_ROBOT": {
       "name": "Heavy Mettle",
