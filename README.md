@@ -17,18 +17,6 @@ Click the "Fork" button at the top right of this page.
 
 Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 
-### Optional fallback mechanism if automatic system doesn't work
-Get Your Steam API Key:
-1. Go to https://steamcommunity.com/dev/apikey
-2. Enter any domain name (e.g., `localhost`)
-3. Agree to terms and copy your API key
-Set up Steam API Key for the process to use:
-1. In your repository, go to **Settings** → **Secrets and variables** → **Actions**
-2. Click **New repository secret**
-3. Add: `STEAM_API_KEY` as "Name" and your Steam API key as the "Secret".
-
-NOTE: Only GitHub systems can see secrets like this, even you will not able to see it after you save it.
-
 ### 3. Upload your achievement files
 
 1. Create a branch named 'user'. This branch will store all your achievement files.
