@@ -296,38 +296,84 @@ def load_achievements_file(folder):
     return None, None
 
 
+def normalize_name(name):
+    """Lowercase, unify quotes/dashes, collapse whitespace so API and page names match."""
+    name = (name or "").lower()
+    for a, b in (("\u2019", "'"), ("\u2018", "'"), ("\u201c", '"'), ("\u201d", '"'),
+                 ("\u2013", "-"), ("\u2014", "-"), ("\u00a0", " "), ("\u2122", ""), ("\u00ae", "")):
+        name = name.replace(a, b)
+    return re.sub(r"\s+", " ", name).strip()
+
+
+SCRAPE_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+SCRAPE_COOKIES = {"Steam_Language": "english", "birthtime": "631152001", "mature_content": "1"}
+
+
 def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
     try:
-        url = (
-            f"https://steamcommunity.com/profiles/{steam_id}/stats/{appid}/achievements"
-        )
+        url = f"https://steamcommunity.com/profiles/{steam_id}/stats/{appid}/achievements/?l=english"
         print(f"    → Trying profile {steam_id}...")
-        response = requests.get(url, timeout=15)
+        response = requests.get(url, headers=SCRAPE_HEADERS, cookies=SCRAPE_COOKIES, timeout=15)
         if response.status_code != 200:
             print(f"    ✗ Profile returned status {response.status_code}")
             return {}
 
         soup = BeautifulSoup(response.text, "html.parser")
+        rows = soup.find_all("div", class_="achieveRow")
+        if not rows:
+            title = soup.title.text.strip() if soup.title else "no title"
+            print(f"    ✗ No achievements visible (private profile/game details, or not owned). Page: '{title}', final URL: {response.url}")
+            return {}
+
         achievements = {}
-        for row in soup.find_all("div", class_="achieveRow"):
+        unmatched = []
+        for row in rows:
             name_elem = row.find("h3")
             desc_elem = row.find("h5")
             if not name_elem or not desc_elem:
                 continue
             display_name = name_elem.text.strip()
             description = desc_elem.text.strip()
-            api_name = achievement_names_map.get(display_name.lower())
+            api_name = achievement_names_map.get(normalize_name(display_name))
             if api_name and description:
-                achievements[api_name] = {
-                    "name": display_name,
-                    "description": description,
-                }
+                achievements[api_name] = {"name": display_name, "description": description}
+            elif description and not api_name:
+                unmatched.append(display_name)
 
-        if achievements:
-            print(f"    ✓ Matched {len(achievements)} achievement API names")
+        print(f"    → {len(rows)} rows on page, matched {len(achievements)}")
+        if unmatched:
+            print(f"    ⚠ Unmatched names (first 5): {unmatched[:5]}")
         return achievements
     except Exception as e:
         print(f"    ✗ Error: {e}")
+        return {}
+
+
+def fetch_hidden_from_player_service(appid):
+    """IPlayerService/GetGameAchievements returns descriptions for hidden achievements too (no profile needed)."""
+    try:
+        r = requests.get(
+            "https://api.steampowered.com/IPlayerService/GetGameAchievements/v1/",
+            params={"appid": appid, "language": "english"},
+            headers=SCRAPE_HEADERS,
+            timeout=15,
+        )
+        if not r.ok:
+            print(f"    ✗ PlayerService returned status {r.status_code}")
+            return {}
+        result = {}
+        for a in r.json().get("response", {}).get("achievements", []):
+            api_name = a.get("internal_name")
+            desc = (a.get("localized_desc") or "").strip()
+            if api_name and desc:
+                result[api_name] = desc
+        print(f"    → PlayerService gave {len(result)} descriptions")
+        return result
+    except Exception as e:
+        print(f"    ✗ PlayerService error: {e}")
         return {}
 
 
@@ -449,7 +495,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
             api_name = ach["name"]
             is_hidden = ach.get("hidden", 0) == 1
             display_name = ach.get("displayName", ach["name"])
-            achievement_names_map[display_name.lower()] = api_name
+            achievement_names_map[normalize_name(display_name)] = api_name
 
             # Base info
             achievements_info[api_name] = {
@@ -621,7 +667,17 @@ for appid in appids:
             f"  → Found {len(hidden_achievements)} hidden achievements without descriptions"
         )
         descriptions_found = 0
-        for steam_id in TOP_OWNER_IDS[:TOP_OWNER_LIMIT]:
+
+        # 1. Steam's own API (works without any profile)
+        for api_name, desc in fetch_hidden_from_player_service(appid).items():
+            if api_name in hidden_achievements and not game_info["achievements"][api_name]["description"]:
+                game_info["achievements"][api_name]["description"] = desc
+                descriptions_found += 1
+        missing = sum(1 for api in hidden_achievements if not game_info["achievements"][api]["description"])
+        print(f"    → After PlayerService: {descriptions_found}/{len(hidden_achievements)} found, {missing} missing")
+
+        # 2. Fallback: scrape profiles
+        for steam_id in (TOP_OWNER_IDS[:TOP_OWNER_LIMIT] if missing else []):
             scraped = scrape_hidden_achievements(appid, steam_id, achievement_names_map)
             for api_name, data in scraped.items():
                 if (
