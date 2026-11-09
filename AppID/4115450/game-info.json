@@ -10,11 +10,11 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/398f1c2ee03b7bf8fedcd32c4ff339939139d791.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.9"
+      "percent": "95.0"
     },
     "ACH_002": {
       "name": "An Unwavering Heart",
-      "description": "",
+      "description": "Pass Through the Outpost",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/1dbb0e112a7bd93e1bb156336cf4d09f4c89a2e4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/471cae54b06be450e07393fc0678cfa6c0d7559b.jpg",
       "hidden": true,
@@ -23,264 +23,264 @@
     },
     "ACH_003": {
       "name": "Blotting Out the Sky",
-      "description": "",
+      "description": "Exit the Cave Behind the Waterfall",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/c51650b7e523589bf62750e1617501b3146b2984.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/873ac1db996c602acd4a8c2a5e936cf0be20c31c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.6"
+      "percent": "77.5"
     },
     "ACH_004": {
       "name": "Nowhere to Stand",
-      "description": "",
+      "description": "Unravel the Illusion in Mirrorwood",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3052916bc45a7ac636151d99c7620a76cb49c749.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/4f9a23d26d6c30c772bcbafa4744f9252730ad05.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.7"
     },
     "ACH_005": {
       "name": "Blossom of False Salvation",
-      "description": "",
+      "description": "Leave Village of Lu for Pangzhen",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/54552d645fa1d541c5c3858d0b497e6d1d41309d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/adc6967aec58b503a7b42996a8d13371426b5584.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "55.9"
     },
     "ACH_006": {
       "name": "Into the Deadly Trap",
-      "description": "",
+      "description": "Visit the Order's Tavern",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/43f7b0e459c14396493c101fb322f4887896801b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3e282242bdd7d813b514dedbbc64b61d5c042410.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "51.7"
     },
     "ACH_007": {
       "name": "A World Gone Hollow",
-      "description": "",
+      "description": "Solve the Serpent Head Lock in the Green Serpent House",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/594578bdb0f546d9b08df413c1015984e59a5e12.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/d71b5683d910a3e9be52152cedcd9b52876deb4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.0"
     },
     "ACH_008": {
       "name": "Who Can Judge?",
-      "description": "",
+      "description": "Investigate the Training Grounds",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/745d829b87f50fd178a21e54d3efa92f91c659c1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/debc182325aae73fa6127ceed43efd1a1f0a79cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "37.5"
     },
     "ACH_009": {
       "name": "Where Have Old Friends Gone?",
-      "description": "",
+      "description": "Reach the Realm of Mirage",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/33c600606b40c9013064e8211b9a27e1e1dcba63.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/cf3be78a989b912e1bdf4c91afd37c970b2ecda4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "30.7"
     },
     "ACH_010": {
       "name": "Muddy Waters Run Deep",
-      "description": "",
+      "description": "Cleave Through the Heart of the Lake",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3214caa36b501adcb814a7bb2189bb27640387c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/fb41d39f58f6978162bf6c5f51217aa10dc44612.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.0"
     },
     "ACH_011": {
       "name": "Blood Heralds the Dawn",
-      "description": "",
+      "description": "Pass Through Mirage Estate",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/fba1ce8f12baf96b39b50ebdc2ffa6f7db0e5417.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/245412bfa95d697f7d446d78146ed4ed87da3107.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.0"
     },
     "ACH_012": {
       "name": "Through Frost and Snow",
-      "description": "",
+      "description": "Step Into the Snow, Head for the Cliff",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/b7a5a2c11b735cf61aa6e14c4d6a3fc4e8fb09c6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/31c1aa50e596b7b5cc06a120a73376c3c2a39a85.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.2"
     },
     "ACH_013": {
       "name": "With Heart and Blood",
-      "description": "",
+      "description": "All Comes to Light",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/117989b4a3fdc371e6be514ebe8bfe44981dd231.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3d442d532fc35870675ed390f98f843d401802e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.3"
     },
     "ACH_014": {
       "name": "The Axe's Grudge",
-      "description": "",
+      "description": "Defeat Axemaster Peng Meng",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/8d0a126d34cc700d9628d6a4d9e19c8088db0213.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/b98d5c90deb46a3e0d427078eb74989fecc999f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "85.0"
     },
     "ACH_015": {
       "name": "Scarlet Wraithblade",
-      "description": "",
+      "description": "Defeat Hua, the Bride",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/45cd7e3e0ac2df91ded2df2e0910f63dc918bbcd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/dfb2314122a7c5b0dfb0154e6faae38dbdf12a35.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.5"
+      "percent": "74.4"
     },
     "ACH_016": {
       "name": "The Hunt",
-      "description": "",
+      "description": "Defeat the Hunt, Hunter of the Order",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/137de212a2757b71b2d5cbc45da968fdece995cc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/915cba8ae264b58aacd0ce4aec16c3f4fdba152c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.3"
     },
     "ACH_017": {
       "name": "A Thousand Cups Drained",
-      "description": "",
+      "description": "Defeat Hua Qianxiao, the Sword Fanatic",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/5d1db923669d4fdaee39db574c8b4f81729c39a0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f63a669b9c21137fe2f33271d1379dd4812f3aa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "72.8"
     },
     "ACH_018": {
       "name": "The Shattered Mirror",
-      "description": "",
+      "description": "Defeat Bai Chilian, Lady of the Twin Serpents",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/588ee19b96db9d8da7ac47b5bf0c6a62eb35c5d2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/8357ae58ba2a1c5e1a06d2a0100529f915aef5c1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "64.7"
     },
     "ACH_019": {
       "name": "Will We Meet Again?",
-      "description": "",
+      "description": "Defeat Mu Xiaokui, the Young Mistress of the Order",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/d341036a0372442da65449724bbff5b11e1ea321.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/0771671afc31ae17334ba6dd802def282d1491b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.5"
     },
     "ACH_020": {
       "name": "The Lion's Spirit Lives On",
-      "description": "",
+      "description": "Defeat Flame, the Lion Dance Grandmaster",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/b0b3547bd8b0d01578eb3d91b2ace53d60c8eb02.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/1c9858a98fdbe267178512e7a5074a42501e4892.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "44.6"
     },
     "ACH_021": {
       "name": "Sword Against the Seven-Stars",
-      "description": "",
+      "description": "Defeat the Chief Disciple of the Seven-Stars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/a24476f0f8a9c3720bc833ea5a78a9e7d2e8b38f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/afe1cc48377ae92da678b8b0b28d131640921e98.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "38.7"
     },
     "ACH_022": {
       "name": "Crossroads of Blood",
-      "description": "",
+      "description": "Defeat Huangxing, the Kunlun Renegade",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/c28e06ccf22abb36232da7e3d29c08cb62bff5e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/1bdf13e07c93db7ec1ec8f18a19c1a2a56132f11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "30.7"
     },
     "ACH_023": {
       "name": "Nothing Goes to Waste",
-      "description": "",
+      "description": "Defeat the Puppet Scavenger",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/0348cd71622345780e528a6735e504f7d343003b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3e59e97bfb2fdb13c9434c262f19a7ee5515e5cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.2"
     },
     "ACH_024": {
       "name": "All Return to Dust",
-      "description": "",
+      "description": "Defeat Lei Dang, the Tiger Cannon",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/dbfe89adc8804a296d37497c8b763ccd7c575417.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/543615d93eefb1018e3cd3dd9450b963911882a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "25.4"
     },
     "ACH_025": {
       "name": "The White Shadow",
-      "description": "",
+      "description": "Defeat the Blizzard Blademaster",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/49d8142c079f7170ba69d1e889f9f91a658c859f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/5a78337f8b6f07b11a543cdf3b15e55498121b7d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.1"
     },
     "ACH_026": {
       "name": "Saw It Through",
-      "description": "",
+      "description": "Defeat the Saw and the Crusher",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/2f01f349c2b5aa299ce39bf63010724bb043e8c3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/64c25db122aa94afa72c7d87f5f23a1c022e0aa3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "23.6"
     },
     "ACH_027": {
       "name": "All Dreams Must End",
-      "description": "",
+      "description": "All Schemes Come to Nothing",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/6e63629ef1843cf4fba7c64cab3cf490cd89bbcd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/4655ca4a1babe2e58370add37a2ffb6f257c77b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "22.6"
     },
     "ACH_028": {
       "name": "Master of the Misty Waters",
-      "description": "",
+      "description": "Defeat Blackwater Leader You Loong, Zither Maiden Yan Qiansui, and the One-Eyed Archer in the Meigu Lake area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/a2baa59d8c4f6ed54f964c6d3f092ab06a3cada0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/34855375159733194d5144062de84ff12af5d364.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.3"
     },
     "ACH_029": {
       "name": "The Four Freed",
-      "description": "",
+      "description": "Defeat the Four Great Puppets: Yuzan, Yubi, Yuding, and Yucong",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f70699d8136c2d3c9e24f9f413b3370124d16a06.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/4be99bce9631d7a9115ac2af91dd91a51b7fdf99.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.3"
     },
     "ACH_030": {
       "name": "The Two Blade Masters",
-      "description": "",
+      "description": "Defeat Zhu Yuan and Commander Bi Feng",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/06eba74c96e596be83ebe91233d6b92c0390b5b2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/91d271d962195adf8171f5f4fedf8c8ee5a8ee56.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "30.6"
     },
     "ACH_031": {
       "name": "Three Wardens Fall",
-      "description": "",
+      "description": "Defeat the three Shadow Wardens: Cavalrybane, Soulclaimer, and Heartpiercer.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/ef111b07bc49af26b749945c7707fa6b4ec23aa5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/54cd0fd7b5efed130af0edb3be76cbc9f580a020.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "35.6"
     },
     "ACH_032": {
       "name": "Forbidden Arts Beneath the Lake",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/9deb5e78745510f498625c9597870feac311446f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.1"
     },
     "ACH_033": {
       "name": "Phantom and Blade",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f4f572411aaeba5c43513f8e80776d447b5238de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "25.5"
     },
     "ACH_034": {
       "name": "The Last of Baishan",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f8b9d929649a7c596d0176a835090d61f839f831.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "33.9"
     },
     "ACH_035": {
       "name": "Together Till the End",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/805da559dfa7dcef2b9e6d4060fa288125c0d2a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.4"
     },
     "ACH_036": {
       "name": "A Wanderer's Honor",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/1741a16d30b81e337e1ce978ca2d8832cefc65d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.2"
     },
     "ACH_037": {
       "name": "Spectral Blade",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/963b68aa86ba54a7c0658cba3ae33a9957766079.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "24.4"
     },
     "ACH_038": {
       "name": "The Healer’s Legacy",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/63aea1fdf3300e4b31e9996a06837ebce50d1b74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "29.8"
     },
     "ACH_039": {
       "name": "Lost and Found",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/0fbdce57d6df4b53b88d1421e0ad1e859634bbbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.4"
     },
     "ACH_040": {
       "name": "Even Trees Know Sorrow",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/bf642f6c1f983a8c841e3c81c7643860331e4fe2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.0"
     },
     "ACH_041": {
       "name": "A Tempered Ten",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/62da381d0271ffc232930ba6632fda228c50d3bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.1"
     },
     "ACH_042": {
       "name": "Overwhelming Force",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/44145561a33fec22fa4545eca820ab5932ff516e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.1"
     },
     "ACH_043": {
       "name": "Complete Mastery",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/34cc598300efe64c7f842875c7d3de1838f6fba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.2"
     },
     "ACH_044": {
       "name": "Listen to Every Flower",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f6fe45e6f647cecc8d9fd5d2ac1e03065b4d1911.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "52.6"
     },
     "ACH_045": {
       "name": "Leave No Stone Unturned",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/442e5c9deeca048b14bb38818bed5343b5c76e0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.4"
     },
     "ACH_046": {
       "name": "Collector’s Notes",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/484bb70a0ebdb2006ce1c6fbdb46e325f985f189.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.2"
     },
     "ACH_047": {
       "name": "Phantom Arsenal",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/886d5095678a4a640985bc53aff7c14b480ac444.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "27.7"
     },
     "ACH_048": {
       "name": "Skill Over Strength",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/5c5c665a3d61d1ba0336bd5a5ff0b5cd0f6c2266.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "31.6"
     },
     "ACH_049": {
       "name": "Way of the Phantom",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/f57a4c349e780a77dbb2ccd271f5e4564d9dcc52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.1"
+      "percent": "77.9"
     },
     "ACH_051": {
       "name": "The Rusted Blade",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/dea9a65e0c3e6264bc6b8cba254ed3ce9a890808.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.4"
+      "percent": "82.5"
     },
     "ACH_052": {
       "name": "A Drunken Dream",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/e19135b8ea2fd8733d17c475a3fcb6e37bd40974.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.8"
     },
     "ACH_053": {
       "name": "Bloodless Victory",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/fc56015f761f55d603d645fb35bba7d223be194f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.6"
     },
     "ACH_054": {
       "name": "The Flame Within",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/246a0498e19a647a0b6a98b8312c78cad255068c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "18.9"
     },
     "ACH_055": {
       "name": "The Blade's Thirst",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/e2ca4bd086a6bba5ce70dd128da99b455e004f78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.3"
     },
     "ACH_056": {
       "name": "Snow and Frost",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/25c106c526dbabfc7df9de2a4bbec2b618ebd413.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "18.6"
     },
     "ACH_057": {
       "name": "Cleave in Two",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/180830f932c9fc984e1f9c18ae3b7c0a85f056fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.3"
     },
     "ACH_058": {
       "name": "Delayed Blast",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/37ce882dbeb894a1af88d24c7085f371d1e30ac3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.1"
     },
     "ACH_059": {
       "name": "Perfectly Linked",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/d258833b0c419f76af8490a4b7344a855d2c74e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.6"
     },
     "ACH_060": {
       "name": "Baishan Tempest",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/418925c817cfb6d1485d7c8f972a798dbfc0f0b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.2"
     },
     "ACH_061": {
       "name": "Heavenfall Strike",
@@ -550,16 +550,16 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/7052462a738841b70ce5b5c76f0477509da6a08e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.0"
     },
     "ACH_062": {
       "name": "Turning the Tide",
-      "description": "",
+      "description": "Defeat You Loong, Blackwater Crew Leader twice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/3aa66bbecc943272b57fe22d49a4605ec430b4f0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/452d0cbce09b597a26f3649becc1456b15b85ccf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "32.4"
     },
     "ACH_063": {
       "name": "Fists of Fury",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/d5ea26c741d87b33050dabd50b53e63f33e133ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.5"
     },
     "ACH_064": {
       "name": "Lightning Fast",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/b66f4b217b51c6d97d4ab28dd5d498e8fa0731cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.1"
     },
     "ACH_065": {
       "name": "A Friend from Thin Air",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/4a2ee466b9e800995b9aabe699632ba3aec835ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "42.4"
     },
     "ACH_066": {
       "name": "Defy Destiny",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4115450/9fbd4321cb0f7df7dd8ada1a3ee7f131cebd3f93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.2"
     }
   },
   "platform": null,
