@@ -6,866 +6,866 @@
     "0000": {
       "name": "Platinum Sky",
       "description": "Earn all achievements",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.1",
+      "group": "Base Game"
     },
     "0001": {
       "name": "Wings of Destruction",
       "description": "Complete the quest \"The Final Report\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.0",
+      "group": "Base Game"
     },
     "0002": {
       "name": "The Ultimate",
       "description": "Complete the main story up to Chapter Ø on Ultimate difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.6",
+      "group": "Base Game"
     },
     "0003": {
       "name": "Id",
       "description": "Complete Final Chapter of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.6",
+      "group": "Base Game"
     },
     "0004": {
       "name": "Skybound Heart",
       "description": "Complete Chapter Ø of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.7",
+      "group": "Base Game"
     },
     "0005": {
       "name": "Nothing Is Impossible!",
       "description": "Complete all side quests (excluding add-on content)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.0",
+      "group": "Base Game"
     },
     "0006": {
       "name": "Squad's All Here",
       "description": "Unlock all characters (excluding add-on content)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.9",
+      "group": "Base Game"
     },
     "0007": {
       "name": "Fate Can't Wait",
       "description": "Complete all characters' fate episodes, including their epilogues (excluding add-on content)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.6",
+      "group": "Base Game"
     },
     "0008": {
       "name": "Reminiscence",
       "description": "Fill in every Field Notes entry in Lyria's Journal (excluding add-on content)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.4",
+      "group": "Base Game"
     },
     "0009": {
       "name": "True Potential",
       "description": "Unlock the power of an Ascension weapon for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.3",
+      "group": "Base Game"
     },
     "0010": {
       "name": "The Forgotten Sky",
       "description": "Complete Prologue of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "96.5"
+      "percent": "96.5",
+      "group": "Base Game"
     },
     "0011": {
       "name": "The Western Frontier",
       "description": "Complete Chapter 1 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "85.2"
+      "percent": "85.2",
+      "group": "Base Game"
     },
     "0012": {
       "name": "Tempest on the Horizon",
       "description": "Complete Chapter 2 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "82.2"
+      "percent": "82.2",
+      "group": "Base Game"
     },
     "0013": {
       "name": "Creation of the Stars",
       "description": "Complete Chapter 3 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "80.5"
+      "percent": "80.5",
+      "group": "Base Game"
     },
     "0014": {
       "name": "Skies Forever Blue",
       "description": "Complete Chapter 4 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.1",
+      "group": "Base Game"
     },
     "0015": {
       "name": "Shadows in the Snowscape",
       "description": "Complete Chapter 5 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.1",
+      "group": "Base Game"
     },
     "0016": {
       "name": "In Search of Hope",
       "description": "Complete Chapter 6 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.3",
+      "group": "Base Game"
     },
     "0017": {
       "name": "Warning Signs",
       "description": "Complete Chapter 7 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "66.7"
+      "percent": "66.7",
+      "group": "Base Game"
     },
     "0018": {
       "name": "Relink",
       "description": "Complete Chapter 8 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "64.8"
+      "percent": "64.8",
+      "group": "Base Game"
     },
     "0019": {
       "name": "Opposing Wills",
       "description": "Complete Chapter 9 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.6",
+      "group": "Base Game"
     },
     "0020": {
       "name": "Leave It to Me",
       "description": "Achieve an S++ quest evaluation for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.2",
+      "group": "Base Game"
     },
     "0021": {
       "name": "It's All About Communication",
       "description": "Use an emote",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.8",
+      "group": "Base Game"
     },
     "0022": {
       "name": "Primal Beast Punisher",
       "description": "Defeat primal beasts 100 times",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7",
+      "group": "Base Game"
     },
     "0023": {
       "name": "I Try to Help",
       "description": "Complete a side quest for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.3",
+      "group": "Base Game"
     },
     "0024": {
       "name": "Sharpshooter",
       "description": "Destroy all guided projectiles of an enemy barrage using a single Charged Shot from an ether cannon in Chapter 4 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.2",
+      "group": "Base Game"
     },
     "0025": {
       "name": "Cannon Crusher",
       "description": "Destroy all enemy cannons in Chapter 4 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.9",
+      "group": "Base Game"
     },
     "0026": {
       "name": "Child of Darkness and Flames",
       "description": "Defeat Angra Mainyu without taking any damage while controlling Proto Bahamut in Chapter 8 of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.1",
+      "group": "Base Game"
     },
     "0027": {
       "name": "Primeval Dragon",
       "description": "Defeat Bahamut Versa Omega without taking any damage while controlling Proto Bahamut in Chapter Ø of the main story",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.8",
+      "group": "Base Game"
     },
     "0028": {
       "name": "About to Full Burst",
       "description": "Trigger a full burst in battle (excluding certain battles)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "83.8"
+      "percent": "83.8",
+      "group": "Base Game"
     },
     "0029": {
       "name": "Don't Think It Goes Higher Than That",
       "description": "Deal more than 999,999 damage with a chain burst in battle",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.9",
+      "group": "Base Game"
     },
     "0030": {
       "name": "In Perfect Sync",
       "description": "Enter link time in battle (excluding Training)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "84.9"
+      "percent": "84.9",
+      "group": "Base Game"
     },
     "0031": {
       "name": "Chain Burst Champion",
       "description": "Activate chain bursts 100 times in battles (excluding certain battles)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.0",
+      "group": "Base Game"
     },
     "0032": {
       "name": "No Holding Back",
       "description": "Unleash Skybound Arts 10 times in battles (excluding certain battles)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.8",
+      "group": "Base Game"
     },
     "0033": {
       "name": "Field Medic",
       "description": "Revive allies 5 times",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.1",
+      "group": "Base Game"
     },
     "0034": {
       "name": "It's Called Skill",
       "description": "Use skills 50 times in battles",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "82.2"
+      "percent": "82.2",
+      "group": "Base Game"
     },
     "0035": {
       "name": "Buff Buffet",
       "description": "Use buffing skills to grant status effects to allies 20 times in battles",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.6",
+      "group": "Base Game"
     },
     "0036": {
       "name": "Debuff Deluge",
       "description": "Use debuffing skills to inflict status ailments on foes 20 times in battle",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.2",
+      "group": "Base Game"
     },
     "0037": {
       "name": "I Will Survive",
       "description": "Use 50 potions",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.3",
+      "group": "Base Game"
     },
     "0038": {
       "name": "Give Me Something to Break",
       "description": "Put foes into Break 5 times in battles (excluding certain battles)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.1",
+      "group": "Base Game"
     },
     "0039": {
       "name": "A Fateful Encounter",
       "description": "Complete a fate episode prologue for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.6",
+      "group": "Base Game"
     },
     "0040": {
       "name": "A Fateful Farewell",
       "description": "Complete a fate episode epilogue",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.6",
+      "group": "Base Game"
     },
     "0041": {
       "name": "Push It to the Limit",
       "description": "Raise a character to level 100",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.5",
+      "group": "Base Game"
     },
     "0042": {
       "name": "I Like It When Numbers Go Up",
       "description": "Acquire a total of 100,000 rupies",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.3",
+      "group": "Base Game"
     },
     "0043": {
       "name": "Crabs Are Neat",
       "description": "Find 20 wee pincers",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.1",
+      "group": "Base Game"
     },
     "0044": {
       "name": "Closer to the Truth",
       "description": "Find 30 archive entries",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.1",
+      "group": "Base Game"
     },
     "0045": {
       "name": "Treasure Hunter",
       "description": "Open 50 treasure chests (excluding town chests)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.7",
+      "group": "Base Game"
     },
     "0046": {
       "name": "Unlocked and Unloaded",
       "description": "Open all locked treasure chests",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.8",
+      "group": "Base Game"
     },
     "0047": {
       "name": "Practice Makes Perfect",
       "description": "Get some practice in with Sir Barrold",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "74.6"
+      "percent": "74.6",
+      "group": "Base Game"
     },
     "0048": {
       "name": "No Cap",
       "description": "Uncap a weapon at the blacksmith",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.1",
+      "group": "Base Game"
     },
     "0049": {
       "name": "Knickknack Shack Regular",
       "description": "Use Siero's Treasure Trade to complete 10 trades",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.4",
+      "group": "Base Game"
     },
     "0050": {
       "name": "On the Road to Mastery",
       "description": "Unlock a character action node from Masteries for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "85.4"
+      "percent": "85.4",
+      "group": "Base Game"
     },
     "0051": {
       "name": "Making Ends Meet",
       "description": "Sell 10 sigils",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.7",
+      "group": "Base Game"
     },
     "0052": {
       "name": "Welcome to the Crew",
       "description": "Unlock a new character",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.1",
+      "group": "Base Game"
     },
     "0053": {
       "name": "On the House",
       "description": "Get an appraisal from Zathba",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb9e7a47df7e511ea81394e7a172c146c4760e2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/890a0249834f64cf47c6bb625e1bceafb1507f89.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/2eb9e7a47df7e511ea81394e7a172c146c4760e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/890a0249834f64cf47c6bb625e1bceafb1507f89.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.8",
+      "group": "Base Game"
     },
     "0054": {
       "name": "Endless Ragnarok",
       "description": "Achieve an S++ evaluation for each of the following quests: A Reckoning for the Reckoner, Let Chaos Reign, A Prayer for Black Wings' Demise, and The Not Forgotten Sky",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bd912af6305fedf07810902c4455d149315ad782.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bd912af6305fedf07810902c4455d149315ad782.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bd912af6305fedf07810902c4455d149315ad782.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bd912af6305fedf07810902c4455d149315ad782.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.6",
+      "group": "Base Game"
     },
     "0055": {
       "name": "Wings that Subjugated Chaos",
       "description": "Defeat Beelzebub in the Conflux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4c4abc135612d9498162bcd7c61d2bd17e340891.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4c4abc135612d9498162bcd7c61d2bd17e340891.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4c4abc135612d9498162bcd7c61d2bd17e340891.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4c4abc135612d9498162bcd7c61d2bd17e340891.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0",
+      "group": "Base Game"
     },
     "0056": {
       "name": "Broke the Laws of Nature",
       "description": "Complete the quest \"The Not Forgotten Sky\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c59c51d925b436971a2c9dc871e590e405e5f3cb.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c59c51d925b436971a2c9dc871e590e405e5f3cb.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c59c51d925b436971a2c9dc871e590e405e5f3cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c59c51d925b436971a2c9dc871e590e405e5f3cb.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.4",
+      "group": "Base Game"
     },
     "0057": {
       "name": "Wings Beyond the Grand Finale",
       "description": "Complete the quest \"A Prayer for Black Wings' Demise\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a3c511d28003cfa036762ef358b8b8d1531d7a6f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a3c511d28003cfa036762ef358b8b8d1531d7a6f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a3c511d28003cfa036762ef358b8b8d1531d7a6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a3c511d28003cfa036762ef358b8b8d1531d7a6f.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.6",
+      "group": "Base Game"
     },
     "0058": {
       "name": "Destroyer of the Immortal",
       "description": "Complete the quest \"Let Chaos Reign\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c65f7e2ab833f881fd738057fdec527cc87ba283.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c65f7e2ab833f881fd738057fdec527cc87ba283.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c65f7e2ab833f881fd738057fdec527cc87ba283.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c65f7e2ab833f881fd738057fdec527cc87ba283.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.7",
+      "group": "Base Game"
     },
     "0059": {
       "name": "Above and Beyond",
       "description": "Complete the quest \"A Reckoning for the Reckoner\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/f6ac8c0cca161cd5947bbe3223f842470ec42658.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/f6ac8c0cca161cd5947bbe3223f842470ec42658.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/f6ac8c0cca161cd5947bbe3223f842470ec42658.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/f6ac8c0cca161cd5947bbe3223f842470ec42658.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.8",
+      "group": "Base Game"
     },
     "0060": {
       "name": "A Perfect World Realized",
       "description": "Complete the quest \"New World Order\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/45e56a38bd73b0a1366f1dee8f2efd3216d303a8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/45e56a38bd73b0a1366f1dee8f2efd3216d303a8.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/45e56a38bd73b0a1366f1dee8f2efd3216d303a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/45e56a38bd73b0a1366f1dee8f2efd3216d303a8.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.2",
+      "group": "Base Game"
     },
     "0061": {
       "name": "The Eternals Got Nothing On Me",
       "description": "Complete the quest \"The Eternal Grind\"",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/61d4f23c8fb993236993ddfb79057704336c8dff.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/61d4f23c8fb993236993ddfb79057704336c8dff.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/61d4f23c8fb993236993ddfb79057704336c8dff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/61d4f23c8fb993236993ddfb79057704336c8dff.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.0",
+      "group": "Base Game"
     },
     "0062": {
       "name": "Extremely Excellent Execution",
       "description": "Achieve an S++ evaluation for each of the following quests: Spear of the Invincible, One-Woman Army, and Weight of a Blade",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b2e902b90f11c0f0e94b41c9ebd545f11578b1df.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b2e902b90f11c0f0e94b41c9ebd545f11578b1df.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b2e902b90f11c0f0e94b41c9ebd545f11578b1df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b2e902b90f11c0f0e94b41c9ebd545f11578b1df.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.4",
+      "group": "Base Game"
     },
     "0063": {
       "name": "On the Edge of Chaos",
       "description": "Unlock Chaos++ quest difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e86ba812f2e982256b18523833065c286d815cf.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e86ba812f2e982256b18523833065c286d815cf.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4e86ba812f2e982256b18523833065c286d815cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/4e86ba812f2e982256b18523833065c286d815cf.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.4",
+      "group": "Base Game"
     },
     "0064": {
       "name": "Can't Beat My High Score",
       "description": "Achieve a Conflux score of 10,000,000 or more",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/6dfbd8a85603f881a612c7b873a4e624a9e8632a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/6dfbd8a85603f881a612c7b873a4e624a9e8632a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/6dfbd8a85603f881a612c7b873a4e624a9e8632a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/6dfbd8a85603f881a612c7b873a4e624a9e8632a.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.7",
+      "group": "Base Game"
     },
     "0065": {
       "name": "I'll Make This Quick!",
       "description": "Clear the final Warlord's Way of Conflux Cycle 3, 4, or 5 within 90 seconds",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/552f956c0873577055f8046517f1cd3a443e53d4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/552f956c0873577055f8046517f1cd3a443e53d4.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/552f956c0873577055f8046517f1cd3a443e53d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/552f956c0873577055f8046517f1cd3a443e53d4.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.4",
+      "group": "Base Game"
     },
     "0066": {
       "name": "Memento Mori",
       "description": "Complete Conflux Cycle 3, 4, or 5 without going into critical condition",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/07938f5fabf561395e99fd316680024f96963d97.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/07938f5fabf561395e99fd316680024f96963d97.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/07938f5fabf561395e99fd316680024f96963d97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/07938f5fabf561395e99fd316680024f96963d97.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.2",
+      "group": "Base Game"
     },
     "0067": {
       "name": "Whoa-Whoa Yeaaah!",
       "description": "Defeat Albacore in the Conflux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66f956454045d6cf264c0f089651b90d3dc65961.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66f956454045d6cf264c0f089651b90d3dc65961.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/66f956454045d6cf264c0f089651b90d3dc65961.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/66f956454045d6cf264c0f089651b90d3dc65961.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.2",
+      "group": "Base Game"
     },
     "0068": {
       "name": "Chaos Kid",
       "description": "Complete 50 surveys in the Conflux (excludes retreats)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83894b40813121a3c9b637d11dcc36f21082b877.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83894b40813121a3c9b637d11dcc36f21082b877.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/83894b40813121a3c9b637d11dcc36f21082b877.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/83894b40813121a3c9b637d11dcc36f21082b877.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.5",
+      "group": "Base Game"
     },
     "0069": {
       "name": "13 Uncaps",
       "description": "Fully transcend a weapon",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5d87e6e66fa97aa5a8c9b673e98a6c1ff4cf63a0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5d87e6e66fa97aa5a8c9b673e98a6c1ff4cf63a0.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5d87e6e66fa97aa5a8c9b673e98a6c1ff4cf63a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5d87e6e66fa97aa5a8c9b673e98a6c1ff4cf63a0.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.3",
+      "group": "Base Game"
     },
     "0070": {
       "name": "Level Overflow",
       "description": "Raise a character to master level 50",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/65b2cd438e389bee71dd7d98433a279821872bd3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/65b2cd438e389bee71dd7d98433a279821872bd3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/65b2cd438e389bee71dd7d98433a279821872bd3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/65b2cd438e389bee71dd7d98433a279821872bd3.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.7",
+      "group": "Base Game"
     },
     "0071": {
       "name": "It's Peak",
       "description": "Break the master level until it can no longer be broken",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/525d5e1611a1a20a36b78b7272f248796b3114d6.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/525d5e1611a1a20a36b78b7272f248796b3114d6.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/525d5e1611a1a20a36b78b7272f248796b3114d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/525d5e1611a1a20a36b78b7272f248796b3114d6.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.7",
+      "group": "Base Game"
     },
     "0072": {
       "name": "Life Is Shell",
       "description": "Find 20 dark wee pincers",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e0dfd9d0cba53a4d2d3de22c445caebe9a05fbc8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e0dfd9d0cba53a4d2d3de22c445caebe9a05fbc8.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e0dfd9d0cba53a4d2d3de22c445caebe9a05fbc8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e0dfd9d0cba53a4d2d3de22c445caebe9a05fbc8.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.2",
+      "group": "Base Game"
     },
     "0073": {
       "name": "Ragnalia Slayer",
       "description": "Unlock Chaos+ quest difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/827b3ce67fa1b52752841d39f325577db95a4c68.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/827b3ce67fa1b52752841d39f325577db95a4c68.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/827b3ce67fa1b52752841d39f325577db95a4c68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/827b3ce67fa1b52752841d39f325577db95a4c68.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.7",
+      "group": "Base Game"
     },
     "0074": {
       "name": "Welcome to the Club",
       "description": "Unlock Chaos quest difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9119b475166df06fb4b3edb8e69b417bb4839246.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9119b475166df06fb4b3edb8e69b417bb4839246.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9119b475166df06fb4b3edb8e69b417bb4839246.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9119b475166df06fb4b3edb8e69b417bb4839246.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.7",
+      "group": "Base Game"
     },
     "0075": {
       "name": "Entropy Explorer",
       "description": "Complete Conflux Cycle 4: Illusion",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5085aed825a4ec5af27efc7ceedb0953af40c21b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5085aed825a4ec5af27efc7ceedb0953af40c21b.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5085aed825a4ec5af27efc7ceedb0953af40c21b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/5085aed825a4ec5af27efc7ceedb0953af40c21b.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.6",
+      "group": "Base Game"
     },
     "0076": {
       "name": "Interdimensional Inquisitor",
       "description": "Complete Conflux Cycle 3: Procession",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9a6a4876e5184e5c5b0c53caeea6147355be18df.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9a6a4876e5184e5c5b0c53caeea6147355be18df.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9a6a4876e5184e5c5b0c53caeea6147355be18df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9a6a4876e5184e5c5b0c53caeea6147355be18df.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.9",
+      "group": "Base Game"
     },
     "0077": {
       "name": "Frequent Confluxer",
       "description": "Clear any combination of Strife's Way, Warlord's Way, or Dexterity's Way 100 times",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9e92433a9d624adfb930e06b84f71b63d6d918de.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9e92433a9d624adfb930e06b84f71b63d6d918de.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9e92433a9d624adfb930e06b84f71b63d6d918de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/9e92433a9d624adfb930e06b84f71b63d6d918de.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.5",
+      "group": "Base Game"
     },
     "0078": {
       "name": "Ike Ike Danchou!",
       "description": "Clear any Dexterity's Way for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7d978e9f20738bac7b1c905b36b74f9715527d7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7d978e9f20738bac7b1c905b36b74f9715527d7.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b7d978e9f20738bac7b1c905b36b74f9715527d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/b7d978e9f20738bac7b1c905b36b74f9715527d7.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.3",
+      "group": "Base Game"
     },
     "0079": {
       "name": "Ganbare Ganbare Danchou!",
       "description": "Clear 4 types of Dexterity's Way",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/f015c7ceba391a29e5a1452f89cfddfe5bf3f402.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/f015c7ceba391a29e5a1452f89cfddfe5bf3f402.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/f015c7ceba391a29e5a1452f89cfddfe5bf3f402.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/f015c7ceba391a29e5a1452f89cfddfe5bf3f402.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.9",
+      "group": "Base Game"
     },
     "0080": {
       "name": "This Thing's Rigged!",
       "description": "Get 3 consecutive spins on the roulette wheel",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a8095eabbf121e45034016b9ae1f822e15f5a48a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a8095eabbf121e45034016b9ae1f822e15f5a48a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a8095eabbf121e45034016b9ae1f822e15f5a48a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a8095eabbf121e45034016b9ae1f822e15f5a48a.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.9",
+      "group": "Base Game"
     },
     "0081": {
       "name": "Go! Go! Pow! Pow!",
       "description": "Acquire 18 auras during a single Conflux survey",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/36246a4983d4e1993866e5d6ac2ec188ca83ff8d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/36246a4983d4e1993866e5d6ac2ec188ca83ff8d.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/36246a4983d4e1993866e5d6ac2ec188ca83ff8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/36246a4983d4e1993866e5d6ac2ec188ca83ff8d.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1",
+      "group": "Base Game"
     },
     "0082": {
       "name": "More... More!",
       "description": "Acquire 4 calamity auras within a single Conflux survey",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3befb4e923b48ca1cc03e5b3861b0b1f0be67046.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3befb4e923b48ca1cc03e5b3861b0b1f0be67046.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3befb4e923b48ca1cc03e5b3861b0b1f0be67046.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3befb4e923b48ca1cc03e5b3861b0b1f0be67046.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.2",
+      "group": "Base Game"
     },
     "0083": {
       "name": "Points Expert",
       "description": "Spend a total of 30,000 RP on Resonance nodes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3d4f73f3e530b2d4f4aeedc36097b774956fd1ea.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3d4f73f3e530b2d4f4aeedc36097b774956fd1ea.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3d4f73f3e530b2d4f4aeedc36097b774956fd1ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3d4f73f3e530b2d4f4aeedc36097b774956fd1ea.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.3",
+      "group": "Base Game"
     },
     "0084": {
       "name": "Wings of Fate",
       "description": "Complete all fate episodes for Beatrix, Eustace, Fraux, Fediel, Gallanza, and Maglielle",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a06ccffa4c156cdcc7f5566721d12d2dc9487f4f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/a06ccffa4c156cdcc7f5566721d12d2dc9487f4f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a06ccffa4c156cdcc7f5566721d12d2dc9487f4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/a06ccffa4c156cdcc7f5566721d12d2dc9487f4f.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.0",
+      "group": "Base Game"
     },
     "0085": {
       "name": "Mission Is a Go",
       "description": "Welcome Beatrix and Eustace to the crew",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e051a338ba52a5bdba4c8c91c51550bce96b1ac1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e051a338ba52a5bdba4c8c91c51550bce96b1ac1.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e051a338ba52a5bdba4c8c91c51550bce96b1ac1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/e051a338ba52a5bdba4c8c91c51550bce96b1ac1.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.1",
+      "group": "Base Game"
     },
     "0086": {
       "name": "Enemies Yesterday, Friends Today",
       "description": "Welcome all 3 Aviaeth generals to the crew",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/56c0b3f01e36471ce1816ae3cc90d073d51ab44e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/56c0b3f01e36471ce1816ae3cc90d073d51ab44e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/56c0b3f01e36471ce1816ae3cc90d073d51ab44e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/56c0b3f01e36471ce1816ae3cc90d073d51ab44e.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4",
+      "group": "Base Game"
     },
     "0087": {
       "name": "Strong and Beautiful",
       "description": "Welcome Fraux to the crew",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3f8330b88abde313bb2d6c97490ba15d8bb3f4e3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/3f8330b88abde313bb2d6c97490ba15d8bb3f4e3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3f8330b88abde313bb2d6c97490ba15d8bb3f4e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/3f8330b88abde313bb2d6c97490ba15d8bb3f4e3.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.1",
+      "group": "Base Game"
     },
     "0088": {
       "name": "The Black of the Six Dragons",
       "description": "Welcome Fediel to the crew",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d50798e05021c9335efeb8a55abd91551e0f9ee5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d50798e05021c9335efeb8a55abd91551e0f9ee5.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d50798e05021c9335efeb8a55abd91551e0f9ee5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/d50798e05021c9335efeb8a55abd91551e0f9ee5.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.0",
+      "group": "Base Game"
     },
     "0089": {
       "name": "Overhaul!",
       "description": "Transcend a weapon for the first time at the Knickknack Shack",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bc6600bfab5b5173e00ab328c69dd917f3a54fb4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bc6600bfab5b5173e00ab328c69dd917f3a54fb4.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bc6600bfab5b5173e00ab328c69dd917f3a54fb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/bc6600bfab5b5173e00ab328c69dd917f3a54fb4.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.7",
+      "group": "Base Game"
     },
     "0090": {
       "name": "To Be a Master",
       "description": "Unlock a character's master level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/405210a26872fa26ccc30f9f40ec8754b144c194.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/405210a26872fa26ccc30f9f40ec8754b144c194.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/405210a26872fa26ccc30f9f40ec8754b144c194.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/405210a26872fa26ccc30f9f40ec8754b144c194.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.6",
+      "group": "Base Game"
     },
     "0091": {
       "name": "My Evil Eye Approves!",
       "description": "Obtain a character-only sigil for any of these characters: Beatrix, Eustace, Fraux, Fediel, Gallanza, or Maglielle",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/864327bc4ab6080f518c6ec11c92f2cba4f4369f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/864327bc4ab6080f518c6ec11c92f2cba4f4369f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/864327bc4ab6080f518c6ec11c92f2cba4f4369f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/864327bc4ab6080f518c6ec11c92f2cba4f4369f.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.1",
+      "group": "Base Game"
     },
     "0092": {
       "name": "Get On My Level, Newcomers",
       "description": "Raise any of these characters to level 100: Beatrix, Eustace, Fraux, Fediel, Gallanza, or Maglielle",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0002d788a245219b829e8e5a9dd5078378099d8c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0002d788a245219b829e8e5a9dd5078378099d8c.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0002d788a245219b829e8e5a9dd5078378099d8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/0002d788a245219b829e8e5a9dd5078378099d8c.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.2",
+      "group": "Base Game"
     },
     "0093": {
       "name": "Where the Wee Pincers Are",
       "description": "Find 10 dark wee pincers",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c273f7e445575b15d05bba5980f420ecdba7d4ff.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c273f7e445575b15d05bba5980f420ecdba7d4ff.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c273f7e445575b15d05bba5980f420ecdba7d4ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/c273f7e445575b15d05bba5980f420ecdba7d4ff.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.3",
+      "group": "Base Game"
     },
     "0094": {
       "name": "The Crabs in Black Do Exist!",
       "description": "Find a dark wee pincer for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/6cf8f9692be1775b90283e9daa6bd78b68a33bc6.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/6cf8f9692be1775b90283e9daa6bd78b68a33bc6.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/6cf8f9692be1775b90283e9daa6bd78b68a33bc6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/6cf8f9692be1775b90283e9daa6bd78b68a33bc6.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.8",
+      "group": "Base Game"
     },
     "0095": {
       "name": "All-Purpose Ether",
       "description": "Activate an ether turret for the first time",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/67b21b0752d0e1e8f6cced257778f17b503bc630.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/67b21b0752d0e1e8f6cced257778f17b503bc630.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/67b21b0752d0e1e8f6cced257778f17b503bc630.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/881020/67b21b0752d0e1e8f6cced257778f17b503bc630.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.0",
+      "group": "Base Game"
     }
   },
   "platform": null,

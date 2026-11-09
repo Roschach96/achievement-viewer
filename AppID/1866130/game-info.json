@@ -6,542 +6,542 @@
     "FINISH_TUTORIAL": {
       "name": "Calibration complete",
       "description": "Finish the Tutorial",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ff78eee085992b31b2e8bd6371a8e98b1ddd08bc.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/ff78eee085992b31b2e8bd6371a8e98b1ddd08bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "96.3"
+      "percent": "96.3",
+      "group": "Base Game"
     },
     "FIRST_UPGRADE_NEXUSNODE": {
       "name": "Your path has just begun",
       "description": "Buy your first upgrade in the Neural Nexus",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/56a77d19c8fc696d24a93fc08c3ce3ef0692ff12.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/56a77d19c8fc696d24a93fc08c3ce3ef0692ff12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.8",
+      "group": "Base Game"
     },
     "FIRST_CORPORA_EQUIPPED": {
       "name": "Be stronger",
       "description": "Equip your first Corpora",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/31078a604a99964ab00da7252dadd0427eb06194.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/31078a604a99964ab00da7252dadd0427eb06194.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.6",
+      "group": "Base Game"
     },
     "OPERATOR_TRIALS_FIRST_SUCESS": {
       "name": "He will never know",
       "description": "Successfully complete an Operator’s Trial",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/69829ebdd10f8a8568a94d6a2fe28f72b60befa2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/69829ebdd10f8a8568a94d6a2fe28f72b60befa2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.2",
+      "group": "Base Game"
     },
     "DEVILS_BARGAIN_FIRST_CHOSEN": {
       "name": "Are you sure?",
       "description": "Accept your first Devil’s Bargain",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4f48c17803948671c115a0de87c86876f037c215.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/4f48c17803948671c115a0de87c86876f037c215.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0",
+      "group": "Base Game"
     },
     "VOID_RIFT_FIRST_INTERACTED": {
       "name": "Welcome to the Void",
       "description": "Interact with a Void Rift",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/35f206773439aa6b2616793619603ac7b0f5a990.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/35f206773439aa6b2616793619603ac7b0f5a990.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.6",
+      "group": "Base Game"
     },
     "STYLE_RANK_SSS": {
       "name": "So stylish",
       "description": "Reach your first SSS stylerank in a combat",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b02ed2bc09ee2325a0da53423b1fe04c620f85d1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/b02ed2bc09ee2325a0da53423b1fe04c620f85d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.3",
+      "group": "Base Game"
     },
     "CHAR_UNLOCK_EKKU": {
       "name": "Now you’re two",
       "description": "Unlock Ekku",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/1cfa1b309b3d62250f383e6314b4cab959b1c751.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/1cfa1b309b3d62250f383e6314b4cab959b1c751.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.2",
+      "group": "Base Game"
     },
     "CHAR_UNLOCK_VEKTA": {
       "name": "All under control",
       "description": "Unlock Vekta",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/43320b06718ae2f4094c6048abe542e81f2c1991.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/43320b06718ae2f4094c6048abe542e81f2c1991.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.4",
+      "group": "Base Game"
     },
     "PICKUP_FIRST_LORECODEX": {
       "name": "That’s the first chapter",
       "description": "Find your first lore codex",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/7632b7fbf26cf67050c5b6565e6e0044738e38e6.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/7632b7fbf26cf67050c5b6565e6e0044738e38e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.9",
+      "group": "Base Game"
     },
     "RESOURCE_COLLECTED_TOKENS": {
       "name": "That’s enough",
       "description": "Collect a total of 50000 tokens",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/d35d9b46e78096556cc3fbc7bc11a7a06bea3285.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/d35d9b46e78096556cc3fbc7bc11a7a06bea3285.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2",
+      "group": "Base Game"
     },
     "SUBBIOME_B1_ENTERED": {
       "name": "Sunken Grounds",
       "description": "Enter the Overgrown Ruins, Sub Biome",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/9d3c6c9d6b2bec1785bdb72f8d95b6fe9928ba41.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/9d3c6c9d6b2bec1785bdb72f8d95b6fe9928ba41.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.6",
+      "group": "Base Game"
     },
     "SUBBIOME_B2_ENTERED": {
       "name": "Abyssal Assembly",
       "description": "Enter the Industrial Temple, Sub Biome",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/35a73057d2a153b9df5c8b8a5d1f7ae6a723665c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/35a73057d2a153b9df5c8b8a5d1f7ae6a723665c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/40f4455124413c3f32fc0ae7a3e6e9c7eef277e9.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.6",
+      "group": "Base Game"
     },
     "UNLOCK_DIFFICULTY_2": {
       "name": "The Cycle Continues",
       "description": "Unlock the Advanced difficulty Level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/013adf24df595c966f696668365254902bc25b16.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/013adf24df595c966f696668365254902bc25b16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.4",
+      "group": "Base Game"
     },
     "UNLOCK_DIFFICULTY_3": {
       "name": "You show potential",
       "description": "Unlock the Expert difficulty Level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/c62f740397fe85a62c10543d6b8b740790c9bb13.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/c62f740397fe85a62c10543d6b8b740790c9bb13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.6",
+      "group": "Base Game"
     },
     "UNLOCK_DIFFICULTY_4": {
       "name": "Now the Real Test begins",
       "description": "Unlock the Morbid difficulty Level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f6c8f3c93179cd0de87be0985bbf2cc4b8814713.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/f6c8f3c93179cd0de87be0985bbf2cc4b8814713.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.9",
+      "group": "Base Game"
     },
     "ITERATIONS_1": {
       "name": "So it Begins",
       "description": "Start your first Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/baf20bf8085c7e7f2314fd03e5c5cabce03167af.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/baf20bf8085c7e7f2314fd03e5c5cabce03167af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8",
+      "group": "Base Game"
     },
     "ITERATIONS_2": {
       "name": "Fail and Repeat",
       "description": "Start your second Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/e1b0cc427c7d23190a3d82b35fb33e5fdde892e4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/e1b0cc427c7d23190a3d82b35fb33e5fdde892e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3",
+      "group": "Base Game"
     },
     "ITERATIONS_3": {
       "name": "Rule of Three",
       "description": "Start your third Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/07bc841e372c5c7a80146252c1d8da81e7b2f126.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/07bc841e372c5c7a80146252c1d8da81e7b2f126.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4",
+      "group": "Base Game"
     },
     "ITERATIONS_5": {
       "name": "5 in a Row",
       "description": "Start your fifth Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/12c62f251035e24925970cee0ec1e1edfedd5625.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/12c62f251035e24925970cee0ec1e1edfedd5625.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.8",
+      "group": "Base Game"
     },
     "ITERATIONS_10": {
       "name": "Cant get enough",
       "description": "Start your tenth Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f92872eca0b75d30c2bf36abf9e649f806d19c00.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/f92872eca0b75d30c2bf36abf9e649f806d19c00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8",
+      "group": "Base Game"
     },
     "ITERATIONS_25": {
       "name": "Okay, nice",
       "description": "Start your 25th Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/eb71092865d75d43f04776a94f0d8b72d5b4360a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/eb71092865d75d43f04776a94f0d8b72d5b4360a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.4",
+      "group": "Base Game"
     },
     "ITERATIONS_50": {
       "name": "Maybe you should rest",
       "description": "Start your 50th Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/e2932fd40b6163721683ec371c9a03ed7a9ace30.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/e2932fd40b6163721683ec371c9a03ed7a9ace30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.0",
+      "group": "Base Game"
     },
     "ITERATIONS_100": {
       "name": "Touch some Grass",
       "description": "Start your 100th Iteration",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/88667213d77a9aeb94ca6e72f47b62bdd60c441d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/88667213d77a9aeb94ca6e72f47b62bdd60c441d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.2",
+      "group": "Base Game"
     },
     "NOVICE_DEFENDER": {
       "name": "Novice Defender",
       "description": "Get the first Reward in the \"Defend the Base\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96f783b234564959daceb0e85092d9a8906e4446.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/96f783b234564959daceb0e85092d9a8906e4446.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.8",
+      "group": "Base Game"
     },
     "EXPERT_DEFENDER": {
       "name": "Expert Defender",
       "description": "Get the Second Reward in the \"Defend the Base\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4e025a9529e870f14e60f302aec1cd61cf072b01.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/4e025a9529e870f14e60f302aec1cd61cf072b01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.1",
+      "group": "Base Game"
     },
     "MASTER_DEFENDER": {
       "name": "Master Defender",
       "description": "Get the Third Reward in the \"Defend the Base\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6e4a9d8e22470d7ce8ec8980b074316422a5c467.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/6e4a9d8e22470d7ce8ec8980b074316422a5c467.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.1",
+      "group": "Base Game"
     },
     "FLUX_NOVICE": {
       "name": "Flux Novice",
       "description": "Kill 50 Enemies with Flux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a92a870921564dd44405de9f89c5dc9d9ebb9082.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/a92a870921564dd44405de9f89c5dc9d9ebb9082.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.8",
+      "group": "Base Game"
     },
     "NOVICE_ENGINEER": {
       "name": "Novice Engineer",
       "description": "Get the First Reward in the \"Kill all Turrets\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2ca5e572f2de7b678a389d2c06446acec9f69e1f.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/2ca5e572f2de7b678a389d2c06446acec9f69e1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0",
+      "group": "Base Game"
     },
     "EXPERT_ENGINEER": {
       "name": "Expert Engineer",
       "description": "Get the Second Reward in the \"Kill all Turrets\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/4bc723d8b1525a0db3b7afc9cafebf3f0723abfb.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/4bc723d8b1525a0db3b7afc9cafebf3f0723abfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.9",
+      "group": "Base Game"
     },
     "MASTER_ENGINEER": {
       "name": "Master Engineer",
       "description": "Get the Third Reward in the \"Kill all Turrets\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/6dcb3178fcfdf125cf20ce81fe5ffd93465781a8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/6dcb3178fcfdf125cf20ce81fe5ffd93465781a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.7",
+      "group": "Base Game"
     },
     "FLUX_EXPERT": {
       "name": "Flux Expert",
       "description": "Kill 250 Enemies with Flux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/a72aa8f2205c2583843737ff2635cb1e476e6a1e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/a72aa8f2205c2583843737ff2635cb1e476e6a1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.8",
+      "group": "Base Game"
     },
     "NOVICE_SLAYER": {
       "name": "Novice Slayer",
       "description": "Get the First Reward in the \"Time Trial\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/7145b1773e26abac31183287cb54eafe91e33464.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/7145b1773e26abac31183287cb54eafe91e33464.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2",
+      "group": "Base Game"
     },
     "EXPERT_SLAYER": {
       "name": "Expert Slayer",
       "description": "Get the Second Reward in the \"Time Trial\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/890843f0cbb1bb219663afb8276816a549741007.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/890843f0cbb1bb219663afb8276816a549741007.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.1",
+      "group": "Base Game"
     },
     "MASTER_SLAYER": {
       "name": "Master Slayer",
       "description": "Get the Third Reward in the \"Time Trial\" Game mode",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3fc5396103a3606ce15702432dc3090135a2bd6e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/3fc5396103a3606ce15702432dc3090135a2bd6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.5",
+      "group": "Base Game"
     },
     "FLUX_MASTER": {
       "name": "Flux Master",
       "description": "Kill 500 Enemies with Flux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/44a4801d142fcf6b075eabc70aeb0ed3a18a97dd.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/44a4801d142fcf6b075eabc70aeb0ed3a18a97dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.9",
+      "group": "Base Game"
     },
     "EKKU_NOVICE": {
       "name": "Ekku Novice",
       "description": "Kill 50 Enemies with Ekku",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/39a2b09a1452838cb4e956f84d7199cf11452ef8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/39a2b09a1452838cb4e956f84d7199cf11452ef8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3",
+      "group": "Base Game"
     },
     "EKKU_EXPERT": {
       "name": "Ekku Expert",
       "description": "Kill 250 Enemies with Ekku",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ac6c971f4ebc44887c197b61836d853dca98a0d0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/ac6c971f4ebc44887c197b61836d853dca98a0d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.2",
+      "group": "Base Game"
     },
     "EKKU_MASTER": {
       "name": "Ekku Master",
       "description": "Kill 500 Enemies with Ekku",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b4d228b315eaa60f7c3a9444b934d60feaea1373.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/b4d228b315eaa60f7c3a9444b934d60feaea1373.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.4",
+      "group": "Base Game"
     },
     "FLUX_UNLEASHED": {
       "name": "Flux Unleashed",
       "description": "Kill 1000 Enemies with Flux",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/1d39ec6ce18d9951684bfc30fdc356204b039485.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/1d39ec6ce18d9951684bfc30fdc356204b039485.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.7",
+      "group": "Base Game"
     },
     "EKKU_UNLEASHED": {
       "name": "Ekku Unleashed",
       "description": "Kill 1000 Enemies with Ekku",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/330fe8e240e12a1f821c740abc951a5e161dafd5.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/330fe8e240e12a1f821c740abc951a5e161dafd5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.5",
+      "group": "Base Game"
     },
     "VEKTA_NOVICE": {
       "name": "Vekta Novice",
       "description": "Kill 50 Enemies with Vekta ",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/ce3563cdb672adc95fa1db62c4fa427952ee4277.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/ce3563cdb672adc95fa1db62c4fa427952ee4277.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.5",
+      "group": "Base Game"
     },
     "VEKTA_EXPERT": {
       "name": "Vekta Expert",
       "description": "Kill 250 Enemies with Vekta ",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2b991546319936648ee495dc92a2bbb8ff16b54a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/2b991546319936648ee495dc92a2bbb8ff16b54a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.9",
+      "group": "Base Game"
     },
     "VEKTA_MASTER": {
       "name": "Vekta Master",
       "description": "Kill 500 Enemies with Vekta ",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3eed59da47c3870d846a6123b65a6f65a74c4e1a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/3eed59da47c3870d846a6123b65a6f65a74c4e1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.4",
+      "group": "Base Game"
     },
     "VEKTA_UNLEASHED": {
       "name": "Vekta Unleashed",
       "description": "Kill 1000 Enemies with Vekta ",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/bd08817f1f957aa3877d9af0c654ae9baf6127e1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/bd08817f1f957aa3877d9af0c654ae9baf6127e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.1",
+      "group": "Base Game"
     },
     "DIFFICULTY_1_KILL_SARU": {
       "name": "Saru I",
       "description": "Kill Saru on Beginner difficulty level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/36c55bfa12891b621053cc8617816ba7a16b7243.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/36c55bfa12891b621053cc8617816ba7a16b7243.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2",
+      "group": "Base Game"
     },
     "DIFFICULTY_2_KILL_SARU": {
       "name": "Saru II",
       "description": "Kill Saru on Regular difficulty level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/71193bdeea344db967e8c58b220f5494ee349e2e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/71193bdeea344db967e8c58b220f5494ee349e2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1",
+      "group": "Base Game"
     },
     "DIFFICULTY_3_KILL_SARU": {
       "name": "Saru III",
       "description": "Kill Saru on Advanced difficulty level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/dc74f5b9ddd65741eae4ec8c9fa1b3b6bbb27676.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/dc74f5b9ddd65741eae4ec8c9fa1b3b6bbb27676.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.9",
+      "group": "Base Game"
     },
     "DIFFICULTY_4_KILL_SARU": {
       "name": "Saru IV",
       "description": "Kill Saru on Expert difficulty level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/84b6c3252d6e354b5abc2d9d1de8f6cee269e7e2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/84b6c3252d6e354b5abc2d9d1de8f6cee269e7e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.4",
+      "group": "Base Game"
     },
     "DIFFICULTY_5_KILL_SARU": {
       "name": "Saru V",
       "description": "Kill Saru on Morbid difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/120978ac92ccc1ddaccf622fb79948e9b3d74edf.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/120978ac92ccc1ddaccf622fb79948e9b3d74edf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.2",
+      "group": "Base Game"
     },
     "DIFFICULTY_1_KILL_PROPHET": {
       "name": "Prophet I",
       "description": "Kill Prophet on Beginner difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/41e849eb5ff047fd6debb182bd68d0c151fb7464.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/41e849eb5ff047fd6debb182bd68d0c151fb7464.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8",
+      "group": "Base Game"
     },
     "DIFFICULTY_2_KILL_PROPHET": {
       "name": "Prophet II",
       "description": "Kill Prophet on Regular difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f6b3e843646a22d3f08e837a01591e033df6e91d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/f6b3e843646a22d3f08e837a01591e033df6e91d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4",
+      "group": "Base Game"
     },
     "DIFFICULTY_3_KILL_PROPHET": {
       "name": "Prophet III",
       "description": "Kill Prophet on Advanced difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/3ae66396b550dd8f000ccbec3d924223623cd4b1.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/3ae66396b550dd8f000ccbec3d924223623cd4b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.6",
+      "group": "Base Game"
     },
     "DIFFICULTY_4_KILL_PROPHET": {
       "name": "Prophet IV",
       "description": "Kill Prophet on Expert difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/2d58d94c0743c5603afc8396dac2ab338775fd24.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/2d58d94c0743c5603afc8396dac2ab338775fd24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.3",
+      "group": "Base Game"
     },
     "DIFFICULTY_5_KILL_PROPHET": {
       "name": "Prophet V",
       "description": "Kill Prophet on the Morbid difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b3bc3fcb32ca96839eadfaf5add21d399971cb55.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/b3bc3fcb32ca96839eadfaf5add21d399971cb55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.2",
+      "group": "Base Game"
     },
     "KAIZU_NOVICE": {
       "name": "Kaizu Novice",
       "description": "Kill 50 Enemies with Kaizu",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/b875bee4ec0fe54e469f52d3c210ecfc7c5000a2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/b875bee4ec0fe54e469f52d3c210ecfc7c5000a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.9"
+      "percent": "1.9",
+      "group": "Base Game"
     },
     "KAIZU_EXPERT": {
       "name": "Kaizu Expert",
       "description": "Kill 250 Enemies with Kaizu",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/f27a28ea591075f49822b9172d3890706996f926.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/f27a28ea591075f49822b9172d3890706996f926.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.6",
+      "group": "Base Game"
     },
     "KAIZU_MASTER": {
       "name": "Kaizu Master",
       "description": "Kill 500 Enemies with Kaizu",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/96b6c8609ddde873d0c9554d99e4e635f1875f13.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/96b6c8609ddde873d0c9554d99e4e635f1875f13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.2",
+      "group": "Base Game"
     },
     "KAIZU_UNLEASHED": {
       "name": "Kaizu Unleashed",
       "description": "Kill 1000 Enemies with Kaizu",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/877db5666347276f3d4e2462849307bda2baaacb.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/877db5666347276f3d4e2462849307bda2baaacb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.1",
+      "group": "Base Game"
     },
     "CHAR_UNLOCK_KAIZU": {
       "name": "Liberated",
       "description": "Unlock Kaizu",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/8254149ab00fca5d391e670684975b20c9a6a7c6.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/8254149ab00fca5d391e670684975b20c9a6a7c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1866130/45a98ccdf2584109b59b4b0066662edd4b2c4629.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4",
+      "group": "Base Game"
     }
   },
   "platform": null,

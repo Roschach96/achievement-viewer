@@ -6,74 +6,74 @@
     "UNTIL_NEXT_TIME": {
       "name": "Until Next Time",
       "description": "Complete The Dark Queen of Mortholme.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "87.4"
+      "percent": "87.4",
+      "group": "Base Game"
     },
     "PITIFUL": {
       "name": "Pitiful!",
       "description": "Slay the Hero once and for all?",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "98.3"
+      "percent": "98.3",
+      "group": "Base Game"
     },
     "OUT_OF_TRICKS": {
       "name": "Out of tricks?",
       "description": "Use all of the Queen's Attacks.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "89.5"
+      "percent": "89.5",
+      "group": "Base Game"
     },
     "OBELISK": {
       "name": "Obelisk",
       "description": "View the Credits.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "88.6"
+      "percent": "88.6",
+      "group": "Base Game"
     },
     "TRUE_FORM": {
       "name": "True Form",
       "description": "Transform the first time.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "93.2"
+      "percent": "93.2",
+      "group": "Base Game"
     },
     "PACIFISM": {
       "name": "Pacifism",
       "description": "Try a different perspective.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/16c15173930be6e8d6ae513310af8b172c031025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/f4f634480c6a64412b7dab5a5a888c3e942c7497.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.7",
+      "group": "Base Game"
     },
     "PERMANENCE": {
       "name": "The Permanence of Defeat",
       "description": "Your erratic, buglike behavior drove the Hero to quit for good.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.4",
+      "group": "Base Game"
     },
     "PEN_TO_PAPER": {
       "name": "Pen to Paper",
       "description": "View the most ghoulish concept art, by the Queen’s command.",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/b2b718ba28c35f385a8dc549514bc3c450961830.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3587610/58127423ff297cbcdf1f9fe56e633c899b931ae4.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8",
+      "group": "Base Game"
     }
   },
   "platform": null,

@@ -6,389 +6,389 @@
     "Id01": {
       "name": "Revenant Preeminent",
       "description": "Unlocked all other achievements",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/cbde8d6c1c0b0f5733dbdbf7028e8cbea742dd2e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/cbde8d6c1c0b0f5733dbdbf7028e8cbea742dd2e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/cbde8d6c1c0b0f5733dbdbf7028e8cbea742dd2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/cbde8d6c1c0b0f5733dbdbf7028e8cbea742dd2e.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.0",
+      "group": "Base Game"
     },
     "Id03": {
       "name": "Gift Gatherer",
       "description": "Learn 150 Gifts (excluding those learned when acquiring a blood code)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa9afd611d43e512b45d9613dd8b8a4a57283d83.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa9afd611d43e512b45d9613dd8b8a4a57283d83.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa9afd611d43e512b45d9613dd8b8a4a57283d83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa9afd611d43e512b45d9613dd8b8a4a57283d83.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.4",
+      "group": "Base Game"
     },
     "Id04": {
       "name": "Determiner of Fate",
       "description": "View every ending",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/51ce57ebc4be900e5d726058186acde4ce403a61.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/51ce57ebc4be900e5d726058186acde4ce403a61.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/51ce57ebc4be900e5d726058186acde4ce403a61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/51ce57ebc4be900e5d726058186acde4ce403a61.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.5",
+      "group": "Base Game"
     },
     "Id44": {
       "name": "Mender of Minds",
       "description": "Restore all Vestiges",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/0fa061cf0affcf1244c3848324542ca4fd24a6f7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/0fa061cf0affcf1244c3848324542ca4fd24a6f7.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/0fa061cf0affcf1244c3848324542ca4fd24a6f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/0fa061cf0affcf1244c3848324542ca4fd24a6f7.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.9",
+      "group": "Base Game"
     },
     "Id05": {
       "name": "Deep Trailblazer",
       "description": "Explore every part of the depths",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/08b5c4429d509d409b03c12089a7ff69b05d8ad0.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/08b5c4429d509d409b03c12089a7ff69b05d8ad0.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/08b5c4429d509d409b03c12089a7ff69b05d8ad0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/08b5c4429d509d409b03c12089a7ff69b05d8ad0.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.7",
+      "group": "Base Game"
     },
     "Id06": {
       "name": "Miasma Manager",
       "description": "Activate all mistles",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/2f248ba203c13b53ee5e5b41cc4d27f9176f4440.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/2f248ba203c13b53ee5e5b41cc4d27f9176f4440.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/2f248ba203c13b53ee5e5b41cc4d27f9176f4440.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/2f248ba203c13b53ee5e5b41cc4d27f9176f4440.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.5",
+      "group": "Base Game"
     },
     "Id07": {
       "name": "Together Until Oblivion",
       "description": "Listen to partner conversations 50 times while exploring",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/8209d5b875bc00d4deac1492ccb8e2ecb3c088ed.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/8209d5b875bc00d4deac1492ccb8e2ecb3c088ed.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/8209d5b875bc00d4deac1492ccb8e2ecb3c088ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/8209d5b875bc00d4deac1492ccb8e2ecb3c088ed.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "75.7"
+      "percent": "75.7",
+      "group": "Base Game"
     },
     "Id08": {
       "name": "Proven Devotion",
       "description": "Receive 30 presents from friends",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa7a319f8bc0ab11e79aadc47da360914b007985.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa7a319f8bc0ab11e79aadc47da360914b007985.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa7a319f8bc0ab11e79aadc47da360914b007985.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa7a319f8bc0ab11e79aadc47da360914b007985.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.7",
+      "group": "Base Game"
     },
     "Id09": {
       "name": "Exalted Reputation",
       "description": "Raise your reputation as a companion to rank 30",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/dcb1ce1ac1dbaf214633f06991045f7713892917.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/b111440c24980e9c8eec1dbe2e0d602775c2bf75.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/dcb1ce1ac1dbaf214633f06991045f7713892917.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/b111440c24980e9c8eec1dbe2e0d602775c2bf75.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.0",
+      "group": "Base Game"
     },
     "Id10": {
       "name": "Burning Spirit",
       "description": "Unlock the ability to inherit 50 Gifts",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/a6f4b67186a8a8c1c1d40fc08e5d61dee9458b2b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/d5e7f9ed58f5f51193365c41298718f0c0c975d7.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/a6f4b67186a8a8c1c1d40fc08e5d61dee9458b2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/d5e7f9ed58f5f51193365c41298718f0c0c975d7.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.0",
+      "group": "Base Game"
     },
     "Id11": {
       "name": "A Weapon for Every Season",
       "description": "Equip every weapon type",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ae29bdc6e140dda38ba5369d943e9b75b17f1d32.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ae29bdc6e140dda38ba5369d943e9b75b17f1d32.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ae29bdc6e140dda38ba5369d943e9b75b17f1d32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ae29bdc6e140dda38ba5369d943e9b75b17f1d32.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.8",
+      "group": "Base Game"
     },
     "Id12": {
       "name": "Revenant Requisites",
       "description": "Equip every Blood Veil type",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/d59448372a1f2219be25bfa12720205a6136189e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/71fcfafd8a245d3643385f0706e37aba70785a52.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/d59448372a1f2219be25bfa12720205a6136189e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/71fcfafd8a245d3643385f0706e37aba70785a52.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.0",
+      "group": "Base Game"
     },
     "Id13": {
       "name": "Weaver of Wills",
       "description": "Collect every blood code",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/d093d9df7c4869c07f0b765ec730927b29903d79.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/304d29b2080129e763e468cbb9f752551ef93b16.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/d093d9df7c4869c07f0b765ec730927b29903d79.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/304d29b2080129e763e468cbb9f752551ef93b16.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.5",
+      "group": "Base Game"
     },
     "Id14": {
       "name": "Gifted",
       "description": "Learn 50 Gifts (excluding those learned when acquiring a blood code)",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/b9d89caa8b0a077f5077ced7635233c3a58a30cc.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/b9d89caa8b0a077f5077ced7635233c3a58a30cc.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/b9d89caa8b0a077f5077ced7635233c3a58a30cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/b9d89caa8b0a077f5077ced7635233c3a58a30cc.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.7",
+      "group": "Base Game"
     },
     "Id15": {
       "name": "Ultimate Armament",
       "description": "Upgrade a weapon to its maximum level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/bd5c01ec4dee922ecffdf1aa61282f91dc07dc08.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/bd5c01ec4dee922ecffdf1aa61282f91dc07dc08.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/bd5c01ec4dee922ecffdf1aa61282f91dc07dc08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/bd5c01ec4dee922ecffdf1aa61282f91dc07dc08.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.0",
+      "group": "Base Game"
     },
     "Id16": {
       "name": "Unbreakable Veil",
       "description": "Upgrade a Blood Veil to its maximum level",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/76884fe945cf1488a69bc5b1f2cb545c95033218.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/76884fe945cf1488a69bc5b1f2cb545c95033218.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/76884fe945cf1488a69bc5b1f2cb545c95033218.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/76884fe945cf1488a69bc5b1f2cb545c95033218.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.7",
+      "group": "Base Game"
     },
     "Id38": {
       "name": "Io's Memories",
       "description": "View Io's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa68920af0c24599d8429bf430d1256ec5448dd4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/aa68920af0c24599d8429bf430d1256ec5448dd4.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa68920af0c24599d8429bf430d1256ec5448dd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/aa68920af0c24599d8429bf430d1256ec5448dd4.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.2",
+      "group": "Base Game"
     },
     "Id17": {
       "name": "Building Trust",
       "description": "Give a desired valuable to a friend",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/f26afce6744adeb49cd56fb1edf0caa620c7f752.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/f26afce6744adeb49cd56fb1edf0caa620c7f752.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/f26afce6744adeb49cd56fb1edf0caa620c7f752.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/f26afce6744adeb49cd56fb1edf0caa620c7f752.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.4",
+      "group": "Base Game"
     },
     "Id18": {
       "name": "Queen's Knight",
       "description": "Defeat the Queen's Knight within your memory",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/c6db412093135e30732ec78a2df7e8688c68b987.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/c6db412093135e30732ec78a2df7e8688c68b987.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/c6db412093135e30732ec78a2df7e8688c68b987.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/c6db412093135e30732ec78a2df7e8688c68b987.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.7",
+      "group": "Base Game"
     },
     "Id19": {
       "name": "Queen's Knight Reborn",
       "description": "Defeat the Queen's Knight Reborn in the provisional government outskirts",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/03db2b9979be6e3dd8aebe4b335d0aa7bbd97953.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/03db2b9979be6e3dd8aebe4b335d0aa7bbd97953.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/03db2b9979be6e3dd8aebe4b335d0aa7bbd97953.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/03db2b9979be6e3dd8aebe4b335d0aa7bbd97953.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.7",
+      "group": "Base Game"
     },
     "Id20": {
       "name": "Oliver Collins",
       "description": "Defeat Oliver Collins in the ruined city underground",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/456f197af028857b15c3c19ffda0c701f41ca967.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/456f197af028857b15c3c19ffda0c701f41ca967.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/456f197af028857b15c3c19ffda0c701f41ca967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/456f197af028857b15c3c19ffda0c701f41ca967.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4",
+      "group": "Base Game"
     },
     "Id21": {
       "name": "Insatiable Despot",
       "description": "Defeat the Insatiable Despot in the dried-up trenches",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ca61b5577172fd796b4eef73fbc63bcb48e66a12.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ca61b5577172fd796b4eef73fbc63bcb48e66a12.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ca61b5577172fd796b4eef73fbc63bcb48e66a12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ca61b5577172fd796b4eef73fbc63bcb48e66a12.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.2",
+      "group": "Base Game"
     },
     "Id22": {
       "name": "Butterfly of Delirium",
       "description": "Defeat the Butterfly of Delirium in the ruined city center",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/179898a067f18930d876029ccc60ee0a05c717d2.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/179898a067f18930d876029ccc60ee0a05c717d2.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/179898a067f18930d876029ccc60ee0a05c717d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/179898a067f18930d876029ccc60ee0a05c717d2.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.7",
+      "group": "Base Game"
     },
     "Id23": {
       "name": "Invading Executioner",
       "description": "Defeat the Invading Executioner in the Howling Pit",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/72f8cd16a4f1127fd5f7a13fb219d43186b5192b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/72f8cd16a4f1127fd5f7a13fb219d43186b5192b.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/72f8cd16a4f1127fd5f7a13fb219d43186b5192b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/72f8cd16a4f1127fd5f7a13fb219d43186b5192b.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.6",
+      "group": "Base Game"
     },
     "Id24": {
       "name": "Successor of the Ribcage",
       "description": "Defeat the Successor of the Ribcage in the Cathedral of the Sacred Blood",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/619bb2e9e46d2d559713596aeb8f45d8e0dbf34c.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/619bb2e9e46d2d559713596aeb8f45d8e0dbf34c.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/619bb2e9e46d2d559713596aeb8f45d8e0dbf34c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/619bb2e9e46d2d559713596aeb8f45d8e0dbf34c.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.4",
+      "group": "Base Game"
     },
     "Id25": {
       "name": "Successor of the Breath",
       "description": "Defeat the Successor of the Breath in the Ridge of Frozen Souls",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/8ea3a6d26564ed42129a5d2297c9dff54fdba820.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/8ea3a6d26564ed42129a5d2297c9dff54fdba820.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/8ea3a6d26564ed42129a5d2297c9dff54fdba820.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/8ea3a6d26564ed42129a5d2297c9dff54fdba820.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.6",
+      "group": "Base Game"
     },
     "Id26": {
       "name": "Gilded Hunter",
       "description": "Defeat the Gilded Hunter in the Ashen Cavern",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/afe828dcb309c3ccc384b92864230be6ca4051c7.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/afe828dcb309c3ccc384b92864230be6ca4051c7.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/afe828dcb309c3ccc384b92864230be6ca4051c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/afe828dcb309c3ccc384b92864230be6ca4051c7.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.5",
+      "group": "Base Game"
     },
     "Id27": {
       "name": "Successor of the Claw",
       "description": "Defeat the Successor of the Claw in the City of Falling Flame",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7e2ca4576a9edb8115f7c37891d332c044676ded.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7e2ca4576a9edb8115f7c37891d332c044676ded.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7e2ca4576a9edb8115f7c37891d332c044676ded.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7e2ca4576a9edb8115f7c37891d332c044676ded.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.4",
+      "group": "Base Game"
     },
     "Id28": {
       "name": "Successor of the Throat",
       "description": "Defeat the Successor of the Throat in the Crown of Sand",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ad9980fd53cbd9934e915c738b2ca39e54e1dd41.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ad9980fd53cbd9934e915c738b2ca39e54e1dd41.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ad9980fd53cbd9934e915c738b2ca39e54e1dd41.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ad9980fd53cbd9934e915c738b2ca39e54e1dd41.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.9",
+      "group": "Base Game"
     },
     "Id29": {
       "name": "Blade Bearer and Cannoneer",
       "description": "Defeat the Blade Bearer and Cannoneer in the Crypt Spire",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7dca5b58ec6a7ea12fd61bf07f6e6ad67f3e1394.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7dca5b58ec6a7ea12fd61bf07f6e6ad67f3e1394.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7dca5b58ec6a7ea12fd61bf07f6e6ad67f3e1394.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7dca5b58ec6a7ea12fd61bf07f6e6ad67f3e1394.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.2",
+      "group": "Base Game"
     },
     "Id47": {
       "name": "Juzo Mido",
       "description": "Defeat the boss of the Crypt Spire, Juzo Mido",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/e91c8bace27aa2e06b348bc00ffa1e2543057eb3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/e91c8bace27aa2e06b348bc00ffa1e2543057eb3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/e91c8bace27aa2e06b348bc00ffa1e2543057eb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/e91c8bace27aa2e06b348bc00ffa1e2543057eb3.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.7",
+      "group": "Base Game"
     },
     "Id30": {
       "name": "Skull King",
       "description": "Defeat the Skull King in the Gaol of the Stagnant Blood",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/38771203f6e87159748fb0312177d0a2b102e77a.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/38771203f6e87159748fb0312177d0a2b102e77a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/38771203f6e87159748fb0312177d0a2b102e77a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/38771203f6e87159748fb0312177d0a2b102e77a.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.2",
+      "group": "Base Game"
     },
     "Id32": {
       "name": "Louis's Memories",
       "description": "View Louis's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7b0c4bfbdd7b50eeb758ef0ecfda87578dff2946.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7b0c4bfbdd7b50eeb758ef0ecfda87578dff2946.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7b0c4bfbdd7b50eeb758ef0ecfda87578dff2946.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7b0c4bfbdd7b50eeb758ef0ecfda87578dff2946.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.0",
+      "group": "Base Game"
     },
     "Id33": {
       "name": "Yakumo's Memories",
       "description": "View Yakumo's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/fb6acfaa39152dcf44b4c1c755099b85715b6149.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/fb6acfaa39152dcf44b4c1c755099b85715b6149.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/fb6acfaa39152dcf44b4c1c755099b85715b6149.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/fb6acfaa39152dcf44b4c1c755099b85715b6149.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.5",
+      "group": "Base Game"
     },
     "Id34": {
       "name": "Murasame's Memories",
       "description": "View Murasame's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/325de353f673da2d77352a280834e13814f30976.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/325de353f673da2d77352a280834e13814f30976.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/325de353f673da2d77352a280834e13814f30976.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/325de353f673da2d77352a280834e13814f30976.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.9",
+      "group": "Base Game"
     },
     "Id35": {
       "name": "Coco's Memories",
       "description": "View Coco's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/33aff6b7ccf7bcbd942992522072898c459d7a86.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/33aff6b7ccf7bcbd942992522072898c459d7a86.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/33aff6b7ccf7bcbd942992522072898c459d7a86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/33aff6b7ccf7bcbd942992522072898c459d7a86.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.1",
+      "group": "Base Game"
     },
     "Id36": {
       "name": "Davis's Memories",
       "description": "View Davis's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/29b0c6204c6b64a3ecb66e32fae2d06ae11a8ddf.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/29b0c6204c6b64a3ecb66e32fae2d06ae11a8ddf.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/29b0c6204c6b64a3ecb66e32fae2d06ae11a8ddf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/29b0c6204c6b64a3ecb66e32fae2d06ae11a8ddf.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.5",
+      "group": "Base Game"
     },
     "Id37": {
       "name": "Mia's Memories",
       "description": "View Mia's memory echoes",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7a923b7a0cb865ce0a6e29c8e1417a96a01cc85d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/7a923b7a0cb865ce0a6e29c8e1417a96a01cc85d.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7a923b7a0cb865ce0a6e29c8e1417a96a01cc85d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/7a923b7a0cb865ce0a6e29c8e1417a96a01cc85d.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.8",
+      "group": "Base Game"
     },
     "Id39": {
       "name": "Drink Deep",
       "description": "Successfully use a special drain from a parry, back attack, or launch attack",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/6c26f858d87085b856d8fdec2bf49650d7cc4ba3.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/6c26f858d87085b856d8fdec2bf49650d7cc4ba3.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/6c26f858d87085b856d8fdec2bf49650d7cc4ba3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/6c26f858d87085b856d8fdec2bf49650d7cc4ba3.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "85.1"
+      "percent": "85.1",
+      "group": "Base Game"
     },
     "Id40": {
       "name": "Heirs",
       "description": "View the \"Heirs\" ending",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/774938a40e662512a9d105802536f1f69d2ba466.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/774938a40e662512a9d105802536f1f69d2ba466.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/774938a40e662512a9d105802536f1f69d2ba466.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/774938a40e662512a9d105802536f1f69d2ba466.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.8",
+      "group": "Base Game"
     },
     "Id41": {
       "name": "To Eternity",
       "description": "View the \"To Eternity\" ending",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ff6d1938a1fb88b5910943d88527d01378259057.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/ff6d1938a1fb88b5910943d88527d01378259057.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ff6d1938a1fb88b5910943d88527d01378259057.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/ff6d1938a1fb88b5910943d88527d01378259057.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.8",
+      "group": "Base Game"
     },
     "Id42": {
       "name": "Dweller in the Dark",
       "description": "View the \"Dweller in the Dark\" ending",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/13944c440cd67eaa33ed95a71b72732596725f3e.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/13944c440cd67eaa33ed95a71b72732596725f3e.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/13944c440cd67eaa33ed95a71b72732596725f3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/13944c440cd67eaa33ed95a71b72732596725f3e.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.6",
+      "group": "Base Game"
     },
     "Id43": {
       "name": "Resonant Power",
       "description": "Execute a Communal Gift",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/d4d11e12e0e5180b9cb0ed598e1a88034e18c20b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/678960/d4d11e12e0e5180b9cb0ed598e1a88034e18c20b.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/d4d11e12e0e5180b9cb0ed598e1a88034e18c20b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/678960/d4d11e12e0e5180b9cb0ed598e1a88034e18c20b.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.3",
+      "group": "Base Game"
     }
   },
   "platform": null,
