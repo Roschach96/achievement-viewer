@@ -352,8 +352,15 @@ def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
         return {}
 
 
-def fetch_hidden_from_player_service(appid):
-    """IPlayerService/GetGameAchievements returns descriptions for hidden achievements too (no profile needed)."""
+_PLAYER_SERVICE_CACHE = {}
+
+
+def get_player_service_data(appid):
+    """IPlayerService/GetGameAchievements: full achievement list incl. hidden descriptions, icons,
+    percentages and groups. No API key needed. Cached per AppID."""
+    if appid in _PLAYER_SERVICE_CACHE:
+        return _PLAYER_SERVICE_CACHE[appid]
+    data = {}
     try:
         r = requests.get(
             "https://api.steampowered.com/IPlayerService/GetGameAchievements/v1/",
@@ -361,20 +368,35 @@ def fetch_hidden_from_player_service(appid):
             headers=SCRAPE_HEADERS,
             timeout=15,
         )
-        if not r.ok:
-            print(f"    ✗ PlayerService returned status {r.status_code}")
-            return {}
-        result = {}
-        for a in r.json().get("response", {}).get("achievements", []):
-            api_name = a.get("internal_name")
-            desc = (a.get("localized_desc") or "").strip()
-            if api_name and desc:
-                result[api_name] = desc
-        print(f"    → PlayerService gave {len(result)} descriptions")
-        return result
+        if r.ok:
+            data = r.json().get("response", {}) or {}
+            print(f"  ✓ PlayerService: {len(data.get('achievements', []))} achievements")
+        else:
+            print(f"  ⚠ PlayerService returned status {r.status_code}")
     except Exception as e:
-        print(f"    ✗ PlayerService error: {e}")
-        return {}
+        print(f"  ⚠ PlayerService error: {e}")
+    _PLAYER_SERVICE_CACHE[appid] = data
+    return data
+
+
+def player_service_group_names(ps_data):
+    names = {}
+    for g in ps_data.get("groups", []):
+        gid = g.get("groupid", 0)
+        if gid == 0 and not g.get("dlcappid"):
+            names[gid] = "Base Game"
+        else:
+            names[gid] = g.get("localized_name") or (f"DLC {g['dlcappid']}" if g.get("dlcappid") else f"Update {gid}")
+    return names
+
+
+def fetch_hidden_from_player_service(appid):
+    result = {}
+    for a in get_player_service_data(appid).get("achievements", []):
+        desc = (a.get("localized_desc") or "").strip()
+        if a.get("internal_name") and desc:
+            result[a["internal_name"]] = desc
+    return result
 
 
 def fetch_steam_store_info(appid):
@@ -425,38 +447,52 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     achievement_names_map = {}
     achievements_info = {}
 
-    # ALWAYS fetch from SteamHunters to get Group Data (if possible)
-    # Even if we have an API key, the API key doesn't give us Groups/DLCs
-    sh_data = []
+    # 1. Primary source: IPlayerService/GetGameAchievements (no key, includes hidden descriptions + groups)
+    ps_data = get_player_service_data(appid)
+    ps_groups = player_service_group_names(ps_data)
+    ps_achievements = []
     steamhunters_data = {}
-    try:
-        print("  → Fetching extra data (groups) from SteamHunters...")
-        sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
-        for item in sh_data:
-            steamhunters_data[item["name"]] = item
-    except Exception as e:
-        print(f"  ⚠ Could not fetch SteamHunters data: {e}")
+    for a in ps_data.get("achievements", []):
+        if not a.get("internal_name"):
+            continue
+        ps_achievements.append({
+            "name": a["internal_name"],
+            "displayName": a.get("localized_name") or a["internal_name"],
+            "description": a.get("localized_desc", ""),
+            "icon": re.sub(r"\.jpg$", "", a.get("icon", "")),
+            "icongray": re.sub(r"\.jpg$", "", a.get("icon_gray", "")),
+            "hidden": 1 if a.get("hidden") else 0,
+            "percent": a.get("player_percent_unlocked"),
+        })
+        steamhunters_data[a["internal_name"]] = {"group": ps_groups.get(a.get("groupid", 0), "Base Game")}
 
     try:
-        # 1. Prefer Steam API if Key exists
-        if STEAM_API_KEY:
-            response = requests.get(
-                f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
-                timeout=10,
-            )
-            if response.ok:
-                achievements = (
-                    response.json()
-                    .get("game", {})
-                    .get("availableGameStats", {})
-                    .get("achievements", [])
-                )
-            else:
-                # Fallback to SH data if API fails
-                achievements = sh_data
+        if ps_achievements:
+            achievements = ps_achievements
         else:
-            # No API Key -> Use SteamHunters data
+            # 2. Fallbacks: SteamHunters (groups) + GetSchemaForGame (needs key)
+            sh_data = []
+            try:
+                print("  → Fetching extra data (groups) from SteamHunters...")
+                sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
+                for item in sh_data:
+                    steamhunters_data[item["name"]] = item
+            except Exception as e:
+                print(f"  ⚠ Could not fetch SteamHunters data: {e}")
+
             achievements = sh_data
+            if STEAM_API_KEY:
+                response = requests.get(
+                    f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
+                    timeout=10,
+                )
+                if response.ok:
+                    achievements = (
+                        response.json()
+                        .get("game", {})
+                        .get("availableGameStats", {})
+                        .get("achievements", [])
+                    ) or sh_data
 
         if not achievements and achievements_from_xml:
             print("  → Falling back to community XML achievements")
@@ -505,6 +541,11 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 "icongray": ach.get("icongray", ""),
                 "hidden": is_hidden,
             }
+            if ach.get("percent") not in (None, ""):
+                try:
+                    achievements_info[api_name]["percent"] = float(ach["percent"])
+                except (TypeError, ValueError):
+                    pass
 
             # Merge XML data if exists (often better descriptions)
             if api_name in achievements_from_xml:
