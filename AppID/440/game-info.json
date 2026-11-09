@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_multiplegames_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "TF_GET_MULTIPLEKILLS": {
       "name": "Hardcore",
@@ -3043,7 +3043,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/956c92f32263fcec910a64964b99023b3b8e58d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "TF_ENGINEER_UPGRADE_BUILDINGS": {
       "name": "Silent Pardner",
@@ -3223,7 +3223,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0f155f86efbb2470901d50fcb07603a9ac693b35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "TF_ENGINEER_BUILDING_CARRY": {
       "name": "Texas Ranger",
@@ -3385,7 +3385,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4afc3614c5c5834791d1a3b5bd88fd8a7340e894.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "TF_REPLAY_YOUTUBE_VIEWS_HIGHEST": {
       "name": "Blockbuster",
@@ -3439,7 +3439,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY": {
       "name": "Cap Trap",
@@ -3952,7 +3952,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_soldier_buff_team_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "TF_MVM_HEAVY_RAGE_PUSH_DEPLOYING_ROBOT": {
       "name": "Heavy Mettle",
