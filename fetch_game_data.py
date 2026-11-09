@@ -16,6 +16,11 @@ STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
 
+# Manual overrides (workflow_dispatch inputs)
+ONLY_APPIDS = [a for a in re.split(r"[\s,]+", os.environ.get("ONLY_APPIDS", "")) if a.isdigit()]
+CUSTOM_STEAM_IDS = [int(x) for x in re.split(r"[\s,]+", os.environ.get("CUSTOM_STEAM_IDS", "")) if x.isdigit()]
+FORCE_HIDDEN = os.environ.get("FORCE_HIDDEN", "").lower() in ("1", "true", "yes")
+
 # NEW: Detect GitHub Pages URL for fallback icon
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # Format: "owner/repo"
 if GITHUB_REPOSITORY:
@@ -171,7 +176,9 @@ def load_top_owner_ids():
         return DEFAULT_OWNERS
 
 
-TOP_OWNER_IDS = load_top_owner_ids()
+TOP_OWNER_IDS = CUSTOM_STEAM_IDS or load_top_owner_ids()
+if CUSTOM_STEAM_IDS:
+    print(f"Using {len(CUSTOM_STEAM_IDS)} custom SteamID(s) for hidden achievement scraping")
 
 
 def get_changed_appids():
@@ -468,8 +475,8 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
             else:
                 achievements_info[api_name]["group"] = "Base Game"
 
-            # Fallback for description from existing file
-            if not achievements_info[api_name]["description"]:
+            # Fallback for description from existing file (skipped for hidden ones when forcing a recheck)
+            if not achievements_info[api_name]["description"] and not (FORCE_HIDDEN and is_hidden):
                 old_desc = (
                     existing_info.get("achievements", {})
                     .get(api_name, {})
@@ -489,8 +496,12 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
 # --- Determine AppIDs to process --- #
 
+if ONLY_APPIDS:
+    appids = [a for a in ONLY_APPIDS if (appid_dir / a).is_dir()]
+    print(f"Processing selected game(s): {', '.join(appids) or 'none found'}")
+
 # FIXED: Process all games ONLY for scheduled runs or explicit manual trigger
-if EVENT_NAME == "schedule" or (EVENT_NAME == "workflow_dispatch" and TRIGGER_SOURCE == "manual"):
+elif EVENT_NAME == "schedule" or (EVENT_NAME == "workflow_dispatch" and TRIGGER_SOURCE == "manual"):
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
     print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger with source: {TRIGGER_SOURCE or 'scheduled'})")
 
@@ -672,6 +683,14 @@ for appid in appids:
             old_percent = existing_info.get("achievements", {}).get(api_name, {}).get("percent")
             if old_percent is not None and "percent" not in game_info["achievements"][api_name]:
                 game_info["achievements"][api_name]["percent"] = old_percent
+
+    # Forced recheck: keep old descriptions for anything the scrape didn't find
+    if FORCE_HIDDEN:
+        for api in hidden_achievements:
+            if not game_info["achievements"][api]["description"]:
+                old = existing_info.get("achievements", {}).get(api, {}).get("description", "")
+                if old:
+                    game_info["achievements"][api]["description"] = old
 
     missing_file_path = base_path / "missing hidden achievements"
     still_missing_api_names = [

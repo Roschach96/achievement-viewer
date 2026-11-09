@@ -15,6 +15,21 @@ on:
         required: false
         type: string
         default: 'manual'
+      appids:
+        description: 'Only these AppIDs (comma/space separated, empty = normal behavior)'
+        required: false
+        type: string
+        default: ''
+      steam_ids:
+        description: 'Scrape hidden achievements only from these SteamID64s (empty = top owners)'
+        required: false
+        type: string
+        default: ''
+      force_hidden:
+        description: 'Re-scrape hidden achievement descriptions even if already known'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -61,6 +76,9 @@ jobs:
           GITHUB_BEFORE: ${{ github.event.before }}
           # Use the trigger_source input, defaulting based on event type
           TRIGGER_SOURCE: ${{ inputs.trigger_source }}
+          ONLY_APPIDS: ${{ inputs.appids }}
+          CUSTOM_STEAM_IDS: ${{ inputs.steam_ids }}
+          FORCE_HIDDEN: ${{ inputs.force_hidden }}
         run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
