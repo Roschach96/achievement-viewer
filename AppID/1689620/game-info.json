@@ -72,7 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/bc99cc2f7700f23f69cd45c8ac640810629c3df0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/3ea2f12f2d280382119f83da706862a4cadce752.jpg",
       "hidden": true,
-      "percent": "48.2",
+      "percent": "48.1",
       "group": "Base Game"
     },
     "TROP008": {
@@ -90,7 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/0c26e9fdb17d7877d3461317139b4e730b92c97e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/663dc1f74564acbebc7997f78655ccf2430b0eb1.jpg",
       "hidden": true,
-      "percent": "19.7",
+      "percent": "19.6",
       "group": "Base Game"
     },
     "TROP010": {
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/fce2ba0abae61686ade34874996a1619bc7aac55.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/d567dda141b6bce2cde754a2d22e25c7246dc184.jpg",
       "hidden": false,
-      "percent": "66.2",
+      "percent": "66.1",
       "group": "Base Game"
     },
     "TROP017": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/95d40924613b2628585ba23b1f672715725026a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/64786fc46cb923e115d43be9121705e6ce35765e.jpg",
       "hidden": false,
-      "percent": "38.9",
+      "percent": "38.8",
       "group": "Base Game"
     },
     "TROP018": {
@@ -234,7 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/044bd38aba64e20d3db4c1a1ba33705a7e93c521.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/dbd17f7da738e2bfbda74c1853b69f59e40ce591.jpg",
       "hidden": false,
-      "percent": "6.6",
+      "percent": "6.5",
       "group": "Base Game"
     },
     "TROP026": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/1d07fdead8ffdaaf0fc9a7e557ac0b707a63dea7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/a094d5e59caac4ece6b308a6dde7fc5f1d62053b.jpg",
       "hidden": true,
-      "percent": "6.8",
+      "percent": "6.7",
       "group": "Base Game"
     },
     "TROP032": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/366f8dff6dc47d405631373632de10a7fca17d15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/6a5ab0a181aef52bab6ffac3bcd5ebe50b5e0f03.jpg",
       "hidden": true,
-      "percent": "15.5",
+      "percent": "15.4",
       "group": "Base Game"
     },
     "TROP034": {
