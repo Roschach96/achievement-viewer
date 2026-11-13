@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4678ce6c9220e8d5492ef5f56b77ce3d11af03af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a2d168b05fd1a1e08cf28395ecbe3d6f75ad63a2.jpg",
       "hidden": false,
-      "percent": "55.0",
+      "percent": "54.9",
       "group": "Base Game"
     },
     "ACH_DRAWINGUSEGREEN": {
@@ -189,7 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/4422efa0c683a7d7d2cb73fe608cdc4c1fbe0e2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a79e4dd52e82c62c25f03f956199618f31d27d33.jpg",
       "hidden": false,
-      "percent": "36.6",
+      "percent": "36.5",
       "group": "Base Game"
     },
     "ACH_DUSTINBLUEPRINTALL": {
@@ -252,7 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/45090ae55412b88a05bb73f8a6428df9401fa89e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/aae8236ce7b0be378d6a1e2fa2a10a72e22a15c2.jpg",
       "hidden": true,
-      "percent": "26.5",
+      "percent": "26.4",
       "group": "Base Game"
     },
     "ACH_MELONSLICE": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/994c9b855d62ac325b9a053e0ff310aa03ea75ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1382070/a5aff2e0b2c638d969eff5847594e176f7724103.jpg",
       "hidden": true,
-      "percent": "35.3",
+      "percent": "35.2",
       "group": "Base Game"
     },
     "ACH_PROG_HUB1POSTCRASH": {

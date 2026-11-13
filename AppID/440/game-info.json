@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime_bw.jpg",
       "hidden": false,
-      "percent": "28.3",
+      "percent": "28.2",
       "group": "Base Game"
     },
     "TF_GET_TURRETKILLS": {
@@ -1638,7 +1638,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7415f1243460a47915e31602868cc695acbf918a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a32d9810f95dbf1bb455f7a7a514ee8efadb34dd.jpg",
       "hidden": false,
-      "percent": "18.4",
+      "percent": "18.3",
       "group": "Sniper"
     },
     "TF_SNIPER_KILL_SPIES_MELEE": {
@@ -3204,7 +3204,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/b8d760821a67177ef3c1a2eb59b6b6e2eacfcee1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6b4f426f5c3cefba36d5c879e8d56f4d58bfa3bd.jpg",
       "hidden": false,
-      "percent": "7.3",
+      "percent": "7.2",
       "group": "Engineer"
     },
     "TF_ENGINEER_KILL_SENTRY_WITH_SENTRY": {
@@ -3591,7 +3591,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5ae59c44ed394c431a1c76447fa43d7e697335e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/66950fd64b54db5c9ff762b2b0377f00e30322df.jpg",
       "hidden": false,
-      "percent": "6.3",
+      "percent": "6.2",
       "group": "Doomsday"
     },
     "TF_MAPS_DOOMSDAY_KILL_ENEMIES_ON_ELEVATOR": {
@@ -3753,7 +3753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_play_game_friends.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_mvm_play_game_friends_bw.jpg",
       "hidden": false,
-      "percent": "5.8",
+      "percent": "5.7",
       "group": "Mann vs. Machine"
     },
     "TF_MVM_PLAY_EACH_CLASS": {

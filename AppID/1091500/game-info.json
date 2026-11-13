@@ -1,7 +1,7 @@
 {
   "appid": "1091500",
   "name": "Cyberpunk 2077",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
   "achievements": {
     "TheFool": {
       "name": "The Fool",
@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
-      "percent": "50.3",
+      "percent": "50.4",
       "group": "Base Game"
     },
     "TheWheelOfFortune": {
@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "53.7",
+      "percent": "53.8",
       "group": "Base Game"
     },
     "TheHightPriestess": {
@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "45.1",
+      "percent": "45.2",
       "group": "Base Game"
     },
     "TheWorld": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "39.8",
+      "percent": "39.9",
       "group": "Base Game"
     },
     "BushidoAndChill": {
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "43.1",
+      "percent": "43.2",
       "group": "Base Game"
     },
     "GunKata": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "31.3",
+      "percent": "31.4",
       "group": "Base Game"
     },
     "NotTheMobile": {
@@ -315,7 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "5.9",
+      "percent": "6.0",
       "group": "Base Game"
     },
     "MaxPain": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "26.7",
+      "percent": "26.8",
       "group": "Base Game"
     },
     "MustBeTheRats": {
@@ -414,7 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
-      "percent": "5.8",
+      "percent": "5.9",
       "group": "Base Game"
     },
     "KingOfTheWands": {

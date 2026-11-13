@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
       "hidden": true,
-      "percent": "50.1",
+      "percent": "50.2",
       "group": "Base Game"
     },
     "BG3_Quest03": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/1b13d21263e349b19a82788b63fed05e5b3c5877.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/30544be3da4df4a803371dfee3bf211abae8f5a5.jpg",
       "hidden": false,
-      "percent": "23.3",
+      "percent": "23.4",
       "group": "Base Game"
     },
     "BG3_Quest35": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/dadbc866606e4b4464fcdbf6684e3f2ec207ad73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fc9dba1e459a3b8596ab348856ccd2d7ce1c3ed7.jpg",
       "hidden": true,
-      "percent": "31.9",
+      "percent": "32.0",
       "group": "Base Game"
     },
     "BG3_Quest37": {
@@ -486,7 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/cfa3488b4ac501d846b14948b801c93c361a98fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0812cb6a6b9da0a844295409c1baaef2e0a69c4d.jpg",
       "hidden": false,
-      "percent": "3.2",
+      "percent": "3.3",
       "group": "Base Game"
     }
   },
