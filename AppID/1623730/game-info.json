@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/b956caa29cdb30af1de837ecedbdb50862c2fb4a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3c1563349e7b1e2d8cc4208e6b23cd00c5a4b88c.jpg",
       "hidden": true,
-      "percent": "40.1",
+      "percent": "40.0",
       "group": "Base Game"
     },
     "Pal_Achievement_5": {
@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3abe0bc18025dbf8966cb5af540ed6509fb074a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ac497d2d8ed411d64a02254a16d376a909de19f1.jpg",
       "hidden": true,
-      "percent": "31.9",
+      "percent": "31.8",
       "group": "Base Game"
     },
     "Pal_Achievement_6": {
@@ -108,7 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/66566da70126c0a73d7f455f5f38dd8cd4a750a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ef30ec1e49365e5b551ca7cc78dc0bad01fd3031.jpg",
       "hidden": true,
-      "percent": "17.3",
+      "percent": "17.2",
       "group": "Base Game"
     },
     "Pal_Achievement_13": {
@@ -207,7 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/873ec45f3affc1bb5700a9f832e96b7a3352aa0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/21bc52a62bf88b0e71a8eefbd15534a3f7d1d1f7.jpg",
       "hidden": false,
-      "percent": "10.9",
+      "percent": "10.8",
       "group": "Base Game"
     },
     "Pal_Achievement_24": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ff0e4e799f67a6a1479a65a8b60d372ba6826a2a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/941eaafaac56d4416e3c03a05cfcb98aadf8dd27.jpg",
       "hidden": true,
-      "percent": "20.6",
+      "percent": "20.5",
       "group": "Base Game"
     },
     "Pal_Achievement_33": {
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/209915e2f842a1f48fe5654e7d4cc7e8bffa8fc2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/0b8c663df26e72607e7e99b517c42b0e3cba8836.jpg",
       "hidden": true,
-      "percent": "8.7",
+      "percent": "8.6",
       "group": "Base Game"
     },
     "Pal_Achievement_34": {
@@ -351,7 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/cce1483775210983e39dea97c8fd5785d098cfaa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/4124fff11c2a8d6bce6cb85a856ca294b3795a72.jpg",
       "hidden": false,
-      "percent": "16.8",
+      "percent": "16.7",
       "group": "Base Game"
     },
     "Pal_Achievement_40": {
@@ -360,7 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/c07c2a3d2f54e4a2b20f71db62bc733d375a26fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/982ef0d29bf5edaca781e3b94f751c39e625edb8.jpg",
       "hidden": false,
-      "percent": "44.8",
+      "percent": "44.7",
       "group": "Base Game"
     },
     "Pal_Achievement_41": {
@@ -549,7 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/8a6eae2575320db469db597185d0ec807f620342.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/bd45ee93349b08150b143f2391aeb5940baa18f3.jpg",
       "hidden": false,
-      "percent": "1.6",
+      "percent": "1.5",
       "group": "Base Game"
     },
     "Pal_Achievement_62": {
@@ -657,7 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/35e90d22fd0c2bf27f8c6f97ab153404190e0e05.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/a590fa4873c1645e9ee19c2f7bfc2e9c958dfb72.jpg",
       "hidden": true,
-      "percent": "15.7",
+      "percent": "15.6",
       "group": "Base Game"
     },
     "Pal_Achievement_74": {
@@ -666,7 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/4fdae6f7bfdc6bf912aa5d72eb133ca75fd666a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/75b5b2a31b0d8ae26bba6013c1cc96080c31c71e.jpg",
       "hidden": false,
-      "percent": "15.5",
+      "percent": "15.4",
       "group": "Base Game"
     },
     "Pal_Achievement_75": {
