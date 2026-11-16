@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/275969ea33d640798a9ef7be531593352cde91a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "0.6",
+      "percent": "0.7",
       "group": "Base Game"
     },
     "ACHIEVEMENT_01": {
@@ -90,7 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/95f39b4146f4044832af67bcfcac9d9bc4f88239.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "45.5",
+      "percent": "45.6",
       "group": "Base Game"
     },
     "ACHIEVEMENT_10": {
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/a3d12871aa867e61211667827352937d1ebbe179.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "31.2",
+      "percent": "31.3",
       "group": "Base Game"
     },
     "ACHIEVEMENT_17": {
@@ -252,7 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/08475feb2bedcb4144376e66784598cc551ff862.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "96.4",
+      "percent": "96.3",
       "group": "Base Game"
     },
     "ACHIEVEMENT_28": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/092d78c4613c44f092fd75d2b418525dc6386561.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "87.4",
+      "percent": "87.5",
       "group": "Base Game"
     },
     "ACHIEVEMENT_34": {

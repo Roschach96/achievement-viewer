@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/416d55bbe2174889dd4631c50f7225f29ba6e11b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
-      "percent": "26.1",
+      "percent": "26.2",
       "group": "Base Game"
     },
     "BetterThanOne": {
@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/60b9227d5ced577c731dde560f6fcede93a9c4f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
-      "percent": "56.2",
+      "percent": "56.3",
       "group": "Base Game"
     },
     "CounterGravityTraversal": {
@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/d4c7f999731bdc598980629703f314de85c02859.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
-      "percent": "48.1",
+      "percent": "48.2",
       "group": "Base Game"
     },
     "DreamOfElectricSheep": {
@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/69a3c96ad481e096725ab4a19716b19239716ac0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
-      "percent": "41.1",
+      "percent": "41.2",
       "group": "Base Game"
     },
     "DontLetThemMerge": {
@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/ed82e08950f99f75a666b967da7452c6063d9fad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
-      "percent": "56.8",
+      "percent": "56.9",
       "group": "Base Game"
     },
     "DownWithTheSickness": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8253acd4e5123bcfa043b8aa5921eadbdc88c0af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": false,
-      "percent": "48.8",
+      "percent": "48.9",
       "group": "Base Game"
     },
     "EssenceAquired": {
@@ -117,7 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/6d7e8489f12da3eb1cc86a81adebee07a53789ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
-      "percent": "5.5",
+      "percent": "5.6",
       "group": "Base Game"
     },
     "HitLikeATrain": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/efcba75b4b31cfd40c4abb76d92ec84a674a5fca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aad82e79edc717232c2215cf799d9ad0eea7ba6d.jpg",
       "hidden": true,
-      "percent": "40.4",
+      "percent": "40.5",
       "group": "Base Game"
     },
     "IAmFree": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/09e97b69503dec4506667c6c9f2f1dd600bff633.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "55.2",
+      "percent": "55.3",
       "group": "Base Game"
     },
     "PunksNotDead": {
@@ -279,7 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/2f176d5ae2b185757ee32f65b00da2e046564f30.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "58.3",
+      "percent": "58.4",
       "group": "Base Game"
     },
     "TheBiggerTheyAre": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/98ac3ad950883d48cb7b97e27819512d667448c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "47.4",
+      "percent": "47.5",
       "group": "Base Game"
     },
     "TheBoonOfTheRelics": {
@@ -315,7 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8cc091cb4bd44140ce1484d0516941a24e9c1994.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
-      "percent": "42.1",
+      "percent": "42.2",
       "group": "Base Game"
     },
     "TheOrthodox": {
@@ -360,7 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/aedeadaaf48ae10fc2aece9cac94931778fe9fc4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "38.3",
+      "percent": "38.4",
       "group": "Base Game"
     },
     "ToBringThemBack": {
@@ -378,7 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8e2626dc41906443124b835e184abd7c91f2069c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": false,
-      "percent": "19.0",
+      "percent": "19.1",
       "group": "Base Game"
     },
     "Togetherness": {
@@ -405,7 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/8870d7b56e49ccbeee98471dbb5b6039c88077f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2101960/5fc02f5b80fe8ce1a3a619e138d3bf3f8b64cfae.jpg",
       "hidden": true,
-      "percent": "97.8",
+      "percent": "97.9",
       "group": "Base Game"
     },
     "YouNeverGiveUp": {
