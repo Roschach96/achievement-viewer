@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "42.1",
+      "percent": "42.2",
       "group": "Base Game"
     },
     "TUTORIAL_KANSEI": {
@@ -108,7 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "58.6",
+      "percent": "58.7",
       "group": "Base Game"
     },
     "TUTORIAL_BASIC_CONTROLS": {
@@ -117,7 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/1af521c86ae98dff09cbe462e63da3a9834e2819.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/0b2489811a3a98c507f9a52e628e1ffa1774bfd6.jpg",
       "hidden": false,
-      "percent": "61.4",
+      "percent": "61.5",
       "group": "Base Game"
     },
     "SOAPBOX_CAR": {
@@ -189,7 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/3efaa8c12e0d3fe80c0fe5e571e523a5fbe6f330.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2113900/5818af4ef0d01e6ff6685b3b10d81afd589dd8d7.jpg",
       "hidden": true,
-      "percent": "76.9",
+      "percent": "77.0",
       "group": "Base Game"
     }
   },

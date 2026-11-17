@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
       "hidden": false,
-      "percent": "67.3",
+      "percent": "67.4",
       "group": "Base Game"
     },
     "ACH_CollectScrap100000": {
@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/311068a82bc32f713d207e4eb3f79a962a38c428.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/ab13fd5fbf467d4e5618c35f8dd315c827e8dd61.jpg",
       "hidden": false,
-      "percent": "24.3",
+      "percent": "24.4",
       "group": "Base Game"
     },
     "ACH_Die1": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/460c996b2731daf2bb4718188edfed6c01f2f44f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
-      "percent": "39.0",
+      "percent": "39.1",
       "group": "Base Game"
     },
     "ACH_CompleteStory2": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/1231abcfe315006e8d62525167726e36ed395659.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
-      "percent": "61.5",
+      "percent": "61.6",
       "group": "Base Game"
     },
     "ACH_CompleteZone2": {
@@ -207,7 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/19059b894148359e05072342af15c81d7a02650b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/978345de72614124311d149b1c429c72d7467711.jpg",
       "hidden": false,
-      "percent": "12.8",
+      "percent": "12.9",
       "group": "Base Game"
     },
     "ACH_MadeAFriend": {
@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/242626c3503f965417b96ad585a1c2b1354b0664.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
-      "percent": "83.9",
+      "percent": "84.0",
       "group": "Base Game"
     },
     "ACH_ReadDataLog1": {
@@ -270,7 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
-      "percent": "62.4",
+      "percent": "62.5",
       "group": "Base Game"
     },
     "ACH_SuperUpgrades3": {
@@ -279,7 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
-      "percent": "38.2",
+      "percent": "38.3",
       "group": "Base Game"
     },
     "ACH_SpendScrap": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/886d1c77f46d46b8367a4a702db28dc8801855c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
       "hidden": false,
-      "percent": "56.6",
+      "percent": "56.7",
       "group": "Base Game"
     },
     "ACH_CompleteMission_Undamaged": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/c13e73c20052dbd1b037b10194338b8fa678638c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/23907483911cb4ddcd36d7ff59aa700b0ea52e80.jpg",
       "hidden": false,
-      "percent": "19.0",
+      "percent": "19.1",
       "group": "Base Game"
     },
     "ACH_JazzHands": {
@@ -333,7 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9d627abb8545c0ab16a6debaba7156c4b550f9ea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/95d292d49c95b7e0cb08cc375e3898e038317ff8.jpg",
       "hidden": true,
-      "percent": "7.4",
+      "percent": "7.5",
       "group": "Base Game"
     },
     "ACH_PonderOrb": {
@@ -360,7 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
-      "percent": "40.4",
+      "percent": "40.5",
       "group": "Base Game"
     },
     "ACH_CompleteZone3": {
@@ -432,7 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
-      "percent": "45.1",
+      "percent": "45.2",
       "group": "Base Game"
     },
     "ACH_ActivateSynergy3": {
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
-      "percent": "42.1",
+      "percent": "42.2",
       "group": "Base Game"
     },
     "ACH_SynergiesActivated": {
@@ -468,7 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/7b2ea25809e94659365077b5443bbf33c3cd47d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
-      "percent": "24.3",
+      "percent": "24.4",
       "group": "Base Game"
     },
     "ACH_Sanctify2": {
@@ -513,7 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/91996fac12c7b15e4336d62bb6db7f0a45bacbb7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
-      "percent": "19.3",
+      "percent": "19.4",
       "group": "Base Game"
     },
     "ACH_CompleteZone4": {
