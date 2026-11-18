@@ -1,7 +1,7 @@
 {
   "appid": "1903340",
   "name": "Clair Obscur: Expedition 33",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1793903997",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1794930905",
   "achievements": {
     "LUMIERE": {
       "name": "Lumière",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/182b62114c63c8fb0f09c114fe13b22e0a6172ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
       "hidden": true,
-      "percent": "57.8",
+      "percent": "57.7",
       "group": "Base Game"
     },
     "OLD_LUMIERE": {
@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/643c3ddc9ecfeb546409561cc5af8f027cd64f78.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
       "hidden": true,
-      "percent": "53.0",
+      "percent": "52.9",
       "group": "Base Game"
     },
     "SECOND_AXON": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/7abf7d53cda264d4d9e3cf7292dc2c3e9ebc4997.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
-      "percent": "31.8",
+      "percent": "31.7",
       "group": "Base Game"
     },
     "WEAPON_FIRST_UPGRADE": {

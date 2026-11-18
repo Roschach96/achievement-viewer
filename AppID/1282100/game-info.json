@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/072f27f9f86758e11850011eadd20c8460f10c52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "63.9",
+      "percent": "63.8",
       "group": "Base Game"
     },
     "Meet_Meidra": {
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/c2e7eaba84a9f84edea252f08550119a39ba2eec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "41.0",
+      "percent": "40.9",
       "group": "Base Game"
     },
     "Defeat_Abberations_B": {
@@ -90,7 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f77fba51aa7f3a94d8eb048ef2e7b70b04a78bdf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "21.8",
+      "percent": "21.7",
       "group": "Base Game"
     },
     "Defeat_Cube": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/018bdffbe7a348a2b8721abd8dd07ca91d4132f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "42.4",
+      "percent": "42.3",
       "group": "Base Game"
     },
     "Discover_Blood_Moon_Room": {
@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fcb971d391918b19d951d9bdb755dde93b96d6d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "15.6",
+      "percent": "15.5",
       "group": "Base Game"
     },
     "Obtain_Archetype": {
@@ -252,7 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fdaa0ed7a26beb9f7272862caae723d460663f5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "53.0",
+      "percent": "52.9",
       "group": "Base Game"
     },
     "Obtain_Traits_A": {
@@ -459,7 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/da58d02bb1ce990c7e1e4eaed7468d9c7c9df055.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "21.3",
+      "percent": "21.2",
       "group": "Base Game"
     },
     "DLC1_Obtain_Scribe_Reward": {
@@ -576,7 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0c739537c6fab128fa81611aa8a5c85a9d5789b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "9.9",
+      "percent": "9.8",
       "group": "Base Game"
     },
     "DLC3_Obtain_Bastion": {
@@ -585,7 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0e609f729f9256bb8152a4a097c4b5a21ba53498.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "6.6",
+      "percent": "6.5",
       "group": "Base Game"
     }
   },
