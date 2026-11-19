@@ -1,7 +1,7 @@
 {
   "appid": "218620",
   "name": "PAYDAY 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1794908368",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1795005310",
   "achievements": {
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -1593,7 +1593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1328281ab4c0ca850ce029f552ee2a954e1da488.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/1ae2a8922855ccbbf41baaad384328097d9c182d.jpg",
       "hidden": false,
-      "percent": "8.3",
+      "percent": "8.2",
       "group": "Base Game"
     },
     "bigbank_3": {
@@ -1611,7 +1611,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9cb1d40e51e3f6648921fca4af259d7a41e89539.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5d1fa39f9d03ff18dbeae7e3856ba91e23a28b9d.jpg",
       "hidden": false,
-      "percent": "7.1",
+      "percent": "7.0",
       "group": "Base Game"
     },
     "bigbank_5": {
@@ -3123,7 +3123,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/9dca254b452c8bc477c5bfacb10e17845449989e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/5bcd8ca6da56d0263eb9d5b3bb353ae7182e8841.jpg",
       "hidden": false,
-      "percent": "78.9",
+      "percent": "79.0",
       "group": "Base Game"
     },
     "brooklyn_2": {

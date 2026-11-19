@@ -144,7 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ce65ca2f3f267aaf51defac790f67bd12e3e0e10.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/987cb89717e01d4bb34539f12cc746e4079d3d08.jpg",
       "hidden": false,
-      "percent": "70.3",
+      "percent": "70.2",
       "group": "Base Game"
     },
     "COMPENDIUM_FULL": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/08949d5f9a12c604fb783b58443abcd33eb26787.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
-      "percent": "53.5",
+      "percent": "53.4",
       "group": "Base Game"
     },
     "CRYSTAL_UNLOCK_GOLD": {
@@ -198,7 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ad61faccb45d839ea815397a6e48fc08638ae323.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
-      "percent": "49.8",
+      "percent": "49.7",
       "group": "Base Game"
     },
     "DAMAGE_DEALT_SILVER": {
@@ -270,7 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/b9266041c15499a317828d64483000f118b96f24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/42fba3caebfc20aca1e7269f5bf60289ff24a7f5.jpg",
       "hidden": false,
-      "percent": "59.3",
+      "percent": "59.2",
       "group": "Base Game"
     },
     "FIELDS_PORTAL": {
@@ -450,7 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/c3fa3d11ddaa0f9f8cace713a48d0d9a79ae7c4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
-      "percent": "77.1",
+      "percent": "77.0",
       "group": "Base Game"
     },
     "LOG_UNLOCK_GOLD": {
@@ -693,7 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/867edcd1dcae3665ba8600d6a2b744eac13cf90d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e388e8d9d8b5aa0eafb917534cf4d2199993c7fb.jpg",
       "hidden": true,
-      "percent": "11.7",
+      "percent": "11.6",
       "group": "Base Game"
     },
     "SUPERBOT_FINISH_GAME": {
@@ -738,7 +738,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/5eaa52f6415f80b3135614ae12cb4f8703ab236c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/edf6176ffa348a9c234d8210c8b991f712781be6.jpg",
       "hidden": false,
-      "percent": "13.6",
+      "percent": "13.5",
       "group": "Base Game"
     },
     "ENDLESS_DEATH": {
@@ -774,7 +774,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/fe6c3b1122a257a8e768bd24efef76b9fc15ac40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/409950a971c212595f876f02f54bf8431c5cc0fd.jpg",
       "hidden": false,
-      "percent": "5.2",
+      "percent": "5.1",
       "group": "Base Game"
     }
   },

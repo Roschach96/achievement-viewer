@@ -630,7 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7e9ee62e7a72700fbad7a9b1219989104767114f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ccb2d441db3aad0269459d012e7996d9814b03aa.jpg",
       "hidden": false,
-      "percent": "15.5",
+      "percent": "15.6",
       "group": "Pyro"
     },
     "TF_PYRO_KILL_HEAVIES": {
@@ -1737,7 +1737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6be43b741b91fa056536590bb822c9385e871bf7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4286a24b0079a1fb8e7d5eb98beafbf279e46056.jpg",
       "hidden": false,
-      "percent": "10.6",
+      "percent": "10.7",
       "group": "Sniper"
     },
     "TF_SNIPER_JARATE_GROUP": {
@@ -3501,7 +3501,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bd88de7768e4efcb092ac3ddee27eba97379ac6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ac0cd64941891bd66ebb97ff8bfd84f6a3ab6fe3.jpg",
       "hidden": false,
-      "percent": "7.8",
+      "percent": "7.9",
       "group": "Foundry"
     },
     "TF_MAPS_FOUNDRY_PUSH_BACK_AND_WIN": {
