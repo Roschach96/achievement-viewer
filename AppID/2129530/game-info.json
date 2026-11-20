@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/33af7630047c286e147fe4f37a8547dfbc2ea5cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/c50f62dd0b477639418aa18aaa84d61ac121480e.jpg",
       "hidden": true,
-      "percent": "9.1",
+      "percent": "9.2",
       "group": "Base Game"
     },
     "BoatTravel": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/732bbf5f0140c87d2456987b2d0b820f4453244e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/bf928baa4470807f00367b05419cb07b68706fc4.jpg",
       "hidden": false,
-      "percent": "32.9",
+      "percent": "33.0",
       "group": "The Prisoner"
     },
     "DLC1MercyKill": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/1d386fed38ed7584070f8689514dfe4fa8268f27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/394fd476d582ae8e0c3872a046ddd53044c38907.jpg",
       "hidden": true,
-      "percent": "22.6",
+      "percent": "22.7",
       "group": "The Prisoner"
     },
     "DLC1Fire": {
@@ -315,7 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/57d2a826ab4964aa3c7f6b63dab7e0d6cdc91b8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2129530/cf636e24c59a17e092950e0b218a309d19c3d431.jpg",
       "hidden": false,
-      "percent": "16.4",
+      "percent": "16.5",
       "group": "The Prisoner"
     },
     "DLC1CraterView": {

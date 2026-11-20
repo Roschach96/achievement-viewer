@@ -630,7 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7e9ee62e7a72700fbad7a9b1219989104767114f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ccb2d441db3aad0269459d012e7996d9814b03aa.jpg",
       "hidden": false,
-      "percent": "15.6",
+      "percent": "15.5",
       "group": "Pyro"
     },
     "TF_PYRO_KILL_HEAVIES": {
@@ -864,7 +864,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/2c701f151731dcd0e8050be6c6fd7f55ee1dc474.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1a1602da1aaf5f5aed8d78da87f85ce355b44b17.jpg",
       "hidden": false,
-      "percent": "13.0",
+      "percent": "12.9",
       "group": "Heavy"
     },
     "TF_HEAVY_ACHIEVE_PROGRESS3": {
@@ -1251,7 +1251,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0fb5ee9aae73df19aeae7c54e9d26c5ac9fc8c2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0a08f0d9bb4fb707992f04e9e2352bc2ded5c2e7.jpg",
       "hidden": false,
-      "percent": "12.6",
+      "percent": "12.5",
       "group": "Scout"
     },
     "TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL": {
@@ -1557,7 +1557,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7a961791c66160bc0ede7f2854ad25fa9f37ba74.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg",
       "hidden": false,
-      "percent": "23.7",
+      "percent": "23.6",
       "group": "Sniper"
     },
     "TF_SNIPER_CAPTURE_FLAG": {
@@ -1737,7 +1737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6be43b741b91fa056536590bb822c9385e871bf7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/4286a24b0079a1fb8e7d5eb98beafbf279e46056.jpg",
       "hidden": false,
-      "percent": "10.7",
+      "percent": "10.6",
       "group": "Sniper"
     },
     "TF_SNIPER_JARATE_GROUP": {
@@ -1953,7 +1953,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3083440f79ed4115cc13f3289d82eee63f3be645.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/034e9b3305abccb1b69af2e0b577f32931171bec.jpg",
       "hidden": false,
-      "percent": "23.1",
+      "percent": "23.0",
       "group": "Spy"
     },
     "TF_SPY_KILL_SPY_WITH_KNIFE": {
@@ -2124,7 +2124,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/dc22b00da2d4e9e6a0f151d47d4bf96abca444b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/17a27fe45fd37d890ed32b8d600393a43446870e.jpg",
       "hidden": false,
-      "percent": "7.3",
+      "percent": "7.2",
       "group": "Spy"
     },
     "TF_SPY_FEIGN_DEATH_KILL": {
@@ -3501,7 +3501,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/bd88de7768e4efcb092ac3ddee27eba97379ac6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/ac0cd64941891bd66ebb97ff8bfd84f6a3ab6fe3.jpg",
       "hidden": false,
-      "percent": "7.9",
+      "percent": "7.8",
       "group": "Foundry"
     },
     "TF_MAPS_FOUNDRY_PUSH_BACK_AND_WIN": {
@@ -3609,7 +3609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3e8f32c08fcad43f7f85eca39ddde522c9c40cf1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/6c028b10fad1d8d5bb584598f87cef10b2cdf4c0.jpg",
       "hidden": false,
-      "percent": "9.5",
+      "percent": "9.4",
       "group": "Doomsday"
     },
     "TF_MAPS_DOOMSDAY_KILL_CARRIERS": {
@@ -3672,7 +3672,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a1ba90d58b81b12ce97f83468a88f9d5ac2c095a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/3318507a5f1f583d0840371a93ae205d5e4b50f1.jpg",
       "hidden": false,
-      "percent": "5.8",
+      "percent": "5.7",
       "group": "Base Game"
     },
     "TF_MULTIPLE_BFF": {
@@ -4068,7 +4068,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/36f10cdc752bbe8717f4c7853f0be38ed7b9b9b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7b62dd9e3e26dcb2152f4b7af8b1b330ad333fa8.jpg",
       "hidden": false,
-      "percent": "5.8",
+      "percent": "5.7",
       "group": "Halloween"
     },
     "TF_HALLOWEEN_HELLTOWER_KILL_GRIND": {
