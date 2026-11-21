@@ -1,5 +1,5 @@
 {
-  "last_updated": 1795302321,
+  "last_updated": 1795302651,
   "total_games": 124,
   "games": [
     {
@@ -109649,7 +109649,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/b7a5a2c11b735cf61aa6e14c4d6a3fc4e8fb09c6.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/31c1aa50e596b7b5cc06a120a73376c3c2a39a85.jpg",
             "hidden": true,
-            "percent": "40.9",
+            "percent": "41.0",
             "group": "Base Game"
           },
           "ACH_013": {
@@ -109802,7 +109802,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/f70699d8136c2d3c9e24f9f413b3370124d16a06.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/4be99bce9631d7a9115ac2af91dd91a51b7fdf99.jpg",
             "hidden": true,
-            "percent": "41.0",
+            "percent": "41.1",
             "group": "Base Game"
           },
           "ACH_030": {
@@ -109901,7 +109901,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/bf9e9a8de37346b14bf8c4449aa2bdb884cf59e2.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/bf642f6c1f983a8c841e3c81c7643860331e4fe2.jpg",
             "hidden": false,
-            "percent": "40.7",
+            "percent": "40.8",
             "group": "Base Game"
           },
           "ACH_041": {
@@ -110018,7 +110018,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/800bd0eec7681f736440ab4b63c7bd00479a9232.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/4115450/fc56015f761f55d603d645fb35bba7d223be194f.jpg",
             "hidden": false,
-            "percent": "23.6",
+            "percent": "23.7",
             "group": "Base Game"
           },
           "ACH_054": {
@@ -110141,7 +110141,7 @@
         },
         "platform": null,
         "blacklist": [],
-        "uses_db": true
+        "uses_db": false
       },
       "achievements": {
         "ACH_001": {
@@ -110149,12 +110149,12 @@
           "earned_time": 1794175885
         },
         "ACH_002": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795268159
         },
         "ACH_003": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795299283
         },
         "ACH_004": {
           "earned": false,
@@ -110197,16 +110197,16 @@
           "earned_time": 0
         },
         "ACH_014": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795266075
         },
         "ACH_015": {
           "earned": false,
           "earned_time": 0
         },
         "ACH_016": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795298756
         },
         "ACH_017": {
           "earned": false,
@@ -110347,16 +110347,16 @@
           "earned_time": 0
         },
         "ACH_049": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795263774
         },
         "ACH_050": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795263774
         },
         "ACH_051": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1795263570
         },
         "ACH_052": {
           "earned": false,
