@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/2b0ed9d5bc1d0806dd2a0ed38d62b7e4bb897159.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/4e071574e6bcea7868541301f014038b2e32eddb.jpg",
       "hidden": false,
-      "percent": "50.6",
+      "percent": "50.7",
       "group": "Base Game"
     },
     "BROBOT_JOIN": {
@@ -261,7 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/bfff32232783c1c1cd5c18e0762b071229cda723.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/92df480cd334f33d8e716ee2718164efc04a6e2a.jpg",
       "hidden": false,
-      "percent": "26.8",
+      "percent": "26.9",
       "group": "Base Game"
     },
     "ENGINEER_UNLOCK": {
@@ -459,7 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/79715e6ccffb84225b829315a7f4caaa3385ef82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/cc736c32c78ce59f4ec4140c02d4fa7e92734a6a.jpg",
       "hidden": false,
-      "percent": "12.4",
+      "percent": "12.5",
       "group": "Base Game"
     },
     "LOG_UNLOCK_SILVER": {
@@ -549,7 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/6838acc287a0c395459c33caa41d587729eb9665.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/d1ff7d656507a9341cd1d66187ae6f8d94443855.jpg",
       "hidden": false,
-      "percent": "69.4",
+      "percent": "69.5",
       "group": "Base Game"
     },
     "POWERCELL_GATHER_GOLD": {
@@ -558,7 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/84f250e04e761d2902ce647a34d7c579d6a42ad8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e89777b6b5c4430935115d6776b3bdb327a04534.jpg",
       "hidden": false,
-      "percent": "17.9",
+      "percent": "18.0",
       "group": "Base Game"
     },
     "POWERCELL_GATHER_SILVER": {
@@ -630,7 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/a466974660d2061927919649ea39561375ce0d0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/f4331e1a004eec3595e5df89395148d3e86fc823.jpg",
       "hidden": false,
-      "percent": "68.6",
+      "percent": "68.7",
       "group": "Base Game"
     },
     "SLIM_POWERCELL": {
