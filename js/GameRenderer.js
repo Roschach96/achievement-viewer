@@ -618,7 +618,7 @@ function renderAchievement(ach, isUnlocked) {
     return `
         <div class="achievement ${isUnlocked ? 'unlocked' : 'locked'}">
             ${ach.icon || ach.icongray ? 
-                `<img src="${isUnlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+                `<img src="${isUnlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="achIconFallback(this)">` : 
                 `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
             <div class="achievement-info">
                 <div class="achievement-name">${ach.name}</div>

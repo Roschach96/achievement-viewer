@@ -283,7 +283,7 @@ function renderComparisonAchievement(ach) {
     return `
         <div class="comparison-achievement ${statusClass}" data-status="${ach.status}">
             ${iconSrc ? 
-                `<img src="${iconSrc}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+                `<img src="${iconSrc}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="achIconFallback(this)">` : 
                 `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
             
             <div class="achievement-info">

@@ -121,3 +121,29 @@ export function cleanOldCaches() {
         console.log(`✓ Cleaned ${cleaned} old cache entries from other users`);
     }
 }
+// ==========================================
+// ACHIEVEMENT ICON CDN FALLBACK
+// Steam serves older icons from cdn.*/steamcommunity/public/images/apps/
+// and newer ones from shared.*/community_assets/images/apps/.
+// On <img> error, try the next CDN variant until one works.
+// ==========================================
+const ICON_CDNS = ['', '.fastly', '.cloudflare', '.akamai'];
+
+function buildIconCandidates(src) {
+    const m = src.match(/\/(?:steamcommunity\/public|community_assets)\/images\/apps\/(\d+)\/([^/?#]+)/);
+    if (!m) return [];
+    const [, appid, file] = m;
+    const urls = [];
+    for (const cdn of ICON_CDNS) {
+        urls.push(`https://cdn${cdn}.steamstatic.com/steamcommunity/public/images/apps/${appid}/${file}`);
+        urls.push(`https://shared${cdn}.steamstatic.com/community_assets/images/apps/${appid}/${file}`);
+    }
+    return urls.filter(u => u !== src);
+}
+
+window.achIconFallback = function (img) {
+    if (!img._iconCandidates) img._iconCandidates = buildIconCandidates(img.src);
+    const next = img._iconCandidates.shift();
+    if (next) img.src = next;
+    else { img.onerror = null; img.style.display = 'none'; }
+};
