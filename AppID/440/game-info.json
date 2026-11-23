@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_multiplekills.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_multiplekills_bw.jpg",
       "hidden": false,
-      "percent": "15.1",
+      "percent": "15.0",
       "group": "Base Game"
     },
     "TF_GET_HEADSHOTS": {
@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg",
       "hidden": false,
-      "percent": "8.7",
+      "percent": "8.6",
       "group": "Medic"
     },
     "TF_MEDIC_ASSIST_HEAVY_LONG": {
@@ -342,7 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_extinguish_teammates.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_extinguish_teammates_bw.jpg",
       "hidden": false,
-      "percent": "10.3",
+      "percent": "10.2",
       "group": "Medic"
     },
     "TF_MEDIC_ASSIST_VS_NEMESES": {
@@ -882,7 +882,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0657e8cd2acac9f8001bf6f721f7f9b23cc7dc1b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg",
       "hidden": false,
-      "percent": "39.9",
+      "percent": "39.8",
       "group": "Heavy"
     },
     "TF_HEAVY_DEFEND_MEDIC": {
@@ -954,7 +954,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/26e419dd8168f60fc393437b89bb0402c14c2b24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d4ffeebcb4c9d1d89394ddb97e894af06d31ed9a.jpg",
       "hidden": false,
-      "percent": "7.8",
+      "percent": "7.7",
       "group": "Heavy"
     },
     "TF_HEAVY_RECEIVE_UBER_GRIND": {
@@ -1017,7 +1017,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/82b0ddea8634845f02ff4ea1b164079ea24de318.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8539b28b36ffc69476f0dd08daa086f17a4f9037.jpg",
       "hidden": false,
-      "percent": "11.5",
+      "percent": "11.4",
       "group": "Heavy"
     },
     "TF_HEAVY_SURVIVE_CROCKET": {
@@ -1521,7 +1521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/924764eea604817d3c14de9640ae6422c7cdfb7a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg",
       "hidden": false,
-      "percent": "49.5",
+      "percent": "49.4",
       "group": "Scout"
     },
     "TF_SCOUT_TAUNT_KILL": {
@@ -1593,7 +1593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/a30655059628d35fbb7fc65278333cfabe3c0865.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c1b7dd76132857fa069345bd181d754297db9b58.jpg",
       "hidden": false,
-      "percent": "18.0",
+      "percent": "17.9",
       "group": "Sniper"
     },
     "TF_SNIPER_DESTROY_SENTRYGUNS": {
@@ -1665,7 +1665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/26f27b2cb356f5a20739494f863de9613abffe5d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/945822b6a900b095d0bfd82c211f738d379e3357.jpg",
       "hidden": false,
-      "percent": "14.9",
+      "percent": "14.8",
       "group": "Sniper"
     },
     "TF_SNIPER_KILL_OBJECTIVES": {
@@ -1872,7 +1872,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/53bc2e7ccef60a43044cea2aa0505cdd0b658ac6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/8e5d2e7506435723314046bffc20f995a006aeb4.jpg",
       "hidden": false,
-      "percent": "15.0",
+      "percent": "14.9",
       "group": "Spy"
     },
     "TF_SPY_BACKSTAB_DISGUISE_TARGET": {
@@ -2025,7 +2025,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/c354574d861b44962d375e3109e05271cec3f97a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/699f4f245df64217cf52aac9665d94551f92779c.jpg",
       "hidden": false,
-      "percent": "14.8",
+      "percent": "14.7",
       "group": "Spy"
     },
     "TF_SPY_REVENGE_WITH_BACKSTAB": {
@@ -2214,7 +2214,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/7510bfeb19d8c00cf83c7ce600ff3e320eec13fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e0a08c4a19a93f352f7b9f83ca28bc853c3dceb5.jpg",
       "hidden": false,
-      "percent": "11.2",
+      "percent": "11.1",
       "group": "Halloween"
     },
     "TF_HALLOWEEN_DOMINATE_FOR_HAT": {
@@ -2763,7 +2763,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/e4ce6c93dc3cccb699ffe03d3daf42ecc9b5922e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/342a0dfd403972200ccb00ed6b0c4c35ca190c8f.jpg",
       "hidden": false,
-      "percent": "12.1",
+      "percent": "12.0",
       "group": "Demoman"
     },
     "TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER": {
@@ -2970,7 +2970,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/25b84bd60f8663fb3e83528c00122fa8ada8d404.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5c5fbf78c3b23c22542d7b841dbd7a9d3e84c719.jpg",
       "hidden": false,
-      "percent": "15.2",
+      "percent": "15.1",
       "group": "Engineer"
     },
     "TF_ENGINEER_ACHIEVE_PROGRESS3": {
@@ -2988,7 +2988,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/164d1cb1cd05ad2e87c2712b4cdb501686782e9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/5a5a7fb7f90b8b48ffd468e4d7de44865e384944.jpg",
       "hidden": false,
-      "percent": "10.7",
+      "percent": "10.6",
       "group": "Engineer"
     },
     "TF_ENGINEER_DISPENSER_EXTINGUISH": {
@@ -3015,7 +3015,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/d7f40e1d2ec010a6116f18e1468c65f17c55ea0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/080e95c178c209cd81b579a547ea14b32bd9b0cf.jpg",
       "hidden": false,
-      "percent": "8.5",
+      "percent": "8.4",
       "group": "Engineer"
     },
     "TF_ENGINEER_REVENGE_CRIT_LIFE": {
@@ -4392,7 +4392,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_parachute_distance.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_parachute_distance_bw.jpg",
       "hidden": false,
-      "percent": "4.8",
+      "percent": "4.7",
       "group": "Soldier"
     },
     "TF_SOLDIER_PARACHUTE_KILL_PARACHUTE": {
@@ -4410,7 +4410,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_demoman_parachute_kill_group.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_demoman_parachute_kill_group_bw.jpg",
       "hidden": false,
-      "percent": "5.2",
+      "percent": "5.1",
       "group": "Demoman"
     },
     "TF_DEMOMAN_PARACHUTE_DISTANCE": {
@@ -4473,7 +4473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_airstrike_max_clip.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_soldier_airstrike_max_clip_bw.jpg",
       "hidden": false,
-      "percent": "7.0",
+      "percent": "6.9",
       "group": "Soldier"
     },
     "TF_SOLDIER_AIRSTRIKE_GROUP_KILL": {

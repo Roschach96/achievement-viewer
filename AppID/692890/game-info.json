@@ -243,7 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/1c5e49aee954bfe3f0e3dbf56b83e620b1c0455e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/8fb896a1b3321841120125eaba215e89603e4c0d.jpg",
       "hidden": false,
-      "percent": "44.3",
+      "percent": "44.4",
       "group": "Base Game"
     },
     "ENGINEER_FINISH_GAME": {
@@ -522,7 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/1e1d0d831c4ba3f94e19f6ec35558e31d5db6317.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/5a5c317e51d3d0993361e70f7cfb4e6cb2d24b10.jpg",
       "hidden": false,
-      "percent": "21.1",
+      "percent": "21.2",
       "group": "Base Game"
     },
     "MOVESPEED_MAX": {
@@ -702,7 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/7ea9b8d52f4792f15d041a6a6a4dc6e8c380d85c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/af81a5eff2e1314451afda7c7296ab842a2e9edc.jpg",
       "hidden": true,
-      "percent": "7.5",
+      "percent": "7.6",
       "group": "Base Game"
     },
     "SUPERBOT_HEROLANDING": {
