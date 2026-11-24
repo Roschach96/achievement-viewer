@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/779ffb154f0988533575578c72e45904c73a8904.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/fda737acbefe3ed0dbe80fbe586ab757706d2409.jpg",
       "hidden": false,
-      "percent": "55.5",
+      "percent": "55.4",
       "group": "Base Game"
     },
     "ACH_Defeat_Necromancer": {
@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e96e7659d4457d8aa73ee7dccc096ee78cde5ef0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/1cdd5efde6eaeee89dcdff7f2c0b85c4dcc344f1.jpg",
       "hidden": false,
-      "percent": "55.7",
+      "percent": "55.6",
       "group": "Base Game"
     },
     "ACH_Defeat_RiftBoss": {
@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/10b0c0ee3b55755557f3f84b5f5185356cf70619.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0fb5036eac5005b9271fea6fab030dd6a572fb75.jpg",
       "hidden": false,
-      "percent": "48.4",
+      "percent": "48.3",
       "group": "Base Game"
     },
     "ACH_Defeat_LordAuberon": {
@@ -72,7 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/f5b1bc2a2a5cc963bb26fffca8b8e4bc8eb90f5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e9ec86f4ff0ad680aeb584ad0f3040e21a78089f.jpg",
       "hidden": true,
-      "percent": "42.4",
+      "percent": "42.3",
       "group": "Base Game"
     },
     "ACH_Defeat_TomeMistress": {
@@ -90,7 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2c7462d44cbf8e29b32323adaa5b2295e1c32e38.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/1532ad29514cc1dfac4599bef862e7ecde9b0eef.jpg",
       "hidden": true,
-      "percent": "19.7",
+      "percent": "19.6",
       "group": "Base Game"
     },
     "ACH_Defeat_EntropicWyrm": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0ab8ff15840aac8a9ba8be4fb875fcb103a9d6f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/3e6f86547637b00fe681e5ebc4dde084b999f70b.jpg",
       "hidden": true,
-      "percent": "32.6",
+      "percent": "32.5",
       "group": "Base Game"
     },
     "ACH_Defeat_KingPriest": {
@@ -306,7 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/a3a948381699d0a69b172fbf9d7532c185a8c4f9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/016f539f88a0891e0521c6d10356a60df7d429ae.jpg",
       "hidden": false,
-      "percent": "43.8",
+      "percent": "43.7",
       "group": "Base Game"
     },
     "ACH_Level100": {
@@ -333,7 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/91b0694f2e5a10789f35013f167484ac3bd2c3ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/edadfe530306f0548be05e0de8d8b0437b016d63.jpg",
       "hidden": false,
-      "percent": "64.6",
+      "percent": "64.5",
       "group": "Base Game"
     },
     "ACH_Craft50": {
@@ -585,7 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0369673f4518c1f320c4ebeda8de6035c6299a1a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/196e9cb1fdd8db7b19e2928a0de84a5218e9b312.jpg",
       "hidden": false,
-      "percent": "13.9",
+      "percent": "13.8",
       "group": "Base Game"
     },
     "ACH_Alchemist": {
@@ -621,7 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/d8e152b9c6e022af7077020008d2b50af59f7ecc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2b26f82c25c2e9218f91c975ca4187b9ba921d18.jpg",
       "hidden": false,
-      "percent": "10.1",
+      "percent": "10.0",
       "group": "Base Game"
     },
     "ACH_Wainwright": {
