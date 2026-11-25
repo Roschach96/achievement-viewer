@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/c1f0680a01cc0101bb02a4916dc221cf42d2f439.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/67c7e39f36556cb51715c77b67b31095ccacbf6c.jpg",
       "hidden": true,
-      "percent": "2.8",
+      "percent": "2.9",
       "group": "Base Game"
     },
     "TROP002": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/a732ddbcd9c033866ffe707e30c0b8f1c86a9910.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/2f32e9ec9ccc4d691c522f96b59dc5876a062caf.jpg",
       "hidden": false,
-      "percent": "16.2",
+      "percent": "16.3",
       "group": "Base Game"
     },
     "TROP007": {
@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/24211b0d418383c9abbddb017d9c68936e02dbbf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/4151cad9fcca7952f4cc7fde3db950f7c65d755e.jpg",
       "hidden": true,
-      "percent": "16.5",
+      "percent": "16.6",
       "group": "Base Game"
     },
     "TROP011": {
@@ -261,7 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/35c07277ad2b8d07c5ec5eb0eeaafd6b08f3fe7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/817396615cc64899a3bdcb1927bd0945e3724f2e.jpg",
       "hidden": false,
-      "percent": "10.4",
+      "percent": "10.5",
       "group": "Base Game"
     },
     "TROP029": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/ae6032fcf46806964d984183f52aa72bfcb6b0e0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1689620/25b4a8c31f13b5c73000663d7010f0ec3fda1466.jpg",
       "hidden": true,
-      "percent": "13.3",
+      "percent": "13.4",
       "group": "Base Game"
     }
   },

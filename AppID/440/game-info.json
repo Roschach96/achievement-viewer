@@ -1251,7 +1251,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0fb5ee9aae73df19aeae7c54e9d26c5ac9fc8c2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/0a08f0d9bb4fb707992f04e9e2352bc2ded5c2e7.jpg",
       "hidden": false,
-      "percent": "12.5",
+      "percent": "12.6",
       "group": "Scout"
     },
     "TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL": {
@@ -2124,7 +2124,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/dc22b00da2d4e9e6a0f151d47d4bf96abca444b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/17a27fe45fd37d890ed32b8d600393a43446870e.jpg",
       "hidden": false,
-      "percent": "7.2",
+      "percent": "7.3",
       "group": "Spy"
     },
     "TF_SPY_FEIGN_DEATH_KILL": {

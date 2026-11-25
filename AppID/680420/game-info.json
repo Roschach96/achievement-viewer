@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/52a3606bf49edef8ea2652790a7b9e49a6c7452d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/307a5118d0b138d090426d2de24831f9507f3283.jpg",
       "hidden": true,
-      "percent": "62.3",
+      "percent": "62.2",
       "group": "Base Game"
     },
     "ach_story_6": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/b334c22087c1564b7a585cadf712dc20d8ac4aab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/b7810664e94e5ccca8d955842e21cea3d5c26fb6.jpg",
       "hidden": true,
-      "percent": "55.4",
+      "percent": "55.3",
       "group": "Base Game"
     },
     "ach_story_8": {
@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2c691bbbf4321881c73f4aeb6a76650e41f95abe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/29b22f54f66ed16ac71eb1a8d01216df218eb1b3.jpg",
       "hidden": false,
-      "percent": "43.9",
+      "percent": "43.8",
       "group": "Base Game"
     },
     "ach_melee_milestone": {
@@ -243,7 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/0297978e2954239121c5522ebb52a42e9146472d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/08aabc15012ba9e7b6c3a5dfcf82e3d5999853dc.jpg",
       "hidden": false,
-      "percent": "51.0",
+      "percent": "50.9",
       "group": "Base Game"
     },
     "ach_class_tree_any": {
@@ -315,7 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/68afe0b2e9d72ee4ee50d1c52be5bc88772b8b4e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/55f959d60fcea2ac6a23d44333cdca61787f1fbb.jpg",
       "hidden": false,
-      "percent": "70.3",
+      "percent": "70.2",
       "group": "Base Game"
     },
     "ach_equipment_milestone": {
