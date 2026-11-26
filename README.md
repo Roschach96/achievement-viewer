@@ -18,13 +18,20 @@ Click the "Fork" button at the top right of this page.
 Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 
 ### 3. Upload your achievement files
-
+#### Manual upload
 1. Create a branch named 'user'. This branch will store all your achievement files.
 2. Create folder structure: `AppID/[Steam AppID]/`
 3. Example: `AppID/730/` for Counter-Strike 2
 4. Upload your supported achievement files
 5. Commit and push to the branch
 6. Your site will update automatically!
+
+#### Automatic upload
+You can check out **pozpo**'s [**AchievementSync**](https://github.com/pozpo/AchievementSync) project.
+
+I don't take responsibility about the project and I don't provide support for it.
+
+Please create the issue tickets about it on its GitHub page.
 
 #### Supported Formats (only one is needed per game)
 
