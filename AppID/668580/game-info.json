@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/78e905f4a79e0bf297dbab8fc5ad9b71ad326e06.jpg",
       "hidden": false,
-      "percent": "35.5",
+      "percent": "35.4",
       "group": "Base Game"
     },
     "killEziha": {
@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/52be52eb0a3afdba8c9d3a9d9f9f94b3e63ef032.jpg",
       "hidden": false,
-      "percent": "45.1",
+      "percent": "45.0",
       "group": "Base Game"
     },
     "killIvy": {
@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7ad02fc2e7d0214bd46ad881a4e6c6c85899a672.jpg",
       "hidden": false,
-      "percent": "40.5",
+      "percent": "40.4",
       "group": "Base Game"
     },
     "killNatasha": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/57e247a2c2b174361ffbb7b6d488f4fc9fd60450.jpg",
       "hidden": false,
-      "percent": "30.9",
+      "percent": "30.8",
       "group": "Base Game"
     },
     "killTwins": {
@@ -72,7 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/364f7dda5e07c9bc4a36e6c48f290baa6f9c5f88.jpg",
       "hidden": false,
-      "percent": "29.3",
+      "percent": "29.2",
       "group": "Base Game"
     },
     "killBelyashWithoutShoot": {
@@ -90,7 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/726306928d59a5cb2d9bc2801226037b4154f770.jpg",
       "hidden": false,
-      "percent": "92.1",
+      "percent": "92.0",
       "group": "Base Game"
     },
     "playthroughVavilov": {
@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/61d209294e6c83debaa37a9deb70bd8ac6e73dc1.jpg",
       "hidden": false,
-      "percent": "53.9",
+      "percent": "53.8",
       "group": "Base Game"
     },
     "playthroughLesnaya": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/ddd064d5a662630f0318af3ea63362f7ade60b95.jpg",
       "hidden": false,
-      "percent": "69.1",
+      "percent": "69.0",
       "group": "Base Game"
     },
     "craftFiveUniqueWeapons": {
@@ -198,7 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7a2eeccc9bfb203aa7b91bffd122cfa75981539b.jpg",
       "hidden": false,
-      "percent": "4.6",
+      "percent": "4.7",
       "group": "Base Game"
     },
     "collectAllJelly": {
@@ -207,7 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f5166fec3a0b6161cd78b32ed7c22b308c05dcb6.jpg",
       "hidden": false,
-      "percent": "68.8",
+      "percent": "68.7",
       "group": "Base Game"
     },
     "collectAllApples": {
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/cd46a1c29ffef5a51562851059c339c23c53eb18.jpg",
       "hidden": false,
-      "percent": "24.6",
+      "percent": "24.5",
       "group": "Base Game"
     },
     "craftUpgradeSkillCategory": {
@@ -342,7 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/48393b6ba2b93c7f373d691b008ee34d50a288a9.jpg",
       "hidden": false,
-      "percent": "43.0",
+      "percent": "42.9",
       "group": "Base Game"
     },
     "battleBullsEye": {
@@ -396,7 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/2265b5fb1621b42254d2c5f8c735602c712b5f37.jpg",
       "hidden": false,
-      "percent": "10.4",
+      "percent": "10.5",
       "group": "Atomic Heart - Annihilation Instinct"
     },
     "playthroughGirsBestFriend": {
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/439e1b61c5d5cd823950271178c1e0a187bb0bd0.jpg",
       "hidden": false,
-      "percent": "13.0",
+      "percent": "13.1",
       "group": "Atomic Heart - Annihilation Instinct"
     },
     "battleRedOctober": {
@@ -567,7 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/7694f1ca7620088d5547272ac6ed0cb0a0045a0b.jpg",
       "hidden": false,
-      "percent": "2.0",
+      "percent": "2.1",
       "group": "Atomic Heart - Enchantment Under The Sea DLC"
     },
     "DemonstrationOfViolence": {
@@ -639,7 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e8096c4de96a369b6dd481c9f50ec681c69b757.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/6e8096c4de96a369b6dd481c9f50ec681c69b757.jpg",
       "hidden": false,
-      "percent": "3.1",
+      "percent": "3.2",
       "group": "Atomic Heart - Blood on Crystal"
     },
     "EnotDead": {
@@ -702,7 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/f4d289fec1c218f0b62243b750d6895ca4d1a625.jpg",
       "hidden": false,
-      "percent": "6.5",
+      "percent": "6.6",
       "group": "Atomic Heart - Blood on Crystal"
     },
     "SaveSechinov": {
@@ -720,7 +720,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/4221a7fa400a3b769219c96c4e15168ec0c49173.jpg",
       "hidden": false,
-      "percent": "6.3",
+      "percent": "6.4",
       "group": "Atomic Heart - Blood on Crystal"
     },
     "DLC4End": {
@@ -729,7 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/668580/95d561eccef845c7673ab0a649f861835e37a81c.jpg",
       "hidden": false,
-      "percent": "6.3",
+      "percent": "6.4",
       "group": "Atomic Heart - Blood on Crystal"
     },
     "CrystalPlatinum": {
