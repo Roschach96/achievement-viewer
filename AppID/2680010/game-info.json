@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/80fde1420edf0d03ebfe3cd9ddd1114c9b49e142.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "61.9",
+      "percent": "61.8",
       "group": "Base Game"
     },
     "Boss_07": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/cdcb9cf049a02e57715ea21b93e67b6c90e7ba3e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "56.5",
+      "percent": "56.4",
       "group": "Base Game"
     },
     "Boss_08": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/a54e1e3ee79e9c6dcc0e780d570cbc4b66a62917.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "34.6",
+      "percent": "34.5",
       "group": "Base Game"
     },
     "Sub_04": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/11e00e214225fa0c2b6df912e74567b4a6dbe68d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "44.2",
+      "percent": "44.1",
       "group": "Base Game"
     },
     "Sub_05": {
@@ -414,7 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/b4b25a22310a8e7f225dcc229c64d170ddf1430a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "75.2",
+      "percent": "75.1",
       "group": "Base Game"
     },
     "Mission_19": {
@@ -486,7 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/b8f8f08de9b7aa8ec6e120445deb343f3eab1a10.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "20.4",
+      "percent": "20.3",
       "group": "Base Game"
     },
     "Ending_01": {

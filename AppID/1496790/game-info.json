@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/db98552ac629694dd5ef754e8192966bef36d2f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
-      "percent": "53.6",
+      "percent": "53.5",
       "group": "Base Game"
     },
     "MYSTERY_02": {
@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f1c2973d1b52dbaa514801901ee22673140cf933.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1467ca5b9f49f11938b0fc249645742e17073118.jpg",
       "hidden": true,
-      "percent": "39.1",
+      "percent": "39.0",
       "group": "Base Game"
     },
     "MYSTERY_03": {
@@ -108,7 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f938300b72cb2445c461d00f44958243de30b406.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1db248c76e042f4ea5d726bd0198371b70c64750.jpg",
       "hidden": true,
-      "percent": "32.9",
+      "percent": "32.8",
       "group": "Base Game"
     },
     "HARLEY_4": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/c0f353318124df2d75980196463eea3acd099c80.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e9a32f3be6b12116c1b2c51ea4dc6e91e4285a91.jpg",
       "hidden": true,
-      "percent": "21.1",
+      "percent": "21.0",
       "group": "Base Game"
     },
     "ALL_HEROES_PLAYED": {
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/cd92047cd9d01efebf2c37c636f478a05f0d1f71.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/e075bcb901920c6bad1bc446173cac853ae23ca6.jpg",
       "hidden": true,
-      "percent": "84.7",
+      "percent": "84.6",
       "group": "Base Game"
     },
     "HERO_PROGRESSION_2": {
@@ -243,7 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/565ef823c478a76e822aa3bef955c70574257ca2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1327d590d23ee05adc8b4b0afdf709e815fb1f60.jpg",
       "hidden": false,
-      "percent": "7.7",
+      "percent": "7.6",
       "group": "Base Game"
     },
     "HERO_PROGRESSION_4": {
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/55ed7ade3990a9c8f09c8a0e5264fb5333981bcd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/3a45ff1ee0e9b796b41b41124ce351c8d093314f.jpg",
       "hidden": true,
-      "percent": "14.4",
+      "percent": "14.3",
       "group": "Base Game"
     },
     "DEFEAT_LOS_2": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/c24ad31847b06b0b11848e69af25390265fff49c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/13e6c3ab66255dc0febc98915425453073a72164.jpg",
       "hidden": false,
-      "percent": "24.6",
+      "percent": "24.5",
       "group": "Base Game"
     },
     "GOTHAM_MURALS": {
@@ -396,7 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/ce939e1d06e941f9a0eac33626e7f71a84475dd6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1a255dc03617ec4965653b63d508aea91a5848c4.jpg",
       "hidden": false,
-      "percent": "12.5",
+      "percent": "12.4",
       "group": "Base Game"
     },
     "CRAFTING_LEGENDARY_SET": {
@@ -423,7 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/f07e365cfc2276bee099ee772eb49ca57e9cd398.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/82c00862fe957b58573f55cfd7a5f9d30fe0f419.jpg",
       "hidden": true,
-      "percent": "21.1",
+      "percent": "21.0",
       "group": "Base Game"
     },
     "ALL_TRAINING_ROOMS": {

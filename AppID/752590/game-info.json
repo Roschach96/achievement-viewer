@@ -36,7 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/77c0c287286285666f43344ab715f46bb98e7302.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/4f75562b4435bca153b3e749323234c4b5057556.jpg",
       "hidden": true,
-      "percent": "65.9",
+      "percent": "66.0",
       "group": "Base Game"
     },
     "ACH_05": {
@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/50be71a7187d0f339e637a74312e0b2591162d29.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/f1761dc7d828ed666fee88c0c2e639a2f8544aa1.jpg",
       "hidden": true,
-      "percent": "59.6",
+      "percent": "59.7",
       "group": "Base Game"
     },
     "ACH_07": {
@@ -72,7 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/f9f54708be43605d9aeba590c6894b503ffabd65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/bec2ec62846267084b151d3c30470b31ad29b81e.jpg",
       "hidden": true,
-      "percent": "55.7",
+      "percent": "55.8",
       "group": "Base Game"
     },
     "ACH_09": {
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/0daebc6d44477846a6bb21f856318a0bd4e31041.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/136b24949208469460c7fccfc4444a8995bb4e65.jpg",
       "hidden": true,
-      "percent": "53.1",
+      "percent": "53.2",
       "group": "Base Game"
     },
     "ACH_10": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/fe774825c174066928e8cdc823547be250a19402.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/85acbf05bd3dd52d18d90f021e7ef87b7c032ce2.jpg",
       "hidden": false,
-      "percent": "5.8",
+      "percent": "5.9",
       "group": "Base Game"
     },
     "ACH_20": {

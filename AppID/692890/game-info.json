@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/d4d46a38e755ac36d8c13c04c620b775cd531660.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/c7778ea6bde292f50441c811b93ac7ee06404d61.jpg",
       "hidden": true,
-      "percent": "35.4",
+      "percent": "35.5",
       "group": "Base Game"
     },
     "BOSS_TAKEDOWN_BRONZE": {
@@ -189,7 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/587ca9c671485fdee6823bab1cb635cd799695bd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/3290ae972f4b21516e4b4ee4dca992ee59fadcb2.jpg",
       "hidden": false,
-      "percent": "82.7",
+      "percent": "82.8",
       "group": "Base Game"
     },
     "DAMAGE_DEALT_GOLD": {
@@ -279,7 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/95b07a1fc03b6a7264746a00087c0a9ff128719d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/e164384feae9ac1a26a5ef6a6ad7420b0045efb6.jpg",
       "hidden": false,
-      "percent": "45.3",
+      "percent": "45.4",
       "group": "Base Game"
     },
     "FINISH_GAME": {
@@ -639,7 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/ccef5933b70c037a4dff276560d000e3e87aead1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/201ce964fd7c6dec9444ae4205f62f9c2983ce31.jpg",
       "hidden": false,
-      "percent": "70.4",
+      "percent": "70.5",
       "group": "Base Game"
     },
     "UNTOUCHED_BOSS": {
@@ -729,7 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/1fd7597f2e49ba9b8b7da51136481c79ed17e3bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/692890/cad9810acd232c5153f6ddc97b75c7865d977bf3.jpg",
       "hidden": true,
-      "percent": "12.0",
+      "percent": "12.1",
       "group": "Base Game"
     },
     "ENDLESS_UNLOCK": {
